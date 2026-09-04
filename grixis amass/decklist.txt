@@ -1,0 +1,107 @@
+1 All Will Be One
+1 Ancient Tomb
+1 Angrath, Captain of Chaos
+1 Azog, Moria's Ruin
+1 Barad-dûr
+1 Bedevil
+1 Blackcleave Cliffs
+1 Blood Crypt
+1 Bloodstained Mire
+1 Bogslither's Embrace
+1 Bolg of the North
+1 Bolg, Erebor's Reckoning
+1 Bolg's Company
+1 Boltbender
+1 Bothersome Noisemaker
+1 Call of the Ring
+1 Caterwauling Boggart
+1 Chaos Warp
+1 Choked Estuary
+1 Command Tower
+1 Corsairs of Umbar
+1 Counterflux
+1 Crumbling Necropolis
+1 Cyclonic Rift
+1 Dark Fortress
+1 Darkslick Shores
+1 Dictate of Erebos
+1 Dismember
+1 Dolmen Gate
+1 Dreadbore
+1 Dreadhorde Invasion
+1 Fatal Push
+1 Fearsome Goblin Pair
+1 Feed the Swarm
+1 Foreboding Ruins
+1 Frostboil Snarl
+1 Goblin Plate Mail
+1 Gothmog, Morgul Lieutenant
+1 Great Goblin, Foul-Hearted
+1 Great Ugly-Looking Goblin
+1 Hero's Demise
+1 Hidden Lair
+2 Island
+1 Krenko, Tin Street Kingpin
+1 Lazotep Plating
+1 March from the Black Gate
+1 Mauhúr, Uruk-hai Captain
+1 Misty Mountains Raider
+1 Mordor Muster
+4 Mountain
+1 Nazgûl
+1 Nazgûl
+1 Nazgûl
+1 Nazgûl
+1 Nazgûl
+1 Nazgûl
+1 Nazgûl
+1 Nazgûl
+1 Nazgûl
+1 Orcish Bowmasters
+1 Orcish Siegemaster
+1 Otawara, Soaring City
+1 Phyrexian Tower
+1 Polluted Delta
+1 Prismatic Vista
+1 Propaganda
+1 Reanimate
+1 Rogue's Passage
+1 Saruman, the White Hand
+1 Scalding Tarn
+1 Scorched Geyser
+1 Scuzzback Scrounger
+1 Smoldering Marsh
+1 Soul Immolation
+1 Spiteful Banditry
+1 Stalactite Stalker
+1 Steam Vents
+1 Sunken Hollow
+5 Swamp
+1 Tainted Isle
+1 Tainted Peak
+1 Terminate
+1 The Black Gate
+1 The Great Goblin
+1 The Ooze
+1 The Ozolith
+1 Tidings of War
+1 Warg Rider
+1 Watery Grave
+1 Widespread Brutality
+1 Witch-king of Angmar
+
+SIDEBOARD:
+1 Blowfly Infestation
+1 Boggart Harbinger
+1 Champion of the Weird
+1 Corrosive Mentor
+1 Crumbling Ashes
+1 Fain, the Broker
+1 Fall of Cair Andros
+1 Goblin Matron
+1 Grub, Storied Matriarch
+1 Howlsquad Heavy
+1 Necroskitter
+1 Village Pillagers
+
+1 Sauron, the Dark Lord

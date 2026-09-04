@@ -1,25 +1,4 @@
 ===accordion
-===panel: Introduction
-Combos from: https://commanderspellbook.com/find-my-combos/ 
-
-The cards and combo selections were based on what I had on hand. This deck can be made even more degenerate to suit pilot preference. 
-
-**Notable Exceptions:**
-===accordion
-===panel: Combo A: 
-- [[Mikaeus the Unhallowed]] 
-- And a bunch of other cards
-
-Reason Excluded: 
-- He's in another deck and I only have one copy. 
-- Mana cost
-===endpanel
-===endaccordion
-
-===endpanel
-===endaccordion
-
-===accordion
 ===panel: Aetherflux Reservoir
 
 ===accordion
@@ -56,6 +35,7 @@ Results:
 - Near-infinite storm count
 ===endpanel
 ===endaccordion
+
 ===accordion
 ===panel: Trazyn the Infinite + Aetherflux Reservoir
 [[symbol:b]]
@@ -82,6 +62,85 @@ Steps:
 Results:
 - Infinite damage
 - Infinite lifegain triggers
+===endpanel
+===endaccordion
+
+===accordion
+===panel: Metalwork Colossus + Warren Soultrader + Aetherflux Reservoir + Stridehangar Automaton
+[[symbol:b]]
+
+
+Cards Required:
+- [[Metalwork Colossus]]
+- [[Warren Soultrader]]
+- [[Aetherflux Reservoir]]
+- [[Stridehangar Automaton]]
+
+
+Prerequisites:
+- Metalwork Colossus in hand.
+- All other permanents on the battlefield.
+- The total mana value of noncreature artifacts you control is at least 10.
+
+
+Steps:
+1. Cast Metalwork Colossus by paying {0}.
+2. Aetherflux Reservoir triggers, causing you to gain 1 life for each spell you've cast this turn.
+3. Activate Warren Soultrader by paying 1 life and sacrificing Metalwork Colossus, creating a 1/1 Thopter artifact creature token and a Treasure token.
+4. Activate Metalwork Colossus by sacrificing the Treasure and Thopter, returning Metalwork Colossus from your graveyard to your hand.
+5. Repeat.
+
+
+Results:
+- Infinite creature LTB
+- Infinite creature ETB
+- Infinite creature sacrifice triggers
+- Infinite death triggers
+- Infinite damage
+- Infinite lifegain triggers
+- Infinite lifegain
+- Infinite storm count
+===endpanel
+===endaccordion
+
+===accordion
+===panel: Metalwork Colossus + Warren Soultrader + Pitiless Plunderer + Aetherflux Reservoir
+[[symbol:b]]
+
+
+Cards Required:
+- [[Metalwork Colossus]]
+- [[Warren Soultrader]]
+- [[Pitiless Plunderer]]
+- [[Aetherflux Reservoir]]
+
+
+Prerequisites:
+- Metalwork Colossus in hand.
+- All other permanents on the battlefield.
+- The total mana value of noncreature artifacts you control is at least 10.
+
+
+Steps:
+1. Cast Metalwork Colossus by paying {0}.
+2. Aetherflux Reservoir triggers, causing you to gain 1 life for each spell you've cast this turn.
+3. Activate Warren Soultrader by paying 1 life and sacrificing Metalwork Colossus.
+4. When Metalwork Colossus dies, Pitiless Plunderer triggers, creating a Treasure token.
+5. Resolve the Warren Soultrader ability, creating a Treasure token.
+6. Activate Metalwork Colossus by sacrificing the Treasures, returning Metalwork Colossus from your graveyard to your hand.
+7. Repeat.
+8. Once you have infinite life, you may activate Aetherflux Reservoir infinitely to deal infinite damage to any target(s).
+
+
+Results:
+- Infinite creature LTB
+- Infinite creature ETB
+- Infinite creature sacrifice triggers
+- Infinite death triggers
+- Infinite damage
+- Infinite lifegain triggers
+- Infinite lifegain
+- Infinite storm count
 ===endpanel
 ===endaccordion
 
@@ -129,6 +188,7 @@ Results:
 - Infinite Treasure tokens
 ===endpanel
 ===endaccordion
+
 ===accordion
 ===panel: Tortured Existence + Pitiless Plunderer + Imotekh the Stormlord + Altar of Dementia
 [[symbol:b]]
@@ -215,6 +275,7 @@ Results:
 - Infinite colorless mana
 ===endpanel
 ===endaccordion
+
 ===accordion
 ===panel: Tarrian's Soulcleaver + Animation Module + Phyrexian Altar
 [[symbol:c]]
@@ -247,6 +308,7 @@ Results:
 - Infinite creature sacrifice triggers
 ===endpanel
 ===endaccordion
+
 ===accordion
 ===panel: Tarrian's Soulcleaver + Animation Module + Krark-Clan Ironworks
 [[symbol:c]]
@@ -280,6 +342,7 @@ Results:
 - Infinite +1/+1 counters on creatures you control
 ===endpanel
 ===endaccordion
+
 ===accordion
 ===panel: Animation Module + Pitiless Plunderer + Arcbound Ravager
 [[symbol:b]]
@@ -360,6 +423,7 @@ Results:
 - Infinite +1/+1 counters on a creature
 ===endpanel
 ===endaccordion
+
 ===accordion
 ===panel: Animation Module + Pitiless Plunderer + Arcbound Ravager
 [[symbol:b]]
@@ -434,6 +498,7 @@ Results:
 - Infinite death triggers
 ===endpanel
 ===endaccordion
+
 ===accordion
 ===panel: Scrap Trawler + Myr Retriever + Ashnod's Altar + Foundry Inspector
 [[symbol:c]]
@@ -473,6 +538,7 @@ Results:
 - Infinite storm count
 ===endpanel
 ===endaccordion
+
 ===accordion
 ===panel: Scrap Trawler + Myr Retriever + Ashnod's Altar + Cloud Key
 [[symbol:c]]
@@ -512,6 +578,7 @@ Results:
 - Infinite storm count
 ===endpanel
 ===endaccordion
+
 ===accordion
 ===panel: Nim Deathmantle + Ashnod's Altar + Marionette Apprentice
 [[symbol:b]]
@@ -545,6 +612,7 @@ Results:
 - Infinite lifeloss
 ===endpanel
 ===endaccordion
+
 ===accordion
 ===panel: Imotekh the Stormlord + Scrap Trawler + Myr Retriever + Ashnod's Altar
 [[symbol:b]]
@@ -585,6 +653,7 @@ Results:
 - Infinite storm count
 ===endpanel
 ===endaccordion
+
 ===accordion
 ===panel: Imotekh the Stormlord + Junk Diver + Myr Retriever + Ashnod's Altar
 [[symbol:b]]
@@ -625,6 +694,7 @@ Results:
 - Infinite storm count
 ===endpanel
 ===endaccordion
+
 ===accordion
 ===panel: Glaring Fleshraker + Ashnod's Altar + Myr Retriever + Scrap Trawler
 [[symbol:c]]
@@ -666,6 +736,7 @@ Results:
 - Infinite creature tokens
 ===endpanel
 ===endaccordion
+
 ===accordion
 ===panel: Tarrian's Soulcleaver + Animation Module + Ashnod's Altar
 [[symbol:c]]
@@ -699,6 +770,7 @@ Results:
 - Infinite colorless mana
 ===endpanel
 ===endaccordion
+
 ===accordion
 ===panel: Imotekh the Stormlord + Nim Deathmantle + Ashnod's Altar
 [[symbol:b]]
@@ -733,6 +805,7 @@ Results:
 - Infinite creature sacrifice triggers
 ===endpanel
 ===endaccordion
+
 ===accordion
 ===panel: Scrap Trawler + Myr Retriever + Ashnod's Altar + Semblance Anvil
 [[symbol:c]]
@@ -773,46 +846,7 @@ Results:
 - Infinite storm count
 ===endpanel
 ===endaccordion
-===accordion
-===panel: Imotekh the Stormlord + Myr Retriever + Workshop Assistant + Ashnod's Altar
-[[symbol:b]]
 
-
-Cards Required:
-- [[Imotekh the Stormlord]]
-- [[Myr Retriever]]
-- [[Workshop Assistant]]
-- [[Ashnod's Altar]]
-
-
-Prerequisites:
-- Myr Retriever in your graveyard.
-- All other permanents on the battlefield.
-
-
-Steps:
-1. Activate Ashnod's Altar by sacrificing Workshop Assistant, adding [[symbol:c]][[symbol:c]].
-2. When Workshop Assistant dies, it triggers, returning Myr Retriever to your hand from your graveyard.
-3. Imotekh the Stormlord's first ability triggers, creating two 2/2 Necron Warrior artifact creature tokens.
-4. Activate Ashnod's Altar by sacrificing a Necron Warrior, adding [[symbol:c]][[symbol:c]].
-5. Cast Myr Retriever by paying {2}.
-6. Activate Ashnod's Altar by sacrificing Myr Retriever, adding [[symbol:c]][[symbol:c]].
-7. When Myr Retriever dies, it triggers, returning Workshop Assistant to your hand from your graveyard.
-8. Imotekh the Stormlord's first ability triggers, creating two 2/2 Necron Warrior artifact creature tokens.
-9. Cast Workshop Assistant by paying {3}.
-10. Repeat.
-
-
-Results:
-- Infinite colorless mana
-- Infinite creature tokens
-- Infinite death triggers
-- Infinite creature ETB
-- Infinite creature LTB
-- Infinite creature sacrifice triggers
-- Infinite storm count
-===endpanel
-===endaccordion
 ===accordion
 ===panel: Pitiless Plunderer + Ashnod's Altar + Stridehangar Automaton
 [[symbol:b]]
@@ -849,6 +883,7 @@ Results:
 - Infinite Treasure tokens
 ===endpanel
 ===endaccordion
+
 ===accordion
 ===panel: Glaring Fleshraker + Ashnod's Altar + Myr Retriever + Junk Diver
 [[symbol:c]]
@@ -890,6 +925,48 @@ Results:
 - Infinite creature tokens
 ===endpanel
 ===endaccordion
+
+===accordion
+===panel: Imotekh the Stormlord + Myr Retriever + Workshop Assistant + Ashnod's Altar
+[[symbol:b]]
+
+
+Cards Required:
+- [[Imotekh the Stormlord]]
+- [[Myr Retriever]]
+- [[Workshop Assistant]]
+- [[Ashnod's Altar]]
+
+
+Prerequisites:
+- Myr Retriever in your graveyard.
+- All other permanents on the battlefield.
+
+
+Steps:
+1. Activate Ashnod's Altar by sacrificing Workshop Assistant, adding [[symbol:c]][[symbol:c]].
+2. When Workshop Assistant dies, it triggers, returning Myr Retriever to your hand from your graveyard.
+3. Imotekh the Stormlord's first ability triggers, creating two 2/2 Necron Warrior artifact creature tokens.
+4. Activate Ashnod's Altar by sacrificing a Necron Warrior, adding [[symbol:c]][[symbol:c]].
+5. Cast Myr Retriever by paying {2}.
+6. Activate Ashnod's Altar by sacrificing Myr Retriever, adding [[symbol:c]][[symbol:c]].
+7. When Myr Retriever dies, it triggers, returning Workshop Assistant to your hand from your graveyard.
+8. Imotekh the Stormlord's first ability triggers, creating two 2/2 Necron Warrior artifact creature tokens.
+9. Cast Workshop Assistant by paying {3}.
+10. Repeat.
+
+
+Results:
+- Infinite colorless mana
+- Infinite creature tokens
+- Infinite death triggers
+- Infinite creature ETB
+- Infinite creature LTB
+- Infinite creature sacrifice triggers
+- Infinite storm count
+===endpanel
+===endaccordion
+
 ===accordion
 ===panel: Imotekh the Stormlord + Junk Diver + Workshop Assistant + Ashnod's Altar
 [[symbol:b]]
@@ -930,6 +1007,7 @@ Results:
 - Infinite storm count
 ===endpanel
 ===endaccordion
+
 ===accordion
 ===panel: Glaring Fleshraker + Ashnod's Altar + Myr Retriever + Workshop Assistant
 [[symbol:c]]
@@ -971,6 +1049,7 @@ Results:
 - Infinite creature tokens
 ===endpanel
 ===endaccordion
+
 ===accordion
 ===panel: Glaring Fleshraker + Ashnod's Altar + Junk Diver + Workshop Assistant
 [[symbol:c]]
@@ -1012,6 +1091,7 @@ Results:
 - Infinite creature tokens
 ===endpanel
 ===endaccordion
+
 ===accordion
 ===panel: Glaring Fleshraker + Ashnod's Altar + Scrap Trawler + Workshop Assistant
 [[symbol:c]]
@@ -1053,6 +1133,7 @@ Results:
 - Infinite creature tokens
 ===endpanel
 ===endaccordion
+
 ===accordion
 ===panel: Dross Scorpion + Retrofitter Foundry + Ashnod's Altar
 [[symbol:c]]
@@ -1128,6 +1209,7 @@ Results:
 - Infinite Treasure tokens
 ===endpanel
 ===endaccordion
+
 ===accordion
 ===panel: Tortured Existence + Pitiless Plunderer + Imotekh the Stormlord + Blasting Station
 [[symbol:b]]
@@ -1252,6 +1334,7 @@ Results:
 - Infinite death triggers
 ===endpanel
 ===endaccordion
+
 ===accordion
 ===panel: Imotekh the Stormlord + Clock of Omens + Tortured Existence
 [[symbol:b]]
@@ -1317,6 +1400,7 @@ Results:
 - Infinite draw triggers
 ===endpanel
 ===endaccordion
+
 ===accordion
 ===panel: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Cloud Key
 [[symbol:c]]
@@ -1356,6 +1440,7 @@ Results:
 - Infinite storm count
 ===endpanel
 ===endaccordion
+
 ===accordion
 ===panel: Scrap Trawler + Myr Retriever + Ashnod's Altar + Cloud Key
 [[symbol:c]]
@@ -1432,6 +1517,7 @@ Results:
 - Infinite death triggers
 ===endpanel
 ===endaccordion
+
 ===accordion
 ===panel: Retrofitter Foundry + Dross Scorpion + Stridehangar Automaton
 [[symbol:c]]
@@ -1463,6 +1549,7 @@ Results:
 - Infinite creature tokens
 ===endpanel
 ===endaccordion
+
 ===accordion
 ===panel: Dross Scorpion + Retrofitter Foundry + Ashnod's Altar
 [[symbol:c]]
@@ -1527,6 +1614,7 @@ Results:
 - Infinite draw triggers
 ===endpanel
 ===endaccordion
+
 ===accordion
 ===panel: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Foundry Inspector
 [[symbol:c]]
@@ -1566,6 +1654,7 @@ Results:
 - Infinite storm count
 ===endpanel
 ===endaccordion
+
 ===accordion
 ===panel: Scrap Trawler + Myr Retriever + Ashnod's Altar + Foundry Inspector
 [[symbol:c]]
@@ -1648,6 +1737,7 @@ Results:
 - Near-infinite creature sacrifice triggers
 ===endpanel
 ===endaccordion
+
 ===accordion
 ===panel: Glaring Fleshraker + Myr Retriever + Scrap Trawler + Krark-Clan Ironworks
 [[symbol:c]]
@@ -1689,6 +1779,7 @@ Results:
 - Infinite creature tokens
 ===endpanel
 ===endaccordion
+
 ===accordion
 ===panel: Glaring Fleshraker + Myr Retriever + Junk Diver + Krark-Clan Ironworks
 [[symbol:c]]
@@ -1730,6 +1821,7 @@ Results:
 - Infinite creature tokens
 ===endpanel
 ===endaccordion
+
 ===accordion
 ===panel: Glaring Fleshraker + Ashnod's Altar + Myr Retriever + Scrap Trawler
 [[symbol:c]]
@@ -1771,6 +1863,7 @@ Results:
 - Infinite creature tokens
 ===endpanel
 ===endaccordion
+
 ===accordion
 ===panel: Glaring Fleshraker + Ashnod's Altar + Myr Retriever + Junk Diver
 [[symbol:c]]
@@ -1812,6 +1905,7 @@ Results:
 - Infinite creature tokens
 ===endpanel
 ===endaccordion
+
 ===accordion
 ===panel: Glaring Fleshraker + Myr Retriever + Workshop Assistant + Krark-Clan Ironworks
 [[symbol:c]]
@@ -1853,6 +1947,7 @@ Results:
 - Infinite creature tokens
 ===endpanel
 ===endaccordion
+
 ===accordion
 ===panel: Glaring Fleshraker + Junk Diver + Workshop Assistant + Krark-Clan Ironworks
 [[symbol:c]]
@@ -1894,6 +1989,7 @@ Results:
 - Infinite creature tokens
 ===endpanel
 ===endaccordion
+
 ===accordion
 ===panel: Glaring Fleshraker + Ashnod's Altar + Myr Retriever + Workshop Assistant
 [[symbol:c]]
@@ -1935,6 +2031,7 @@ Results:
 - Infinite creature tokens
 ===endpanel
 ===endaccordion
+
 ===accordion
 ===panel: Glaring Fleshraker + Ashnod's Altar + Junk Diver + Workshop Assistant
 [[symbol:c]]
@@ -1976,6 +2073,7 @@ Results:
 - Infinite creature tokens
 ===endpanel
 ===endaccordion
+
 ===accordion
 ===panel: Glaring Fleshraker + Ashnod's Altar + Scrap Trawler + Workshop Assistant
 [[symbol:c]]
@@ -2110,6 +2208,7 @@ Results:
 - Infinite storm count
 ===endpanel
 ===endaccordion
+
 ===accordion
 ===panel: Imotekh the Stormlord + Scrap Trawler + Myr Retriever + Krark-Clan Ironworks
 [[symbol:b]]
@@ -2150,6 +2249,7 @@ Results:
 - Infinite storm count
 ===endpanel
 ===endaccordion
+
 ===accordion
 ===panel: Imotekh the Stormlord + Junk Diver + Myr Retriever + Ashnod's Altar
 [[symbol:b]]
@@ -2190,6 +2290,7 @@ Results:
 - Infinite storm count
 ===endpanel
 ===endaccordion
+
 ===accordion
 ===panel: Imotekh the Stormlord + Nim Deathmantle + Ashnod's Altar
 [[symbol:b]]
@@ -2224,6 +2325,7 @@ Results:
 - Infinite creature sacrifice triggers
 ===endpanel
 ===endaccordion
+
 ===accordion
 ===panel: Imotekh the Stormlord + Myr Retriever + Workshop Assistant + Ashnod's Altar
 [[symbol:b]]
@@ -2264,6 +2366,7 @@ Results:
 - Infinite storm count
 ===endpanel
 ===endaccordion
+
 ===accordion
 ===panel: Imotekh the Stormlord + Junk Diver + Myr Retriever + Krark-Clan Ironworks
 [[symbol:b]]
@@ -2304,6 +2407,7 @@ Results:
 - Infinite storm count
 ===endpanel
 ===endaccordion
+
 ===accordion
 ===panel: Imotekh the Stormlord + Junk Diver + Workshop Assistant + Ashnod's Altar
 [[symbol:b]]
@@ -2344,6 +2448,7 @@ Results:
 - Infinite storm count
 ===endpanel
 ===endaccordion
+
 ===accordion
 ===panel: Imotekh the Stormlord + Nim Deathmantle + Krark-Clan Ironworks
 [[symbol:b]]
@@ -2378,6 +2483,7 @@ Results:
 - Infinite creature sacrifice triggers
 ===endpanel
 ===endaccordion
+
 ===accordion
 ===panel: Imotekh the Stormlord + Myr Retriever + Workshop Assistant + Krark-Clan Ironworks
 [[symbol:b]]
@@ -2418,6 +2524,7 @@ Results:
 - Infinite storm count
 ===endpanel
 ===endaccordion
+
 ===accordion
 ===panel: Imotekh the Stormlord + Junk Diver + Workshop Assistant + Krark-Clan Ironworks
 [[symbol:b]]
@@ -2458,6 +2565,7 @@ Results:
 - Infinite storm count
 ===endpanel
 ===endaccordion
+
 ===accordion
 ===panel: Tortured Existence + Phyrexian Altar + Imotekh the Stormlord
 [[symbol:b]]
@@ -2496,6 +2604,7 @@ Results:
 - Infinite self-discard triggers
 ===endpanel
 ===endaccordion
+
 ===accordion
 ===panel: Imotekh the Stormlord + Clock of Omens + Tortured Existence
 [[symbol:b]]
@@ -2527,6 +2636,7 @@ Results:
 - Infinite tapped creature tokens
 ===endpanel
 ===endaccordion
+
 ===accordion
 ===panel: Imotekh the Stormlord + Metalwork Colossus + Skirge Familiar
 [[symbol:b]]
@@ -2560,6 +2670,7 @@ Results:
 - Infinite self-discard triggers
 ===endpanel
 ===endaccordion
+
 ===accordion
 ===panel: Tortured Existence + Pitiless Plunderer + Imotekh the Stormlord + Altar of Dementia
 [[symbol:b]]
@@ -2606,6 +2717,7 @@ Results:
 - Infinite Treasure tokens
 ===endpanel
 ===endaccordion
+
 ===accordion
 ===panel: Tortured Existence + Pitiless Plunderer + Imotekh the Stormlord + Blasting Station
 [[symbol:b]]
@@ -2706,6 +2818,7 @@ Results:
 - Infinite storm count
 ===endpanel
 ===endaccordion
+
 ===accordion
 ===panel: Glaring Fleshraker + Myr Retriever + Junk Diver + Krark-Clan Ironworks
 [[symbol:c]]
@@ -2747,6 +2860,7 @@ Results:
 - Infinite creature tokens
 ===endpanel
 ===endaccordion
+
 ===accordion
 ===panel: Imotekh the Stormlord + Junk Diver + Myr Retriever + Ashnod's Altar
 [[symbol:b]]
@@ -2787,6 +2901,7 @@ Results:
 - Infinite storm count
 ===endpanel
 ===endaccordion
+
 ===accordion
 ===panel: Glaring Fleshraker + Ashnod's Altar + Myr Retriever + Junk Diver
 [[symbol:c]]
@@ -2828,6 +2943,7 @@ Results:
 - Infinite creature tokens
 ===endpanel
 ===endaccordion
+
 ===accordion
 ===panel: Imotekh the Stormlord + Junk Diver + Myr Retriever + Krark-Clan Ironworks
 [[symbol:b]]
@@ -2868,6 +2984,7 @@ Results:
 - Infinite storm count
 ===endpanel
 ===endaccordion
+
 ===accordion
 ===panel: Imotekh the Stormlord + Junk Diver + Workshop Assistant + Ashnod's Altar
 [[symbol:b]]
@@ -2908,6 +3025,7 @@ Results:
 - Infinite storm count
 ===endpanel
 ===endaccordion
+
 ===accordion
 ===panel: Glaring Fleshraker + Junk Diver + Workshop Assistant + Krark-Clan Ironworks
 [[symbol:c]]
@@ -2949,6 +3067,7 @@ Results:
 - Infinite creature tokens
 ===endpanel
 ===endaccordion
+
 ===accordion
 ===panel: Imotekh the Stormlord + Junk Diver + Workshop Assistant + Krark-Clan Ironworks
 [[symbol:b]]
@@ -2989,6 +3108,7 @@ Results:
 - Infinite storm count
 ===endpanel
 ===endaccordion
+
 ===accordion
 ===panel: Glaring Fleshraker + Ashnod's Altar + Junk Diver + Workshop Assistant
 [[symbol:c]]
@@ -3076,6 +3196,7 @@ Results:
 - Infinite storm count
 ===endpanel
 ===endaccordion
+
 ===accordion
 ===panel: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Sol Ring + Junk Diver
 [[symbol:c]]
@@ -3123,6 +3244,7 @@ Results:
 - Infinite storm count
 ===endpanel
 ===endaccordion
+
 ===accordion
 ===panel: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Cloud Key
 [[symbol:c]]
@@ -3162,6 +3284,7 @@ Results:
 - Infinite storm count
 ===endpanel
 ===endaccordion
+
 ===accordion
 ===panel: Glaring Fleshraker + Myr Retriever + Scrap Trawler + Krark-Clan Ironworks
 [[symbol:c]]
@@ -3203,6 +3326,7 @@ Results:
 - Infinite creature tokens
 ===endpanel
 ===endaccordion
+
 ===accordion
 ===panel: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Semblance Anvil
 [[symbol:c]]
@@ -3243,6 +3367,7 @@ Results:
 - Infinite storm count
 ===endpanel
 ===endaccordion
+
 ===accordion
 ===panel: Glaring Fleshraker + Myr Retriever + Junk Diver + Krark-Clan Ironworks
 [[symbol:c]]
@@ -3284,6 +3409,7 @@ Results:
 - Infinite creature tokens
 ===endpanel
 ===endaccordion
+
 ===accordion
 ===panel: Imotekh the Stormlord + Scrap Trawler + Myr Retriever + Krark-Clan Ironworks
 [[symbol:b]]
@@ -3324,6 +3450,7 @@ Results:
 - Infinite storm count
 ===endpanel
 ===endaccordion
+
 ===accordion
 ===panel: Imotekh the Stormlord + Junk Diver + Myr Retriever + Krark-Clan Ironworks
 [[symbol:b]]
@@ -3364,6 +3491,7 @@ Results:
 - Infinite storm count
 ===endpanel
 ===endaccordion
+
 ===accordion
 ===panel: Imotekh the Stormlord + Nim Deathmantle + Krark-Clan Ironworks
 [[symbol:b]]
@@ -3398,6 +3526,7 @@ Results:
 - Infinite creature sacrifice triggers
 ===endpanel
 ===endaccordion
+
 ===accordion
 ===panel: Imotekh the Stormlord + Myr Retriever + Workshop Assistant + Krark-Clan Ironworks
 [[symbol:b]]
@@ -3438,6 +3567,7 @@ Results:
 - Infinite storm count
 ===endpanel
 ===endaccordion
+
 ===accordion
 ===panel: Glaring Fleshraker + Myr Retriever + Workshop Assistant + Krark-Clan Ironworks
 [[symbol:c]]
@@ -3479,6 +3609,7 @@ Results:
 - Infinite creature tokens
 ===endpanel
 ===endaccordion
+
 ===accordion
 ===panel: Glaring Fleshraker + Junk Diver + Workshop Assistant + Krark-Clan Ironworks
 [[symbol:c]]
@@ -3520,6 +3651,7 @@ Results:
 - Infinite creature tokens
 ===endpanel
 ===endaccordion
+
 ===accordion
 ===panel: Imotekh the Stormlord + Junk Diver + Workshop Assistant + Krark-Clan Ironworks
 [[symbol:b]]
@@ -3560,6 +3692,7 @@ Results:
 - Infinite storm count
 ===endpanel
 ===endaccordion
+
 ===accordion
 ===panel: Pitiless Plunderer + Stridehangar Automaton + Krark-Clan Ironworks
 [[symbol:b]]
@@ -3596,6 +3729,7 @@ Results:
 - Infinite Treasure tokens
 ===endpanel
 ===endaccordion
+
 ===accordion
 ===panel: Tarrian's Soulcleaver + Animation Module + Krark-Clan Ironworks
 [[symbol:c]]
@@ -3629,6 +3763,7 @@ Results:
 - Infinite +1/+1 counters on creatures you control
 ===endpanel
 ===endaccordion
+
 ===accordion
 ===panel: Dross Scorpion + Retrofitter Foundry + Krark-Clan Ironworks
 [[symbol:c]]
@@ -3740,6 +3875,85 @@ Results:
 ===endpanel
 ===endaccordion
 
+===accordion
+===panel: Metalwork Colossus + Warren Soultrader + Aetherflux Reservoir + Stridehangar Automaton
+[[symbol:b]]
+
+
+Cards Required:
+- [[Metalwork Colossus]]
+- [[Warren Soultrader]]
+- [[Aetherflux Reservoir]]
+- [[Stridehangar Automaton]]
+
+
+Prerequisites:
+- Metalwork Colossus in hand.
+- All other permanents on the battlefield.
+- The total mana value of noncreature artifacts you control is at least 10.
+
+
+Steps:
+1. Cast Metalwork Colossus by paying {0}.
+2. Aetherflux Reservoir triggers, causing you to gain 1 life for each spell you've cast this turn.
+3. Activate Warren Soultrader by paying 1 life and sacrificing Metalwork Colossus, creating a 1/1 Thopter artifact creature token and a Treasure token.
+4. Activate Metalwork Colossus by sacrificing the Treasure and Thopter, returning Metalwork Colossus from your graveyard to your hand.
+5. Repeat.
+
+
+Results:
+- Infinite creature LTB
+- Infinite creature ETB
+- Infinite creature sacrifice triggers
+- Infinite death triggers
+- Infinite damage
+- Infinite lifegain triggers
+- Infinite lifegain
+- Infinite storm count
+===endpanel
+===endaccordion
+
+===accordion
+===panel: Metalwork Colossus + Warren Soultrader + Pitiless Plunderer + Aetherflux Reservoir
+[[symbol:b]]
+
+
+Cards Required:
+- [[Metalwork Colossus]]
+- [[Warren Soultrader]]
+- [[Pitiless Plunderer]]
+- [[Aetherflux Reservoir]]
+
+
+Prerequisites:
+- Metalwork Colossus in hand.
+- All other permanents on the battlefield.
+- The total mana value of noncreature artifacts you control is at least 10.
+
+
+Steps:
+1. Cast Metalwork Colossus by paying {0}.
+2. Aetherflux Reservoir triggers, causing you to gain 1 life for each spell you've cast this turn.
+3. Activate Warren Soultrader by paying 1 life and sacrificing Metalwork Colossus.
+4. When Metalwork Colossus dies, Pitiless Plunderer triggers, creating a Treasure token.
+5. Resolve the Warren Soultrader ability, creating a Treasure token.
+6. Activate Metalwork Colossus by sacrificing the Treasures, returning Metalwork Colossus from your graveyard to your hand.
+7. Repeat.
+8. Once you have infinite life, you may activate Aetherflux Reservoir infinitely to deal infinite damage to any target(s).
+
+
+Results:
+- Infinite creature LTB
+- Infinite creature ETB
+- Infinite creature sacrifice triggers
+- Infinite death triggers
+- Infinite damage
+- Infinite lifegain triggers
+- Infinite lifegain
+- Infinite storm count
+===endpanel
+===endaccordion
+
 ===endpanel
 ===endaccordion
 
@@ -3785,6 +3999,7 @@ Results:
 - Infinite storm count
 ===endpanel
 ===endaccordion
+
 ===accordion
 ===panel: Scrap Trawler + Myr Retriever + Ashnod's Altar + Foundry Inspector
 [[symbol:c]]
@@ -3824,6 +4039,7 @@ Results:
 - Infinite storm count
 ===endpanel
 ===endaccordion
+
 ===accordion
 ===panel: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Sol Ring + Junk Diver
 [[symbol:c]]
@@ -3871,6 +4087,7 @@ Results:
 - Infinite storm count
 ===endpanel
 ===endaccordion
+
 ===accordion
 ===panel: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Cloud Key
 [[symbol:c]]
@@ -3910,6 +4127,7 @@ Results:
 - Infinite storm count
 ===endpanel
 ===endaccordion
+
 ===accordion
 ===panel: Scrap Trawler + Myr Retriever + Ashnod's Altar + Cloud Key
 [[symbol:c]]
@@ -3949,6 +4167,7 @@ Results:
 - Infinite storm count
 ===endpanel
 ===endaccordion
+
 ===accordion
 ===panel: Glaring Fleshraker + Myr Retriever + Scrap Trawler + Krark-Clan Ironworks
 [[symbol:c]]
@@ -3990,6 +4209,7 @@ Results:
 - Infinite creature tokens
 ===endpanel
 ===endaccordion
+
 ===accordion
 ===panel: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Semblance Anvil
 [[symbol:c]]
@@ -4030,6 +4250,7 @@ Results:
 - Infinite storm count
 ===endpanel
 ===endaccordion
+
 ===accordion
 ===panel: Imotekh the Stormlord + Scrap Trawler + Myr Retriever + Ashnod's Altar
 [[symbol:b]]
@@ -4070,6 +4291,7 @@ Results:
 - Infinite storm count
 ===endpanel
 ===endaccordion
+
 ===accordion
 ===panel: Glaring Fleshraker + Myr Retriever + Junk Diver + Krark-Clan Ironworks
 [[symbol:c]]
@@ -4111,6 +4333,7 @@ Results:
 - Infinite creature tokens
 ===endpanel
 ===endaccordion
+
 ===accordion
 ===panel: Imotekh the Stormlord + Scrap Trawler + Myr Retriever + Krark-Clan Ironworks
 [[symbol:b]]
@@ -4151,6 +4374,7 @@ Results:
 - Infinite storm count
 ===endpanel
 ===endaccordion
+
 ===accordion
 ===panel: Imotekh the Stormlord + Junk Diver + Myr Retriever + Ashnod's Altar
 [[symbol:b]]
@@ -4191,6 +4415,7 @@ Results:
 - Infinite storm count
 ===endpanel
 ===endaccordion
+
 ===accordion
 ===panel: Glaring Fleshraker + Ashnod's Altar + Myr Retriever + Scrap Trawler
 [[symbol:c]]
@@ -4232,6 +4457,7 @@ Results:
 - Infinite creature tokens
 ===endpanel
 ===endaccordion
+
 ===accordion
 ===panel: Scrap Trawler + Myr Retriever + Ashnod's Altar + Semblance Anvil
 [[symbol:c]]
@@ -4272,46 +4498,7 @@ Results:
 - Infinite storm count
 ===endpanel
 ===endaccordion
-===accordion
-===panel: Imotekh the Stormlord + Myr Retriever + Workshop Assistant + Ashnod's Altar
-[[symbol:b]]
 
-
-Cards Required:
-- [[Imotekh the Stormlord]]
-- [[Myr Retriever]]
-- [[Workshop Assistant]]
-- [[Ashnod's Altar]]
-
-
-Prerequisites:
-- Myr Retriever in your graveyard.
-- All other permanents on the battlefield.
-
-
-Steps:
-1. Activate Ashnod's Altar by sacrificing Workshop Assistant, adding [[symbol:c]][[symbol:c]].
-2. When Workshop Assistant dies, it triggers, returning Myr Retriever to your hand from your graveyard.
-3. Imotekh the Stormlord's first ability triggers, creating two 2/2 Necron Warrior artifact creature tokens.
-4. Activate Ashnod's Altar by sacrificing a Necron Warrior, adding [[symbol:c]][[symbol:c]].
-5. Cast Myr Retriever by paying {2}.
-6. Activate Ashnod's Altar by sacrificing Myr Retriever, adding [[symbol:c]][[symbol:c]].
-7. When Myr Retriever dies, it triggers, returning Workshop Assistant to your hand from your graveyard.
-8. Imotekh the Stormlord's first ability triggers, creating two 2/2 Necron Warrior artifact creature tokens.
-9. Cast Workshop Assistant by paying {3}.
-10. Repeat.
-
-
-Results:
-- Infinite colorless mana
-- Infinite creature tokens
-- Infinite death triggers
-- Infinite creature ETB
-- Infinite creature LTB
-- Infinite creature sacrifice triggers
-- Infinite storm count
-===endpanel
-===endaccordion
 ===accordion
 ===panel: Glaring Fleshraker + Ashnod's Altar + Myr Retriever + Junk Diver
 [[symbol:c]]
@@ -4353,6 +4540,48 @@ Results:
 - Infinite creature tokens
 ===endpanel
 ===endaccordion
+
+===accordion
+===panel: Imotekh the Stormlord + Myr Retriever + Workshop Assistant + Ashnod's Altar
+[[symbol:b]]
+
+
+Cards Required:
+- [[Imotekh the Stormlord]]
+- [[Myr Retriever]]
+- [[Workshop Assistant]]
+- [[Ashnod's Altar]]
+
+
+Prerequisites:
+- Myr Retriever in your graveyard.
+- All other permanents on the battlefield.
+
+
+Steps:
+1. Activate Ashnod's Altar by sacrificing Workshop Assistant, adding [[symbol:c]][[symbol:c]].
+2. When Workshop Assistant dies, it triggers, returning Myr Retriever to your hand from your graveyard.
+3. Imotekh the Stormlord's first ability triggers, creating two 2/2 Necron Warrior artifact creature tokens.
+4. Activate Ashnod's Altar by sacrificing a Necron Warrior, adding [[symbol:c]][[symbol:c]].
+5. Cast Myr Retriever by paying {2}.
+6. Activate Ashnod's Altar by sacrificing Myr Retriever, adding [[symbol:c]][[symbol:c]].
+7. When Myr Retriever dies, it triggers, returning Workshop Assistant to your hand from your graveyard.
+8. Imotekh the Stormlord's first ability triggers, creating two 2/2 Necron Warrior artifact creature tokens.
+9. Cast Workshop Assistant by paying {3}.
+10. Repeat.
+
+
+Results:
+- Infinite colorless mana
+- Infinite creature tokens
+- Infinite death triggers
+- Infinite creature ETB
+- Infinite creature LTB
+- Infinite creature sacrifice triggers
+- Infinite storm count
+===endpanel
+===endaccordion
+
 ===accordion
 ===panel: Imotekh the Stormlord + Junk Diver + Myr Retriever + Krark-Clan Ironworks
 [[symbol:b]]
@@ -4393,6 +4622,7 @@ Results:
 - Infinite storm count
 ===endpanel
 ===endaccordion
+
 ===accordion
 ===panel: Imotekh the Stormlord + Myr Retriever + Workshop Assistant + Krark-Clan Ironworks
 [[symbol:b]]
@@ -4433,6 +4663,7 @@ Results:
 - Infinite storm count
 ===endpanel
 ===endaccordion
+
 ===accordion
 ===panel: Glaring Fleshraker + Myr Retriever + Workshop Assistant + Krark-Clan Ironworks
 [[symbol:c]]
@@ -4474,6 +4705,7 @@ Results:
 - Infinite creature tokens
 ===endpanel
 ===endaccordion
+
 ===accordion
 ===panel: Glaring Fleshraker + Ashnod's Altar + Myr Retriever + Workshop Assistant
 [[symbol:c]]
@@ -4515,6 +4747,7 @@ Results:
 - Infinite creature tokens
 ===endpanel
 ===endaccordion
+
 ===accordion
 ===panel: Scrap Trawler + Myr Retriever + Phyrexian Altar + Semblance Anvil
 [[symbol:c]]
@@ -4589,6 +4822,7 @@ Results:
 - Infinite draw triggers
 ===endpanel
 ===endaccordion
+
 ===accordion
 ===panel: Sensei's Divining Top + Mystic Forge + Cloud Key
 [[symbol:c]]
@@ -4616,6 +4850,7 @@ Results:
 - Infinite draw triggers
 ===endpanel
 ===endaccordion
+
 ===accordion
 ===panel: Sensei's Divining Top + Glaring Fleshraker + Mystic Forge
 [[symbol:c]]
@@ -4652,6 +4887,7 @@ Results:
 - Near-infinite creature sacrifice triggers
 ===endpanel
 ===endaccordion
+
 ===accordion
 ===panel: Sensei's Divining Top + Mystic Forge + Semblance Anvil
 [[symbol:c]]
@@ -4679,6 +4915,7 @@ Results:
 - Near-infinite storm count
 ===endpanel
 ===endaccordion
+
 ===accordion
 ===panel: Sensei's Divining Top + Mystic Forge + Skirge Familiar
 [[symbol:b]]
@@ -4748,6 +4985,7 @@ Results:
 - Infinite death triggers
 ===endpanel
 ===endaccordion
+
 ===accordion
 ===panel: Nim Deathmantle + Ashnod's Altar + Marionette Apprentice
 [[symbol:b]]
@@ -4781,6 +5019,7 @@ Results:
 - Infinite lifeloss
 ===endpanel
 ===endaccordion
+
 ===accordion
 ===panel: Imotekh the Stormlord + Nim Deathmantle + Ashnod's Altar
 [[symbol:b]]
@@ -4815,6 +5054,7 @@ Results:
 - Infinite creature sacrifice triggers
 ===endpanel
 ===endaccordion
+
 ===accordion
 ===panel: Imotekh the Stormlord + Nim Deathmantle + Krark-Clan Ironworks
 [[symbol:b]]
@@ -4891,6 +5131,7 @@ Results:
 - Infinite Treasure tokens
 ===endpanel
 ===endaccordion
+
 ===accordion
 ===panel: Tarrian's Soulcleaver + Animation Module + Phyrexian Altar
 [[symbol:c]]
@@ -4923,6 +5164,7 @@ Results:
 - Infinite creature sacrifice triggers
 ===endpanel
 ===endaccordion
+
 ===accordion
 ===panel: Tortured Existence + Phyrexian Altar + Imotekh the Stormlord
 [[symbol:b]]
@@ -4961,6 +5203,7 @@ Results:
 - Infinite self-discard triggers
 ===endpanel
 ===endaccordion
+
 ===accordion
 ===panel: Scrap Trawler + Myr Retriever + Phyrexian Altar + Semblance Anvil
 [[symbol:c]]
@@ -5044,6 +5287,7 @@ Results:
 - Infinite Treasure tokens
 ===endpanel
 ===endaccordion
+
 ===accordion
 ===panel: Pitiless Plunderer + Phyrexian Altar + Stridehangar Automaton
 [[symbol:b]]
@@ -5079,6 +5323,7 @@ Results:
 - Infinite Treasure tokens
 ===endpanel
 ===endaccordion
+
 ===accordion
 ===panel: Pitiless Plunderer + Stridehangar Automaton + Krark-Clan Ironworks
 [[symbol:b]]
@@ -5115,6 +5360,7 @@ Results:
 - Infinite Treasure tokens
 ===endpanel
 ===endaccordion
+
 ===accordion
 ===panel: Pitiless Plunderer + Umbral Collar Zealot + Stridehangar Automaton
 [[symbol:b]]
@@ -5152,6 +5398,7 @@ Results:
 - Infinite surveil
 ===endpanel
 ===endaccordion
+
 ===accordion
 ===panel: Pitiless Plunderer + Altar of Dementia + Stridehangar Automaton
 [[symbol:b]]
@@ -5190,6 +5437,7 @@ Results:
 - Infinite Treasure tokens
 ===endpanel
 ===endaccordion
+
 ===accordion
 ===panel: Pitiless Plunderer + Stridehangar Automaton + Grinding Station
 [[symbol:b]]
@@ -5229,6 +5477,7 @@ Results:
 - Infinite Treasure tokens
 ===endpanel
 ===endaccordion
+
 ===accordion
 ===panel: Pitiless Plunderer + Stridehangar Automaton + Arcbound Ravager
 [[symbol:b]]
@@ -5266,6 +5515,7 @@ Results:
 - Infinite +1/+1 counters on a creature
 ===endpanel
 ===endaccordion
+
 ===accordion
 ===panel: Tortured Existence + Pitiless Plunderer + Imotekh the Stormlord + Altar of Dementia
 [[symbol:b]]
@@ -5312,6 +5562,7 @@ Results:
 - Infinite Treasure tokens
 ===endpanel
 ===endaccordion
+
 ===accordion
 ===panel: Pitiless Plunderer + Blasting Station + Stridehangar Automaton
 [[symbol:b]]
@@ -5350,6 +5601,7 @@ Results:
 - Infinite Treasure tokens
 ===endpanel
 ===endaccordion
+
 ===accordion
 ===panel: Animation Module + Pitiless Plunderer + Arcbound Ravager
 [[symbol:b]]
@@ -5386,6 +5638,7 @@ Results:
 - Infinite creature sacrifice triggers
 ===endpanel
 ===endaccordion
+
 ===accordion
 ===panel: Tortured Existence + Pitiless Plunderer + Imotekh the Stormlord + Blasting Station
 [[symbol:b]]
@@ -5433,6 +5686,47 @@ Results:
 ===endpanel
 ===endaccordion
 
+===accordion
+===panel: Metalwork Colossus + Warren Soultrader + Pitiless Plunderer + Aetherflux Reservoir
+[[symbol:b]]
+
+
+Cards Required:
+- [[Metalwork Colossus]]
+- [[Warren Soultrader]]
+- [[Pitiless Plunderer]]
+- [[Aetherflux Reservoir]]
+
+
+Prerequisites:
+- Metalwork Colossus in hand.
+- All other permanents on the battlefield.
+- The total mana value of noncreature artifacts you control is at least 10.
+
+
+Steps:
+1. Cast Metalwork Colossus by paying {0}.
+2. Aetherflux Reservoir triggers, causing you to gain 1 life for each spell you've cast this turn.
+3. Activate Warren Soultrader by paying 1 life and sacrificing Metalwork Colossus.
+4. When Metalwork Colossus dies, Pitiless Plunderer triggers, creating a Treasure token.
+5. Resolve the Warren Soultrader ability, creating a Treasure token.
+6. Activate Metalwork Colossus by sacrificing the Treasures, returning Metalwork Colossus from your graveyard to your hand.
+7. Repeat.
+8. Once you have infinite life, you may activate Aetherflux Reservoir infinitely to deal infinite damage to any target(s).
+
+
+Results:
+- Infinite creature LTB
+- Infinite creature ETB
+- Infinite creature sacrifice triggers
+- Infinite death triggers
+- Infinite damage
+- Infinite lifegain triggers
+- Infinite lifegain
+- Infinite storm count
+===endpanel
+===endaccordion
+
 ===endpanel
 ===endaccordion
 
@@ -5469,6 +5763,7 @@ Results:
 - Infinite death triggers
 ===endpanel
 ===endaccordion
+
 ===accordion
 ===panel: Dross Scorpion + Retrofitter Foundry + Krark-Clan Ironworks
 [[symbol:c]]
@@ -5499,6 +5794,7 @@ Results:
 - Infinite death triggers
 ===endpanel
 ===endaccordion
+
 ===accordion
 ===panel: Retrofitter Foundry + Dross Scorpion + Stridehangar Automaton
 [[symbol:c]]
@@ -5530,6 +5826,7 @@ Results:
 - Infinite creature tokens
 ===endpanel
 ===endaccordion
+
 ===accordion
 ===panel: Dross Scorpion + Retrofitter Foundry + Ashnod's Altar
 [[symbol:c]]
@@ -5606,6 +5903,7 @@ Results:
 - Infinite storm count
 ===endpanel
 ===endaccordion
+
 ===accordion
 ===panel: Scrap Trawler + Myr Retriever + Ashnod's Altar + Foundry Inspector
 [[symbol:c]]
@@ -5645,6 +5943,7 @@ Results:
 - Infinite storm count
 ===endpanel
 ===endaccordion
+
 ===accordion
 ===panel: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Sol Ring + Junk Diver
 [[symbol:c]]
@@ -5692,6 +5991,7 @@ Results:
 - Infinite storm count
 ===endpanel
 ===endaccordion
+
 ===accordion
 ===panel: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Cloud Key
 [[symbol:c]]
@@ -5731,6 +6031,7 @@ Results:
 - Infinite storm count
 ===endpanel
 ===endaccordion
+
 ===accordion
 ===panel: Scrap Trawler + Myr Retriever + Ashnod's Altar + Cloud Key
 [[symbol:c]]
@@ -5770,6 +6071,7 @@ Results:
 - Infinite storm count
 ===endpanel
 ===endaccordion
+
 ===accordion
 ===panel: Glaring Fleshraker + Myr Retriever + Scrap Trawler + Krark-Clan Ironworks
 [[symbol:c]]
@@ -5811,6 +6113,7 @@ Results:
 - Infinite creature tokens
 ===endpanel
 ===endaccordion
+
 ===accordion
 ===panel: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Semblance Anvil
 [[symbol:c]]
@@ -5851,6 +6154,7 @@ Results:
 - Infinite storm count
 ===endpanel
 ===endaccordion
+
 ===accordion
 ===panel: Imotekh the Stormlord + Scrap Trawler + Myr Retriever + Ashnod's Altar
 [[symbol:b]]
@@ -5891,6 +6195,7 @@ Results:
 - Infinite storm count
 ===endpanel
 ===endaccordion
+
 ===accordion
 ===panel: Imotekh the Stormlord + Scrap Trawler + Myr Retriever + Krark-Clan Ironworks
 [[symbol:b]]
@@ -5931,6 +6236,7 @@ Results:
 - Infinite storm count
 ===endpanel
 ===endaccordion
+
 ===accordion
 ===panel: Glaring Fleshraker + Ashnod's Altar + Myr Retriever + Scrap Trawler
 [[symbol:c]]
@@ -5972,6 +6278,7 @@ Results:
 - Infinite creature tokens
 ===endpanel
 ===endaccordion
+
 ===accordion
 ===panel: Scrap Trawler + Myr Retriever + Ashnod's Altar + Semblance Anvil
 [[symbol:c]]
@@ -6012,6 +6319,7 @@ Results:
 - Infinite storm count
 ===endpanel
 ===endaccordion
+
 ===accordion
 ===panel: Glaring Fleshraker + Ashnod's Altar + Scrap Trawler + Workshop Assistant
 [[symbol:c]]
@@ -6053,6 +6361,7 @@ Results:
 - Infinite creature tokens
 ===endpanel
 ===endaccordion
+
 ===accordion
 ===panel: Scrap Trawler + Myr Retriever + Phyrexian Altar + Semblance Anvil
 [[symbol:c]]
@@ -6127,6 +6436,7 @@ Results:
 - Near-infinite storm count
 ===endpanel
 ===endaccordion
+
 ===accordion
 ===panel: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Semblance Anvil
 [[symbol:c]]
@@ -6167,6 +6477,7 @@ Results:
 - Infinite storm count
 ===endpanel
 ===endaccordion
+
 ===accordion
 ===panel: Scrap Trawler + Myr Retriever + Ashnod's Altar + Semblance Anvil
 [[symbol:c]]
@@ -6207,6 +6518,7 @@ Results:
 - Infinite storm count
 ===endpanel
 ===endaccordion
+
 ===accordion
 ===panel: Scrap Trawler + Myr Retriever + Phyrexian Altar + Semblance Anvil
 [[symbol:c]]
@@ -6281,6 +6593,7 @@ Results:
 - Infinite draw triggers
 ===endpanel
 ===endaccordion
+
 ===accordion
 ===panel: Sensei's Divining Top + Aetherflux Reservoir + Bolas's Citadel
 [[symbol:b]]
@@ -6315,6 +6628,7 @@ Results:
 - Near-infinite storm count
 ===endpanel
 ===endaccordion
+
 ===accordion
 ===panel: Sensei's Divining Top + Mystic Forge + Cloud Key
 [[symbol:c]]
@@ -6342,6 +6656,7 @@ Results:
 - Infinite draw triggers
 ===endpanel
 ===endaccordion
+
 ===accordion
 ===panel: Sensei's Divining Top + Glaring Fleshraker + Mystic Forge
 [[symbol:c]]
@@ -6378,6 +6693,7 @@ Results:
 - Near-infinite creature sacrifice triggers
 ===endpanel
 ===endaccordion
+
 ===accordion
 ===panel: Sensei's Divining Top + Mystic Forge + Semblance Anvil
 [[symbol:c]]
@@ -6405,6 +6721,7 @@ Results:
 - Near-infinite storm count
 ===endpanel
 ===endaccordion
+
 ===accordion
 ===panel: Sensei's Divining Top + Mystic Forge + Skirge Familiar
 [[symbol:b]]
@@ -6476,6 +6793,7 @@ Results:
 - Infinite self-discard triggers
 ===endpanel
 ===endaccordion
+
 ===accordion
 ===panel: Sensei's Divining Top + Mystic Forge + Skirge Familiar
 [[symbol:b]]
@@ -6604,6 +6922,7 @@ Results:
 - Infinite Treasure tokens
 ===endpanel
 ===endaccordion
+
 ===accordion
 ===panel: Pitiless Plunderer + Phyrexian Altar + Stridehangar Automaton
 [[symbol:b]]
@@ -6639,6 +6958,47 @@ Results:
 - Infinite Treasure tokens
 ===endpanel
 ===endaccordion
+
+===accordion
+===panel: Warren Soultrader + Zulaport Cutthroat + Stridehangar Automaton
+[[symbol:b]]
+
+
+Cards Required:
+- [[Warren Soultrader]]
+- [[Zulaport Cutthroat]]
+- [[Stridehangar Automaton]]
+
+
+Prerequisites:
+- All permanents on the battlefield.
+- You control at least one additional creature
+- Your life total is at least 2.
+
+
+Steps:
+1. Activate Warren Soultrader by paying 1 life and sacrificing another creature.
+2. When the creature dies, Zulaport Cutthroat triggers, causing you to gain 1 life and each opponent to lose 1 life.
+3. Resolve the Warren Soultrader ability, creating a Treasure token and a 1/1 Thopter artifact creature token.
+4. Repeat.
+
+
+Results:
+- Infinite artifact ETB
+- Infinite artifact LTB
+- Infinite artifact sacrifice triggers
+- Infinite artifact tokens
+- Infinite creature LTB
+- Infinite creature ETB
+- Infinite colored mana
+- Infinite creature sacrifice triggers
+- Infinite death triggers
+- Infinite lifeloss
+- Infinite Treasure tokens
+- Infinite lifegain triggers
+===endpanel
+===endaccordion
+
 ===accordion
 ===panel: Pitiless Plunderer + Stridehangar Automaton + Krark-Clan Ironworks
 [[symbol:b]]
@@ -6675,6 +7035,7 @@ Results:
 - Infinite Treasure tokens
 ===endpanel
 ===endaccordion
+
 ===accordion
 ===panel: Pitiless Plunderer + Umbral Collar Zealot + Stridehangar Automaton
 [[symbol:b]]
@@ -6712,6 +7073,7 @@ Results:
 - Infinite surveil
 ===endpanel
 ===endaccordion
+
 ===accordion
 ===panel: Retrofitter Foundry + Clock of Omens + Stridehangar Automaton
 [[symbol:c]]
@@ -6742,6 +7104,7 @@ Results:
 - Infinite death triggers
 ===endpanel
 ===endaccordion
+
 ===accordion
 ===panel: Pitiless Plunderer + Altar of Dementia + Stridehangar Automaton
 [[symbol:b]]
@@ -6780,6 +7143,7 @@ Results:
 - Infinite Treasure tokens
 ===endpanel
 ===endaccordion
+
 ===accordion
 ===panel: Pitiless Plunderer + Stridehangar Automaton + Grinding Station
 [[symbol:b]]
@@ -6819,6 +7183,7 @@ Results:
 - Infinite Treasure tokens
 ===endpanel
 ===endaccordion
+
 ===accordion
 ===panel: Retrofitter Foundry + Dross Scorpion + Stridehangar Automaton
 [[symbol:c]]
@@ -6850,6 +7215,7 @@ Results:
 - Infinite creature tokens
 ===endpanel
 ===endaccordion
+
 ===accordion
 ===panel: Pitiless Plunderer + Stridehangar Automaton + Arcbound Ravager
 [[symbol:b]]
@@ -6887,6 +7253,7 @@ Results:
 - Infinite +1/+1 counters on a creature
 ===endpanel
 ===endaccordion
+
 ===accordion
 ===panel: Pitiless Plunderer + Blasting Station + Stridehangar Automaton
 [[symbol:b]]
@@ -6923,6 +7290,44 @@ Results:
 - Infinite death triggers
 - Infinite damage
 - Infinite Treasure tokens
+===endpanel
+===endaccordion
+
+===accordion
+===panel: Metalwork Colossus + Warren Soultrader + Aetherflux Reservoir + Stridehangar Automaton
+[[symbol:b]]
+
+
+Cards Required:
+- [[Metalwork Colossus]]
+- [[Warren Soultrader]]
+- [[Aetherflux Reservoir]]
+- [[Stridehangar Automaton]]
+
+
+Prerequisites:
+- Metalwork Colossus in hand.
+- All other permanents on the battlefield.
+- The total mana value of noncreature artifacts you control is at least 10.
+
+
+Steps:
+1. Cast Metalwork Colossus by paying {0}.
+2. Aetherflux Reservoir triggers, causing you to gain 1 life for each spell you've cast this turn.
+3. Activate Warren Soultrader by paying 1 life and sacrificing Metalwork Colossus, creating a 1/1 Thopter artifact creature token and a Treasure token.
+4. Activate Metalwork Colossus by sacrificing the Treasure and Thopter, returning Metalwork Colossus from your graveyard to your hand.
+5. Repeat.
+
+
+Results:
+- Infinite creature LTB
+- Infinite creature ETB
+- Infinite creature sacrifice triggers
+- Infinite death triggers
+- Infinite damage
+- Infinite lifegain triggers
+- Infinite lifegain
+- Infinite storm count
 ===endpanel
 ===endaccordion
 
@@ -6965,6 +7370,7 @@ Results:
 - Infinite colorless mana
 ===endpanel
 ===endaccordion
+
 ===accordion
 ===panel: Tarrian's Soulcleaver + Animation Module + Phyrexian Altar
 [[symbol:c]]
@@ -6997,6 +7403,7 @@ Results:
 - Infinite creature sacrifice triggers
 ===endpanel
 ===endaccordion
+
 ===accordion
 ===panel: Tarrian's Soulcleaver + Animation Module + Krark-Clan Ironworks
 [[symbol:c]]
@@ -7075,6 +7482,7 @@ Results:
 - Infinite self-discard triggers
 ===endpanel
 ===endaccordion
+
 ===accordion
 ===panel: Imotekh the Stormlord + Clock of Omens + Tortured Existence
 [[symbol:b]]
@@ -7106,6 +7514,7 @@ Results:
 - Infinite tapped creature tokens
 ===endpanel
 ===endaccordion
+
 ===accordion
 ===panel: Tortured Existence + Pitiless Plunderer + Imotekh the Stormlord + Altar of Dementia
 [[symbol:b]]
@@ -7152,6 +7561,7 @@ Results:
 - Infinite Treasure tokens
 ===endpanel
 ===endaccordion
+
 ===accordion
 ===panel: Tortured Existence + Pitiless Plunderer + Imotekh the Stormlord + Blasting Station
 [[symbol:b]]
@@ -7282,6 +7692,131 @@ Results:
 ===endaccordion
 
 ===accordion
+===panel: Warren Soultrader
+
+===accordion
+===panel: Warren Soultrader + Zulaport Cutthroat + Stridehangar Automaton
+[[symbol:b]]
+
+
+Cards Required:
+- [[Warren Soultrader]]
+- [[Zulaport Cutthroat]]
+- [[Stridehangar Automaton]]
+
+
+Prerequisites:
+- All permanents on the battlefield.
+- You control at least one additional creature
+- Your life total is at least 2.
+
+
+Steps:
+1. Activate Warren Soultrader by paying 1 life and sacrificing another creature.
+2. When the creature dies, Zulaport Cutthroat triggers, causing you to gain 1 life and each opponent to lose 1 life.
+3. Resolve the Warren Soultrader ability, creating a Treasure token and a 1/1 Thopter artifact creature token.
+4. Repeat.
+
+
+Results:
+- Infinite artifact ETB
+- Infinite artifact LTB
+- Infinite artifact sacrifice triggers
+- Infinite artifact tokens
+- Infinite creature LTB
+- Infinite creature ETB
+- Infinite colored mana
+- Infinite creature sacrifice triggers
+- Infinite death triggers
+- Infinite lifeloss
+- Infinite Treasure tokens
+- Infinite lifegain triggers
+===endpanel
+===endaccordion
+
+===accordion
+===panel: Metalwork Colossus + Warren Soultrader + Aetherflux Reservoir + Stridehangar Automaton
+[[symbol:b]]
+
+
+Cards Required:
+- [[Metalwork Colossus]]
+- [[Warren Soultrader]]
+- [[Aetherflux Reservoir]]
+- [[Stridehangar Automaton]]
+
+
+Prerequisites:
+- Metalwork Colossus in hand.
+- All other permanents on the battlefield.
+- The total mana value of noncreature artifacts you control is at least 10.
+
+
+Steps:
+1. Cast Metalwork Colossus by paying {0}.
+2. Aetherflux Reservoir triggers, causing you to gain 1 life for each spell you've cast this turn.
+3. Activate Warren Soultrader by paying 1 life and sacrificing Metalwork Colossus, creating a 1/1 Thopter artifact creature token and a Treasure token.
+4. Activate Metalwork Colossus by sacrificing the Treasure and Thopter, returning Metalwork Colossus from your graveyard to your hand.
+5. Repeat.
+
+
+Results:
+- Infinite creature LTB
+- Infinite creature ETB
+- Infinite creature sacrifice triggers
+- Infinite death triggers
+- Infinite damage
+- Infinite lifegain triggers
+- Infinite lifegain
+- Infinite storm count
+===endpanel
+===endaccordion
+
+===accordion
+===panel: Metalwork Colossus + Warren Soultrader + Pitiless Plunderer + Aetherflux Reservoir
+[[symbol:b]]
+
+
+Cards Required:
+- [[Metalwork Colossus]]
+- [[Warren Soultrader]]
+- [[Pitiless Plunderer]]
+- [[Aetherflux Reservoir]]
+
+
+Prerequisites:
+- Metalwork Colossus in hand.
+- All other permanents on the battlefield.
+- The total mana value of noncreature artifacts you control is at least 10.
+
+
+Steps:
+1. Cast Metalwork Colossus by paying {0}.
+2. Aetherflux Reservoir triggers, causing you to gain 1 life for each spell you've cast this turn.
+3. Activate Warren Soultrader by paying 1 life and sacrificing Metalwork Colossus.
+4. When Metalwork Colossus dies, Pitiless Plunderer triggers, creating a Treasure token.
+5. Resolve the Warren Soultrader ability, creating a Treasure token.
+6. Activate Metalwork Colossus by sacrificing the Treasures, returning Metalwork Colossus from your graveyard to your hand.
+7. Repeat.
+8. Once you have infinite life, you may activate Aetherflux Reservoir infinitely to deal infinite damage to any target(s).
+
+
+Results:
+- Infinite creature LTB
+- Infinite creature ETB
+- Infinite creature sacrifice triggers
+- Infinite death triggers
+- Infinite damage
+- Infinite lifegain triggers
+- Infinite lifegain
+- Infinite storm count
+===endpanel
+===endaccordion
+
+===endpanel
+===endaccordion
+
+===accordion
 ===panel: Workshop Assistant
 
 ===accordion
@@ -7324,6 +7859,7 @@ Results:
 - Infinite storm count
 ===endpanel
 ===endaccordion
+
 ===accordion
 ===panel: Imotekh the Stormlord + Junk Diver + Workshop Assistant + Ashnod's Altar
 [[symbol:b]]
@@ -7364,6 +7900,7 @@ Results:
 - Infinite storm count
 ===endpanel
 ===endaccordion
+
 ===accordion
 ===panel: Imotekh the Stormlord + Myr Retriever + Workshop Assistant + Krark-Clan Ironworks
 [[symbol:b]]
@@ -7404,6 +7941,7 @@ Results:
 - Infinite storm count
 ===endpanel
 ===endaccordion
+
 ===accordion
 ===panel: Glaring Fleshraker + Myr Retriever + Workshop Assistant + Krark-Clan Ironworks
 [[symbol:c]]
@@ -7445,6 +7983,7 @@ Results:
 - Infinite creature tokens
 ===endpanel
 ===endaccordion
+
 ===accordion
 ===panel: Glaring Fleshraker + Junk Diver + Workshop Assistant + Krark-Clan Ironworks
 [[symbol:c]]
@@ -7486,6 +8025,7 @@ Results:
 - Infinite creature tokens
 ===endpanel
 ===endaccordion
+
 ===accordion
 ===panel: Imotekh the Stormlord + Junk Diver + Workshop Assistant + Krark-Clan Ironworks
 [[symbol:b]]
@@ -7526,6 +8066,7 @@ Results:
 - Infinite storm count
 ===endpanel
 ===endaccordion
+
 ===accordion
 ===panel: Glaring Fleshraker + Ashnod's Altar + Myr Retriever + Workshop Assistant
 [[symbol:c]]
@@ -7567,6 +8108,7 @@ Results:
 - Infinite creature tokens
 ===endpanel
 ===endaccordion
+
 ===accordion
 ===panel: Glaring Fleshraker + Ashnod's Altar + Junk Diver + Workshop Assistant
 [[symbol:c]]
@@ -7608,6 +8150,7 @@ Results:
 - Infinite creature tokens
 ===endpanel
 ===endaccordion
+
 ===accordion
 ===panel: Glaring Fleshraker + Ashnod's Altar + Scrap Trawler + Workshop Assistant
 [[symbol:c]]
@@ -7653,3 +8196,48 @@ Results:
 ===endpanel
 ===endaccordion
 
+===accordion
+===panel: Zulaport Cutthroat
+
+===accordion
+===panel: Warren Soultrader + Zulaport Cutthroat + Stridehangar Automaton
+[[symbol:b]]
+
+
+Cards Required:
+- [[Warren Soultrader]]
+- [[Zulaport Cutthroat]]
+- [[Stridehangar Automaton]]
+
+
+Prerequisites:
+- All permanents on the battlefield.
+- You control at least one additional creature
+- Your life total is at least 2.
+
+
+Steps:
+1. Activate Warren Soultrader by paying 1 life and sacrificing another creature.
+2. When the creature dies, Zulaport Cutthroat triggers, causing you to gain 1 life and each opponent to lose 1 life.
+3. Resolve the Warren Soultrader ability, creating a Treasure token and a 1/1 Thopter artifact creature token.
+4. Repeat.
+
+
+Results:
+- Infinite artifact ETB
+- Infinite artifact LTB
+- Infinite artifact sacrifice triggers
+- Infinite artifact tokens
+- Infinite creature LTB
+- Infinite creature ETB
+- Infinite colored mana
+- Infinite creature sacrifice triggers
+- Infinite death triggers
+- Infinite lifeloss
+- Infinite Treasure tokens
+- Infinite lifegain triggers
+===endpanel
+===endaccordion
+
+===endpanel
+===endaccordion

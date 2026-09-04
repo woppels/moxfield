@@ -82,10 +82,10 @@
 1 Urza's Saga
 1 Vampiric Tutor
 1 Vault of Whispers
-1 Veilstone Amulet
 1 Verdant Catacombs
 1 Volrath's Stronghold
 1 Walking Ballista
+1 Warren Soultrader
 1 Workshop Assistant
 1 Zulaport Cutthroat
 
