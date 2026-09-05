@@ -240,49 +240,6 @@ Results:
 ===endaccordion
 
 ===accordion
-===panel: Animation Module
-
-===accordion
-===panel: Animation Module + Pitiless Plunderer + Arcbound Ravager
-[[symbol:b]]
-
-
-Cards Required:
-- [[Animation Module]]
-- [[Pitiless Plunderer]]
-- [[Arcbound Ravager]]
-
-
-Prerequisites:
-- All permanents on the battlefield.
-- You control an additional creature.
-
-
-Steps:
-1. Activate Arcbound Ravager by sacrificing another creature.
-2. When the creature dies, Pitiless Plunderer triggers, creating a Treasure token.
-3. Activate the Treasure by tapping and sacrificing it, adding {1}.
-4. Resolve the Arcbound Ravager ability, putting a +1/+1 counter on it.
-5. Animation Module triggers, causing you to pay {1} to create a 1/1 Servo artifact creature token.
-6. Repeat.
-
-
-Results:
-- Infinite artifact ETB
-- Infinite artifact LTB
-- Infinite artifact sacrifice triggers
-- Infinite +1/+1 counters on a creature
-- Infinite death triggers
-- Infinite creature ETB
-- Infinite creature LTB
-- Infinite creature sacrifice triggers
-===endpanel
-===endaccordion
-
-===endpanel
-===endaccordion
-
-===accordion
 ===panel: Arcbound Ravager
 
 ===accordion
@@ -1030,6 +987,40 @@ Results:
 ===endpanel
 ===endaccordion
 
+===accordion
+===panel: Ultron the Annihilator + Nim Deathmantle + Ashnod's Altar
+[[symbol:b]]
+
+Cards Required:
+- [[Ultron the Annihilator]]
+- [[Nim Deathmantle]]
+- [[Ashnod's Altar]]
+
+Prerequisites:
+- All permanents on the battlefield.
+- Ultron the Annihilator has created a 2/2 Robot Villain artifact creature token.
+
+Steps:
+1. Activate Ashnod's Altar by sacrificing the Robot token, adding [[symbol:c]][[symbol:c]].
+2. Ultron the Annihilator triggers, causing each opponent to lose 1 life.
+3. Activate Ashnod's Altar by sacrificing Ultron the Annihilator, adding [[symbol:c]][[symbol:c]].
+4. Nim Deathmantle triggers, causing you to pay {4} to return Ultron the Annihilator from your graveyard to the battlefield and attach Nim Deathmantle to it.
+5. Ultron enters and creates a 2/2 Robot Villain artifact creature token.
+6. Repeat.
+
+Results:
+- Infinite lifeloss
+- Infinite creature ETB
+- Infinite creature LTB
+- Infinite creature sacrifice triggers
+- Infinite death triggers
+- Infinite artifact ETB
+- Infinite artifact LTB
+- Infinite artifact sacrifice triggers
+- Infinite creature tokens
+===endpanel
+===endaccordion
+
 ===endpanel
 ===endaccordion
 
@@ -1343,6 +1334,70 @@ Results:
 - Infinite death triggers
 - Infinite creature sacrifice triggers
 - Infinite storm count
+===endpanel
+===endaccordion
+
+===endpanel
+===endaccordion
+
+===accordion
+===panel: Demonic Consultation
+
+===accordion
+===panel: Doctor Doom, Unrivaled + Demonic Consultation
+[[symbol:b]]
+
+Cards Required:
+- [[Doctor Doom, Unrivaled]]
+- [[Demonic Consultation]]
+
+Prerequisites:
+- Doctor Doom, Unrivaled on the battlefield and able to tap.
+- [[symbol:b]] available.
+- You know the name of a Magic card that is not in your deck.
+
+Steps:
+1. Cast Demonic Consultation by paying [[symbol:b]].
+2. Name a card that is not in your deck.
+3. Resolve Demonic Consultation, exiling cards until your entire library has been exiled.
+4. Activate Doctor Doom, Unrivaled by tapping it.
+5. Doctor Doom's ability attempts to draw a card and causes you to lose 1 life.
+6. Doctor Doom's ability sees that your library has no cards in it, causing you to win the game.
+
+Results:
+- Win the game
+===endpanel
+===endaccordion
+
+===endpanel
+===endaccordion
+
+===accordion
+===panel: Doctor Doom, Unrivaled
+
+===accordion
+===panel: Doctor Doom, Unrivaled + Demonic Consultation
+[[symbol:b]]
+
+Cards Required:
+- [[Doctor Doom, Unrivaled]]
+- [[Demonic Consultation]]
+
+Prerequisites:
+- Doctor Doom, Unrivaled on the battlefield and able to tap.
+- [[symbol:b]] available.
+- You know the name of a Magic card that is not in your deck.
+
+Steps:
+1. Cast Demonic Consultation by paying [[symbol:b]].
+2. Name a card that is not in your deck.
+3. Resolve Demonic Consultation, exiling cards until your entire library has been exiled.
+4. Activate Doctor Doom, Unrivaled by tapping it.
+5. Doctor Doom's ability attempts to draw a card and causes you to lose 1 life.
+6. Doctor Doom's ability sees that your library has no cards in it, causing you to win the game.
+
+Results:
+- Win the game
 ===endpanel
 ===endaccordion
 
@@ -3626,6 +3681,40 @@ Results:
 ===endpanel
 ===endaccordion
 
+===accordion
+===panel: Ultron the Annihilator + Nim Deathmantle + Krark-Clan Ironworks
+[[symbol:b]]
+
+Cards Required:
+- [[Ultron the Annihilator]]
+- [[Nim Deathmantle]]
+- [[Krark-Clan Ironworks]]
+
+Prerequisites:
+- All permanents on the battlefield.
+- Ultron the Annihilator has created a 2/2 Robot Villain artifact creature token.
+
+Steps:
+1. Activate Krark-Clan Ironworks by sacrificing the Robot token, adding [[symbol:c]][[symbol:c]].
+2. Ultron the Annihilator triggers, causing each opponent to lose 1 life.
+3. Activate Krark-Clan Ironworks by sacrificing Ultron the Annihilator, adding [[symbol:c]][[symbol:c]].
+4. Nim Deathmantle triggers, causing you to pay {4} to return Ultron the Annihilator from your graveyard to the battlefield and attach Nim Deathmantle to it.
+5. Ultron enters and creates a 2/2 Robot Villain artifact creature token.
+6. Repeat.
+
+Results:
+- Infinite lifeloss
+- Infinite creature ETB
+- Infinite creature LTB
+- Infinite creature sacrifice triggers
+- Infinite death triggers
+- Infinite artifact ETB
+- Infinite artifact LTB
+- Infinite artifact sacrifice triggers
+- Infinite creature tokens
+===endpanel
+===endaccordion
+
 ===endpanel
 ===endaccordion
 
@@ -4921,6 +5010,114 @@ Results:
 ===endpanel
 ===endaccordion
 
+===accordion
+===panel: Ultron the Annihilator + Nim Deathmantle + Ashnod's Altar
+[[symbol:b]]
+
+Cards Required:
+- [[Ultron the Annihilator]]
+- [[Nim Deathmantle]]
+- [[Ashnod's Altar]]
+
+Prerequisites:
+- All permanents on the battlefield.
+- Ultron the Annihilator has created a 2/2 Robot Villain artifact creature token.
+
+Steps:
+1. Activate Ashnod's Altar by sacrificing the Robot token, adding [[symbol:c]][[symbol:c]].
+2. Ultron the Annihilator triggers, causing each opponent to lose 1 life.
+3. Activate Ashnod's Altar by sacrificing Ultron the Annihilator, adding [[symbol:c]][[symbol:c]].
+4. Nim Deathmantle triggers, causing you to pay {4} to return Ultron the Annihilator from your graveyard to the battlefield and attach Nim Deathmantle to it.
+5. Ultron enters and creates a 2/2 Robot Villain artifact creature token.
+6. Repeat.
+
+Results:
+- Infinite lifeloss
+- Infinite creature ETB
+- Infinite creature LTB
+- Infinite creature sacrifice triggers
+- Infinite death triggers
+- Infinite artifact ETB
+- Infinite artifact LTB
+- Infinite artifact sacrifice triggers
+- Infinite creature tokens
+===endpanel
+===endaccordion
+
+===accordion
+===panel: Ultron the Annihilator + Nim Deathmantle + Krark-Clan Ironworks
+[[symbol:b]]
+
+Cards Required:
+- [[Ultron the Annihilator]]
+- [[Nim Deathmantle]]
+- [[Krark-Clan Ironworks]]
+
+Prerequisites:
+- All permanents on the battlefield.
+- Ultron the Annihilator has created a 2/2 Robot Villain artifact creature token.
+
+Steps:
+1. Activate Krark-Clan Ironworks by sacrificing the Robot token, adding [[symbol:c]][[symbol:c]].
+2. Ultron the Annihilator triggers, causing each opponent to lose 1 life.
+3. Activate Krark-Clan Ironworks by sacrificing Ultron the Annihilator, adding [[symbol:c]][[symbol:c]].
+4. Nim Deathmantle triggers, causing you to pay {4} to return Ultron the Annihilator from your graveyard to the battlefield and attach Nim Deathmantle to it.
+5. Ultron enters and creates a 2/2 Robot Villain artifact creature token.
+6. Repeat.
+
+Results:
+- Infinite lifeloss
+- Infinite creature ETB
+- Infinite creature LTB
+- Infinite creature sacrifice triggers
+- Infinite death triggers
+- Infinite artifact ETB
+- Infinite artifact LTB
+- Infinite artifact sacrifice triggers
+- Infinite creature tokens
+===endpanel
+===endaccordion
+
+===accordion
+===panel: Ultron the Annihilator + Nim Deathmantle + Phyrexian Altar + Pitiless Plunderer
+[[symbol:b]]
+
+Cards Required:
+- [[Ultron the Annihilator]]
+- [[Nim Deathmantle]]
+- [[Phyrexian Altar]]
+- [[Pitiless Plunderer]]
+
+Prerequisites:
+- All permanents on the battlefield.
+- Ultron the Annihilator has created a 2/2 Robot Villain artifact creature token.
+
+Steps:
+1. Activate Phyrexian Altar by sacrificing the Robot token, adding one mana of any color.
+2. Ultron the Annihilator and Pitiless Plunderer trigger.
+3. Resolve Ultron's trigger, causing each opponent to lose 1 life.
+4. Resolve Pitiless Plunderer's trigger, creating a Treasure token.
+5. Activate Phyrexian Altar by sacrificing Ultron the Annihilator, adding one mana of any color.
+6. Pitiless Plunderer triggers, creating a Treasure token.
+7. Sacrifice both Treasure tokens for two mana.
+8. Nim Deathmantle triggers, causing you to pay {4} to return Ultron the Annihilator from your graveyard to the battlefield and attach Nim Deathmantle to it.
+9. Ultron enters and creates a 2/2 Robot Villain artifact creature token.
+10. Repeat.
+
+Results:
+- Infinite lifeloss
+- Infinite creature ETB
+- Infinite creature LTB
+- Infinite creature sacrifice triggers
+- Infinite death triggers
+- Infinite artifact ETB
+- Infinite artifact LTB
+- Infinite artifact sacrifice triggers
+- Infinite creature tokens
+- Infinite Treasure tokens
+===endpanel
+===endaccordion
+
 ===endpanel
 ===endaccordion
 
@@ -5040,6 +5237,46 @@ Results:
 - Infinite creature sacrifice triggers
 - Infinite storm count
 - Infinite colored mana
+===endpanel
+===endaccordion
+
+===accordion
+===panel: Ultron the Annihilator + Nim Deathmantle + Phyrexian Altar + Pitiless Plunderer
+[[symbol:b]]
+
+Cards Required:
+- [[Ultron the Annihilator]]
+- [[Nim Deathmantle]]
+- [[Phyrexian Altar]]
+- [[Pitiless Plunderer]]
+
+Prerequisites:
+- All permanents on the battlefield.
+- Ultron the Annihilator has created a 2/2 Robot Villain artifact creature token.
+
+Steps:
+1. Activate Phyrexian Altar by sacrificing the Robot token, adding one mana of any color.
+2. Ultron the Annihilator and Pitiless Plunderer trigger.
+3. Resolve Ultron's trigger, causing each opponent to lose 1 life.
+4. Resolve Pitiless Plunderer's trigger, creating a Treasure token.
+5. Activate Phyrexian Altar by sacrificing Ultron the Annihilator, adding one mana of any color.
+6. Pitiless Plunderer triggers, creating a Treasure token.
+7. Sacrifice both Treasure tokens for two mana.
+8. Nim Deathmantle triggers, causing you to pay {4} to return Ultron the Annihilator from your graveyard to the battlefield and attach Nim Deathmantle to it.
+9. Ultron enters and creates a 2/2 Robot Villain artifact creature token.
+10. Repeat.
+
+Results:
+- Infinite lifeloss
+- Infinite creature ETB
+- Infinite creature LTB
+- Infinite creature sacrifice triggers
+- Infinite death triggers
+- Infinite artifact ETB
+- Infinite artifact LTB
+- Infinite artifact sacrifice triggers
+- Infinite creature tokens
+- Infinite Treasure tokens
 ===endpanel
 ===endaccordion
 
@@ -5522,6 +5759,46 @@ Results:
 - Infinite lifegain triggers
 - Infinite lifegain
 - Infinite storm count
+===endpanel
+===endaccordion
+
+===accordion
+===panel: Ultron the Annihilator + Nim Deathmantle + Phyrexian Altar + Pitiless Plunderer
+[[symbol:b]]
+
+Cards Required:
+- [[Ultron the Annihilator]]
+- [[Nim Deathmantle]]
+- [[Phyrexian Altar]]
+- [[Pitiless Plunderer]]
+
+Prerequisites:
+- All permanents on the battlefield.
+- Ultron the Annihilator has created a 2/2 Robot Villain artifact creature token.
+
+Steps:
+1. Activate Phyrexian Altar by sacrificing the Robot token, adding one mana of any color.
+2. Ultron the Annihilator and Pitiless Plunderer trigger.
+3. Resolve Ultron's trigger, causing each opponent to lose 1 life.
+4. Resolve Pitiless Plunderer's trigger, creating a Treasure token.
+5. Activate Phyrexian Altar by sacrificing Ultron the Annihilator, adding one mana of any color.
+6. Pitiless Plunderer triggers, creating a Treasure token.
+7. Sacrifice both Treasure tokens for two mana.
+8. Nim Deathmantle triggers, causing you to pay {4} to return Ultron the Annihilator from your graveyard to the battlefield and attach Nim Deathmantle to it.
+9. Ultron enters and creates a 2/2 Robot Villain artifact creature token.
+10. Repeat.
+
+Results:
+- Infinite lifeloss
+- Infinite creature ETB
+- Infinite creature LTB
+- Infinite creature sacrifice triggers
+- Infinite death triggers
+- Infinite artifact ETB
+- Infinite artifact LTB
+- Infinite artifact sacrifice triggers
+- Infinite creature tokens
+- Infinite Treasure tokens
 ===endpanel
 ===endaccordion
 
@@ -7332,6 +7609,120 @@ Steps:
 Results:
 - Infinite damage
 - Infinite lifegain triggers
+===endpanel
+===endaccordion
+
+===endpanel
+===endaccordion
+
+===accordion
+===panel: Ultron the Annihilator
+
+===accordion
+===panel: Ultron the Annihilator + Nim Deathmantle + Ashnod's Altar
+[[symbol:b]]
+
+Cards Required:
+- [[Ultron the Annihilator]]
+- [[Nim Deathmantle]]
+- [[Ashnod's Altar]]
+
+Prerequisites:
+- All permanents on the battlefield.
+- Ultron the Annihilator has created a 2/2 Robot Villain artifact creature token.
+
+Steps:
+1. Activate Ashnod's Altar by sacrificing the Robot token, adding [[symbol:c]][[symbol:c]].
+2. Ultron the Annihilator triggers, causing each opponent to lose 1 life.
+3. Activate Ashnod's Altar by sacrificing Ultron the Annihilator, adding [[symbol:c]][[symbol:c]].
+4. Nim Deathmantle triggers, causing you to pay {4} to return Ultron the Annihilator from your graveyard to the battlefield and attach Nim Deathmantle to it.
+5. Ultron enters and creates a 2/2 Robot Villain artifact creature token.
+6. Repeat.
+
+Results:
+- Infinite lifeloss
+- Infinite creature ETB
+- Infinite creature LTB
+- Infinite creature sacrifice triggers
+- Infinite death triggers
+- Infinite artifact ETB
+- Infinite artifact LTB
+- Infinite artifact sacrifice triggers
+- Infinite creature tokens
+===endpanel
+===endaccordion
+
+===accordion
+===panel: Ultron the Annihilator + Nim Deathmantle + Krark-Clan Ironworks
+[[symbol:b]]
+
+Cards Required:
+- [[Ultron the Annihilator]]
+- [[Nim Deathmantle]]
+- [[Krark-Clan Ironworks]]
+
+Prerequisites:
+- All permanents on the battlefield.
+- Ultron the Annihilator has created a 2/2 Robot Villain artifact creature token.
+
+Steps:
+1. Activate Krark-Clan Ironworks by sacrificing the Robot token, adding [[symbol:c]][[symbol:c]].
+2. Ultron the Annihilator triggers, causing each opponent to lose 1 life.
+3. Activate Krark-Clan Ironworks by sacrificing Ultron the Annihilator, adding [[symbol:c]][[symbol:c]].
+4. Nim Deathmantle triggers, causing you to pay {4} to return Ultron the Annihilator from your graveyard to the battlefield and attach Nim Deathmantle to it.
+5. Ultron enters and creates a 2/2 Robot Villain artifact creature token.
+6. Repeat.
+
+Results:
+- Infinite lifeloss
+- Infinite creature ETB
+- Infinite creature LTB
+- Infinite creature sacrifice triggers
+- Infinite death triggers
+- Infinite artifact ETB
+- Infinite artifact LTB
+- Infinite artifact sacrifice triggers
+- Infinite creature tokens
+===endpanel
+===endaccordion
+
+===accordion
+===panel: Ultron the Annihilator + Nim Deathmantle + Phyrexian Altar + Pitiless Plunderer
+[[symbol:b]]
+
+Cards Required:
+- [[Ultron the Annihilator]]
+- [[Nim Deathmantle]]
+- [[Phyrexian Altar]]
+- [[Pitiless Plunderer]]
+
+Prerequisites:
+- All permanents on the battlefield.
+- Ultron the Annihilator has created a 2/2 Robot Villain artifact creature token.
+
+Steps:
+1. Activate Phyrexian Altar by sacrificing the Robot token, adding one mana of any color.
+2. Ultron the Annihilator and Pitiless Plunderer trigger.
+3. Resolve Ultron's trigger, causing each opponent to lose 1 life.
+4. Resolve Pitiless Plunderer's trigger, creating a Treasure token.
+5. Activate Phyrexian Altar by sacrificing Ultron the Annihilator, adding one mana of any color.
+6. Pitiless Plunderer triggers, creating a Treasure token.
+7. Sacrifice both Treasure tokens for two mana.
+8. Nim Deathmantle triggers, causing you to pay {4} to return Ultron the Annihilator from your graveyard to the battlefield and attach Nim Deathmantle to it.
+9. Ultron enters and creates a 2/2 Robot Villain artifact creature token.
+10. Repeat.
+
+Results:
+- Infinite lifeloss
+- Infinite creature ETB
+- Infinite creature LTB
+- Infinite creature sacrifice triggers
+- Infinite death triggers
+- Infinite artifact ETB
+- Infinite artifact LTB
+- Infinite artifact sacrifice triggers
+- Infinite creature tokens
+- Infinite Treasure tokens
 ===endpanel
 ===endaccordion
 

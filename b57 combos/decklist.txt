@@ -2,7 +2,6 @@
 1 Altar of Dementia
 1 Altar of the Brood
 1 Ancient Tomb
-1 Animation Module
 1 Arcbound Ravager
 1 Ashnod's Altar
 1 Blasting Station
@@ -30,6 +29,7 @@
 1 Glaring Fleshraker
 1 Grim Tutor
 1 Grinding Station
+1 Imp's Mischief
 1 Inventors' Fair
 1 Jet Medallion
 1 Junk Diver
