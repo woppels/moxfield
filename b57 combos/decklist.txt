@@ -68,15 +68,15 @@
 1 Stridehangar Automaton
 10 Swamp
 1 Takenuma, Abandoned Mire
-1 Tarrian's Soulcleaver
-1 Technomancer
 1 The Mycosynth Gardens
 1 The One Ring
 1 Their Name Is Death
 1 Thought Vessel
 1 Tomb Fortress
 1 Tortured Existence
+1 Toxic Deluge
 1 Trazyn the Infinite
+1 Ultron the Annihilator
 1 Umbral Collar Zealot
 1 Urborg, Tomb of Yawgmoth
 1 Urza's Saga
