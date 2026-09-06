@@ -299,9 +299,9 @@ Prerequisites:
 Steps:
 1. Activate Arcbound Ravager by sacrificing another creature.
 2. When the creature dies, Pitiless Plunderer triggers, creating a Treasure token.
-3. Activate the Treasure by tapping and sacrificing it, adding {1}.
+3. Activate the Treasure by tapping and sacrificing it, adding [[symbol:1]].
 4. Resolve the Arcbound Ravager ability, putting a +1/+1 counter on it.
-5. Animation Module triggers, causing you to pay {1} to create a 1/1 Servo artifact creature token.
+5. Animation Module triggers, causing you to pay [[symbol:1]] to create a 1/1 Servo artifact creature token.
 6. Repeat.
 
 
@@ -343,7 +343,7 @@ Steps:
 3. Resolve the Nim Deathmantle trigger, choosing not to pay.
 4. Resolve the creature's trigger, returning it from your graveyard to the battlefield with a +1/+1 or -1/-1 counter on it.
 5. Activate Ashnod's Altar by sacrificing the persist or undying creature, adding [[symbol:c]][[symbol:c]].
-6. When the persist or undying creature dies, Nim Deathmantle triggers, causing you to pay {4} to return the persist or undying creature from your graveyard to the battlefield.
+6. When the persist or undying creature dies, Nim Deathmantle triggers, causing you to pay [[symbol:4]] to return the persist or undying creature from your graveyard to the battlefield.
 7. Repeat.
 
 
@@ -448,12 +448,12 @@ Cards Required:
 
 Prerequisites:
 - All permanents on the battlefield.
-- {2} available
+- [[symbol:2]] available
 
 
 Steps:
 1. Activate Ashnod's Altar by sacrificing Marionette Apprentice, adding [[symbol:c]][[symbol:c]].
-2. When Marionette Apprentice dies, Nim Deathmantle triggers, causing you to pay {4} to return Marionette Apprentice from your graveyard to the battlefield and attach Nim Deathmantle to it.
+2. When Marionette Apprentice dies, Nim Deathmantle triggers, causing you to pay [[symbol:4]] to return Marionette Apprentice from your graveyard to the battlefield and attach Nim Deathmantle to it.
 3. When Marionette Apprentice enters, it triggers, creating a creature token.
 4. Activate Ashnod's Altar by sacrificing a creature token, adding [[symbol:c]][[symbol:c]].
 5. When the creature token dies, Marionette Apprentice triggers, causing each opponent to lose 1 life.
@@ -491,11 +491,11 @@ Steps:
 2. When Myr Retriever dies, it triggers, returning Scrap Trawler to your hand from your graveyard.
 3. Imotekh the Stormlord's first ability triggers, creating two 2/2 Necron Warrior artifact creature tokens.
 4. Activate Ashnod's Altar by sacrificing a Necron Warrior, adding [[symbol:c]][[symbol:c]].
-5. Cast Scrap Trawler by paying {3}.
+5. Cast Scrap Trawler by paying [[symbol:3]].
 6. Activate Ashnod's Altar by sacrificing Scrap Trawler, adding [[symbol:c]][[symbol:c]].
 7. When Scrap Trawler dies, it triggers, returning Myr Retriever to your hand from your graveyard.
 8. Imotekh the Stormlord's first ability triggers, creating two 2/2 Necron Warrior artifact creature tokens.
-9. Cast Myr Retriever by paying {2}.
+9. Cast Myr Retriever by paying [[symbol:2]].
 10. Repeat.
 
 
@@ -532,11 +532,11 @@ Steps:
 2. When Myr Retriever dies, it triggers, returning Junk Diver to your hand from your graveyard.
 3. Imotekh the Stormlord's first ability triggers, creating two 2/2 Necron Warrior artifact creature tokens.
 4. Activate Ashnod's Altar by sacrificing a Necron Warrior, adding [[symbol:c]][[symbol:c]].
-5. Cast Junk Diver by paying {3}.
+5. Cast Junk Diver by paying [[symbol:3]].
 6. Activate Ashnod's Altar by sacrificing Junk Diver, adding [[symbol:c]][[symbol:c]].
 7. When Junk Diver dies, it triggers, returning Myr Retriever to your hand from your graveyard.
 8. Imotekh the Stormlord's first ability triggers, creating two 2/2 Necron Warrior artifact creature tokens.
-9. Cast Myr Retriever by paying {2}.
+9. Cast Myr Retriever by paying [[symbol:2]].
 10. Repeat.
 
 
@@ -607,12 +607,12 @@ Cards Required:
 Prerequisites:
 - All permanents on the battlefield.
 - You control at least one nontoken artifact creature.
-- {2} available
+- [[symbol:2]] available
 
 
 Steps:
 1. Activate Ashnod's Altar by sacrificing a nontoken artifact creature, adding [[symbol:c]][[symbol:c]].
-2. The creature dies, triggering Nim Deathmantle, causing you to pay {4} to return the artifact creature from your graveyard to the battlefield, and attach Nim Deathmantle to it.
+2. The creature dies, triggering Nim Deathmantle, causing you to pay [[symbol:4]] to return the artifact creature from your graveyard to the battlefield, and attach Nim Deathmantle to it.
 3. Imotekh's first ability triggers, creating two 2/2 Necron Warrior artifact creature tokens.
 4. Activate Ashnod's Altar by sacrificing a Necron Warrior, adding [[symbol:c]][[symbol:c]].
 5. Repeat.
@@ -770,11 +770,11 @@ Steps:
 2. When Workshop Assistant dies, it triggers, returning Myr Retriever to your hand from your graveyard.
 3. Imotekh the Stormlord's first ability triggers, creating two 2/2 Necron Warrior artifact creature tokens.
 4. Activate Ashnod's Altar by sacrificing a Necron Warrior, adding [[symbol:c]][[symbol:c]].
-5. Cast Myr Retriever by paying {2}.
+5. Cast Myr Retriever by paying [[symbol:2]].
 6. Activate Ashnod's Altar by sacrificing Myr Retriever, adding [[symbol:c]][[symbol:c]].
 7. When Myr Retriever dies, it triggers, returning Workshop Assistant to your hand from your graveyard.
 8. Imotekh the Stormlord's first ability triggers, creating two 2/2 Necron Warrior artifact creature tokens.
-9. Cast Workshop Assistant by paying {3}.
+9. Cast Workshop Assistant by paying [[symbol:3]].
 10. Repeat.
 
 
@@ -811,11 +811,11 @@ Steps:
 2. When Workshop Assistant dies, it triggers, returning Junk Diver to your hand from your graveyard.
 3. Imotekh the Stormlord's first ability triggers, creating two 2/2 Necron Warrior artifact creature tokens.
 4. Activate Ashnod's Altar by sacrificing a Necron Warrior, adding [[symbol:c]][[symbol:c]].
-5. Cast Junk Diver by paying {3}.
+5. Cast Junk Diver by paying [[symbol:3]].
 6. Activate Ashnod's Altar by sacrificing Junk Diver, adding [[symbol:c]][[symbol:c]].
 7. When Junk Diver dies, it triggers, returning Workshop Assistant to your hand from your graveyard.
 8. Imotekh the Stormlord's first ability triggers, creating two 2/2 Necron Warrior artifact creature tokens.
-9. Cast Workshop Assistant by paying {3}.
+9. Cast Workshop Assistant by paying [[symbol:3]].
 10. Repeat.
 
 
@@ -969,11 +969,11 @@ Cards Required:
 
 Prerequisites:
 - All permanents on the battlefield.
-- {2} available
+- [[symbol:2]] available
 
 
 Steps:
-1. Activate Retrofitter Foundry's second ability by paying {2} and tapping it, creating a 1/1 Servo artifact creature token.
+1. Activate Retrofitter Foundry's second ability by paying [[symbol:2]] and tapping it, creating a 1/1 Servo artifact creature token.
 2. Activate Ashnod's Altar by sacrificing the Servo, adding [[symbol:c]][[symbol:c]].
 3. When the Servo dies, Dross Scorpion triggers, untapping Retrofitter Foundry.
 4. Repeat.
@@ -1004,7 +1004,7 @@ Steps:
 1. Activate Ashnod's Altar by sacrificing the Robot token, adding [[symbol:c]][[symbol:c]].
 2. Ultron the Annihilator triggers, causing each opponent to lose 1 life.
 3. Activate Ashnod's Altar by sacrificing Ultron the Annihilator, adding [[symbol:c]][[symbol:c]].
-4. Nim Deathmantle triggers, causing you to pay {4} to return Ultron the Annihilator from your graveyard to the battlefield and attach Nim Deathmantle to it.
+4. Nim Deathmantle triggers, causing you to pay [[symbol:4]] to return Ultron the Annihilator from your graveyard to the battlefield and attach Nim Deathmantle to it.
 5. Ultron enters and creates a 2/2 Robot Villain artifact creature token.
 6. Repeat.
 
@@ -1420,11 +1420,11 @@ Cards Required:
 
 Prerequisites:
 - All permanents on the battlefield.
-- {2} available
+- [[symbol:2]] available
 
 
 Steps:
-1. Activate Retrofitter Foundry's second ability by paying {2} and tapping it, creating a 1/1 Servo artifact creature token.
+1. Activate Retrofitter Foundry's second ability by paying [[symbol:2]] and tapping it, creating a 1/1 Servo artifact creature token.
 2. Activate Krark-Clan Ironworks by sacrificing the Servo, adding [[symbol:c]][[symbol:c]].
 3. When the Servo dies, Dross Scorpion triggers, untapping Retrofitter Foundry.
 4. Repeat.
@@ -1483,11 +1483,11 @@ Cards Required:
 
 Prerequisites:
 - All permanents on the battlefield.
-- {2} available
+- [[symbol:2]] available
 
 
 Steps:
-1. Activate Retrofitter Foundry's second ability by paying {2} and tapping it, creating a 1/1 Servo artifact creature token.
+1. Activate Retrofitter Foundry's second ability by paying [[symbol:2]] and tapping it, creating a 1/1 Servo artifact creature token.
 2. Activate Ashnod's Altar by sacrificing the Servo, adding [[symbol:c]][[symbol:c]].
 3. When the Servo dies, Dross Scorpion triggers, untapping Retrofitter Foundry.
 4. Repeat.
@@ -1634,12 +1634,12 @@ Cards Required:
 
 Prerequisites:
 - All permanents on the battlefield.
-- {1} available
+- [[symbol:1]] available
 
 
 Steps:
 1. Activate Sensei's Divining Top by tapping it, causing you to draw a card and put Sensei's Divining Top on top of your library.
-2. Cast Sensei's Divining Top from the top of your library by paying {1}.
+2. Cast Sensei's Divining Top from the top of your library by paying [[symbol:1]].
 3. Glaring Fleshraker's first ability triggers, creating a 0/1 Eldrazi Spawn creature token.
 4. When the Eldrazi Spawn enters, Glaring Fleshraker's second ability triggers, dealing 1 damage to each opponent.
 5. Activate the Eldrazi Spawn by sacrificing it, adding [[symbol:c]].
@@ -2110,11 +2110,11 @@ Steps:
 2. When Myr Retriever dies, it triggers, returning Scrap Trawler to your hand from your graveyard.
 3. Imotekh the Stormlord's first ability triggers, creating two 2/2 Necron Warrior artifact creature tokens.
 4. Activate Ashnod's Altar by sacrificing a Necron Warrior, adding [[symbol:c]][[symbol:c]].
-5. Cast Scrap Trawler by paying {3}.
+5. Cast Scrap Trawler by paying [[symbol:3]].
 6. Activate Ashnod's Altar by sacrificing Scrap Trawler, adding [[symbol:c]][[symbol:c]].
 7. When Scrap Trawler dies, it triggers, returning Myr Retriever to your hand from your graveyard.
 8. Imotekh the Stormlord's first ability triggers, creating two 2/2 Necron Warrior artifact creature tokens.
-9. Cast Myr Retriever by paying {2}.
+9. Cast Myr Retriever by paying [[symbol:2]].
 10. Repeat.
 
 
@@ -2151,11 +2151,11 @@ Steps:
 2. When Myr Retriever dies, it triggers, returning Scrap Trawler to your hand from your graveyard.
 3. Imotekh the Stormlord's first ability triggers, creating two 2/2 Necron Warrior artifact creature tokens.
 4. Activate Krark-Clan Ironworks by sacrificing a Necron Warrior, adding [[symbol:c]][[symbol:c]].
-5. Cast Scrap Trawler by paying {3}.
+5. Cast Scrap Trawler by paying [[symbol:3]].
 6. Activate Krark-Clan Ironworks by sacrificing Scrap Trawler, adding [[symbol:c]][[symbol:c]].
 7. When Scrap Trawler dies, it triggers, returning Myr Retriever to your hand from your graveyard.
 8. Imotekh the Stormlord's first ability triggers, creating two 2/2 Necron Warrior artifact creature tokens.
-9. Cast Myr Retriever by paying {2}.
+9. Cast Myr Retriever by paying [[symbol:2]].
 10. Repeat.
 
 
@@ -2192,11 +2192,11 @@ Steps:
 2. When Myr Retriever dies, it triggers, returning Junk Diver to your hand from your graveyard.
 3. Imotekh the Stormlord's first ability triggers, creating two 2/2 Necron Warrior artifact creature tokens.
 4. Activate Ashnod's Altar by sacrificing a Necron Warrior, adding [[symbol:c]][[symbol:c]].
-5. Cast Junk Diver by paying {3}.
+5. Cast Junk Diver by paying [[symbol:3]].
 6. Activate Ashnod's Altar by sacrificing Junk Diver, adding [[symbol:c]][[symbol:c]].
 7. When Junk Diver dies, it triggers, returning Myr Retriever to your hand from your graveyard.
 8. Imotekh the Stormlord's first ability triggers, creating two 2/2 Necron Warrior artifact creature tokens.
-9. Cast Myr Retriever by paying {2}.
+9. Cast Myr Retriever by paying [[symbol:2]].
 10. Repeat.
 
 
@@ -2225,12 +2225,12 @@ Cards Required:
 Prerequisites:
 - All permanents on the battlefield.
 - You control at least one nontoken artifact creature.
-- {2} available
+- [[symbol:2]] available
 
 
 Steps:
 1. Activate Ashnod's Altar by sacrificing a nontoken artifact creature, adding [[symbol:c]][[symbol:c]].
-2. The creature dies, triggering Nim Deathmantle, causing you to pay {4} to return the artifact creature from your graveyard to the battlefield, and attach Nim Deathmantle to it.
+2. The creature dies, triggering Nim Deathmantle, causing you to pay [[symbol:4]] to return the artifact creature from your graveyard to the battlefield, and attach Nim Deathmantle to it.
 3. Imotekh's first ability triggers, creating two 2/2 Necron Warrior artifact creature tokens.
 4. Activate Ashnod's Altar by sacrificing a Necron Warrior, adding [[symbol:c]][[symbol:c]].
 5. Repeat.
@@ -2268,11 +2268,11 @@ Steps:
 2. When Workshop Assistant dies, it triggers, returning Myr Retriever to your hand from your graveyard.
 3. Imotekh the Stormlord's first ability triggers, creating two 2/2 Necron Warrior artifact creature tokens.
 4. Activate Ashnod's Altar by sacrificing a Necron Warrior, adding [[symbol:c]][[symbol:c]].
-5. Cast Myr Retriever by paying {2}.
+5. Cast Myr Retriever by paying [[symbol:2]].
 6. Activate Ashnod's Altar by sacrificing Myr Retriever, adding [[symbol:c]][[symbol:c]].
 7. When Myr Retriever dies, it triggers, returning Workshop Assistant to your hand from your graveyard.
 8. Imotekh the Stormlord's first ability triggers, creating two 2/2 Necron Warrior artifact creature tokens.
-9. Cast Workshop Assistant by paying {3}.
+9. Cast Workshop Assistant by paying [[symbol:3]].
 10. Repeat.
 
 
@@ -2309,11 +2309,11 @@ Steps:
 2. When Myr Retriever dies, it triggers, returning Junk Diver to your hand from your graveyard.
 3. Imotekh the Stormlord's first ability triggers, creating two 2/2 Necron Warrior artifact creature tokens.
 4. Activate Krark-Clan Ironworks by sacrificing a Necron Warrior, adding [[symbol:c]][[symbol:c]].
-5. Cast Junk Diver by paying {3}.
+5. Cast Junk Diver by paying [[symbol:3]].
 6. Activate Krark-Clan Ironworks by sacrificing Junk Diver, adding [[symbol:c]][[symbol:c]].
 7. When Junk Diver dies, it triggers, returning Myr Retriever to your hand from your graveyard.
 8. Imotekh the Stormlord's first ability triggers, creating two 2/2 Necron Warrior artifact creature tokens.
-9. Cast Myr Retriever by paying {2}.
+9. Cast Myr Retriever by paying [[symbol:2]].
 10. Repeat.
 
 
@@ -2350,11 +2350,11 @@ Steps:
 2. When Workshop Assistant dies, it triggers, returning Junk Diver to your hand from your graveyard.
 3. Imotekh the Stormlord's first ability triggers, creating two 2/2 Necron Warrior artifact creature tokens.
 4. Activate Ashnod's Altar by sacrificing a Necron Warrior, adding [[symbol:c]][[symbol:c]].
-5. Cast Junk Diver by paying {3}.
+5. Cast Junk Diver by paying [[symbol:3]].
 6. Activate Ashnod's Altar by sacrificing Junk Diver, adding [[symbol:c]][[symbol:c]].
 7. When Junk Diver dies, it triggers, returning Workshop Assistant to your hand from your graveyard.
 8. Imotekh the Stormlord's first ability triggers, creating two 2/2 Necron Warrior artifact creature tokens.
-9. Cast Workshop Assistant by paying {3}.
+9. Cast Workshop Assistant by paying [[symbol:3]].
 10. Repeat.
 
 
@@ -2383,12 +2383,12 @@ Cards Required:
 Prerequisites:
 - All permanents on the battlefield.
 - You control at least one nontoken artifact creature.
-- {2} available
+- [[symbol:2]] available
 
 
 Steps:
 1. Activate Krark-Clan Ironworks by sacrificing a nontoken artifact creature, adding [[symbol:c]][[symbol:c]].
-2. The creature dies, triggering Nim Deathmantle, causing you to pay {4} to return the artifact creature from your graveyard to the battlefield, and attach Nim Deathmantle to it.
+2. The creature dies, triggering Nim Deathmantle, causing you to pay [[symbol:4]] to return the artifact creature from your graveyard to the battlefield, and attach Nim Deathmantle to it.
 3. Imotekh's first ability triggers, creating two 2/2 Necron Warrior artifact creature tokens.
 4. Activate Krark-Clan Ironworks by sacrificing a Necron Warrior, adding [[symbol:c]][[symbol:c]].
 5. Repeat.
@@ -2426,11 +2426,11 @@ Steps:
 2. When Workshop Assistant dies, it triggers, returning Myr Retriever to your hand from your graveyard.
 3. Imotekh the Stormlord's first ability triggers, creating two 2/2 Necron Warrior artifact creature tokens.
 4. Activate Krark-Clan Ironworks by sacrificing a Necron Warrior, adding [[symbol:c]][[symbol:c]].
-5. Cast Myr Retriever by paying {2}.
+5. Cast Myr Retriever by paying [[symbol:2]].
 6. Activate Krark-Clan Ironworks by sacrificing Myr Retriever, adding [[symbol:c]][[symbol:c]].
 7. When Myr Retriever dies, it triggers, returning Workshop Assistant to your hand from your graveyard.
 8. Imotekh the Stormlord's first ability triggers, creating two 2/2 Necron Warrior artifact creature tokens.
-9. Cast Workshop Assistant by paying {3}.
+9. Cast Workshop Assistant by paying [[symbol:3]].
 10. Repeat.
 
 
@@ -2467,11 +2467,11 @@ Steps:
 2. When Workshop Assistant dies, it triggers, returning Junk Diver to your hand from your graveyard.
 3. Imotekh the Stormlord's first ability triggers, creating two 2/2 Necron Warrior artifact creature tokens.
 4. Activate Krark-Clan Ironworks by sacrificing a Necron Warrior, adding [[symbol:c]][[symbol:c]].
-5. Cast Junk Diver by paying {3}.
+5. Cast Junk Diver by paying [[symbol:3]].
 6. Activate Krark-Clan Ironworks by sacrificing Junk Diver, adding [[symbol:c]][[symbol:c]].
 7. When Junk Diver dies, it triggers, returning Workshop Assistant to your hand from your graveyard.
 8. Imotekh the Stormlord's first ability triggers, creating two 2/2 Necron Warrior artifact creature tokens.
-9. Cast Workshop Assistant by paying {3}.
+9. Cast Workshop Assistant by paying [[symbol:3]].
 10. Repeat.
 
 
@@ -2714,17 +2714,17 @@ Steps:
 2. Myr Retriever dies, triggering itself and Scrap Trawler.
 3. Resolve the Myr Retriever trigger, returning Junk Diver from your graveyard to your hand.
 4. Resolve the Scrap Trawler trigger, returning Sol Ring from your hand to your graveyard.
-5. Cast Sol Ring by paying {1}.
+5. Cast Sol Ring by paying [[symbol:1]].
 6. Activate Sol Ring by tapping it, adding [[symbol:c]][[symbol:c]].
 7. Activate Krark-Clan Ironworks by sacrificing Sol Ring, adding [[symbol:c]][[symbol:c]].
 8. Scrap Trawler triggers, choose not to return an artifact to your hand.
-9. Cast Junk Diver by paying {3}.
+9. Cast Junk Diver by paying [[symbol:3]].
 10. Activate Krark-Clan Ironworks by sacrificing Junk Diver, adding [[symbol:c]][[symbol:c]].
 11. Junk Diver dies, triggering itself and Scrap Trawler.
 12. Resolve the Junk Diver trigger, returning Myr Retriever from your graveyard to your hand.
 13. Resolve the Scrap Trawler trigger, returning Sol Ring from your graveyard to your hand.
 14. Repeat steps 5-8 one additional time.
-15. Cast Myr Retriever by paying {2}.
+15. Cast Myr Retriever by paying [[symbol:2]].
 16. Repeat from step 1.
 
 
@@ -2803,11 +2803,11 @@ Steps:
 2. When Myr Retriever dies, it triggers, returning Junk Diver to your hand from your graveyard.
 3. Imotekh the Stormlord's first ability triggers, creating two 2/2 Necron Warrior artifact creature tokens.
 4. Activate Ashnod's Altar by sacrificing a Necron Warrior, adding [[symbol:c]][[symbol:c]].
-5. Cast Junk Diver by paying {3}.
+5. Cast Junk Diver by paying [[symbol:3]].
 6. Activate Ashnod's Altar by sacrificing Junk Diver, adding [[symbol:c]][[symbol:c]].
 7. When Junk Diver dies, it triggers, returning Myr Retriever to your hand from your graveyard.
 8. Imotekh the Stormlord's first ability triggers, creating two 2/2 Necron Warrior artifact creature tokens.
-9. Cast Myr Retriever by paying {2}.
+9. Cast Myr Retriever by paying [[symbol:2]].
 10. Repeat.
 
 
@@ -2886,11 +2886,11 @@ Steps:
 2. When Myr Retriever dies, it triggers, returning Junk Diver to your hand from your graveyard.
 3. Imotekh the Stormlord's first ability triggers, creating two 2/2 Necron Warrior artifact creature tokens.
 4. Activate Krark-Clan Ironworks by sacrificing a Necron Warrior, adding [[symbol:c]][[symbol:c]].
-5. Cast Junk Diver by paying {3}.
+5. Cast Junk Diver by paying [[symbol:3]].
 6. Activate Krark-Clan Ironworks by sacrificing Junk Diver, adding [[symbol:c]][[symbol:c]].
 7. When Junk Diver dies, it triggers, returning Myr Retriever to your hand from your graveyard.
 8. Imotekh the Stormlord's first ability triggers, creating two 2/2 Necron Warrior artifact creature tokens.
-9. Cast Myr Retriever by paying {2}.
+9. Cast Myr Retriever by paying [[symbol:2]].
 10. Repeat.
 
 
@@ -2927,11 +2927,11 @@ Steps:
 2. When Workshop Assistant dies, it triggers, returning Junk Diver to your hand from your graveyard.
 3. Imotekh the Stormlord's first ability triggers, creating two 2/2 Necron Warrior artifact creature tokens.
 4. Activate Ashnod's Altar by sacrificing a Necron Warrior, adding [[symbol:c]][[symbol:c]].
-5. Cast Junk Diver by paying {3}.
+5. Cast Junk Diver by paying [[symbol:3]].
 6. Activate Ashnod's Altar by sacrificing Junk Diver, adding [[symbol:c]][[symbol:c]].
 7. When Junk Diver dies, it triggers, returning Workshop Assistant to your hand from your graveyard.
 8. Imotekh the Stormlord's first ability triggers, creating two 2/2 Necron Warrior artifact creature tokens.
-9. Cast Workshop Assistant by paying {3}.
+9. Cast Workshop Assistant by paying [[symbol:3]].
 10. Repeat.
 
 
@@ -3010,11 +3010,11 @@ Steps:
 2. When Workshop Assistant dies, it triggers, returning Junk Diver to your hand from your graveyard.
 3. Imotekh the Stormlord's first ability triggers, creating two 2/2 Necron Warrior artifact creature tokens.
 4. Activate Krark-Clan Ironworks by sacrificing a Necron Warrior, adding [[symbol:c]][[symbol:c]].
-5. Cast Junk Diver by paying {3}.
+5. Cast Junk Diver by paying [[symbol:3]].
 6. Activate Krark-Clan Ironworks by sacrificing Junk Diver, adding [[symbol:c]][[symbol:c]].
 7. When Junk Diver dies, it triggers, returning Workshop Assistant to your hand from your graveyard.
 8. Imotekh the Stormlord's first ability triggers, creating two 2/2 Necron Warrior artifact creature tokens.
-9. Cast Workshop Assistant by paying {3}.
+9. Cast Workshop Assistant by paying [[symbol:3]].
 10. Repeat.
 
 
@@ -3140,17 +3140,17 @@ Steps:
 2. Myr Retriever dies, triggering itself and Scrap Trawler.
 3. Resolve the Myr Retriever trigger, returning Junk Diver from your graveyard to your hand.
 4. Resolve the Scrap Trawler trigger, returning Sol Ring from your hand to your graveyard.
-5. Cast Sol Ring by paying {1}.
+5. Cast Sol Ring by paying [[symbol:1]].
 6. Activate Sol Ring by tapping it, adding [[symbol:c]][[symbol:c]].
 7. Activate Krark-Clan Ironworks by sacrificing Sol Ring, adding [[symbol:c]][[symbol:c]].
 8. Scrap Trawler triggers, choose not to return an artifact to your hand.
-9. Cast Junk Diver by paying {3}.
+9. Cast Junk Diver by paying [[symbol:3]].
 10. Activate Krark-Clan Ironworks by sacrificing Junk Diver, adding [[symbol:c]][[symbol:c]].
 11. Junk Diver dies, triggering itself and Scrap Trawler.
 12. Resolve the Junk Diver trigger, returning Myr Retriever from your graveyard to your hand.
 13. Resolve the Scrap Trawler trigger, returning Sol Ring from your graveyard to your hand.
 14. Repeat steps 5-8 one additional time.
-15. Cast Myr Retriever by paying {2}.
+15. Cast Myr Retriever by paying [[symbol:2]].
 16. Repeat from step 1.
 
 
@@ -3352,11 +3352,11 @@ Steps:
 2. When Myr Retriever dies, it triggers, returning Scrap Trawler to your hand from your graveyard.
 3. Imotekh the Stormlord's first ability triggers, creating two 2/2 Necron Warrior artifact creature tokens.
 4. Activate Krark-Clan Ironworks by sacrificing a Necron Warrior, adding [[symbol:c]][[symbol:c]].
-5. Cast Scrap Trawler by paying {3}.
+5. Cast Scrap Trawler by paying [[symbol:3]].
 6. Activate Krark-Clan Ironworks by sacrificing Scrap Trawler, adding [[symbol:c]][[symbol:c]].
 7. When Scrap Trawler dies, it triggers, returning Myr Retriever to your hand from your graveyard.
 8. Imotekh the Stormlord's first ability triggers, creating two 2/2 Necron Warrior artifact creature tokens.
-9. Cast Myr Retriever by paying {2}.
+9. Cast Myr Retriever by paying [[symbol:2]].
 10. Repeat.
 
 
@@ -3393,11 +3393,11 @@ Steps:
 2. When Myr Retriever dies, it triggers, returning Junk Diver to your hand from your graveyard.
 3. Imotekh the Stormlord's first ability triggers, creating two 2/2 Necron Warrior artifact creature tokens.
 4. Activate Krark-Clan Ironworks by sacrificing a Necron Warrior, adding [[symbol:c]][[symbol:c]].
-5. Cast Junk Diver by paying {3}.
+5. Cast Junk Diver by paying [[symbol:3]].
 6. Activate Krark-Clan Ironworks by sacrificing Junk Diver, adding [[symbol:c]][[symbol:c]].
 7. When Junk Diver dies, it triggers, returning Myr Retriever to your hand from your graveyard.
 8. Imotekh the Stormlord's first ability triggers, creating two 2/2 Necron Warrior artifact creature tokens.
-9. Cast Myr Retriever by paying {2}.
+9. Cast Myr Retriever by paying [[symbol:2]].
 10. Repeat.
 
 
@@ -3426,12 +3426,12 @@ Cards Required:
 Prerequisites:
 - All permanents on the battlefield.
 - You control at least one nontoken artifact creature.
-- {2} available
+- [[symbol:2]] available
 
 
 Steps:
 1. Activate Krark-Clan Ironworks by sacrificing a nontoken artifact creature, adding [[symbol:c]][[symbol:c]].
-2. The creature dies, triggering Nim Deathmantle, causing you to pay {4} to return the artifact creature from your graveyard to the battlefield, and attach Nim Deathmantle to it.
+2. The creature dies, triggering Nim Deathmantle, causing you to pay [[symbol:4]] to return the artifact creature from your graveyard to the battlefield, and attach Nim Deathmantle to it.
 3. Imotekh's first ability triggers, creating two 2/2 Necron Warrior artifact creature tokens.
 4. Activate Krark-Clan Ironworks by sacrificing a Necron Warrior, adding [[symbol:c]][[symbol:c]].
 5. Repeat.
@@ -3469,11 +3469,11 @@ Steps:
 2. When Workshop Assistant dies, it triggers, returning Myr Retriever to your hand from your graveyard.
 3. Imotekh the Stormlord's first ability triggers, creating two 2/2 Necron Warrior artifact creature tokens.
 4. Activate Krark-Clan Ironworks by sacrificing a Necron Warrior, adding [[symbol:c]][[symbol:c]].
-5. Cast Myr Retriever by paying {2}.
+5. Cast Myr Retriever by paying [[symbol:2]].
 6. Activate Krark-Clan Ironworks by sacrificing Myr Retriever, adding [[symbol:c]][[symbol:c]].
 7. When Myr Retriever dies, it triggers, returning Workshop Assistant to your hand from your graveyard.
 8. Imotekh the Stormlord's first ability triggers, creating two 2/2 Necron Warrior artifact creature tokens.
-9. Cast Workshop Assistant by paying {3}.
+9. Cast Workshop Assistant by paying [[symbol:3]].
 10. Repeat.
 
 
@@ -3594,11 +3594,11 @@ Steps:
 2. When Workshop Assistant dies, it triggers, returning Junk Diver to your hand from your graveyard.
 3. Imotekh the Stormlord's first ability triggers, creating two 2/2 Necron Warrior artifact creature tokens.
 4. Activate Krark-Clan Ironworks by sacrificing a Necron Warrior, adding [[symbol:c]][[symbol:c]].
-5. Cast Junk Diver by paying {3}.
+5. Cast Junk Diver by paying [[symbol:3]].
 6. Activate Krark-Clan Ironworks by sacrificing Junk Diver, adding [[symbol:c]][[symbol:c]].
 7. When Junk Diver dies, it triggers, returning Workshop Assistant to your hand from your graveyard.
 8. Imotekh the Stormlord's first ability triggers, creating two 2/2 Necron Warrior artifact creature tokens.
-9. Cast Workshop Assistant by paying {3}.
+9. Cast Workshop Assistant by paying [[symbol:3]].
 10. Repeat.
 
 
@@ -3663,11 +3663,11 @@ Cards Required:
 
 Prerequisites:
 - All permanents on the battlefield.
-- {2} available
+- [[symbol:2]] available
 
 
 Steps:
-1. Activate Retrofitter Foundry's second ability by paying {2} and tapping it, creating a 1/1 Servo artifact creature token.
+1. Activate Retrofitter Foundry's second ability by paying [[symbol:2]] and tapping it, creating a 1/1 Servo artifact creature token.
 2. Activate Krark-Clan Ironworks by sacrificing the Servo, adding [[symbol:c]][[symbol:c]].
 3. When the Servo dies, Dross Scorpion triggers, untapping Retrofitter Foundry.
 4. Repeat.
@@ -3698,7 +3698,7 @@ Steps:
 1. Activate Krark-Clan Ironworks by sacrificing the Robot token, adding [[symbol:c]][[symbol:c]].
 2. Ultron the Annihilator triggers, causing each opponent to lose 1 life.
 3. Activate Krark-Clan Ironworks by sacrificing Ultron the Annihilator, adding [[symbol:c]][[symbol:c]].
-4. Nim Deathmantle triggers, causing you to pay {4} to return Ultron the Annihilator from your graveyard to the battlefield and attach Nim Deathmantle to it.
+4. Nim Deathmantle triggers, causing you to pay [[symbol:4]] to return Ultron the Annihilator from your graveyard to the battlefield and attach Nim Deathmantle to it.
 5. Ultron enters and creates a 2/2 Robot Villain artifact creature token.
 6. Repeat.
 
@@ -3734,12 +3734,12 @@ Cards Required:
 
 Prerequisites:
 - All permanents on the battlefield.
-- {2} available
+- [[symbol:2]] available
 
 
 Steps:
 1. Activate Ashnod's Altar by sacrificing Marionette Apprentice, adding [[symbol:c]][[symbol:c]].
-2. When Marionette Apprentice dies, Nim Deathmantle triggers, causing you to pay {4} to return Marionette Apprentice from your graveyard to the battlefield and attach Nim Deathmantle to it.
+2. When Marionette Apprentice dies, Nim Deathmantle triggers, causing you to pay [[symbol:4]] to return Marionette Apprentice from your graveyard to the battlefield and attach Nim Deathmantle to it.
 3. When Marionette Apprentice enters, it triggers, creating a creature token.
 4. Activate Ashnod's Altar by sacrificing a creature token, adding [[symbol:c]][[symbol:c]].
 5. When the creature token dies, Marionette Apprentice triggers, causing each opponent to lose 1 life.
@@ -3983,17 +3983,17 @@ Steps:
 2. Myr Retriever dies, triggering itself and Scrap Trawler.
 3. Resolve the Myr Retriever trigger, returning Junk Diver from your graveyard to your hand.
 4. Resolve the Scrap Trawler trigger, returning Sol Ring from your hand to your graveyard.
-5. Cast Sol Ring by paying {1}.
+5. Cast Sol Ring by paying [[symbol:1]].
 6. Activate Sol Ring by tapping it, adding [[symbol:c]][[symbol:c]].
 7. Activate Krark-Clan Ironworks by sacrificing Sol Ring, adding [[symbol:c]][[symbol:c]].
 8. Scrap Trawler triggers, choose not to return an artifact to your hand.
-9. Cast Junk Diver by paying {3}.
+9. Cast Junk Diver by paying [[symbol:3]].
 10. Activate Krark-Clan Ironworks by sacrificing Junk Diver, adding [[symbol:c]][[symbol:c]].
 11. Junk Diver dies, triggering itself and Scrap Trawler.
 12. Resolve the Junk Diver trigger, returning Myr Retriever from your graveyard to your hand.
 13. Resolve the Scrap Trawler trigger, returning Sol Ring from your graveyard to your hand.
 14. Repeat steps 5-8 one additional time.
-15. Cast Myr Retriever by paying {2}.
+15. Cast Myr Retriever by paying [[symbol:2]].
 16. Repeat from step 1.
 
 
@@ -4193,11 +4193,11 @@ Steps:
 2. When Myr Retriever dies, it triggers, returning Scrap Trawler to your hand from your graveyard.
 3. Imotekh the Stormlord's first ability triggers, creating two 2/2 Necron Warrior artifact creature tokens.
 4. Activate Ashnod's Altar by sacrificing a Necron Warrior, adding [[symbol:c]][[symbol:c]].
-5. Cast Scrap Trawler by paying {3}.
+5. Cast Scrap Trawler by paying [[symbol:3]].
 6. Activate Ashnod's Altar by sacrificing Scrap Trawler, adding [[symbol:c]][[symbol:c]].
 7. When Scrap Trawler dies, it triggers, returning Myr Retriever to your hand from your graveyard.
 8. Imotekh the Stormlord's first ability triggers, creating two 2/2 Necron Warrior artifact creature tokens.
-9. Cast Myr Retriever by paying {2}.
+9. Cast Myr Retriever by paying [[symbol:2]].
 10. Repeat.
 
 
@@ -4276,11 +4276,11 @@ Steps:
 2. When Myr Retriever dies, it triggers, returning Scrap Trawler to your hand from your graveyard.
 3. Imotekh the Stormlord's first ability triggers, creating two 2/2 Necron Warrior artifact creature tokens.
 4. Activate Krark-Clan Ironworks by sacrificing a Necron Warrior, adding [[symbol:c]][[symbol:c]].
-5. Cast Scrap Trawler by paying {3}.
+5. Cast Scrap Trawler by paying [[symbol:3]].
 6. Activate Krark-Clan Ironworks by sacrificing Scrap Trawler, adding [[symbol:c]][[symbol:c]].
 7. When Scrap Trawler dies, it triggers, returning Myr Retriever to your hand from your graveyard.
 8. Imotekh the Stormlord's first ability triggers, creating two 2/2 Necron Warrior artifact creature tokens.
-9. Cast Myr Retriever by paying {2}.
+9. Cast Myr Retriever by paying [[symbol:2]].
 10. Repeat.
 
 
@@ -4317,11 +4317,11 @@ Steps:
 2. When Myr Retriever dies, it triggers, returning Junk Diver to your hand from your graveyard.
 3. Imotekh the Stormlord's first ability triggers, creating two 2/2 Necron Warrior artifact creature tokens.
 4. Activate Ashnod's Altar by sacrificing a Necron Warrior, adding [[symbol:c]][[symbol:c]].
-5. Cast Junk Diver by paying {3}.
+5. Cast Junk Diver by paying [[symbol:3]].
 6. Activate Ashnod's Altar by sacrificing Junk Diver, adding [[symbol:c]][[symbol:c]].
 7. When Junk Diver dies, it triggers, returning Myr Retriever to your hand from your graveyard.
 8. Imotekh the Stormlord's first ability triggers, creating two 2/2 Necron Warrior artifact creature tokens.
-9. Cast Myr Retriever by paying {2}.
+9. Cast Myr Retriever by paying [[symbol:2]].
 10. Repeat.
 
 
@@ -4483,11 +4483,11 @@ Steps:
 2. When Workshop Assistant dies, it triggers, returning Myr Retriever to your hand from your graveyard.
 3. Imotekh the Stormlord's first ability triggers, creating two 2/2 Necron Warrior artifact creature tokens.
 4. Activate Ashnod's Altar by sacrificing a Necron Warrior, adding [[symbol:c]][[symbol:c]].
-5. Cast Myr Retriever by paying {2}.
+5. Cast Myr Retriever by paying [[symbol:2]].
 6. Activate Ashnod's Altar by sacrificing Myr Retriever, adding [[symbol:c]][[symbol:c]].
 7. When Myr Retriever dies, it triggers, returning Workshop Assistant to your hand from your graveyard.
 8. Imotekh the Stormlord's first ability triggers, creating two 2/2 Necron Warrior artifact creature tokens.
-9. Cast Workshop Assistant by paying {3}.
+9. Cast Workshop Assistant by paying [[symbol:3]].
 10. Repeat.
 
 
@@ -4524,11 +4524,11 @@ Steps:
 2. When Myr Retriever dies, it triggers, returning Junk Diver to your hand from your graveyard.
 3. Imotekh the Stormlord's first ability triggers, creating two 2/2 Necron Warrior artifact creature tokens.
 4. Activate Krark-Clan Ironworks by sacrificing a Necron Warrior, adding [[symbol:c]][[symbol:c]].
-5. Cast Junk Diver by paying {3}.
+5. Cast Junk Diver by paying [[symbol:3]].
 6. Activate Krark-Clan Ironworks by sacrificing Junk Diver, adding [[symbol:c]][[symbol:c]].
 7. When Junk Diver dies, it triggers, returning Myr Retriever to your hand from your graveyard.
 8. Imotekh the Stormlord's first ability triggers, creating two 2/2 Necron Warrior artifact creature tokens.
-9. Cast Myr Retriever by paying {2}.
+9. Cast Myr Retriever by paying [[symbol:2]].
 10. Repeat.
 
 
@@ -4565,11 +4565,11 @@ Steps:
 2. When Workshop Assistant dies, it triggers, returning Myr Retriever to your hand from your graveyard.
 3. Imotekh the Stormlord's first ability triggers, creating two 2/2 Necron Warrior artifact creature tokens.
 4. Activate Krark-Clan Ironworks by sacrificing a Necron Warrior, adding [[symbol:c]][[symbol:c]].
-5. Cast Myr Retriever by paying {2}.
+5. Cast Myr Retriever by paying [[symbol:2]].
 6. Activate Krark-Clan Ironworks by sacrificing Myr Retriever, adding [[symbol:c]][[symbol:c]].
 7. When Myr Retriever dies, it triggers, returning Workshop Assistant to your hand from your graveyard.
 8. Imotekh the Stormlord's first ability triggers, creating two 2/2 Necron Warrior artifact creature tokens.
-9. Cast Workshop Assistant by paying {3}.
+9. Cast Workshop Assistant by paying [[symbol:3]].
 10. Repeat.
 
 
@@ -4784,12 +4784,12 @@ Cards Required:
 
 Prerequisites:
 - All permanents on the battlefield.
-- {1} available
+- [[symbol:1]] available
 
 
 Steps:
 1. Activate Sensei's Divining Top by tapping it, causing you to draw a card and put Sensei's Divining Top on top of your library.
-2. Cast Sensei's Divining Top from the top of your library by paying {1}.
+2. Cast Sensei's Divining Top from the top of your library by paying [[symbol:1]].
 3. Glaring Fleshraker's first ability triggers, creating a 0/1 Eldrazi Spawn creature token.
 4. When the Eldrazi Spawn enters, Glaring Fleshraker's second ability triggers, dealing 1 damage to each opponent.
 5. Activate the Eldrazi Spawn by sacrificing it, adding [[symbol:c]].
@@ -4854,7 +4854,7 @@ Prerequisites:
 Steps:
 1. Activate Sensei's Divining Top's second ability by tapping it, causing you to draw a card and put Sensei's Divining Top on top of your library.
 2. Activate Skirge Familiar by discarding a card, adding [[symbol:b]]
-3. Cast Sensei's Divining Top from the top of your library by paying {1}.
+3. Cast Sensei's Divining Top from the top of your library by paying [[symbol:1]].
 4. Repeat.
 
 
@@ -4894,7 +4894,7 @@ Steps:
 3. Resolve the Nim Deathmantle trigger, choosing not to pay.
 4. Resolve the creature's trigger, returning it from your graveyard to the battlefield with a +1/+1 or -1/-1 counter on it.
 5. Activate Ashnod's Altar by sacrificing the persist or undying creature, adding [[symbol:c]][[symbol:c]].
-6. When the persist or undying creature dies, Nim Deathmantle triggers, causing you to pay {4} to return the persist or undying creature from your graveyard to the battlefield.
+6. When the persist or undying creature dies, Nim Deathmantle triggers, causing you to pay [[symbol:4]] to return the persist or undying creature from your graveyard to the battlefield.
 7. Repeat.
 
 
@@ -4919,12 +4919,12 @@ Cards Required:
 
 Prerequisites:
 - All permanents on the battlefield.
-- {2} available
+- [[symbol:2]] available
 
 
 Steps:
 1. Activate Ashnod's Altar by sacrificing Marionette Apprentice, adding [[symbol:c]][[symbol:c]].
-2. When Marionette Apprentice dies, Nim Deathmantle triggers, causing you to pay {4} to return Marionette Apprentice from your graveyard to the battlefield and attach Nim Deathmantle to it.
+2. When Marionette Apprentice dies, Nim Deathmantle triggers, causing you to pay [[symbol:4]] to return Marionette Apprentice from your graveyard to the battlefield and attach Nim Deathmantle to it.
 3. When Marionette Apprentice enters, it triggers, creating a creature token.
 4. Activate Ashnod's Altar by sacrificing a creature token, adding [[symbol:c]][[symbol:c]].
 5. When the creature token dies, Marionette Apprentice triggers, causing each opponent to lose 1 life.
@@ -4954,12 +4954,12 @@ Cards Required:
 Prerequisites:
 - All permanents on the battlefield.
 - You control at least one nontoken artifact creature.
-- {2} available
+- [[symbol:2]] available
 
 
 Steps:
 1. Activate Ashnod's Altar by sacrificing a nontoken artifact creature, adding [[symbol:c]][[symbol:c]].
-2. The creature dies, triggering Nim Deathmantle, causing you to pay {4} to return the artifact creature from your graveyard to the battlefield, and attach Nim Deathmantle to it.
+2. The creature dies, triggering Nim Deathmantle, causing you to pay [[symbol:4]] to return the artifact creature from your graveyard to the battlefield, and attach Nim Deathmantle to it.
 3. Imotekh's first ability triggers, creating two 2/2 Necron Warrior artifact creature tokens.
 4. Activate Ashnod's Altar by sacrificing a Necron Warrior, adding [[symbol:c]][[symbol:c]].
 5. Repeat.
@@ -4989,12 +4989,12 @@ Cards Required:
 Prerequisites:
 - All permanents on the battlefield.
 - You control at least one nontoken artifact creature.
-- {2} available
+- [[symbol:2]] available
 
 
 Steps:
 1. Activate Krark-Clan Ironworks by sacrificing a nontoken artifact creature, adding [[symbol:c]][[symbol:c]].
-2. The creature dies, triggering Nim Deathmantle, causing you to pay {4} to return the artifact creature from your graveyard to the battlefield, and attach Nim Deathmantle to it.
+2. The creature dies, triggering Nim Deathmantle, causing you to pay [[symbol:4]] to return the artifact creature from your graveyard to the battlefield, and attach Nim Deathmantle to it.
 3. Imotekh's first ability triggers, creating two 2/2 Necron Warrior artifact creature tokens.
 4. Activate Krark-Clan Ironworks by sacrificing a Necron Warrior, adding [[symbol:c]][[symbol:c]].
 5. Repeat.
@@ -5027,7 +5027,7 @@ Steps:
 1. Activate Ashnod's Altar by sacrificing the Robot token, adding [[symbol:c]][[symbol:c]].
 2. Ultron the Annihilator triggers, causing each opponent to lose 1 life.
 3. Activate Ashnod's Altar by sacrificing Ultron the Annihilator, adding [[symbol:c]][[symbol:c]].
-4. Nim Deathmantle triggers, causing you to pay {4} to return Ultron the Annihilator from your graveyard to the battlefield and attach Nim Deathmantle to it.
+4. Nim Deathmantle triggers, causing you to pay [[symbol:4]] to return Ultron the Annihilator from your graveyard to the battlefield and attach Nim Deathmantle to it.
 5. Ultron enters and creates a 2/2 Robot Villain artifact creature token.
 6. Repeat.
 
@@ -5061,7 +5061,7 @@ Steps:
 1. Activate Krark-Clan Ironworks by sacrificing the Robot token, adding [[symbol:c]][[symbol:c]].
 2. Ultron the Annihilator triggers, causing each opponent to lose 1 life.
 3. Activate Krark-Clan Ironworks by sacrificing Ultron the Annihilator, adding [[symbol:c]][[symbol:c]].
-4. Nim Deathmantle triggers, causing you to pay {4} to return Ultron the Annihilator from your graveyard to the battlefield and attach Nim Deathmantle to it.
+4. Nim Deathmantle triggers, causing you to pay [[symbol:4]] to return Ultron the Annihilator from your graveyard to the battlefield and attach Nim Deathmantle to it.
 5. Ultron enters and creates a 2/2 Robot Villain artifact creature token.
 6. Repeat.
 
@@ -5100,7 +5100,7 @@ Steps:
 5. Activate Phyrexian Altar by sacrificing Ultron the Annihilator, adding one mana of any color.
 6. Pitiless Plunderer triggers, creating a Treasure token.
 7. Sacrifice both Treasure tokens for two mana.
-8. Nim Deathmantle triggers, causing you to pay {4} to return Ultron the Annihilator from your graveyard to the battlefield and attach Nim Deathmantle to it.
+8. Nim Deathmantle triggers, causing you to pay [[symbol:4]] to return Ultron the Annihilator from your graveyard to the battlefield and attach Nim Deathmantle to it.
 9. Ultron enters and creates a 2/2 Robot Villain artifact creature token.
 10. Repeat.
 
@@ -5262,7 +5262,7 @@ Steps:
 5. Activate Phyrexian Altar by sacrificing Ultron the Annihilator, adding one mana of any color.
 6. Pitiless Plunderer triggers, creating a Treasure token.
 7. Sacrifice both Treasure tokens for two mana.
-8. Nim Deathmantle triggers, causing you to pay {4} to return Ultron the Annihilator from your graveyard to the battlefield and attach Nim Deathmantle to it.
+8. Nim Deathmantle triggers, causing you to pay [[symbol:4]] to return Ultron the Annihilator from your graveyard to the battlefield and attach Nim Deathmantle to it.
 9. Ultron enters and creates a 2/2 Robot Villain artifact creature token.
 10. Repeat.
 
@@ -5656,9 +5656,9 @@ Prerequisites:
 Steps:
 1. Activate Arcbound Ravager by sacrificing another creature.
 2. When the creature dies, Pitiless Plunderer triggers, creating a Treasure token.
-3. Activate the Treasure by tapping and sacrificing it, adding {1}.
+3. Activate the Treasure by tapping and sacrificing it, adding [[symbol:1]].
 4. Resolve the Arcbound Ravager ability, putting a +1/+1 counter on it.
-5. Animation Module triggers, causing you to pay {1} to create a 1/1 Servo artifact creature token.
+5. Animation Module triggers, causing you to pay [[symbol:1]] to create a 1/1 Servo artifact creature token.
 6. Repeat.
 
 
@@ -5784,7 +5784,7 @@ Steps:
 5. Activate Phyrexian Altar by sacrificing Ultron the Annihilator, adding one mana of any color.
 6. Pitiless Plunderer triggers, creating a Treasure token.
 7. Sacrifice both Treasure tokens for two mana.
-8. Nim Deathmantle triggers, causing you to pay {4} to return Ultron the Annihilator from your graveyard to the battlefield and attach Nim Deathmantle to it.
+8. Nim Deathmantle triggers, causing you to pay [[symbol:4]] to return Ultron the Annihilator from your graveyard to the battlefield and attach Nim Deathmantle to it.
 9. Ultron enters and creates a 2/2 Robot Villain artifact creature token.
 10. Repeat.
 
@@ -5852,11 +5852,11 @@ Cards Required:
 
 Prerequisites:
 - All permanents on the battlefield.
-- {2} available
+- [[symbol:2]] available
 
 
 Steps:
-1. Activate Retrofitter Foundry's second ability by paying {2} and tapping it, creating a 1/1 Servo artifact creature token.
+1. Activate Retrofitter Foundry's second ability by paying [[symbol:2]] and tapping it, creating a 1/1 Servo artifact creature token.
 2. Activate Krark-Clan Ironworks by sacrificing the Servo, adding [[symbol:c]][[symbol:c]].
 3. When the Servo dies, Dross Scorpion triggers, untapping Retrofitter Foundry.
 4. Repeat.
@@ -5915,11 +5915,11 @@ Cards Required:
 
 Prerequisites:
 - All permanents on the battlefield.
-- {2} available
+- [[symbol:2]] available
 
 
 Steps:
-1. Activate Retrofitter Foundry's second ability by paying {2} and tapping it, creating a 1/1 Servo artifact creature token.
+1. Activate Retrofitter Foundry's second ability by paying [[symbol:2]] and tapping it, creating a 1/1 Servo artifact creature token.
 2. Activate Ashnod's Altar by sacrificing the Servo, adding [[symbol:c]][[symbol:c]].
 3. When the Servo dies, Dross Scorpion triggers, untapping Retrofitter Foundry.
 4. Repeat.
@@ -6042,17 +6042,17 @@ Steps:
 2. Myr Retriever dies, triggering itself and Scrap Trawler.
 3. Resolve the Myr Retriever trigger, returning Junk Diver from your graveyard to your hand.
 4. Resolve the Scrap Trawler trigger, returning Sol Ring from your hand to your graveyard.
-5. Cast Sol Ring by paying {1}.
+5. Cast Sol Ring by paying [[symbol:1]].
 6. Activate Sol Ring by tapping it, adding [[symbol:c]][[symbol:c]].
 7. Activate Krark-Clan Ironworks by sacrificing Sol Ring, adding [[symbol:c]][[symbol:c]].
 8. Scrap Trawler triggers, choose not to return an artifact to your hand.
-9. Cast Junk Diver by paying {3}.
+9. Cast Junk Diver by paying [[symbol:3]].
 10. Activate Krark-Clan Ironworks by sacrificing Junk Diver, adding [[symbol:c]][[symbol:c]].
 11. Junk Diver dies, triggering itself and Scrap Trawler.
 12. Resolve the Junk Diver trigger, returning Myr Retriever from your graveyard to your hand.
 13. Resolve the Scrap Trawler trigger, returning Sol Ring from your graveyard to your hand.
 14. Repeat steps 5-8 one additional time.
-15. Cast Myr Retriever by paying {2}.
+15. Cast Myr Retriever by paying [[symbol:2]].
 16. Repeat from step 1.
 
 
@@ -6252,11 +6252,11 @@ Steps:
 2. When Myr Retriever dies, it triggers, returning Scrap Trawler to your hand from your graveyard.
 3. Imotekh the Stormlord's first ability triggers, creating two 2/2 Necron Warrior artifact creature tokens.
 4. Activate Ashnod's Altar by sacrificing a Necron Warrior, adding [[symbol:c]][[symbol:c]].
-5. Cast Scrap Trawler by paying {3}.
+5. Cast Scrap Trawler by paying [[symbol:3]].
 6. Activate Ashnod's Altar by sacrificing Scrap Trawler, adding [[symbol:c]][[symbol:c]].
 7. When Scrap Trawler dies, it triggers, returning Myr Retriever to your hand from your graveyard.
 8. Imotekh the Stormlord's first ability triggers, creating two 2/2 Necron Warrior artifact creature tokens.
-9. Cast Myr Retriever by paying {2}.
+9. Cast Myr Retriever by paying [[symbol:2]].
 10. Repeat.
 
 
@@ -6293,11 +6293,11 @@ Steps:
 2. When Myr Retriever dies, it triggers, returning Scrap Trawler to your hand from your graveyard.
 3. Imotekh the Stormlord's first ability triggers, creating two 2/2 Necron Warrior artifact creature tokens.
 4. Activate Krark-Clan Ironworks by sacrificing a Necron Warrior, adding [[symbol:c]][[symbol:c]].
-5. Cast Scrap Trawler by paying {3}.
+5. Cast Scrap Trawler by paying [[symbol:3]].
 6. Activate Krark-Clan Ironworks by sacrificing Scrap Trawler, adding [[symbol:c]][[symbol:c]].
 7. When Scrap Trawler dies, it triggers, returning Myr Retriever to your hand from your graveyard.
 8. Imotekh the Stormlord's first ability triggers, creating two 2/2 Necron Warrior artifact creature tokens.
-9. Cast Myr Retriever by paying {2}.
+9. Cast Myr Retriever by paying [[symbol:2]].
 10. Repeat.
 
 
@@ -6745,12 +6745,12 @@ Cards Required:
 
 Prerequisites:
 - All permanents on the battlefield.
-- {1} available
+- [[symbol:1]] available
 
 
 Steps:
 1. Activate Sensei's Divining Top by tapping it, causing you to draw a card and put Sensei's Divining Top on top of your library.
-2. Cast Sensei's Divining Top from the top of your library by paying {1}.
+2. Cast Sensei's Divining Top from the top of your library by paying [[symbol:1]].
 3. Glaring Fleshraker's first ability triggers, creating a 0/1 Eldrazi Spawn creature token.
 4. When the Eldrazi Spawn enters, Glaring Fleshraker's second ability triggers, dealing 1 damage to each opponent.
 5. Activate the Eldrazi Spawn by sacrificing it, adding [[symbol:c]].
@@ -6815,7 +6815,7 @@ Prerequisites:
 Steps:
 1. Activate Sensei's Divining Top's second ability by tapping it, causing you to draw a card and put Sensei's Divining Top on top of your library.
 2. Activate Skirge Familiar by discarding a card, adding [[symbol:b]]
-3. Cast Sensei's Divining Top from the top of your library by paying {1}.
+3. Cast Sensei's Divining Top from the top of your library by paying [[symbol:1]].
 4. Repeat.
 
 
@@ -6887,7 +6887,7 @@ Prerequisites:
 Steps:
 1. Activate Sensei's Divining Top's second ability by tapping it, causing you to draw a card and put Sensei's Divining Top on top of your library.
 2. Activate Skirge Familiar by discarding a card, adding [[symbol:b]]
-3. Cast Sensei's Divining Top from the top of your library by paying {1}.
+3. Cast Sensei's Divining Top from the top of your library by paying [[symbol:1]].
 4. Repeat.
 
 
@@ -6930,17 +6930,17 @@ Steps:
 2. Myr Retriever dies, triggering itself and Scrap Trawler.
 3. Resolve the Myr Retriever trigger, returning Junk Diver from your graveyard to your hand.
 4. Resolve the Scrap Trawler trigger, returning Sol Ring from your hand to your graveyard.
-5. Cast Sol Ring by paying {1}.
+5. Cast Sol Ring by paying [[symbol:1]].
 6. Activate Sol Ring by tapping it, adding [[symbol:c]][[symbol:c]].
 7. Activate Krark-Clan Ironworks by sacrificing Sol Ring, adding [[symbol:c]][[symbol:c]].
 8. Scrap Trawler triggers, choose not to return an artifact to your hand.
-9. Cast Junk Diver by paying {3}.
+9. Cast Junk Diver by paying [[symbol:3]].
 10. Activate Krark-Clan Ironworks by sacrificing Junk Diver, adding [[symbol:c]][[symbol:c]].
 11. Junk Diver dies, triggering itself and Scrap Trawler.
 12. Resolve the Junk Diver trigger, returning Myr Retriever from your graveyard to your hand.
 13. Resolve the Scrap Trawler trigger, returning Sol Ring from your graveyard to your hand.
 14. Repeat steps 5-8 one additional time.
-15. Cast Myr Retriever by paying {2}.
+15. Cast Myr Retriever by paying [[symbol:2]].
 16. Repeat from step 1.
 
 
@@ -7635,7 +7635,7 @@ Steps:
 1. Activate Ashnod's Altar by sacrificing the Robot token, adding [[symbol:c]][[symbol:c]].
 2. Ultron the Annihilator triggers, causing each opponent to lose 1 life.
 3. Activate Ashnod's Altar by sacrificing Ultron the Annihilator, adding [[symbol:c]][[symbol:c]].
-4. Nim Deathmantle triggers, causing you to pay {4} to return Ultron the Annihilator from your graveyard to the battlefield and attach Nim Deathmantle to it.
+4. Nim Deathmantle triggers, causing you to pay [[symbol:4]] to return Ultron the Annihilator from your graveyard to the battlefield and attach Nim Deathmantle to it.
 5. Ultron enters and creates a 2/2 Robot Villain artifact creature token.
 6. Repeat.
 
@@ -7669,7 +7669,7 @@ Steps:
 1. Activate Krark-Clan Ironworks by sacrificing the Robot token, adding [[symbol:c]][[symbol:c]].
 2. Ultron the Annihilator triggers, causing each opponent to lose 1 life.
 3. Activate Krark-Clan Ironworks by sacrificing Ultron the Annihilator, adding [[symbol:c]][[symbol:c]].
-4. Nim Deathmantle triggers, causing you to pay {4} to return Ultron the Annihilator from your graveyard to the battlefield and attach Nim Deathmantle to it.
+4. Nim Deathmantle triggers, causing you to pay [[symbol:4]] to return Ultron the Annihilator from your graveyard to the battlefield and attach Nim Deathmantle to it.
 5. Ultron enters and creates a 2/2 Robot Villain artifact creature token.
 6. Repeat.
 
@@ -7708,7 +7708,7 @@ Steps:
 5. Activate Phyrexian Altar by sacrificing Ultron the Annihilator, adding one mana of any color.
 6. Pitiless Plunderer triggers, creating a Treasure token.
 7. Sacrifice both Treasure tokens for two mana.
-8. Nim Deathmantle triggers, causing you to pay {4} to return Ultron the Annihilator from your graveyard to the battlefield and attach Nim Deathmantle to it.
+8. Nim Deathmantle triggers, causing you to pay [[symbol:4]] to return Ultron the Annihilator from your graveyard to the battlefield and attach Nim Deathmantle to it.
 9. Ultron enters and creates a 2/2 Robot Villain artifact creature token.
 10. Repeat.
 
@@ -7923,11 +7923,11 @@ Steps:
 2. When Workshop Assistant dies, it triggers, returning Myr Retriever to your hand from your graveyard.
 3. Imotekh the Stormlord's first ability triggers, creating two 2/2 Necron Warrior artifact creature tokens.
 4. Activate Ashnod's Altar by sacrificing a Necron Warrior, adding [[symbol:c]][[symbol:c]].
-5. Cast Myr Retriever by paying {2}.
+5. Cast Myr Retriever by paying [[symbol:2]].
 6. Activate Ashnod's Altar by sacrificing Myr Retriever, adding [[symbol:c]][[symbol:c]].
 7. When Myr Retriever dies, it triggers, returning Workshop Assistant to your hand from your graveyard.
 8. Imotekh the Stormlord's first ability triggers, creating two 2/2 Necron Warrior artifact creature tokens.
-9. Cast Workshop Assistant by paying {3}.
+9. Cast Workshop Assistant by paying [[symbol:3]].
 10. Repeat.
 
 
@@ -7964,11 +7964,11 @@ Steps:
 2. When Workshop Assistant dies, it triggers, returning Junk Diver to your hand from your graveyard.
 3. Imotekh the Stormlord's first ability triggers, creating two 2/2 Necron Warrior artifact creature tokens.
 4. Activate Ashnod's Altar by sacrificing a Necron Warrior, adding [[symbol:c]][[symbol:c]].
-5. Cast Junk Diver by paying {3}.
+5. Cast Junk Diver by paying [[symbol:3]].
 6. Activate Ashnod's Altar by sacrificing Junk Diver, adding [[symbol:c]][[symbol:c]].
 7. When Junk Diver dies, it triggers, returning Workshop Assistant to your hand from your graveyard.
 8. Imotekh the Stormlord's first ability triggers, creating two 2/2 Necron Warrior artifact creature tokens.
-9. Cast Workshop Assistant by paying {3}.
+9. Cast Workshop Assistant by paying [[symbol:3]].
 10. Repeat.
 
 
@@ -8005,11 +8005,11 @@ Steps:
 2. When Workshop Assistant dies, it triggers, returning Myr Retriever to your hand from your graveyard.
 3. Imotekh the Stormlord's first ability triggers, creating two 2/2 Necron Warrior artifact creature tokens.
 4. Activate Krark-Clan Ironworks by sacrificing a Necron Warrior, adding [[symbol:c]][[symbol:c]].
-5. Cast Myr Retriever by paying {2}.
+5. Cast Myr Retriever by paying [[symbol:2]].
 6. Activate Krark-Clan Ironworks by sacrificing Myr Retriever, adding [[symbol:c]][[symbol:c]].
 7. When Myr Retriever dies, it triggers, returning Workshop Assistant to your hand from your graveyard.
 8. Imotekh the Stormlord's first ability triggers, creating two 2/2 Necron Warrior artifact creature tokens.
-9. Cast Workshop Assistant by paying {3}.
+9. Cast Workshop Assistant by paying [[symbol:3]].
 10. Repeat.
 
 
@@ -8130,11 +8130,11 @@ Steps:
 2. When Workshop Assistant dies, it triggers, returning Junk Diver to your hand from your graveyard.
 3. Imotekh the Stormlord's first ability triggers, creating two 2/2 Necron Warrior artifact creature tokens.
 4. Activate Krark-Clan Ironworks by sacrificing a Necron Warrior, adding [[symbol:c]][[symbol:c]].
-5. Cast Junk Diver by paying {3}.
+5. Cast Junk Diver by paying [[symbol:3]].
 6. Activate Krark-Clan Ironworks by sacrificing Junk Diver, adding [[symbol:c]][[symbol:c]].
 7. When Junk Diver dies, it triggers, returning Workshop Assistant to your hand from your graveyard.
 8. Imotekh the Stormlord's first ability triggers, creating two 2/2 Necron Warrior artifact creature tokens.
-9. Cast Workshop Assistant by paying {3}.
+9. Cast Workshop Assistant by paying [[symbol:3]].
 10. Repeat.
 
 
