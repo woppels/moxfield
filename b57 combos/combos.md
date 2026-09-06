@@ -37,35 +37,6 @@ Results:
 ===endaccordion
 
 ===accordion
-===panel: Trazyn the Infinite + Aetherflux Reservoir
-[[symbol:b]]
-
-
-Cards Required:
-- [[Trazyn the Infinite]]
-- [[Aetherflux Reservoir]]
-
-
-Prerequisites:
-- Trazyn the Infinite on the battlefield.
-- Aetherflux Reservoir in your graveyard.
-- You have a way to give Trazyn the Infinite lifelink
-- Your life total is at least 51.
-
-
-Steps:
-1. Give Trazyn the Infinite lifelink, if needed.
-2. Activate Trazyn the Infinite using Aetherflux Reservoir's ability by paying 50 life, dealing 50 damage to any target and causing you to gain 50 life.
-3. Repeat step 2.
-
-
-Results:
-- Infinite damage
-- Infinite lifegain triggers
-===endpanel
-===endaccordion
-
-===accordion
 ===panel: Metalwork Colossus + Warren Soultrader + Aetherflux Reservoir + Stridehangar Automaton
 [[symbol:b]]
 
@@ -277,43 +248,6 @@ Results:
 - Infinite death triggers
 - Infinite Treasure tokens
 - Infinite +1/+1 counters on a creature
-===endpanel
-===endaccordion
-
-===accordion
-===panel: Animation Module + Pitiless Plunderer + Arcbound Ravager
-[[symbol:b]]
-
-
-Cards Required:
-- [[Animation Module]]
-- [[Pitiless Plunderer]]
-- [[Arcbound Ravager]]
-
-
-Prerequisites:
-- All permanents on the battlefield.
-- You control an additional creature.
-
-
-Steps:
-1. Activate Arcbound Ravager by sacrificing another creature.
-2. When the creature dies, Pitiless Plunderer triggers, creating a Treasure token.
-3. Activate the Treasure by tapping and sacrificing it, adding [[symbol:1]].
-4. Resolve the Arcbound Ravager ability, putting a +1/+1 counter on it.
-5. Animation Module triggers, causing you to pay [[symbol:1]] to create a 1/1 Servo artifact creature token.
-6. Repeat.
-
-
-Results:
-- Infinite artifact ETB
-- Infinite artifact LTB
-- Infinite artifact sacrifice triggers
-- Infinite +1/+1 counters on a creature
-- Infinite death triggers
-- Infinite creature ETB
-- Infinite creature LTB
-- Infinite creature sacrifice triggers
 ===endpanel
 ===endaccordion
 
@@ -1408,6 +1342,40 @@ Results:
 ===panel: Dross Scorpion
 
 ===accordion
+===panel: Illuminor Szeras + Nim Deathmantle + Dross Scorpion
+[[symbol:b]]
+
+
+Cards Required:
+- [[Illuminor Szeras]]
+- [[Nim Deathmantle]]
+- [[Dross Scorpion]]
+
+
+Prerequisites:
+- All permanents on the battlefield.
+- You control a nontoken creature with mana value five or greater
+- Illuminor Szeras does not have summoning sickness.
+
+
+Steps:
+1. Activate Illuminor Szeras by tapping it and sacrificing Dross Scorpion or another artifact creature with mana value four or greater, adding at least [[symbol:b]][[symbol:b]][[symbol:b]][[symbol:b]].
+2. When the creature dies, Nim Deathmantle and Dross Scorpion trigger.
+3. Resolve the Nim Deathmantle trigger, causing you to pay [[symbol:4]] to return the creature from your graveyard to the battlefield, and attach Nim Deathmantle to it.
+4. Resolve the Dross Scorpion trigger, untapping Illuminor Szeras.
+5. Repeat.
+
+
+Results:
+- Infinite black mana
+- Infinite death triggers
+- Infinite creature ETB
+- Infinite creature LTB
+- Infinite creature sacrifice triggers
+===endpanel
+===endaccordion
+
+===accordion
 ===panel: Dross Scorpion + Retrofitter Foundry + Krark-Clan Ironworks
 [[symbol:c]]
 
@@ -2079,6 +2047,46 @@ Results:
 - Infinite mill
 - Infinite self-mill
 - Infinite Treasure tokens
+===endpanel
+===endaccordion
+
+===endpanel
+===endaccordion
+
+===accordion
+===panel: Illuminor Szeras
+
+===accordion
+===panel: Illuminor Szeras + Nim Deathmantle + Dross Scorpion
+[[symbol:b]]
+
+
+Cards Required:
+- [[Illuminor Szeras]]
+- [[Nim Deathmantle]]
+- [[Dross Scorpion]]
+
+
+Prerequisites:
+- All permanents on the battlefield.
+- You control a nontoken creature with mana value five or greater
+- Illuminor Szeras does not have summoning sickness.
+
+
+Steps:
+1. Activate Illuminor Szeras by tapping it and sacrificing Dross Scorpion or another artifact creature with mana value four or greater, adding at least [[symbol:b]][[symbol:b]][[symbol:b]][[symbol:b]].
+2. When the creature dies, Nim Deathmantle and Dross Scorpion trigger.
+3. Resolve the Nim Deathmantle trigger, causing you to pay [[symbol:4]] to return the creature from your graveyard to the battlefield, and attach Nim Deathmantle to it.
+4. Resolve the Dross Scorpion trigger, untapping Illuminor Szeras.
+5. Repeat.
+
+
+Results:
+- Infinite black mana
+- Infinite death triggers
+- Infinite creature ETB
+- Infinite creature LTB
+- Infinite creature sacrifice triggers
 ===endpanel
 ===endaccordion
 
@@ -5011,6 +5019,40 @@ Results:
 ===endaccordion
 
 ===accordion
+===panel: Illuminor Szeras + Nim Deathmantle + Dross Scorpion
+[[symbol:b]]
+
+
+Cards Required:
+- [[Illuminor Szeras]]
+- [[Nim Deathmantle]]
+- [[Dross Scorpion]]
+
+
+Prerequisites:
+- All permanents on the battlefield.
+- You control a nontoken creature with mana value five or greater
+- Illuminor Szeras does not have summoning sickness.
+
+
+Steps:
+1. Activate Illuminor Szeras by tapping it and sacrificing Dross Scorpion or another artifact creature with mana value four or greater, adding at least [[symbol:b]][[symbol:b]][[symbol:b]][[symbol:b]].
+2. When the creature dies, Nim Deathmantle and Dross Scorpion trigger.
+3. Resolve the Nim Deathmantle trigger, causing you to pay [[symbol:4]] to return the creature from your graveyard to the battlefield, and attach Nim Deathmantle to it.
+4. Resolve the Dross Scorpion trigger, untapping Illuminor Szeras.
+5. Repeat.
+
+
+Results:
+- Infinite black mana
+- Infinite death triggers
+- Infinite creature ETB
+- Infinite creature LTB
+- Infinite creature sacrifice triggers
+===endpanel
+===endaccordion
+
+===accordion
 ===panel: Ultron the Annihilator + Nim Deathmantle + Ashnod's Altar
 [[symbol:b]]
 
@@ -5634,43 +5676,6 @@ Results:
 - Infinite death triggers
 - Infinite damage
 - Infinite Treasure tokens
-===endpanel
-===endaccordion
-
-===accordion
-===panel: Animation Module + Pitiless Plunderer + Arcbound Ravager
-[[symbol:b]]
-
-
-Cards Required:
-- [[Animation Module]]
-- [[Pitiless Plunderer]]
-- [[Arcbound Ravager]]
-
-
-Prerequisites:
-- All permanents on the battlefield.
-- You control an additional creature.
-
-
-Steps:
-1. Activate Arcbound Ravager by sacrificing another creature.
-2. When the creature dies, Pitiless Plunderer triggers, creating a Treasure token.
-3. Activate the Treasure by tapping and sacrificing it, adding [[symbol:1]].
-4. Resolve the Arcbound Ravager ability, putting a +1/+1 counter on it.
-5. Animation Module triggers, causing you to pay [[symbol:1]] to create a 1/1 Servo artifact creature token.
-6. Repeat.
-
-
-Results:
-- Infinite artifact ETB
-- Infinite artifact LTB
-- Infinite artifact sacrifice triggers
-- Infinite +1/+1 counters on a creature
-- Infinite death triggers
-- Infinite creature ETB
-- Infinite creature LTB
-- Infinite creature sacrifice triggers
 ===endpanel
 ===endaccordion
 
@@ -6833,6 +6838,52 @@ Results:
 ===endaccordion
 
 ===accordion
+===panel: Sephiroth, Fabled SOLDIER // Sephiroth, One-Winged Angel
+
+===accordion
+===panel: Warren Soultrader + Stridehangar Automaton + Sephiroth, Fabled SOLDIER // Sephiroth, One-Winged Angel
+[[symbol:b]]
+
+
+Cards Required:
+- [[Warren Soultrader]]
+- [[Stridehangar Automaton]]
+- [[Sephiroth, Fabled SOLDIER // Sephiroth, One-Winged Angel]]
+
+
+Prerequisites:
+- All permanents on the battlefield.
+- You control at least one additional creature
+- Your life total is at least 2.
+
+
+Steps:
+1. Activate Warren Soultrader by paying 1 life and sacrificing another creature.
+2. When the creature dies, Sephiroth, Fabled SOLDIER // Sephiroth, One-Winged Angel triggers, causing you to gain 1 life and target opponent to lose 1 life.
+3. Resolve the Warren Soultrader ability, creating a Treasure token and a 1/1 Thopter artifact creature token.
+4. Repeat.
+
+
+Results:
+- Infinite artifact ETB
+- Infinite artifact LTB
+- Infinite artifact sacrifice triggers
+- Infinite artifact tokens
+- Infinite creature LTB
+- Infinite creature ETB
+- Infinite colored mana
+- Infinite creature sacrifice triggers
+- Infinite death triggers
+- Infinite lifegain triggers
+- Infinite Treasure tokens
+- Infinite lifeloss
+===endpanel
+===endaccordion
+
+===endpanel
+===endaccordion
+
+===accordion
 ===panel: Skirge Familiar
 
 ===accordion
@@ -7071,6 +7122,46 @@ Results:
 - Infinite lifeloss
 - Infinite Treasure tokens
 - Infinite lifegain triggers
+===endpanel
+===endaccordion
+
+===accordion
+===panel: Warren Soultrader + Stridehangar Automaton + Sephiroth, Fabled SOLDIER // Sephiroth, One-Winged Angel
+[[symbol:b]]
+
+
+Cards Required:
+- [[Warren Soultrader]]
+- [[Stridehangar Automaton]]
+- [[Sephiroth, Fabled SOLDIER // Sephiroth, One-Winged Angel]]
+
+
+Prerequisites:
+- All permanents on the battlefield.
+- You control at least one additional creature
+- Your life total is at least 2.
+
+
+Steps:
+1. Activate Warren Soultrader by paying 1 life and sacrificing another creature.
+2. When the creature dies, Sephiroth, Fabled SOLDIER // Sephiroth, One-Winged Angel triggers, causing you to gain 1 life and target opponent to lose 1 life.
+3. Resolve the Warren Soultrader ability, creating a Treasure token and a 1/1 Thopter artifact creature token.
+4. Repeat.
+
+
+Results:
+- Infinite artifact ETB
+- Infinite artifact LTB
+- Infinite artifact sacrifice triggers
+- Infinite artifact tokens
+- Infinite creature LTB
+- Infinite creature ETB
+- Infinite colored mana
+- Infinite creature sacrifice triggers
+- Infinite death triggers
+- Infinite lifegain triggers
+- Infinite Treasure tokens
+- Infinite lifeloss
 ===endpanel
 ===endaccordion
 
@@ -7581,41 +7672,6 @@ Results:
 ===endaccordion
 
 ===accordion
-===panel: Trazyn the Infinite
-
-===accordion
-===panel: Trazyn the Infinite + Aetherflux Reservoir
-[[symbol:b]]
-
-
-Cards Required:
-- [[Trazyn the Infinite]]
-- [[Aetherflux Reservoir]]
-
-
-Prerequisites:
-- Trazyn the Infinite on the battlefield.
-- Aetherflux Reservoir in your graveyard.
-- You have a way to give Trazyn the Infinite lifelink
-- Your life total is at least 51.
-
-
-Steps:
-1. Give Trazyn the Infinite lifelink, if needed.
-2. Activate Trazyn the Infinite using Aetherflux Reservoir's ability by paying 50 life, dealing 50 damage to any target and causing you to gain 50 life.
-3. Repeat step 2.
-
-
-Results:
-- Infinite damage
-- Infinite lifegain triggers
-===endpanel
-===endaccordion
-
-===endpanel
-===endaccordion
-
-===accordion
 ===panel: Ultron the Annihilator
 
 ===accordion
@@ -7813,6 +7869,46 @@ Results:
 - Infinite lifeloss
 - Infinite Treasure tokens
 - Infinite lifegain triggers
+===endpanel
+===endaccordion
+
+===accordion
+===panel: Warren Soultrader + Stridehangar Automaton + Sephiroth, Fabled SOLDIER // Sephiroth, One-Winged Angel
+[[symbol:b]]
+
+
+Cards Required:
+- [[Warren Soultrader]]
+- [[Stridehangar Automaton]]
+- [[Sephiroth, Fabled SOLDIER // Sephiroth, One-Winged Angel]]
+
+
+Prerequisites:
+- All permanents on the battlefield.
+- You control at least one additional creature
+- Your life total is at least 2.
+
+
+Steps:
+1. Activate Warren Soultrader by paying 1 life and sacrificing another creature.
+2. When the creature dies, Sephiroth, Fabled SOLDIER // Sephiroth, One-Winged Angel triggers, causing you to gain 1 life and target opponent to lose 1 life.
+3. Resolve the Warren Soultrader ability, creating a Treasure token and a 1/1 Thopter artifact creature token.
+4. Repeat.
+
+
+Results:
+- Infinite artifact ETB
+- Infinite artifact LTB
+- Infinite artifact sacrifice triggers
+- Infinite artifact tokens
+- Infinite creature LTB
+- Infinite creature ETB
+- Infinite colored mana
+- Infinite creature sacrifice triggers
+- Infinite death triggers
+- Infinite lifegain triggers
+- Infinite Treasure tokens
+- Infinite lifeloss
 ===endpanel
 ===endaccordion
 

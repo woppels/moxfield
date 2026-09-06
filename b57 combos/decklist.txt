@@ -29,6 +29,8 @@
 1 Glaring Fleshraker
 1 Grim Tutor
 1 Grinding Station
+1 Illuminor Szeras
+1 Imotekh the Stormlord
 1 Imp's Mischief
 1 Inventors' Fair
 1 Jet Medallion
@@ -46,13 +48,11 @@
 1 Mystic Forge
 1 Necropotence
 1 Nim Deathmantle
-1 Out of the Tombs
 1 Phyrexian Altar
 1 Phyrexian Tower
 1 Pitiless Plunderer
 1 Polluted Delta
 1 Prismatic Vista
-1 Psychomancer
 1 Reanimate
 1 Retrofitter Foundry
 1 Ripples of Undeath
@@ -60,6 +60,7 @@
 1 Sculpting Steel
 1 Semblance Anvil
 1 Sensei's Divining Top
+1 Sephiroth, Fabled SOLDIER
 1 Skirge Familiar
 1 Skull of Ramos
 1 Snow-Covered Swamp
@@ -68,6 +69,7 @@
 1 Stridehangar Automaton
 10 Swamp
 1 Takenuma, Abandoned Mire
+1 Technomancer
 1 The Mycosynth Gardens
 1 The One Ring
 1 Their Name Is Death
@@ -75,8 +77,6 @@
 1 Tomb Fortress
 1 Tortured Existence
 1 Toxic Deluge
-1 Trazyn the Infinite
-1 Ultron the Annihilator
 1 Umbral Collar Zealot
 1 Urborg, Tomb of Yawgmoth
 1 Urza's Saga
@@ -89,4 +89,4 @@
 1 Workshop Assistant
 1 Zulaport Cutthroat
 
-1 Imotekh the Stormlord
+1 Ultron the Annihilator
