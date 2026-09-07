@@ -5,7 +5,6 @@
 ===panel: Sensei's Divining Top + Aetherflux Reservoir + Bolas's Citadel
 [[symbol:b]]
 
-
 Cards Required:
 - [[Sensei's Divining Top]]
 - [[Aetherflux Reservoir]]
@@ -40,7 +39,6 @@ Results:
 ===panel: Metalwork Colossus + Warren Soultrader + Aetherflux Reservoir + Stridehangar Automaton
 [[symbol:b]]
 
-
 Cards Required:
 - [[Metalwork Colossus]]
 - [[Warren Soultrader]]
@@ -55,7 +53,7 @@ Prerequisites:
 
 
 Steps:
-1. Cast Metalwork Colossus by paying {0}.
+1. Cast Metalwork Colossus by paying [[symbol:0]].
 2. Aetherflux Reservoir triggers, causing you to gain 1 life for each spell you've cast this turn.
 3. Activate Warren Soultrader by paying 1 life and sacrificing Metalwork Colossus, creating a 1/1 Thopter artifact creature token and a Treasure token.
 4. Activate Metalwork Colossus by sacrificing the Treasure and Thopter, returning Metalwork Colossus from your graveyard to your hand.
@@ -78,7 +76,6 @@ Results:
 ===panel: Metalwork Colossus + Warren Soultrader + Pitiless Plunderer + Aetherflux Reservoir
 [[symbol:b]]
 
-
 Cards Required:
 - [[Metalwork Colossus]]
 - [[Warren Soultrader]]
@@ -93,7 +90,7 @@ Prerequisites:
 
 
 Steps:
-1. Cast Metalwork Colossus by paying {0}.
+1. Cast Metalwork Colossus by paying [[symbol:0]].
 2. Aetherflux Reservoir triggers, causing you to gain 1 life for each spell you've cast this turn.
 3. Activate Warren Soultrader by paying 1 life and sacrificing Metalwork Colossus.
 4. When Metalwork Colossus dies, Pitiless Plunderer triggers, creating a Treasure token.
@@ -124,7 +121,6 @@ Results:
 ===accordion
 ===panel: Pitiless Plunderer + Altar of Dementia + Stridehangar Automaton
 [[symbol:b]]
-
 
 Cards Required:
 - [[Pitiless Plunderer]]
@@ -163,7 +159,6 @@ Results:
 ===accordion
 ===panel: Tortured Existence + Pitiless Plunderer + Imotekh the Stormlord + Altar of Dementia
 [[symbol:b]]
-
 
 Cards Required:
 - [[Tortured Existence]]
@@ -217,7 +212,6 @@ Results:
 ===panel: Pitiless Plunderer + Stridehangar Automaton + Arcbound Ravager
 [[symbol:b]]
 
-
 Cards Required:
 - [[Pitiless Plunderer]]
 - [[Stridehangar Automaton]]
@@ -261,7 +255,6 @@ Results:
 ===panel: Nim Deathmantle + Ashnod's Altar
 [[symbol:c]]
 
-
 Cards Required:
 - [[Nim Deathmantle]]
 - [[Ashnod's Altar]]
@@ -292,7 +285,6 @@ Results:
 ===accordion
 ===panel: Scrap Trawler + Myr Retriever + Ashnod's Altar + Foundry Inspector
 [[symbol:c]]
-
 
 Cards Required:
 - [[Scrap Trawler]]
@@ -333,7 +325,6 @@ Results:
 ===panel: Scrap Trawler + Myr Retriever + Ashnod's Altar + Cloud Key
 [[symbol:c]]
 
-
 Cards Required:
 - [[Scrap Trawler]]
 - [[Myr Retriever]]
@@ -373,7 +364,6 @@ Results:
 ===panel: Nim Deathmantle + Ashnod's Altar + Marionette Apprentice
 [[symbol:b]]
 
-
 Cards Required:
 - [[Nim Deathmantle]]
 - [[Ashnod's Altar]]
@@ -406,7 +396,6 @@ Results:
 ===accordion
 ===panel: Imotekh the Stormlord + Scrap Trawler + Myr Retriever + Ashnod's Altar
 [[symbol:b]]
-
 
 Cards Required:
 - [[Imotekh the Stormlord]]
@@ -448,7 +437,6 @@ Results:
 ===panel: Imotekh the Stormlord + Junk Diver + Myr Retriever + Ashnod's Altar
 [[symbol:b]]
 
-
 Cards Required:
 - [[Imotekh the Stormlord]]
 - [[Junk Diver]]
@@ -488,7 +476,6 @@ Results:
 ===accordion
 ===panel: Glaring Fleshraker + Ashnod's Altar + Myr Retriever + Scrap Trawler
 [[symbol:c]]
-
 
 Cards Required:
 - [[Glaring Fleshraker]]
@@ -531,7 +518,6 @@ Results:
 ===panel: Imotekh the Stormlord + Nim Deathmantle + Ashnod's Altar
 [[symbol:b]]
 
-
 Cards Required:
 - [[Imotekh the Stormlord]]
 - [[Nim Deathmantle]]
@@ -565,7 +551,6 @@ Results:
 ===accordion
 ===panel: Scrap Trawler + Myr Retriever + Ashnod's Altar + Semblance Anvil
 [[symbol:c]]
-
 
 Cards Required:
 - [[Scrap Trawler]]
@@ -607,7 +592,6 @@ Results:
 ===panel: Pitiless Plunderer + Ashnod's Altar + Stridehangar Automaton
 [[symbol:b]]
 
-
 Cards Required:
 - [[Pitiless Plunderer]]
 - [[Ashnod's Altar]]
@@ -643,7 +627,6 @@ Results:
 ===accordion
 ===panel: Glaring Fleshraker + Ashnod's Altar + Myr Retriever + Junk Diver
 [[symbol:c]]
-
 
 Cards Required:
 - [[Glaring Fleshraker]]
@@ -686,7 +669,6 @@ Results:
 ===panel: Imotekh the Stormlord + Myr Retriever + Workshop Assistant + Ashnod's Altar
 [[symbol:b]]
 
-
 Cards Required:
 - [[Imotekh the Stormlord]]
 - [[Myr Retriever]]
@@ -727,7 +709,6 @@ Results:
 ===panel: Imotekh the Stormlord + Junk Diver + Workshop Assistant + Ashnod's Altar
 [[symbol:b]]
 
-
 Cards Required:
 - [[Imotekh the Stormlord]]
 - [[Junk Diver]]
@@ -767,7 +748,6 @@ Results:
 ===accordion
 ===panel: Glaring Fleshraker + Ashnod's Altar + Myr Retriever + Workshop Assistant
 [[symbol:c]]
-
 
 Cards Required:
 - [[Glaring Fleshraker]]
@@ -810,7 +790,6 @@ Results:
 ===panel: Glaring Fleshraker + Ashnod's Altar + Junk Diver + Workshop Assistant
 [[symbol:c]]
 
-
 Cards Required:
 - [[Glaring Fleshraker]]
 - [[Ashnod's Altar]]
@@ -852,7 +831,6 @@ Results:
 ===panel: Glaring Fleshraker + Ashnod's Altar + Scrap Trawler + Workshop Assistant
 [[symbol:c]]
 
-
 Cards Required:
 - [[Glaring Fleshraker]]
 - [[Ashnod's Altar]]
@@ -893,7 +871,6 @@ Results:
 ===accordion
 ===panel: Dross Scorpion + Retrofitter Foundry + Ashnod's Altar
 [[symbol:c]]
-
 
 Cards Required:
 - [[Dross Scorpion]]
@@ -965,7 +942,6 @@ Results:
 ===panel: Pitiless Plunderer + Blasting Station + Stridehangar Automaton
 [[symbol:b]]
 
-
 Cards Required:
 - [[Pitiless Plunderer]]
 - [[Blasting Station]]
@@ -1003,7 +979,6 @@ Results:
 ===accordion
 ===panel: Tortured Existence + Pitiless Plunderer + Imotekh the Stormlord + Blasting Station
 [[symbol:b]]
-
 
 Cards Required:
 - [[Tortured Existence]]
@@ -1057,7 +1032,6 @@ Results:
 ===panel: Sensei's Divining Top + Aetherflux Reservoir + Bolas's Citadel
 [[symbol:b]]
 
-
 Cards Required:
 - [[Sensei's Divining Top]]
 - [[Aetherflux Reservoir]]
@@ -1098,7 +1072,6 @@ Results:
 ===panel: Retrofitter Foundry + Clock of Omens + Stridehangar Automaton
 [[symbol:c]]
 
-
 Cards Required:
 - [[Retrofitter Foundry]]
 - [[Clock of Omens]]
@@ -1128,7 +1101,6 @@ Results:
 ===accordion
 ===panel: Imotekh the Stormlord + Clock of Omens + Tortured Existence
 [[symbol:b]]
-
 
 Cards Required:
 - [[Imotekh the Stormlord]]
@@ -1167,7 +1139,6 @@ Results:
 ===panel: Sensei's Divining Top + Mystic Forge + Cloud Key
 [[symbol:c]]
 
-
 Cards Required:
 - [[Sensei's Divining Top]]
 - [[Mystic Forge]]
@@ -1180,7 +1151,7 @@ Prerequisites:
 
 Steps:
 1. Activate Sensei's Divining Top by tapping it, causing you to draw a card and put Sensei's Divining Top on top of your library.
-2. Cast Sensei's Divining Top from the top of your library by paying {0}.
+2. Cast Sensei's Divining Top from the top of your library by paying [[symbol:0]].
 3. Repeat
 
 
@@ -1194,7 +1165,6 @@ Results:
 ===accordion
 ===panel: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Cloud Key
 [[symbol:c]]
-
 
 Cards Required:
 - [[Scrap Trawler]]
@@ -1234,7 +1204,6 @@ Results:
 ===accordion
 ===panel: Scrap Trawler + Myr Retriever + Ashnod's Altar + Cloud Key
 [[symbol:c]]
-
 
 Cards Required:
 - [[Scrap Trawler]]
@@ -1345,7 +1314,6 @@ Results:
 ===panel: Illuminor Szeras + Nim Deathmantle + Dross Scorpion
 [[symbol:b]]
 
-
 Cards Required:
 - [[Illuminor Szeras]]
 - [[Nim Deathmantle]]
@@ -1379,7 +1347,6 @@ Results:
 ===panel: Dross Scorpion + Retrofitter Foundry + Krark-Clan Ironworks
 [[symbol:c]]
 
-
 Cards Required:
 - [[Dross Scorpion]]
 - [[Retrofitter Foundry]]
@@ -1409,7 +1376,6 @@ Results:
 ===accordion
 ===panel: Retrofitter Foundry + Dross Scorpion + Stridehangar Automaton
 [[symbol:c]]
-
 
 Cards Required:
 - [[Retrofitter Foundry]]
@@ -1441,7 +1407,6 @@ Results:
 ===accordion
 ===panel: Dross Scorpion + Retrofitter Foundry + Ashnod's Altar
 [[symbol:c]]
-
 
 Cards Required:
 - [[Dross Scorpion]]
@@ -1479,7 +1444,6 @@ Results:
 ===panel: Sensei's Divining Top + Foundry Inspector + Mystic Forge
 [[symbol:c]]
 
-
 Cards Required:
 - [[Sensei's Divining Top]]
 - [[Foundry Inspector]]
@@ -1492,7 +1456,7 @@ Prerequisites:
 
 Steps:
 1. Activate Sensei's Divining Top by tapping it, causing you to draw a card and put Sensei's Divining Top on top of your library.
-2. Cast Sensei's Divining Top from the top of your library by paying {0}.
+2. Cast Sensei's Divining Top from the top of your library by paying [[symbol:0]].
 3. Repeat
 
 
@@ -1506,7 +1470,6 @@ Results:
 ===accordion
 ===panel: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Foundry Inspector
 [[symbol:c]]
-
 
 Cards Required:
 - [[Scrap Trawler]]
@@ -1546,7 +1509,6 @@ Results:
 ===accordion
 ===panel: Scrap Trawler + Myr Retriever + Ashnod's Altar + Foundry Inspector
 [[symbol:c]]
-
 
 Cards Required:
 - [[Scrap Trawler]]
@@ -1593,7 +1555,6 @@ Results:
 ===panel: Sensei's Divining Top + Glaring Fleshraker + Mystic Forge
 [[symbol:c]]
 
-
 Cards Required:
 - [[Sensei's Divining Top]]
 - [[Glaring Fleshraker]]
@@ -1629,7 +1590,6 @@ Results:
 ===accordion
 ===panel: Glaring Fleshraker + Myr Retriever + Scrap Trawler + Krark-Clan Ironworks
 [[symbol:c]]
-
 
 Cards Required:
 - [[Glaring Fleshraker]]
@@ -1672,7 +1632,6 @@ Results:
 ===panel: Glaring Fleshraker + Myr Retriever + Junk Diver + Krark-Clan Ironworks
 [[symbol:c]]
 
-
 Cards Required:
 - [[Glaring Fleshraker]]
 - [[Myr Retriever]]
@@ -1713,7 +1672,6 @@ Results:
 ===accordion
 ===panel: Glaring Fleshraker + Ashnod's Altar + Myr Retriever + Scrap Trawler
 [[symbol:c]]
-
 
 Cards Required:
 - [[Glaring Fleshraker]]
@@ -1756,7 +1714,6 @@ Results:
 ===panel: Glaring Fleshraker + Ashnod's Altar + Myr Retriever + Junk Diver
 [[symbol:c]]
 
-
 Cards Required:
 - [[Glaring Fleshraker]]
 - [[Ashnod's Altar]]
@@ -1797,7 +1754,6 @@ Results:
 ===accordion
 ===panel: Glaring Fleshraker + Myr Retriever + Workshop Assistant + Krark-Clan Ironworks
 [[symbol:c]]
-
 
 Cards Required:
 - [[Glaring Fleshraker]]
@@ -1840,7 +1796,6 @@ Results:
 ===panel: Glaring Fleshraker + Junk Diver + Workshop Assistant + Krark-Clan Ironworks
 [[symbol:c]]
 
-
 Cards Required:
 - [[Glaring Fleshraker]]
 - [[Junk Diver]]
@@ -1881,7 +1836,6 @@ Results:
 ===accordion
 ===panel: Glaring Fleshraker + Ashnod's Altar + Myr Retriever + Workshop Assistant
 [[symbol:c]]
-
 
 Cards Required:
 - [[Glaring Fleshraker]]
@@ -1924,7 +1878,6 @@ Results:
 ===panel: Glaring Fleshraker + Ashnod's Altar + Junk Diver + Workshop Assistant
 [[symbol:c]]
 
-
 Cards Required:
 - [[Glaring Fleshraker]]
 - [[Ashnod's Altar]]
@@ -1965,7 +1918,6 @@ Results:
 ===accordion
 ===panel: Glaring Fleshraker + Ashnod's Altar + Scrap Trawler + Workshop Assistant
 [[symbol:c]]
-
 
 Cards Required:
 - [[Glaring Fleshraker]]
@@ -2014,7 +1966,6 @@ Results:
 ===panel: Pitiless Plunderer + Stridehangar Automaton + Grinding Station
 [[symbol:b]]
 
-
 Cards Required:
 - [[Pitiless Plunderer]]
 - [[Stridehangar Automaton]]
@@ -2060,7 +2011,6 @@ Results:
 ===panel: Illuminor Szeras + Nim Deathmantle + Dross Scorpion
 [[symbol:b]]
 
-
 Cards Required:
 - [[Illuminor Szeras]]
 - [[Nim Deathmantle]]
@@ -2099,7 +2049,6 @@ Results:
 ===accordion
 ===panel: Imotekh the Stormlord + Scrap Trawler + Myr Retriever + Ashnod's Altar
 [[symbol:b]]
-
 
 Cards Required:
 - [[Imotekh the Stormlord]]
@@ -2141,7 +2090,6 @@ Results:
 ===panel: Imotekh the Stormlord + Scrap Trawler + Myr Retriever + Krark-Clan Ironworks
 [[symbol:b]]
 
-
 Cards Required:
 - [[Imotekh the Stormlord]]
 - [[Scrap Trawler]]
@@ -2181,7 +2129,6 @@ Results:
 ===accordion
 ===panel: Imotekh the Stormlord + Junk Diver + Myr Retriever + Ashnod's Altar
 [[symbol:b]]
-
 
 Cards Required:
 - [[Imotekh the Stormlord]]
@@ -2223,7 +2170,6 @@ Results:
 ===panel: Imotekh the Stormlord + Nim Deathmantle + Ashnod's Altar
 [[symbol:b]]
 
-
 Cards Required:
 - [[Imotekh the Stormlord]]
 - [[Nim Deathmantle]]
@@ -2257,7 +2203,6 @@ Results:
 ===accordion
 ===panel: Imotekh the Stormlord + Myr Retriever + Workshop Assistant + Ashnod's Altar
 [[symbol:b]]
-
 
 Cards Required:
 - [[Imotekh the Stormlord]]
@@ -2299,7 +2244,6 @@ Results:
 ===panel: Imotekh the Stormlord + Junk Diver + Myr Retriever + Krark-Clan Ironworks
 [[symbol:b]]
 
-
 Cards Required:
 - [[Imotekh the Stormlord]]
 - [[Junk Diver]]
@@ -2339,7 +2283,6 @@ Results:
 ===accordion
 ===panel: Imotekh the Stormlord + Junk Diver + Workshop Assistant + Ashnod's Altar
 [[symbol:b]]
-
 
 Cards Required:
 - [[Imotekh the Stormlord]]
@@ -2381,7 +2324,6 @@ Results:
 ===panel: Imotekh the Stormlord + Nim Deathmantle + Krark-Clan Ironworks
 [[symbol:b]]
 
-
 Cards Required:
 - [[Imotekh the Stormlord]]
 - [[Nim Deathmantle]]
@@ -2415,7 +2357,6 @@ Results:
 ===accordion
 ===panel: Imotekh the Stormlord + Myr Retriever + Workshop Assistant + Krark-Clan Ironworks
 [[symbol:b]]
-
 
 Cards Required:
 - [[Imotekh the Stormlord]]
@@ -2457,7 +2398,6 @@ Results:
 ===panel: Imotekh the Stormlord + Junk Diver + Workshop Assistant + Krark-Clan Ironworks
 [[symbol:b]]
 
-
 Cards Required:
 - [[Imotekh the Stormlord]]
 - [[Junk Diver]]
@@ -2498,7 +2438,6 @@ Results:
 ===panel: Tortured Existence + Phyrexian Altar + Imotekh the Stormlord
 [[symbol:b]]
 
-
 Cards Required:
 - [[Tortured Existence]]
 - [[Phyrexian Altar]]
@@ -2537,7 +2476,6 @@ Results:
 ===panel: Imotekh the Stormlord + Clock of Omens + Tortured Existence
 [[symbol:b]]
 
-
 Cards Required:
 - [[Imotekh the Stormlord]]
 - [[Clock of Omens]]
@@ -2568,7 +2506,6 @@ Results:
 ===accordion
 ===panel: Imotekh the Stormlord + Metalwork Colossus + Skirge Familiar
 [[symbol:b]]
-
 
 Cards Required:
 - [[Imotekh the Stormlord]]
@@ -2602,7 +2539,6 @@ Results:
 ===accordion
 ===panel: Tortured Existence + Pitiless Plunderer + Imotekh the Stormlord + Altar of Dementia
 [[symbol:b]]
-
 
 Cards Required:
 - [[Tortured Existence]]
@@ -2649,7 +2585,6 @@ Results:
 ===accordion
 ===panel: Tortured Existence + Pitiless Plunderer + Imotekh the Stormlord + Blasting Station
 [[symbol:b]]
-
 
 Cards Required:
 - [[Tortured Existence]]
@@ -2703,7 +2638,6 @@ Results:
 ===panel: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Sol Ring + Junk Diver
 [[symbol:c]]
 
-
 Cards Required:
 - [[Scrap Trawler]]
 - [[Myr Retriever]]
@@ -2751,7 +2685,6 @@ Results:
 ===panel: Glaring Fleshraker + Myr Retriever + Junk Diver + Krark-Clan Ironworks
 [[symbol:c]]
 
-
 Cards Required:
 - [[Glaring Fleshraker]]
 - [[Myr Retriever]]
@@ -2793,7 +2726,6 @@ Results:
 ===panel: Imotekh the Stormlord + Junk Diver + Myr Retriever + Ashnod's Altar
 [[symbol:b]]
 
-
 Cards Required:
 - [[Imotekh the Stormlord]]
 - [[Junk Diver]]
@@ -2833,7 +2765,6 @@ Results:
 ===accordion
 ===panel: Glaring Fleshraker + Ashnod's Altar + Myr Retriever + Junk Diver
 [[symbol:c]]
-
 
 Cards Required:
 - [[Glaring Fleshraker]]
@@ -2876,7 +2807,6 @@ Results:
 ===panel: Imotekh the Stormlord + Junk Diver + Myr Retriever + Krark-Clan Ironworks
 [[symbol:b]]
 
-
 Cards Required:
 - [[Imotekh the Stormlord]]
 - [[Junk Diver]]
@@ -2917,7 +2847,6 @@ Results:
 ===panel: Imotekh the Stormlord + Junk Diver + Workshop Assistant + Ashnod's Altar
 [[symbol:b]]
 
-
 Cards Required:
 - [[Imotekh the Stormlord]]
 - [[Junk Diver]]
@@ -2957,7 +2886,6 @@ Results:
 ===accordion
 ===panel: Glaring Fleshraker + Junk Diver + Workshop Assistant + Krark-Clan Ironworks
 [[symbol:c]]
-
 
 Cards Required:
 - [[Glaring Fleshraker]]
@@ -3000,7 +2928,6 @@ Results:
 ===panel: Imotekh the Stormlord + Junk Diver + Workshop Assistant + Krark-Clan Ironworks
 [[symbol:b]]
 
-
 Cards Required:
 - [[Imotekh the Stormlord]]
 - [[Junk Diver]]
@@ -3040,7 +2967,6 @@ Results:
 ===accordion
 ===panel: Glaring Fleshraker + Ashnod's Altar + Junk Diver + Workshop Assistant
 [[symbol:c]]
-
 
 Cards Required:
 - [[Glaring Fleshraker]]
@@ -3089,7 +3015,6 @@ Results:
 ===panel: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Foundry Inspector
 [[symbol:c]]
 
-
 Cards Required:
 - [[Scrap Trawler]]
 - [[Myr Retriever]]
@@ -3128,7 +3053,6 @@ Results:
 ===accordion
 ===panel: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Sol Ring + Junk Diver
 [[symbol:c]]
-
 
 Cards Required:
 - [[Scrap Trawler]]
@@ -3177,7 +3101,6 @@ Results:
 ===panel: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Cloud Key
 [[symbol:c]]
 
-
 Cards Required:
 - [[Scrap Trawler]]
 - [[Myr Retriever]]
@@ -3216,7 +3139,6 @@ Results:
 ===accordion
 ===panel: Glaring Fleshraker + Myr Retriever + Scrap Trawler + Krark-Clan Ironworks
 [[symbol:c]]
-
 
 Cards Required:
 - [[Glaring Fleshraker]]
@@ -3259,7 +3181,6 @@ Results:
 ===panel: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Semblance Anvil
 [[symbol:c]]
 
-
 Cards Required:
 - [[Scrap Trawler]]
 - [[Myr Retriever]]
@@ -3299,7 +3220,6 @@ Results:
 ===accordion
 ===panel: Glaring Fleshraker + Myr Retriever + Junk Diver + Krark-Clan Ironworks
 [[symbol:c]]
-
 
 Cards Required:
 - [[Glaring Fleshraker]]
@@ -3342,7 +3262,6 @@ Results:
 ===panel: Imotekh the Stormlord + Scrap Trawler + Myr Retriever + Krark-Clan Ironworks
 [[symbol:b]]
 
-
 Cards Required:
 - [[Imotekh the Stormlord]]
 - [[Scrap Trawler]]
@@ -3382,7 +3301,6 @@ Results:
 ===accordion
 ===panel: Imotekh the Stormlord + Junk Diver + Myr Retriever + Krark-Clan Ironworks
 [[symbol:b]]
-
 
 Cards Required:
 - [[Imotekh the Stormlord]]
@@ -3424,7 +3342,6 @@ Results:
 ===panel: Imotekh the Stormlord + Nim Deathmantle + Krark-Clan Ironworks
 [[symbol:b]]
 
-
 Cards Required:
 - [[Imotekh the Stormlord]]
 - [[Nim Deathmantle]]
@@ -3458,7 +3375,6 @@ Results:
 ===accordion
 ===panel: Imotekh the Stormlord + Myr Retriever + Workshop Assistant + Krark-Clan Ironworks
 [[symbol:b]]
-
 
 Cards Required:
 - [[Imotekh the Stormlord]]
@@ -3499,7 +3415,6 @@ Results:
 ===accordion
 ===panel: Glaring Fleshraker + Myr Retriever + Workshop Assistant + Krark-Clan Ironworks
 [[symbol:c]]
-
 
 Cards Required:
 - [[Glaring Fleshraker]]
@@ -3542,7 +3457,6 @@ Results:
 ===panel: Glaring Fleshraker + Junk Diver + Workshop Assistant + Krark-Clan Ironworks
 [[symbol:c]]
 
-
 Cards Required:
 - [[Glaring Fleshraker]]
 - [[Junk Diver]]
@@ -3584,7 +3498,6 @@ Results:
 ===panel: Imotekh the Stormlord + Junk Diver + Workshop Assistant + Krark-Clan Ironworks
 [[symbol:b]]
 
-
 Cards Required:
 - [[Imotekh the Stormlord]]
 - [[Junk Diver]]
@@ -3625,7 +3538,6 @@ Results:
 ===panel: Pitiless Plunderer + Stridehangar Automaton + Krark-Clan Ironworks
 [[symbol:b]]
 
-
 Cards Required:
 - [[Pitiless Plunderer]]
 - [[Stridehangar Automaton]]
@@ -3661,7 +3573,6 @@ Results:
 ===accordion
 ===panel: Dross Scorpion + Retrofitter Foundry + Krark-Clan Ironworks
 [[symbol:c]]
-
 
 Cards Required:
 - [[Dross Scorpion]]
@@ -3733,7 +3644,6 @@ Results:
 ===panel: Nim Deathmantle + Ashnod's Altar + Marionette Apprentice
 [[symbol:b]]
 
-
 Cards Required:
 - [[Nim Deathmantle]]
 - [[Ashnod's Altar]]
@@ -3773,7 +3683,6 @@ Results:
 ===panel: Imotekh the Stormlord + Metalwork Colossus + Skirge Familiar
 [[symbol:b]]
 
-
 Cards Required:
 - [[Imotekh the Stormlord]]
 - [[Metalwork Colossus]]
@@ -3807,7 +3716,6 @@ Results:
 ===panel: Metalwork Colossus + Warren Soultrader + Aetherflux Reservoir + Stridehangar Automaton
 [[symbol:b]]
 
-
 Cards Required:
 - [[Metalwork Colossus]]
 - [[Warren Soultrader]]
@@ -3822,7 +3730,7 @@ Prerequisites:
 
 
 Steps:
-1. Cast Metalwork Colossus by paying {0}.
+1. Cast Metalwork Colossus by paying [[symbol:0]].
 2. Aetherflux Reservoir triggers, causing you to gain 1 life for each spell you've cast this turn.
 3. Activate Warren Soultrader by paying 1 life and sacrificing Metalwork Colossus, creating a 1/1 Thopter artifact creature token and a Treasure token.
 4. Activate Metalwork Colossus by sacrificing the Treasure and Thopter, returning Metalwork Colossus from your graveyard to your hand.
@@ -3845,7 +3753,6 @@ Results:
 ===panel: Metalwork Colossus + Warren Soultrader + Pitiless Plunderer + Aetherflux Reservoir
 [[symbol:b]]
 
-
 Cards Required:
 - [[Metalwork Colossus]]
 - [[Warren Soultrader]]
@@ -3860,7 +3767,7 @@ Prerequisites:
 
 
 Steps:
-1. Cast Metalwork Colossus by paying {0}.
+1. Cast Metalwork Colossus by paying [[symbol:0]].
 2. Aetherflux Reservoir triggers, causing you to gain 1 life for each spell you've cast this turn.
 3. Activate Warren Soultrader by paying 1 life and sacrificing Metalwork Colossus.
 4. When Metalwork Colossus dies, Pitiless Plunderer triggers, creating a Treasure token.
@@ -3891,7 +3798,6 @@ Results:
 ===accordion
 ===panel: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Foundry Inspector
 [[symbol:c]]
-
 
 Cards Required:
 - [[Scrap Trawler]]
@@ -3932,7 +3838,6 @@ Results:
 ===panel: Scrap Trawler + Myr Retriever + Ashnod's Altar + Foundry Inspector
 [[symbol:c]]
 
-
 Cards Required:
 - [[Scrap Trawler]]
 - [[Myr Retriever]]
@@ -3971,7 +3876,6 @@ Results:
 ===accordion
 ===panel: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Sol Ring + Junk Diver
 [[symbol:c]]
-
 
 Cards Required:
 - [[Scrap Trawler]]
@@ -4020,7 +3924,6 @@ Results:
 ===panel: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Cloud Key
 [[symbol:c]]
 
-
 Cards Required:
 - [[Scrap Trawler]]
 - [[Myr Retriever]]
@@ -4060,7 +3963,6 @@ Results:
 ===panel: Scrap Trawler + Myr Retriever + Ashnod's Altar + Cloud Key
 [[symbol:c]]
 
-
 Cards Required:
 - [[Scrap Trawler]]
 - [[Myr Retriever]]
@@ -4099,7 +4001,6 @@ Results:
 ===accordion
 ===panel: Glaring Fleshraker + Myr Retriever + Scrap Trawler + Krark-Clan Ironworks
 [[symbol:c]]
-
 
 Cards Required:
 - [[Glaring Fleshraker]]
@@ -4142,7 +4043,6 @@ Results:
 ===panel: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Semblance Anvil
 [[symbol:c]]
 
-
 Cards Required:
 - [[Scrap Trawler]]
 - [[Myr Retriever]]
@@ -4183,7 +4083,6 @@ Results:
 ===panel: Imotekh the Stormlord + Scrap Trawler + Myr Retriever + Ashnod's Altar
 [[symbol:b]]
 
-
 Cards Required:
 - [[Imotekh the Stormlord]]
 - [[Scrap Trawler]]
@@ -4223,7 +4122,6 @@ Results:
 ===accordion
 ===panel: Glaring Fleshraker + Myr Retriever + Junk Diver + Krark-Clan Ironworks
 [[symbol:c]]
-
 
 Cards Required:
 - [[Glaring Fleshraker]]
@@ -4266,7 +4164,6 @@ Results:
 ===panel: Imotekh the Stormlord + Scrap Trawler + Myr Retriever + Krark-Clan Ironworks
 [[symbol:b]]
 
-
 Cards Required:
 - [[Imotekh the Stormlord]]
 - [[Scrap Trawler]]
@@ -4307,7 +4204,6 @@ Results:
 ===panel: Imotekh the Stormlord + Junk Diver + Myr Retriever + Ashnod's Altar
 [[symbol:b]]
 
-
 Cards Required:
 - [[Imotekh the Stormlord]]
 - [[Junk Diver]]
@@ -4347,7 +4243,6 @@ Results:
 ===accordion
 ===panel: Glaring Fleshraker + Ashnod's Altar + Myr Retriever + Scrap Trawler
 [[symbol:c]]
-
 
 Cards Required:
 - [[Glaring Fleshraker]]
@@ -4390,7 +4285,6 @@ Results:
 ===panel: Scrap Trawler + Myr Retriever + Ashnod's Altar + Semblance Anvil
 [[symbol:c]]
 
-
 Cards Required:
 - [[Scrap Trawler]]
 - [[Myr Retriever]]
@@ -4430,7 +4324,6 @@ Results:
 ===accordion
 ===panel: Glaring Fleshraker + Ashnod's Altar + Myr Retriever + Junk Diver
 [[symbol:c]]
-
 
 Cards Required:
 - [[Glaring Fleshraker]]
@@ -4473,7 +4366,6 @@ Results:
 ===panel: Imotekh the Stormlord + Myr Retriever + Workshop Assistant + Ashnod's Altar
 [[symbol:b]]
 
-
 Cards Required:
 - [[Imotekh the Stormlord]]
 - [[Myr Retriever]]
@@ -4513,7 +4405,6 @@ Results:
 ===accordion
 ===panel: Imotekh the Stormlord + Junk Diver + Myr Retriever + Krark-Clan Ironworks
 [[symbol:b]]
-
 
 Cards Required:
 - [[Imotekh the Stormlord]]
@@ -4555,7 +4446,6 @@ Results:
 ===panel: Imotekh the Stormlord + Myr Retriever + Workshop Assistant + Krark-Clan Ironworks
 [[symbol:b]]
 
-
 Cards Required:
 - [[Imotekh the Stormlord]]
 - [[Myr Retriever]]
@@ -4595,7 +4485,6 @@ Results:
 ===accordion
 ===panel: Glaring Fleshraker + Myr Retriever + Workshop Assistant + Krark-Clan Ironworks
 [[symbol:c]]
-
 
 Cards Required:
 - [[Glaring Fleshraker]]
@@ -4638,7 +4527,6 @@ Results:
 ===panel: Glaring Fleshraker + Ashnod's Altar + Myr Retriever + Workshop Assistant
 [[symbol:c]]
 
-
 Cards Required:
 - [[Glaring Fleshraker]]
 - [[Ashnod's Altar]]
@@ -4679,7 +4567,6 @@ Results:
 ===accordion
 ===panel: Scrap Trawler + Myr Retriever + Phyrexian Altar + Semblance Anvil
 [[symbol:c]]
-
 
 Cards Required:
 - [[Scrap Trawler]]
@@ -4727,7 +4614,6 @@ Results:
 ===panel: Sensei's Divining Top + Foundry Inspector + Mystic Forge
 [[symbol:c]]
 
-
 Cards Required:
 - [[Sensei's Divining Top]]
 - [[Foundry Inspector]]
@@ -4740,7 +4626,7 @@ Prerequisites:
 
 Steps:
 1. Activate Sensei's Divining Top by tapping it, causing you to draw a card and put Sensei's Divining Top on top of your library.
-2. Cast Sensei's Divining Top from the top of your library by paying {0}.
+2. Cast Sensei's Divining Top from the top of your library by paying [[symbol:0]].
 3. Repeat
 
 
@@ -4755,7 +4641,6 @@ Results:
 ===panel: Sensei's Divining Top + Mystic Forge + Cloud Key
 [[symbol:c]]
 
-
 Cards Required:
 - [[Sensei's Divining Top]]
 - [[Mystic Forge]]
@@ -4768,7 +4653,7 @@ Prerequisites:
 
 Steps:
 1. Activate Sensei's Divining Top by tapping it, causing you to draw a card and put Sensei's Divining Top on top of your library.
-2. Cast Sensei's Divining Top from the top of your library by paying {0}.
+2. Cast Sensei's Divining Top from the top of your library by paying [[symbol:0]].
 3. Repeat
 
 
@@ -4782,7 +4667,6 @@ Results:
 ===accordion
 ===panel: Sensei's Divining Top + Glaring Fleshraker + Mystic Forge
 [[symbol:c]]
-
 
 Cards Required:
 - [[Sensei's Divining Top]]
@@ -4820,7 +4704,6 @@ Results:
 ===panel: Sensei's Divining Top + Mystic Forge + Semblance Anvil
 [[symbol:c]]
 
-
 Cards Required:
 - [[Sensei's Divining Top]]
 - [[Mystic Forge]]
@@ -4833,7 +4716,7 @@ Prerequisites:
 
 Steps:
 1. Activate Sensei's Divining Top by tapping it, causing you to draw a card and put Sensei's Divining Top on top of your library.
-2. Cast Sensei's Divining Top from the top of your library by paying {0}.
+2. Cast Sensei's Divining Top from the top of your library by paying [[symbol:0]].
 3. Repeat
 
 
@@ -4847,7 +4730,6 @@ Results:
 ===accordion
 ===panel: Sensei's Divining Top + Mystic Forge + Skirge Familiar
 [[symbol:b]]
-
 
 Cards Required:
 - [[Sensei's Divining Top]]
@@ -4886,7 +4768,6 @@ Results:
 ===panel: Nim Deathmantle + Ashnod's Altar
 [[symbol:c]]
 
-
 Cards Required:
 - [[Nim Deathmantle]]
 - [[Ashnod's Altar]]
@@ -4917,7 +4798,6 @@ Results:
 ===accordion
 ===panel: Nim Deathmantle + Ashnod's Altar + Marionette Apprentice
 [[symbol:b]]
-
 
 Cards Required:
 - [[Nim Deathmantle]]
@@ -4951,7 +4831,6 @@ Results:
 ===accordion
 ===panel: Imotekh the Stormlord + Nim Deathmantle + Ashnod's Altar
 [[symbol:b]]
-
 
 Cards Required:
 - [[Imotekh the Stormlord]]
@@ -4987,7 +4866,6 @@ Results:
 ===panel: Imotekh the Stormlord + Nim Deathmantle + Krark-Clan Ironworks
 [[symbol:b]]
 
-
 Cards Required:
 - [[Imotekh the Stormlord]]
 - [[Nim Deathmantle]]
@@ -5021,7 +4899,6 @@ Results:
 ===accordion
 ===panel: Illuminor Szeras + Nim Deathmantle + Dross Scorpion
 [[symbol:b]]
-
 
 Cards Required:
 - [[Illuminor Szeras]]
@@ -5170,7 +5047,6 @@ Results:
 ===panel: Pitiless Plunderer + Phyrexian Altar + Stridehangar Automaton
 [[symbol:b]]
 
-
 Cards Required:
 - [[Pitiless Plunderer]]
 - [[Phyrexian Altar]]
@@ -5205,7 +5081,6 @@ Results:
 ===accordion
 ===panel: Tortured Existence + Phyrexian Altar + Imotekh the Stormlord
 [[symbol:b]]
-
 
 Cards Required:
 - [[Tortured Existence]]
@@ -5244,7 +5119,6 @@ Results:
 ===accordion
 ===panel: Scrap Trawler + Myr Retriever + Phyrexian Altar + Semblance Anvil
 [[symbol:c]]
-
 
 Cards Required:
 - [[Scrap Trawler]]
@@ -5332,7 +5206,6 @@ Results:
 ===panel: Pitiless Plunderer + Ashnod's Altar + Stridehangar Automaton
 [[symbol:b]]
 
-
 Cards Required:
 - [[Pitiless Plunderer]]
 - [[Ashnod's Altar]]
@@ -5369,7 +5242,6 @@ Results:
 ===panel: Pitiless Plunderer + Phyrexian Altar + Stridehangar Automaton
 [[symbol:b]]
 
-
 Cards Required:
 - [[Pitiless Plunderer]]
 - [[Phyrexian Altar]]
@@ -5404,7 +5276,6 @@ Results:
 ===accordion
 ===panel: Pitiless Plunderer + Stridehangar Automaton + Krark-Clan Ironworks
 [[symbol:b]]
-
 
 Cards Required:
 - [[Pitiless Plunderer]]
@@ -5441,7 +5312,6 @@ Results:
 ===accordion
 ===panel: Pitiless Plunderer + Umbral Collar Zealot + Stridehangar Automaton
 [[symbol:b]]
-
 
 Cards Required:
 - [[Pitiless Plunderer]]
@@ -5480,7 +5350,6 @@ Results:
 ===panel: Pitiless Plunderer + Altar of Dementia + Stridehangar Automaton
 [[symbol:b]]
 
-
 Cards Required:
 - [[Pitiless Plunderer]]
 - [[Altar of Dementia]]
@@ -5518,7 +5387,6 @@ Results:
 ===accordion
 ===panel: Pitiless Plunderer + Stridehangar Automaton + Grinding Station
 [[symbol:b]]
-
 
 Cards Required:
 - [[Pitiless Plunderer]]
@@ -5559,7 +5427,6 @@ Results:
 ===panel: Pitiless Plunderer + Stridehangar Automaton + Arcbound Ravager
 [[symbol:b]]
 
-
 Cards Required:
 - [[Pitiless Plunderer]]
 - [[Stridehangar Automaton]]
@@ -5596,7 +5463,6 @@ Results:
 ===accordion
 ===panel: Tortured Existence + Pitiless Plunderer + Imotekh the Stormlord + Altar of Dementia
 [[symbol:b]]
-
 
 Cards Required:
 - [[Tortured Existence]]
@@ -5644,7 +5510,6 @@ Results:
 ===panel: Pitiless Plunderer + Blasting Station + Stridehangar Automaton
 [[symbol:b]]
 
-
 Cards Required:
 - [[Pitiless Plunderer]]
 - [[Blasting Station]]
@@ -5682,7 +5547,6 @@ Results:
 ===accordion
 ===panel: Tortured Existence + Pitiless Plunderer + Imotekh the Stormlord + Blasting Station
 [[symbol:b]]
-
 
 Cards Required:
 - [[Tortured Existence]]
@@ -5730,7 +5594,6 @@ Results:
 ===panel: Metalwork Colossus + Warren Soultrader + Pitiless Plunderer + Aetherflux Reservoir
 [[symbol:b]]
 
-
 Cards Required:
 - [[Metalwork Colossus]]
 - [[Warren Soultrader]]
@@ -5745,7 +5608,7 @@ Prerequisites:
 
 
 Steps:
-1. Cast Metalwork Colossus by paying {0}.
+1. Cast Metalwork Colossus by paying [[symbol:0]].
 2. Aetherflux Reservoir triggers, causing you to gain 1 life for each spell you've cast this turn.
 3. Activate Warren Soultrader by paying 1 life and sacrificing Metalwork Colossus.
 4. When Metalwork Colossus dies, Pitiless Plunderer triggers, creating a Treasure token.
@@ -5817,7 +5680,6 @@ Results:
 ===panel: Retrofitter Foundry + Clock of Omens + Stridehangar Automaton
 [[symbol:c]]
 
-
 Cards Required:
 - [[Retrofitter Foundry]]
 - [[Clock of Omens]]
@@ -5847,7 +5709,6 @@ Results:
 ===accordion
 ===panel: Dross Scorpion + Retrofitter Foundry + Krark-Clan Ironworks
 [[symbol:c]]
-
 
 Cards Required:
 - [[Dross Scorpion]]
@@ -5879,7 +5740,6 @@ Results:
 ===panel: Retrofitter Foundry + Dross Scorpion + Stridehangar Automaton
 [[symbol:c]]
 
-
 Cards Required:
 - [[Retrofitter Foundry]]
 - [[Dross Scorpion]]
@@ -5910,7 +5770,6 @@ Results:
 ===accordion
 ===panel: Dross Scorpion + Retrofitter Foundry + Ashnod's Altar
 [[symbol:c]]
-
 
 Cards Required:
 - [[Dross Scorpion]]
@@ -5947,7 +5806,6 @@ Results:
 ===accordion
 ===panel: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Foundry Inspector
 [[symbol:c]]
-
 
 Cards Required:
 - [[Scrap Trawler]]
@@ -5988,7 +5846,6 @@ Results:
 ===panel: Scrap Trawler + Myr Retriever + Ashnod's Altar + Foundry Inspector
 [[symbol:c]]
 
-
 Cards Required:
 - [[Scrap Trawler]]
 - [[Myr Retriever]]
@@ -6027,7 +5884,6 @@ Results:
 ===accordion
 ===panel: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Sol Ring + Junk Diver
 [[symbol:c]]
-
 
 Cards Required:
 - [[Scrap Trawler]]
@@ -6076,7 +5932,6 @@ Results:
 ===panel: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Cloud Key
 [[symbol:c]]
 
-
 Cards Required:
 - [[Scrap Trawler]]
 - [[Myr Retriever]]
@@ -6116,7 +5971,6 @@ Results:
 ===panel: Scrap Trawler + Myr Retriever + Ashnod's Altar + Cloud Key
 [[symbol:c]]
 
-
 Cards Required:
 - [[Scrap Trawler]]
 - [[Myr Retriever]]
@@ -6155,7 +6009,6 @@ Results:
 ===accordion
 ===panel: Glaring Fleshraker + Myr Retriever + Scrap Trawler + Krark-Clan Ironworks
 [[symbol:c]]
-
 
 Cards Required:
 - [[Glaring Fleshraker]]
@@ -6198,7 +6051,6 @@ Results:
 ===panel: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Semblance Anvil
 [[symbol:c]]
 
-
 Cards Required:
 - [[Scrap Trawler]]
 - [[Myr Retriever]]
@@ -6238,7 +6090,6 @@ Results:
 ===accordion
 ===panel: Imotekh the Stormlord + Scrap Trawler + Myr Retriever + Ashnod's Altar
 [[symbol:b]]
-
 
 Cards Required:
 - [[Imotekh the Stormlord]]
@@ -6280,7 +6131,6 @@ Results:
 ===panel: Imotekh the Stormlord + Scrap Trawler + Myr Retriever + Krark-Clan Ironworks
 [[symbol:b]]
 
-
 Cards Required:
 - [[Imotekh the Stormlord]]
 - [[Scrap Trawler]]
@@ -6320,7 +6170,6 @@ Results:
 ===accordion
 ===panel: Glaring Fleshraker + Ashnod's Altar + Myr Retriever + Scrap Trawler
 [[symbol:c]]
-
 
 Cards Required:
 - [[Glaring Fleshraker]]
@@ -6363,7 +6212,6 @@ Results:
 ===panel: Scrap Trawler + Myr Retriever + Ashnod's Altar + Semblance Anvil
 [[symbol:c]]
 
-
 Cards Required:
 - [[Scrap Trawler]]
 - [[Myr Retriever]]
@@ -6403,7 +6251,6 @@ Results:
 ===accordion
 ===panel: Glaring Fleshraker + Ashnod's Altar + Scrap Trawler + Workshop Assistant
 [[symbol:c]]
-
 
 Cards Required:
 - [[Glaring Fleshraker]]
@@ -6445,7 +6292,6 @@ Results:
 ===accordion
 ===panel: Scrap Trawler + Myr Retriever + Phyrexian Altar + Semblance Anvil
 [[symbol:c]]
-
 
 Cards Required:
 - [[Scrap Trawler]]
@@ -6493,7 +6339,6 @@ Results:
 ===panel: Sensei's Divining Top + Mystic Forge + Semblance Anvil
 [[symbol:c]]
 
-
 Cards Required:
 - [[Sensei's Divining Top]]
 - [[Mystic Forge]]
@@ -6506,7 +6351,7 @@ Prerequisites:
 
 Steps:
 1. Activate Sensei's Divining Top by tapping it, causing you to draw a card and put Sensei's Divining Top on top of your library.
-2. Cast Sensei's Divining Top from the top of your library by paying {0}.
+2. Cast Sensei's Divining Top from the top of your library by paying [[symbol:0]].
 3. Repeat
 
 
@@ -6520,7 +6365,6 @@ Results:
 ===accordion
 ===panel: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Semblance Anvil
 [[symbol:c]]
-
 
 Cards Required:
 - [[Scrap Trawler]]
@@ -6562,7 +6406,6 @@ Results:
 ===panel: Scrap Trawler + Myr Retriever + Ashnod's Altar + Semblance Anvil
 [[symbol:c]]
 
-
 Cards Required:
 - [[Scrap Trawler]]
 - [[Myr Retriever]]
@@ -6602,7 +6445,6 @@ Results:
 ===accordion
 ===panel: Scrap Trawler + Myr Retriever + Phyrexian Altar + Semblance Anvil
 [[symbol:c]]
-
 
 Cards Required:
 - [[Scrap Trawler]]
@@ -6650,7 +6492,6 @@ Results:
 ===panel: Sensei's Divining Top + Foundry Inspector + Mystic Forge
 [[symbol:c]]
 
-
 Cards Required:
 - [[Sensei's Divining Top]]
 - [[Foundry Inspector]]
@@ -6663,7 +6504,7 @@ Prerequisites:
 
 Steps:
 1. Activate Sensei's Divining Top by tapping it, causing you to draw a card and put Sensei's Divining Top on top of your library.
-2. Cast Sensei's Divining Top from the top of your library by paying {0}.
+2. Cast Sensei's Divining Top from the top of your library by paying [[symbol:0]].
 3. Repeat
 
 
@@ -6677,7 +6518,6 @@ Results:
 ===accordion
 ===panel: Sensei's Divining Top + Aetherflux Reservoir + Bolas's Citadel
 [[symbol:b]]
-
 
 Cards Required:
 - [[Sensei's Divining Top]]
@@ -6713,7 +6553,6 @@ Results:
 ===panel: Sensei's Divining Top + Mystic Forge + Cloud Key
 [[symbol:c]]
 
-
 Cards Required:
 - [[Sensei's Divining Top]]
 - [[Mystic Forge]]
@@ -6726,7 +6565,7 @@ Prerequisites:
 
 Steps:
 1. Activate Sensei's Divining Top by tapping it, causing you to draw a card and put Sensei's Divining Top on top of your library.
-2. Cast Sensei's Divining Top from the top of your library by paying {0}.
+2. Cast Sensei's Divining Top from the top of your library by paying [[symbol:0]].
 3. Repeat
 
 
@@ -6740,7 +6579,6 @@ Results:
 ===accordion
 ===panel: Sensei's Divining Top + Glaring Fleshraker + Mystic Forge
 [[symbol:c]]
-
 
 Cards Required:
 - [[Sensei's Divining Top]]
@@ -6778,7 +6616,6 @@ Results:
 ===panel: Sensei's Divining Top + Mystic Forge + Semblance Anvil
 [[symbol:c]]
 
-
 Cards Required:
 - [[Sensei's Divining Top]]
 - [[Mystic Forge]]
@@ -6791,7 +6628,7 @@ Prerequisites:
 
 Steps:
 1. Activate Sensei's Divining Top by tapping it, causing you to draw a card and put Sensei's Divining Top on top of your library.
-2. Cast Sensei's Divining Top from the top of your library by paying {0}.
+2. Cast Sensei's Divining Top from the top of your library by paying [[symbol:0]].
 3. Repeat
 
 
@@ -6805,7 +6642,6 @@ Results:
 ===accordion
 ===panel: Sensei's Divining Top + Mystic Forge + Skirge Familiar
 [[symbol:b]]
-
 
 Cards Required:
 - [[Sensei's Divining Top]]
@@ -6843,7 +6679,6 @@ Results:
 ===accordion
 ===panel: Warren Soultrader + Stridehangar Automaton + Sephiroth, Fabled SOLDIER // Sephiroth, One-Winged Angel
 [[symbol:b]]
-
 
 Cards Required:
 - [[Warren Soultrader]]
@@ -6890,7 +6725,6 @@ Results:
 ===panel: Imotekh the Stormlord + Metalwork Colossus + Skirge Familiar
 [[symbol:b]]
 
-
 Cards Required:
 - [[Imotekh the Stormlord]]
 - [[Metalwork Colossus]]
@@ -6923,7 +6757,6 @@ Results:
 ===accordion
 ===panel: Sensei's Divining Top + Mystic Forge + Skirge Familiar
 [[symbol:b]]
-
 
 Cards Required:
 - [[Sensei's Divining Top]]
@@ -6961,7 +6794,6 @@ Results:
 ===accordion
 ===panel: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Sol Ring + Junk Diver
 [[symbol:c]]
-
 
 Cards Required:
 - [[Scrap Trawler]]
@@ -7016,7 +6848,6 @@ Results:
 ===panel: Pitiless Plunderer + Ashnod's Altar + Stridehangar Automaton
 [[symbol:b]]
 
-
 Cards Required:
 - [[Pitiless Plunderer]]
 - [[Ashnod's Altar]]
@@ -7053,7 +6884,6 @@ Results:
 ===panel: Pitiless Plunderer + Phyrexian Altar + Stridehangar Automaton
 [[symbol:b]]
 
-
 Cards Required:
 - [[Pitiless Plunderer]]
 - [[Phyrexian Altar]]
@@ -7088,7 +6918,6 @@ Results:
 ===accordion
 ===panel: Warren Soultrader + Zulaport Cutthroat + Stridehangar Automaton
 [[symbol:b]]
-
 
 Cards Required:
 - [[Warren Soultrader]]
@@ -7129,7 +6958,6 @@ Results:
 ===panel: Warren Soultrader + Stridehangar Automaton + Sephiroth, Fabled SOLDIER // Sephiroth, One-Winged Angel
 [[symbol:b]]
 
-
 Cards Required:
 - [[Warren Soultrader]]
 - [[Stridehangar Automaton]]
@@ -7169,7 +6997,6 @@ Results:
 ===panel: Pitiless Plunderer + Stridehangar Automaton + Krark-Clan Ironworks
 [[symbol:b]]
 
-
 Cards Required:
 - [[Pitiless Plunderer]]
 - [[Stridehangar Automaton]]
@@ -7205,7 +7032,6 @@ Results:
 ===accordion
 ===panel: Pitiless Plunderer + Umbral Collar Zealot + Stridehangar Automaton
 [[symbol:b]]
-
 
 Cards Required:
 - [[Pitiless Plunderer]]
@@ -7244,7 +7070,6 @@ Results:
 ===panel: Retrofitter Foundry + Clock of Omens + Stridehangar Automaton
 [[symbol:c]]
 
-
 Cards Required:
 - [[Retrofitter Foundry]]
 - [[Clock of Omens]]
@@ -7274,7 +7099,6 @@ Results:
 ===accordion
 ===panel: Pitiless Plunderer + Altar of Dementia + Stridehangar Automaton
 [[symbol:b]]
-
 
 Cards Required:
 - [[Pitiless Plunderer]]
@@ -7313,7 +7137,6 @@ Results:
 ===accordion
 ===panel: Pitiless Plunderer + Stridehangar Automaton + Grinding Station
 [[symbol:b]]
-
 
 Cards Required:
 - [[Pitiless Plunderer]]
@@ -7354,7 +7177,6 @@ Results:
 ===panel: Retrofitter Foundry + Dross Scorpion + Stridehangar Automaton
 [[symbol:c]]
 
-
 Cards Required:
 - [[Retrofitter Foundry]]
 - [[Dross Scorpion]]
@@ -7385,7 +7207,6 @@ Results:
 ===accordion
 ===panel: Pitiless Plunderer + Stridehangar Automaton + Arcbound Ravager
 [[symbol:b]]
-
 
 Cards Required:
 - [[Pitiless Plunderer]]
@@ -7423,7 +7244,6 @@ Results:
 ===accordion
 ===panel: Pitiless Plunderer + Blasting Station + Stridehangar Automaton
 [[symbol:b]]
-
 
 Cards Required:
 - [[Pitiless Plunderer]]
@@ -7463,7 +7283,6 @@ Results:
 ===panel: Metalwork Colossus + Warren Soultrader + Aetherflux Reservoir + Stridehangar Automaton
 [[symbol:b]]
 
-
 Cards Required:
 - [[Metalwork Colossus]]
 - [[Warren Soultrader]]
@@ -7478,7 +7297,7 @@ Prerequisites:
 
 
 Steps:
-1. Cast Metalwork Colossus by paying {0}.
+1. Cast Metalwork Colossus by paying [[symbol:0]].
 2. Aetherflux Reservoir triggers, causing you to gain 1 life for each spell you've cast this turn.
 3. Activate Warren Soultrader by paying 1 life and sacrificing Metalwork Colossus, creating a 1/1 Thopter artifact creature token and a Treasure token.
 4. Activate Metalwork Colossus by sacrificing the Treasure and Thopter, returning Metalwork Colossus from your graveyard to your hand.
@@ -7506,7 +7325,6 @@ Results:
 ===accordion
 ===panel: Tortured Existence + Phyrexian Altar + Imotekh the Stormlord
 [[symbol:b]]
-
 
 Cards Required:
 - [[Tortured Existence]]
@@ -7546,7 +7364,6 @@ Results:
 ===panel: Imotekh the Stormlord + Clock of Omens + Tortured Existence
 [[symbol:b]]
 
-
 Cards Required:
 - [[Imotekh the Stormlord]]
 - [[Clock of Omens]]
@@ -7577,7 +7394,6 @@ Results:
 ===accordion
 ===panel: Tortured Existence + Pitiless Plunderer + Imotekh the Stormlord + Altar of Dementia
 [[symbol:b]]
-
 
 Cards Required:
 - [[Tortured Existence]]
@@ -7624,7 +7440,6 @@ Results:
 ===accordion
 ===panel: Tortured Existence + Pitiless Plunderer + Imotekh the Stormlord + Blasting Station
 [[symbol:b]]
-
 
 Cards Required:
 - [[Tortured Existence]]
@@ -7792,7 +7607,6 @@ Results:
 ===panel: Pitiless Plunderer + Umbral Collar Zealot + Stridehangar Automaton
 [[symbol:b]]
 
-
 Cards Required:
 - [[Pitiless Plunderer]]
 - [[Umbral Collar Zealot]]
@@ -7836,7 +7650,6 @@ Results:
 ===panel: Warren Soultrader + Zulaport Cutthroat + Stridehangar Automaton
 [[symbol:b]]
 
-
 Cards Required:
 - [[Warren Soultrader]]
 - [[Zulaport Cutthroat]]
@@ -7875,7 +7688,6 @@ Results:
 ===accordion
 ===panel: Warren Soultrader + Stridehangar Automaton + Sephiroth, Fabled SOLDIER // Sephiroth, One-Winged Angel
 [[symbol:b]]
-
 
 Cards Required:
 - [[Warren Soultrader]]
@@ -7916,7 +7728,6 @@ Results:
 ===panel: Metalwork Colossus + Warren Soultrader + Aetherflux Reservoir + Stridehangar Automaton
 [[symbol:b]]
 
-
 Cards Required:
 - [[Metalwork Colossus]]
 - [[Warren Soultrader]]
@@ -7931,7 +7742,7 @@ Prerequisites:
 
 
 Steps:
-1. Cast Metalwork Colossus by paying {0}.
+1. Cast Metalwork Colossus by paying [[symbol:0]].
 2. Aetherflux Reservoir triggers, causing you to gain 1 life for each spell you've cast this turn.
 3. Activate Warren Soultrader by paying 1 life and sacrificing Metalwork Colossus, creating a 1/1 Thopter artifact creature token and a Treasure token.
 4. Activate Metalwork Colossus by sacrificing the Treasure and Thopter, returning Metalwork Colossus from your graveyard to your hand.
@@ -7954,7 +7765,6 @@ Results:
 ===panel: Metalwork Colossus + Warren Soultrader + Pitiless Plunderer + Aetherflux Reservoir
 [[symbol:b]]
 
-
 Cards Required:
 - [[Metalwork Colossus]]
 - [[Warren Soultrader]]
@@ -7969,7 +7779,7 @@ Prerequisites:
 
 
 Steps:
-1. Cast Metalwork Colossus by paying {0}.
+1. Cast Metalwork Colossus by paying [[symbol:0]].
 2. Aetherflux Reservoir triggers, causing you to gain 1 life for each spell you've cast this turn.
 3. Activate Warren Soultrader by paying 1 life and sacrificing Metalwork Colossus.
 4. When Metalwork Colossus dies, Pitiless Plunderer triggers, creating a Treasure token.
@@ -8000,7 +7810,6 @@ Results:
 ===accordion
 ===panel: Imotekh the Stormlord + Myr Retriever + Workshop Assistant + Ashnod's Altar
 [[symbol:b]]
-
 
 Cards Required:
 - [[Imotekh the Stormlord]]
@@ -8042,7 +7851,6 @@ Results:
 ===panel: Imotekh the Stormlord + Junk Diver + Workshop Assistant + Ashnod's Altar
 [[symbol:b]]
 
-
 Cards Required:
 - [[Imotekh the Stormlord]]
 - [[Junk Diver]]
@@ -8083,7 +7891,6 @@ Results:
 ===panel: Imotekh the Stormlord + Myr Retriever + Workshop Assistant + Krark-Clan Ironworks
 [[symbol:b]]
 
-
 Cards Required:
 - [[Imotekh the Stormlord]]
 - [[Myr Retriever]]
@@ -8123,7 +7930,6 @@ Results:
 ===accordion
 ===panel: Glaring Fleshraker + Myr Retriever + Workshop Assistant + Krark-Clan Ironworks
 [[symbol:c]]
-
 
 Cards Required:
 - [[Glaring Fleshraker]]
@@ -8166,7 +7972,6 @@ Results:
 ===panel: Glaring Fleshraker + Junk Diver + Workshop Assistant + Krark-Clan Ironworks
 [[symbol:c]]
 
-
 Cards Required:
 - [[Glaring Fleshraker]]
 - [[Junk Diver]]
@@ -8208,7 +8013,6 @@ Results:
 ===panel: Imotekh the Stormlord + Junk Diver + Workshop Assistant + Krark-Clan Ironworks
 [[symbol:b]]
 
-
 Cards Required:
 - [[Imotekh the Stormlord]]
 - [[Junk Diver]]
@@ -8248,7 +8052,6 @@ Results:
 ===accordion
 ===panel: Glaring Fleshraker + Ashnod's Altar + Myr Retriever + Workshop Assistant
 [[symbol:c]]
-
 
 Cards Required:
 - [[Glaring Fleshraker]]
@@ -8291,7 +8094,6 @@ Results:
 ===panel: Glaring Fleshraker + Ashnod's Altar + Junk Diver + Workshop Assistant
 [[symbol:c]]
 
-
 Cards Required:
 - [[Glaring Fleshraker]]
 - [[Ashnod's Altar]]
@@ -8332,7 +8134,6 @@ Results:
 ===accordion
 ===panel: Glaring Fleshraker + Ashnod's Altar + Scrap Trawler + Workshop Assistant
 [[symbol:c]]
-
 
 Cards Required:
 - [[Glaring Fleshraker]]
@@ -8380,7 +8181,6 @@ Results:
 ===accordion
 ===panel: Warren Soultrader + Zulaport Cutthroat + Stridehangar Automaton
 [[symbol:b]]
-
 
 Cards Required:
 - [[Warren Soultrader]]

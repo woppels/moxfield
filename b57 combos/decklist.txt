@@ -2,6 +2,7 @@
 1 Altar of Dementia
 1 Altar of the Brood
 1 Ancient Tomb
+1 Arcane Signet
 1 Arcbound Ravager
 1 Ashnod's Altar
 1 Blasting Station
@@ -20,7 +21,6 @@
 1 Demonic Consultation
 1 Demonic Tutor
 1 Diabolic Intent
-1 Disciple of the Vault
 1 Doctor Doom, Unrivaled
 1 Dread Return
 1 Dross Scorpion
@@ -63,13 +63,12 @@
 1 Sephiroth, Fabled SOLDIER
 1 Skirge Familiar
 1 Skull of Ramos
-1 Snow-Covered Swamp
 1 Sol Ring
 1 Spymaster's Vault
+1 Stitcher's Supplier
 1 Stridehangar Automaton
-10 Swamp
+11 Swamp
 1 Takenuma, Abandoned Mire
-1 Technomancer
 1 The Mycosynth Gardens
 1 The One Ring
 1 Their Name Is Death
