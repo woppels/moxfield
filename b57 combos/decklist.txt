@@ -2,7 +2,6 @@
 1 Altar of Dementia
 1 Altar of the Brood
 1 Ancient Tomb
-1 Arcane Signet
 1 Arcbound Ravager
 1 Ashnod's Altar
 1 Blasting Station
@@ -61,13 +60,15 @@
 1 Semblance Anvil
 1 Sensei's Divining Top
 1 Sephiroth, Fabled SOLDIER
+1 Shizo, Death's Storehouse
 1 Skirge Familiar
 1 Skull of Ramos
+1 Snow-Covered Swamp
+1 Snuff Out
 1 Sol Ring
-1 Spymaster's Vault
 1 Stitcher's Supplier
 1 Stridehangar Automaton
-11 Swamp
+10 Swamp
 1 Takenuma, Abandoned Mire
 1 The Mycosynth Gardens
 1 The One Ring
