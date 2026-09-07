@@ -53,7 +53,7 @@ Prerequisites:
 
 
 Steps:
-1. Cast Metalwork Colossus by paying {0}.
+1. Cast Metalwork Colossus by paying [[symbol:0]].
 2. Aetherflux Reservoir triggers, causing you to gain 1 life for each spell you've cast this turn.
 3. Activate Warren Soultrader by paying 1 life and sacrificing Metalwork Colossus, creating a 1/1 Thopter artifact creature token and a Treasure token.
 4. Activate Metalwork Colossus by sacrificing the Treasure and Thopter, returning Metalwork Colossus from your graveyard to your hand.
@@ -90,7 +90,7 @@ Prerequisites:
 
 
 Steps:
-1. Cast Metalwork Colossus by paying {0}.
+1. Cast Metalwork Colossus by paying [[symbol:0]].
 2. Aetherflux Reservoir triggers, causing you to gain 1 life for each spell you've cast this turn.
 3. Activate Warren Soultrader by paying 1 life and sacrificing Metalwork Colossus.
 4. When Metalwork Colossus dies, Pitiless Plunderer triggers, creating a Treasure token.
@@ -1184,7 +1184,7 @@ Prerequisites:
 
 Steps:
 1. Activate Sensei's Divining Top by tapping it, causing you to draw a card and put Sensei's Divining Top on top of your library.
-2. Cast Sensei's Divining Top from the top of your library by paying {0}.
+2. Cast Sensei's Divining Top from the top of your library by paying [[symbol:0]].
 3. Repeat
 
 
@@ -1489,7 +1489,7 @@ Prerequisites:
 
 Steps:
 1. Activate Sensei's Divining Top by tapping it, causing you to draw a card and put Sensei's Divining Top on top of your library.
-2. Cast Sensei's Divining Top from the top of your library by paying {0}.
+2. Cast Sensei's Divining Top from the top of your library by paying [[symbol:0]].
 3. Repeat
 
 
@@ -3763,7 +3763,7 @@ Prerequisites:
 
 
 Steps:
-1. Cast Metalwork Colossus by paying {0}.
+1. Cast Metalwork Colossus by paying [[symbol:0]].
 2. Aetherflux Reservoir triggers, causing you to gain 1 life for each spell you've cast this turn.
 3. Activate Warren Soultrader by paying 1 life and sacrificing Metalwork Colossus, creating a 1/1 Thopter artifact creature token and a Treasure token.
 4. Activate Metalwork Colossus by sacrificing the Treasure and Thopter, returning Metalwork Colossus from your graveyard to your hand.
@@ -3800,7 +3800,7 @@ Prerequisites:
 
 
 Steps:
-1. Cast Metalwork Colossus by paying {0}.
+1. Cast Metalwork Colossus by paying [[symbol:0]].
 2. Aetherflux Reservoir triggers, causing you to gain 1 life for each spell you've cast this turn.
 3. Activate Warren Soultrader by paying 1 life and sacrificing Metalwork Colossus.
 4. When Metalwork Colossus dies, Pitiless Plunderer triggers, creating a Treasure token.
@@ -4659,7 +4659,7 @@ Prerequisites:
 
 Steps:
 1. Activate Sensei's Divining Top by tapping it, causing you to draw a card and put Sensei's Divining Top on top of your library.
-2. Cast Sensei's Divining Top from the top of your library by paying {0}.
+2. Cast Sensei's Divining Top from the top of your library by paying [[symbol:0]].
 3. Repeat
 
 
@@ -4686,7 +4686,7 @@ Prerequisites:
 
 Steps:
 1. Activate Sensei's Divining Top by tapping it, causing you to draw a card and put Sensei's Divining Top on top of your library.
-2. Cast Sensei's Divining Top from the top of your library by paying {0}.
+2. Cast Sensei's Divining Top from the top of your library by paying [[symbol:0]].
 3. Repeat
 
 
@@ -4749,7 +4749,7 @@ Prerequisites:
 
 Steps:
 1. Activate Sensei's Divining Top by tapping it, causing you to draw a card and put Sensei's Divining Top on top of your library.
-2. Cast Sensei's Divining Top from the top of your library by paying {0}.
+2. Cast Sensei's Divining Top from the top of your library by paying [[symbol:0]].
 3. Repeat
 
 
@@ -5713,7 +5713,7 @@ Prerequisites:
 
 
 Steps:
-1. Cast Metalwork Colossus by paying {0}.
+1. Cast Metalwork Colossus by paying [[symbol:0]].
 2. Aetherflux Reservoir triggers, causing you to gain 1 life for each spell you've cast this turn.
 3. Activate Warren Soultrader by paying 1 life and sacrificing Metalwork Colossus.
 4. When Metalwork Colossus dies, Pitiless Plunderer triggers, creating a Treasure token.
@@ -6456,7 +6456,7 @@ Prerequisites:
 
 Steps:
 1. Activate Sensei's Divining Top by tapping it, causing you to draw a card and put Sensei's Divining Top on top of your library.
-2. Cast Sensei's Divining Top from the top of your library by paying {0}.
+2. Cast Sensei's Divining Top from the top of your library by paying [[symbol:0]].
 3. Repeat
 
 
@@ -6609,7 +6609,7 @@ Prerequisites:
 
 Steps:
 1. Activate Sensei's Divining Top by tapping it, causing you to draw a card and put Sensei's Divining Top on top of your library.
-2. Cast Sensei's Divining Top from the top of your library by paying {0}.
+2. Cast Sensei's Divining Top from the top of your library by paying [[symbol:0]].
 3. Repeat
 
 
@@ -6670,7 +6670,7 @@ Prerequisites:
 
 Steps:
 1. Activate Sensei's Divining Top by tapping it, causing you to draw a card and put Sensei's Divining Top on top of your library.
-2. Cast Sensei's Divining Top from the top of your library by paying {0}.
+2. Cast Sensei's Divining Top from the top of your library by paying [[symbol:0]].
 3. Repeat
 
 
@@ -6733,7 +6733,7 @@ Prerequisites:
 
 Steps:
 1. Activate Sensei's Divining Top by tapping it, causing you to draw a card and put Sensei's Divining Top on top of your library.
-2. Cast Sensei's Divining Top from the top of your library by paying {0}.
+2. Cast Sensei's Divining Top from the top of your library by paying [[symbol:0]].
 3. Repeat
 
 
@@ -7402,7 +7402,7 @@ Prerequisites:
 
 
 Steps:
-1. Cast Metalwork Colossus by paying {0}.
+1. Cast Metalwork Colossus by paying [[symbol:0]].
 2. Aetherflux Reservoir triggers, causing you to gain 1 life for each spell you've cast this turn.
 3. Activate Warren Soultrader by paying 1 life and sacrificing Metalwork Colossus, creating a 1/1 Thopter artifact creature token and a Treasure token.
 4. Activate Metalwork Colossus by sacrificing the Treasure and Thopter, returning Metalwork Colossus from your graveyard to your hand.
@@ -7847,7 +7847,7 @@ Prerequisites:
 
 
 Steps:
-1. Cast Metalwork Colossus by paying {0}.
+1. Cast Metalwork Colossus by paying [[symbol:0]].
 2. Aetherflux Reservoir triggers, causing you to gain 1 life for each spell you've cast this turn.
 3. Activate Warren Soultrader by paying 1 life and sacrificing Metalwork Colossus, creating a 1/1 Thopter artifact creature token and a Treasure token.
 4. Activate Metalwork Colossus by sacrificing the Treasure and Thopter, returning Metalwork Colossus from your graveyard to your hand.
@@ -7884,7 +7884,7 @@ Prerequisites:
 
 
 Steps:
-1. Cast Metalwork Colossus by paying {0}.
+1. Cast Metalwork Colossus by paying [[symbol:0]].
 2. Aetherflux Reservoir triggers, causing you to gain 1 life for each spell you've cast this turn.
 3. Activate Warren Soultrader by paying 1 life and sacrificing Metalwork Colossus.
 4. When Metalwork Colossus dies, Pitiless Plunderer triggers, creating a Treasure token.
