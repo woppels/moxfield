@@ -47,6 +47,7 @@
 1 Mystic Forge
 1 Necropotence
 1 Nim Deathmantle
+1 Orcish Bowmasters
 1 Phyrexian Altar
 1 Phyrexian Tower
 1 Pitiless Plunderer
@@ -72,7 +73,6 @@
 1 Takenuma, Abandoned Mire
 1 The Mycosynth Gardens
 1 The One Ring
-1 Their Name Is Death
 1 Thought Vessel
 1 Tomb Fortress
 1 Tortured Existence

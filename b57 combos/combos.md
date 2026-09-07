@@ -53,7 +53,7 @@ Prerequisites:
 
 
 Steps:
-1. Cast Metalwork Colossus by paying [[symbol:0]].
+1. Cast Metalwork Colossus by paying {0}.
 2. Aetherflux Reservoir triggers, causing you to gain 1 life for each spell you've cast this turn.
 3. Activate Warren Soultrader by paying 1 life and sacrificing Metalwork Colossus, creating a 1/1 Thopter artifact creature token and a Treasure token.
 4. Activate Metalwork Colossus by sacrificing the Treasure and Thopter, returning Metalwork Colossus from your graveyard to your hand.
@@ -90,7 +90,7 @@ Prerequisites:
 
 
 Steps:
-1. Cast Metalwork Colossus by paying [[symbol:0]].
+1. Cast Metalwork Colossus by paying {0}.
 2. Aetherflux Reservoir triggers, causing you to gain 1 life for each spell you've cast this turn.
 3. Activate Warren Soultrader by paying 1 life and sacrificing Metalwork Colossus.
 4. When Metalwork Colossus dies, Pitiless Plunderer triggers, creating a Treasure token.
@@ -869,6 +869,39 @@ Results:
 ===endaccordion
 
 ===accordion
+===panel: Nim Deathmantle + Ashnod's Altar + Orcish Bowmasters
+[[symbol:b]]
+
+Cards Required:
+- [[Nim Deathmantle]]
+- [[Ashnod's Altar]]
+- [[Orcish Bowmasters]]
+
+
+Prerequisites:
+- All permanents on the battlefield.
+- You do not control an Army.
+- [[symbol:2]] available
+
+
+Steps:
+1. Activate Ashnod's Altar by sacrificing Orcish Bowmasters, adding [[symbol:c]][[symbol:c]].
+2. When Orcish Bowmasters dies, Nim Deathmantle triggers, causing you to pay [[symbol:4]] to return Orcish Bowmasters from your graveyard to the battlefield and attach Nim Deathmantle to it.
+3. When Orcish Bowmasters enters, it triggers, dealing 1 damage to any target and creating a creature token.
+4. Activate Ashnod's Altar by sacrificing a creature token, adding [[symbol:c]][[symbol:c]].
+5. Repeat.
+
+
+Results:
+- Infinite damage
+- Infinite death triggers
+- Infinite creature ETB
+- Infinite creature LTB
+- Infinite creature sacrifice triggers
+===endpanel
+===endaccordion
+
+===accordion
 ===panel: Dross Scorpion + Retrofitter Foundry + Ashnod's Altar
 [[symbol:c]]
 
@@ -1151,7 +1184,7 @@ Prerequisites:
 
 Steps:
 1. Activate Sensei's Divining Top by tapping it, causing you to draw a card and put Sensei's Divining Top on top of your library.
-2. Cast Sensei's Divining Top from the top of your library by paying [[symbol:0]].
+2. Cast Sensei's Divining Top from the top of your library by paying {0}.
 3. Repeat
 
 
@@ -1456,7 +1489,7 @@ Prerequisites:
 
 Steps:
 1. Activate Sensei's Divining Top by tapping it, causing you to draw a card and put Sensei's Divining Top on top of your library.
-2. Cast Sensei's Divining Top from the top of your library by paying [[symbol:0]].
+2. Cast Sensei's Divining Top from the top of your library by paying {0}.
 3. Repeat
 
 
@@ -3730,7 +3763,7 @@ Prerequisites:
 
 
 Steps:
-1. Cast Metalwork Colossus by paying [[symbol:0]].
+1. Cast Metalwork Colossus by paying {0}.
 2. Aetherflux Reservoir triggers, causing you to gain 1 life for each spell you've cast this turn.
 3. Activate Warren Soultrader by paying 1 life and sacrificing Metalwork Colossus, creating a 1/1 Thopter artifact creature token and a Treasure token.
 4. Activate Metalwork Colossus by sacrificing the Treasure and Thopter, returning Metalwork Colossus from your graveyard to your hand.
@@ -3767,7 +3800,7 @@ Prerequisites:
 
 
 Steps:
-1. Cast Metalwork Colossus by paying [[symbol:0]].
+1. Cast Metalwork Colossus by paying {0}.
 2. Aetherflux Reservoir triggers, causing you to gain 1 life for each spell you've cast this turn.
 3. Activate Warren Soultrader by paying 1 life and sacrificing Metalwork Colossus.
 4. When Metalwork Colossus dies, Pitiless Plunderer triggers, creating a Treasure token.
@@ -4626,7 +4659,7 @@ Prerequisites:
 
 Steps:
 1. Activate Sensei's Divining Top by tapping it, causing you to draw a card and put Sensei's Divining Top on top of your library.
-2. Cast Sensei's Divining Top from the top of your library by paying [[symbol:0]].
+2. Cast Sensei's Divining Top from the top of your library by paying {0}.
 3. Repeat
 
 
@@ -4653,7 +4686,7 @@ Prerequisites:
 
 Steps:
 1. Activate Sensei's Divining Top by tapping it, causing you to draw a card and put Sensei's Divining Top on top of your library.
-2. Cast Sensei's Divining Top from the top of your library by paying [[symbol:0]].
+2. Cast Sensei's Divining Top from the top of your library by paying {0}.
 3. Repeat
 
 
@@ -4716,7 +4749,7 @@ Prerequisites:
 
 Steps:
 1. Activate Sensei's Divining Top by tapping it, causing you to draw a card and put Sensei's Divining Top on top of your library.
-2. Cast Sensei's Divining Top from the top of your library by paying [[symbol:0]].
+2. Cast Sensei's Divining Top from the top of your library by paying {0}.
 3. Repeat
 
 
@@ -4897,6 +4930,39 @@ Results:
 ===endaccordion
 
 ===accordion
+===panel: Nim Deathmantle + Ashnod's Altar + Orcish Bowmasters
+[[symbol:b]]
+
+Cards Required:
+- [[Nim Deathmantle]]
+- [[Ashnod's Altar]]
+- [[Orcish Bowmasters]]
+
+
+Prerequisites:
+- All permanents on the battlefield.
+- You do not control an Army.
+- [[symbol:2]] available
+
+
+Steps:
+1. Activate Ashnod's Altar by sacrificing Orcish Bowmasters, adding [[symbol:c]][[symbol:c]].
+2. When Orcish Bowmasters dies, Nim Deathmantle triggers, causing you to pay [[symbol:4]] to return Orcish Bowmasters from your graveyard to the battlefield and attach Nim Deathmantle to it.
+3. When Orcish Bowmasters enters, it triggers, dealing 1 damage to any target and creating a creature token.
+4. Activate Ashnod's Altar by sacrificing a creature token, adding [[symbol:c]][[symbol:c]].
+5. Repeat.
+
+
+Results:
+- Infinite damage
+- Infinite death triggers
+- Infinite creature ETB
+- Infinite creature LTB
+- Infinite creature sacrifice triggers
+===endpanel
+===endaccordion
+
+===accordion
 ===panel: Illuminor Szeras + Nim Deathmantle + Dross Scorpion
 [[symbol:b]]
 
@@ -5034,6 +5100,45 @@ Results:
 - Infinite artifact sacrifice triggers
 - Infinite creature tokens
 - Infinite Treasure tokens
+===endpanel
+===endaccordion
+
+===endpanel
+===endaccordion
+
+===accordion
+===panel: Orcish Bowmasters
+
+===accordion
+===panel: Nim Deathmantle + Ashnod's Altar + Orcish Bowmasters
+[[symbol:b]]
+
+Cards Required:
+- [[Nim Deathmantle]]
+- [[Ashnod's Altar]]
+- [[Orcish Bowmasters]]
+
+
+Prerequisites:
+- All permanents on the battlefield.
+- You do not control an Army.
+- [[symbol:2]] available
+
+
+Steps:
+1. Activate Ashnod's Altar by sacrificing Orcish Bowmasters, adding [[symbol:c]][[symbol:c]].
+2. When Orcish Bowmasters dies, Nim Deathmantle triggers, causing you to pay [[symbol:4]] to return Orcish Bowmasters from your graveyard to the battlefield and attach Nim Deathmantle to it.
+3. When Orcish Bowmasters enters, it triggers, dealing 1 damage to any target and creating a creature token.
+4. Activate Ashnod's Altar by sacrificing a creature token, adding [[symbol:c]][[symbol:c]].
+5. Repeat.
+
+
+Results:
+- Infinite damage
+- Infinite death triggers
+- Infinite creature ETB
+- Infinite creature LTB
+- Infinite creature sacrifice triggers
 ===endpanel
 ===endaccordion
 
@@ -5608,7 +5713,7 @@ Prerequisites:
 
 
 Steps:
-1. Cast Metalwork Colossus by paying [[symbol:0]].
+1. Cast Metalwork Colossus by paying {0}.
 2. Aetherflux Reservoir triggers, causing you to gain 1 life for each spell you've cast this turn.
 3. Activate Warren Soultrader by paying 1 life and sacrificing Metalwork Colossus.
 4. When Metalwork Colossus dies, Pitiless Plunderer triggers, creating a Treasure token.
@@ -6351,7 +6456,7 @@ Prerequisites:
 
 Steps:
 1. Activate Sensei's Divining Top by tapping it, causing you to draw a card and put Sensei's Divining Top on top of your library.
-2. Cast Sensei's Divining Top from the top of your library by paying [[symbol:0]].
+2. Cast Sensei's Divining Top from the top of your library by paying {0}.
 3. Repeat
 
 
@@ -6504,7 +6609,7 @@ Prerequisites:
 
 Steps:
 1. Activate Sensei's Divining Top by tapping it, causing you to draw a card and put Sensei's Divining Top on top of your library.
-2. Cast Sensei's Divining Top from the top of your library by paying [[symbol:0]].
+2. Cast Sensei's Divining Top from the top of your library by paying {0}.
 3. Repeat
 
 
@@ -6565,7 +6670,7 @@ Prerequisites:
 
 Steps:
 1. Activate Sensei's Divining Top by tapping it, causing you to draw a card and put Sensei's Divining Top on top of your library.
-2. Cast Sensei's Divining Top from the top of your library by paying [[symbol:0]].
+2. Cast Sensei's Divining Top from the top of your library by paying {0}.
 3. Repeat
 
 
@@ -6628,7 +6733,7 @@ Prerequisites:
 
 Steps:
 1. Activate Sensei's Divining Top by tapping it, causing you to draw a card and put Sensei's Divining Top on top of your library.
-2. Cast Sensei's Divining Top from the top of your library by paying [[symbol:0]].
+2. Cast Sensei's Divining Top from the top of your library by paying {0}.
 3. Repeat
 
 
@@ -7297,7 +7402,7 @@ Prerequisites:
 
 
 Steps:
-1. Cast Metalwork Colossus by paying [[symbol:0]].
+1. Cast Metalwork Colossus by paying {0}.
 2. Aetherflux Reservoir triggers, causing you to gain 1 life for each spell you've cast this turn.
 3. Activate Warren Soultrader by paying 1 life and sacrificing Metalwork Colossus, creating a 1/1 Thopter artifact creature token and a Treasure token.
 4. Activate Metalwork Colossus by sacrificing the Treasure and Thopter, returning Metalwork Colossus from your graveyard to your hand.
@@ -7742,7 +7847,7 @@ Prerequisites:
 
 
 Steps:
-1. Cast Metalwork Colossus by paying [[symbol:0]].
+1. Cast Metalwork Colossus by paying {0}.
 2. Aetherflux Reservoir triggers, causing you to gain 1 life for each spell you've cast this turn.
 3. Activate Warren Soultrader by paying 1 life and sacrificing Metalwork Colossus, creating a 1/1 Thopter artifact creature token and a Treasure token.
 4. Activate Metalwork Colossus by sacrificing the Treasure and Thopter, returning Metalwork Colossus from your graveyard to your hand.
@@ -7779,7 +7884,7 @@ Prerequisites:
 
 
 Steps:
-1. Cast Metalwork Colossus by paying [[symbol:0]].
+1. Cast Metalwork Colossus by paying {0}.
 2. Aetherflux Reservoir triggers, causing you to gain 1 life for each spell you've cast this turn.
 3. Activate Warren Soultrader by paying 1 life and sacrificing Metalwork Colossus.
 4. When Metalwork Colossus dies, Pitiless Plunderer triggers, creating a Treasure token.
