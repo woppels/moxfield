@@ -5,6 +5,7 @@
 ===panel: Sensei's Divining Top + Aetherflux Reservoir + Bolas's Citadel
 [[symbol:b]]
 
+
 Cards Required:
 - [[Sensei's Divining Top]]
 - [[Aetherflux Reservoir]]
@@ -38,6 +39,7 @@ Results:
 ===accordion
 ===panel: Metalwork Colossus + Warren Soultrader + Aetherflux Reservoir + Stridehangar Automaton
 [[symbol:b]]
+
 
 Cards Required:
 - [[Metalwork Colossus]]
@@ -75,6 +77,7 @@ Results:
 ===accordion
 ===panel: Metalwork Colossus + Warren Soultrader + Pitiless Plunderer + Aetherflux Reservoir
 [[symbol:b]]
+
 
 Cards Required:
 - [[Metalwork Colossus]]
@@ -122,6 +125,7 @@ Results:
 ===panel: Pitiless Plunderer + Altar of Dementia + Stridehangar Automaton
 [[symbol:b]]
 
+
 Cards Required:
 - [[Pitiless Plunderer]]
 - [[Altar of Dementia]]
@@ -159,6 +163,7 @@ Results:
 ===accordion
 ===panel: Tortured Existence + Pitiless Plunderer + Imotekh the Stormlord + Altar of Dementia
 [[symbol:b]]
+
 
 Cards Required:
 - [[Tortured Existence]]
@@ -212,6 +217,7 @@ Results:
 ===panel: Pitiless Plunderer + Stridehangar Automaton + Arcbound Ravager
 [[symbol:b]]
 
+
 Cards Required:
 - [[Pitiless Plunderer]]
 - [[Stridehangar Automaton]]
@@ -255,6 +261,7 @@ Results:
 ===panel: Nim Deathmantle + Ashnod's Altar
 [[symbol:c]]
 
+
 Cards Required:
 - [[Nim Deathmantle]]
 - [[Ashnod's Altar]]
@@ -285,6 +292,7 @@ Results:
 ===accordion
 ===panel: Scrap Trawler + Myr Retriever + Ashnod's Altar + Foundry Inspector
 [[symbol:c]]
+
 
 Cards Required:
 - [[Scrap Trawler]]
@@ -325,6 +333,7 @@ Results:
 ===panel: Scrap Trawler + Myr Retriever + Ashnod's Altar + Cloud Key
 [[symbol:c]]
 
+
 Cards Required:
 - [[Scrap Trawler]]
 - [[Myr Retriever]]
@@ -364,6 +373,7 @@ Results:
 ===panel: Nim Deathmantle + Ashnod's Altar + Marionette Apprentice
 [[symbol:b]]
 
+
 Cards Required:
 - [[Nim Deathmantle]]
 - [[Ashnod's Altar]]
@@ -396,6 +406,7 @@ Results:
 ===accordion
 ===panel: Imotekh the Stormlord + Scrap Trawler + Myr Retriever + Ashnod's Altar
 [[symbol:b]]
+
 
 Cards Required:
 - [[Imotekh the Stormlord]]
@@ -437,6 +448,7 @@ Results:
 ===panel: Imotekh the Stormlord + Junk Diver + Myr Retriever + Ashnod's Altar
 [[symbol:b]]
 
+
 Cards Required:
 - [[Imotekh the Stormlord]]
 - [[Junk Diver]]
@@ -476,6 +488,7 @@ Results:
 ===accordion
 ===panel: Glaring Fleshraker + Ashnod's Altar + Myr Retriever + Scrap Trawler
 [[symbol:c]]
+
 
 Cards Required:
 - [[Glaring Fleshraker]]
@@ -518,6 +531,7 @@ Results:
 ===panel: Imotekh the Stormlord + Nim Deathmantle + Ashnod's Altar
 [[symbol:b]]
 
+
 Cards Required:
 - [[Imotekh the Stormlord]]
 - [[Nim Deathmantle]]
@@ -551,6 +565,7 @@ Results:
 ===accordion
 ===panel: Scrap Trawler + Myr Retriever + Ashnod's Altar + Semblance Anvil
 [[symbol:c]]
+
 
 Cards Required:
 - [[Scrap Trawler]]
@@ -592,6 +607,7 @@ Results:
 ===panel: Pitiless Plunderer + Ashnod's Altar + Stridehangar Automaton
 [[symbol:b]]
 
+
 Cards Required:
 - [[Pitiless Plunderer]]
 - [[Ashnod's Altar]]
@@ -627,6 +643,7 @@ Results:
 ===accordion
 ===panel: Glaring Fleshraker + Ashnod's Altar + Myr Retriever + Junk Diver
 [[symbol:c]]
+
 
 Cards Required:
 - [[Glaring Fleshraker]]
@@ -669,6 +686,7 @@ Results:
 ===panel: Imotekh the Stormlord + Myr Retriever + Workshop Assistant + Ashnod's Altar
 [[symbol:b]]
 
+
 Cards Required:
 - [[Imotekh the Stormlord]]
 - [[Myr Retriever]]
@@ -709,6 +727,7 @@ Results:
 ===panel: Imotekh the Stormlord + Junk Diver + Workshop Assistant + Ashnod's Altar
 [[symbol:b]]
 
+
 Cards Required:
 - [[Imotekh the Stormlord]]
 - [[Junk Diver]]
@@ -746,8 +765,49 @@ Results:
 ===endaccordion
 
 ===accordion
+===panel: Myr Retriever + Ashnod's Altar + Ultron, Artificial Malevolence
+[[symbol:c]]
+
+
+Cards Required:
+- [[Myr Retriever]]
+- [[Ashnod's Altar]]
+- [[Ultron, Artificial Malevolence]]
+
+
+Prerequisites:
+- Myr Retriever in hand.
+- Ashnod's Altar and Ultron on the battlefield.
+- [[symbol:2]] available
+
+
+Steps:
+1. Cast Myr Retriever by paying [[symbol:2]].
+2. When Myr Retriever enters, Ultron triggers.
+3. Holding priority, activate Ashnod's Altar by sacrificing Myr Retriever, adding [[symbol:c]][[symbol:c]]
+4. When Myr Retriever dies, it triggers, returning an artifact card from your graveyard to your hand.
+5. Resolve the Ultron trigger, causing you to pay [[symbol:2]] to create a token copy of Myr Retriever.
+6. Activate Ashnod's Altar by sacrificing the Myr Retriever token, adding [[symbol:c]][[symbol:c]].
+7. When the Myr Retriever token dies, it triggers, returning the nontoken Myr Retriever from your graveyard to your hand.
+8. Repeat.
+
+
+Results:
+- Infinite creature ETB
+- Infinite creature LTB
+- Infinite death triggers
+- Infinite creature sacrifice triggers
+- Infinite storm count
+- Infinite artifact ETB
+- Infinite artifact LTB
+- Infinite artifact sacrifice triggers
+===endpanel
+===endaccordion
+
+===accordion
 ===panel: Glaring Fleshraker + Ashnod's Altar + Myr Retriever + Workshop Assistant
 [[symbol:c]]
+
 
 Cards Required:
 - [[Glaring Fleshraker]]
@@ -790,6 +850,7 @@ Results:
 ===panel: Glaring Fleshraker + Ashnod's Altar + Junk Diver + Workshop Assistant
 [[symbol:c]]
 
+
 Cards Required:
 - [[Glaring Fleshraker]]
 - [[Ashnod's Altar]]
@@ -830,6 +891,7 @@ Results:
 ===accordion
 ===panel: Glaring Fleshraker + Ashnod's Altar + Scrap Trawler + Workshop Assistant
 [[symbol:c]]
+
 
 Cards Required:
 - [[Glaring Fleshraker]]
@@ -872,6 +934,7 @@ Results:
 ===panel: Nim Deathmantle + Ashnod's Altar + Orcish Bowmasters
 [[symbol:b]]
 
+
 Cards Required:
 - [[Nim Deathmantle]]
 - [[Ashnod's Altar]]
@@ -904,6 +967,7 @@ Results:
 ===accordion
 ===panel: Dross Scorpion + Retrofitter Foundry + Ashnod's Altar
 [[symbol:c]]
+
 
 Cards Required:
 - [[Dross Scorpion]]
@@ -975,6 +1039,7 @@ Results:
 ===panel: Pitiless Plunderer + Blasting Station + Stridehangar Automaton
 [[symbol:b]]
 
+
 Cards Required:
 - [[Pitiless Plunderer]]
 - [[Blasting Station]]
@@ -1012,6 +1077,7 @@ Results:
 ===accordion
 ===panel: Tortured Existence + Pitiless Plunderer + Imotekh the Stormlord + Blasting Station
 [[symbol:b]]
+
 
 Cards Required:
 - [[Tortured Existence]]
@@ -1065,6 +1131,7 @@ Results:
 ===panel: Sensei's Divining Top + Aetherflux Reservoir + Bolas's Citadel
 [[symbol:b]]
 
+
 Cards Required:
 - [[Sensei's Divining Top]]
 - [[Aetherflux Reservoir]]
@@ -1105,6 +1172,7 @@ Results:
 ===panel: Retrofitter Foundry + Clock of Omens + Stridehangar Automaton
 [[symbol:c]]
 
+
 Cards Required:
 - [[Retrofitter Foundry]]
 - [[Clock of Omens]]
@@ -1134,6 +1202,7 @@ Results:
 ===accordion
 ===panel: Imotekh the Stormlord + Clock of Omens + Tortured Existence
 [[symbol:b]]
+
 
 Cards Required:
 - [[Imotekh the Stormlord]]
@@ -1172,6 +1241,7 @@ Results:
 ===panel: Sensei's Divining Top + Mystic Forge + Cloud Key
 [[symbol:c]]
 
+
 Cards Required:
 - [[Sensei's Divining Top]]
 - [[Mystic Forge]]
@@ -1198,6 +1268,7 @@ Results:
 ===accordion
 ===panel: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Cloud Key
 [[symbol:c]]
+
 
 Cards Required:
 - [[Scrap Trawler]]
@@ -1237,6 +1308,7 @@ Results:
 ===accordion
 ===panel: Scrap Trawler + Myr Retriever + Ashnod's Altar + Cloud Key
 [[symbol:c]]
+
 
 Cards Required:
 - [[Scrap Trawler]]
@@ -1288,17 +1360,14 @@ Cards Required:
 - [[Demonic Consultation]]
 
 Prerequisites:
-- Doctor Doom, Unrivaled on the battlefield and able to tap.
-- [[symbol:b]] available.
-- You know the name of a Magic card that is not in your deck.
+- Doctor Doom, Unrivaled on the battlefield without summoning sickness.
+- Demonic Consultation in hand.
 
 Steps:
-1. Cast Demonic Consultation by paying [[symbol:b]].
-2. Name a card that is not in your deck.
-3. Resolve Demonic Consultation, exiling cards until your entire library has been exiled.
-4. Activate Doctor Doom, Unrivaled by tapping it.
-5. Doctor Doom's ability attempts to draw a card and causes you to lose 1 life.
-6. Doctor Doom's ability sees that your library has no cards in it, causing you to win the game.
+1. Cast Demonic Consultation, naming a card that is not in your library.
+2. Resolve Demonic Consultation, exiling your library.
+3. Activate Doctor Doom, Unrivaled by tapping it.
+4. Resolve Doctor Doom's ability with no cards in your library, causing you to win the game.
 
 Results:
 - Win the game
@@ -1320,17 +1389,14 @@ Cards Required:
 - [[Demonic Consultation]]
 
 Prerequisites:
-- Doctor Doom, Unrivaled on the battlefield and able to tap.
-- [[symbol:b]] available.
-- You know the name of a Magic card that is not in your deck.
+- Doctor Doom, Unrivaled on the battlefield without summoning sickness.
+- Demonic Consultation in hand.
 
 Steps:
-1. Cast Demonic Consultation by paying [[symbol:b]].
-2. Name a card that is not in your deck.
-3. Resolve Demonic Consultation, exiling cards until your entire library has been exiled.
-4. Activate Doctor Doom, Unrivaled by tapping it.
-5. Doctor Doom's ability attempts to draw a card and causes you to lose 1 life.
-6. Doctor Doom's ability sees that your library has no cards in it, causing you to win the game.
+1. Cast Demonic Consultation, naming a card that is not in your library.
+2. Resolve Demonic Consultation, exiling your library.
+3. Activate Doctor Doom, Unrivaled by tapping it.
+4. Resolve Doctor Doom's ability with no cards in your library, causing you to win the game.
 
 Results:
 - Win the game
@@ -1344,41 +1410,9 @@ Results:
 ===panel: Dross Scorpion
 
 ===accordion
-===panel: Illuminor Szeras + Nim Deathmantle + Dross Scorpion
-[[symbol:b]]
-
-Cards Required:
-- [[Illuminor Szeras]]
-- [[Nim Deathmantle]]
-- [[Dross Scorpion]]
-
-
-Prerequisites:
-- All permanents on the battlefield.
-- You control a nontoken creature with mana value five or greater
-- Illuminor Szeras does not have summoning sickness.
-
-
-Steps:
-1. Activate Illuminor Szeras by tapping it and sacrificing Dross Scorpion or another artifact creature with mana value four or greater, adding at least [[symbol:b]][[symbol:b]][[symbol:b]][[symbol:b]].
-2. When the creature dies, Nim Deathmantle and Dross Scorpion trigger.
-3. Resolve the Nim Deathmantle trigger, causing you to pay [[symbol:4]] to return the creature from your graveyard to the battlefield, and attach Nim Deathmantle to it.
-4. Resolve the Dross Scorpion trigger, untapping Illuminor Szeras.
-5. Repeat.
-
-
-Results:
-- Infinite black mana
-- Infinite death triggers
-- Infinite creature ETB
-- Infinite creature LTB
-- Infinite creature sacrifice triggers
-===endpanel
-===endaccordion
-
-===accordion
 ===panel: Dross Scorpion + Retrofitter Foundry + Krark-Clan Ironworks
 [[symbol:c]]
+
 
 Cards Required:
 - [[Dross Scorpion]]
@@ -1410,6 +1444,7 @@ Results:
 ===panel: Retrofitter Foundry + Dross Scorpion + Stridehangar Automaton
 [[symbol:c]]
 
+
 Cards Required:
 - [[Retrofitter Foundry]]
 - [[Dross Scorpion]]
@@ -1440,6 +1475,7 @@ Results:
 ===accordion
 ===panel: Dross Scorpion + Retrofitter Foundry + Ashnod's Altar
 [[symbol:c]]
+
 
 Cards Required:
 - [[Dross Scorpion]]
@@ -1477,6 +1513,7 @@ Results:
 ===panel: Sensei's Divining Top + Foundry Inspector + Mystic Forge
 [[symbol:c]]
 
+
 Cards Required:
 - [[Sensei's Divining Top]]
 - [[Foundry Inspector]]
@@ -1503,6 +1540,7 @@ Results:
 ===accordion
 ===panel: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Foundry Inspector
 [[symbol:c]]
+
 
 Cards Required:
 - [[Scrap Trawler]]
@@ -1542,6 +1580,7 @@ Results:
 ===accordion
 ===panel: Scrap Trawler + Myr Retriever + Ashnod's Altar + Foundry Inspector
 [[symbol:c]]
+
 
 Cards Required:
 - [[Scrap Trawler]]
@@ -1588,6 +1627,7 @@ Results:
 ===panel: Sensei's Divining Top + Glaring Fleshraker + Mystic Forge
 [[symbol:c]]
 
+
 Cards Required:
 - [[Sensei's Divining Top]]
 - [[Glaring Fleshraker]]
@@ -1623,6 +1663,7 @@ Results:
 ===accordion
 ===panel: Glaring Fleshraker + Myr Retriever + Scrap Trawler + Krark-Clan Ironworks
 [[symbol:c]]
+
 
 Cards Required:
 - [[Glaring Fleshraker]]
@@ -1665,6 +1706,7 @@ Results:
 ===panel: Glaring Fleshraker + Myr Retriever + Junk Diver + Krark-Clan Ironworks
 [[symbol:c]]
 
+
 Cards Required:
 - [[Glaring Fleshraker]]
 - [[Myr Retriever]]
@@ -1705,6 +1747,7 @@ Results:
 ===accordion
 ===panel: Glaring Fleshraker + Ashnod's Altar + Myr Retriever + Scrap Trawler
 [[symbol:c]]
+
 
 Cards Required:
 - [[Glaring Fleshraker]]
@@ -1747,6 +1790,7 @@ Results:
 ===panel: Glaring Fleshraker + Ashnod's Altar + Myr Retriever + Junk Diver
 [[symbol:c]]
 
+
 Cards Required:
 - [[Glaring Fleshraker]]
 - [[Ashnod's Altar]]
@@ -1787,6 +1831,7 @@ Results:
 ===accordion
 ===panel: Glaring Fleshraker + Myr Retriever + Workshop Assistant + Krark-Clan Ironworks
 [[symbol:c]]
+
 
 Cards Required:
 - [[Glaring Fleshraker]]
@@ -1829,6 +1874,7 @@ Results:
 ===panel: Glaring Fleshraker + Junk Diver + Workshop Assistant + Krark-Clan Ironworks
 [[symbol:c]]
 
+
 Cards Required:
 - [[Glaring Fleshraker]]
 - [[Junk Diver]]
@@ -1869,6 +1915,7 @@ Results:
 ===accordion
 ===panel: Glaring Fleshraker + Ashnod's Altar + Myr Retriever + Workshop Assistant
 [[symbol:c]]
+
 
 Cards Required:
 - [[Glaring Fleshraker]]
@@ -1911,6 +1958,7 @@ Results:
 ===panel: Glaring Fleshraker + Ashnod's Altar + Junk Diver + Workshop Assistant
 [[symbol:c]]
 
+
 Cards Required:
 - [[Glaring Fleshraker]]
 - [[Ashnod's Altar]]
@@ -1951,6 +1999,7 @@ Results:
 ===accordion
 ===panel: Glaring Fleshraker + Ashnod's Altar + Scrap Trawler + Workshop Assistant
 [[symbol:c]]
+
 
 Cards Required:
 - [[Glaring Fleshraker]]
@@ -1999,6 +2048,7 @@ Results:
 ===panel: Pitiless Plunderer + Stridehangar Automaton + Grinding Station
 [[symbol:b]]
 
+
 Cards Required:
 - [[Pitiless Plunderer]]
 - [[Stridehangar Automaton]]
@@ -2038,50 +2088,12 @@ Results:
 ===endaccordion
 
 ===accordion
-===panel: Illuminor Szeras
-
-===accordion
-===panel: Illuminor Szeras + Nim Deathmantle + Dross Scorpion
-[[symbol:b]]
-
-Cards Required:
-- [[Illuminor Szeras]]
-- [[Nim Deathmantle]]
-- [[Dross Scorpion]]
-
-
-Prerequisites:
-- All permanents on the battlefield.
-- You control a nontoken creature with mana value five or greater
-- Illuminor Szeras does not have summoning sickness.
-
-
-Steps:
-1. Activate Illuminor Szeras by tapping it and sacrificing Dross Scorpion or another artifact creature with mana value four or greater, adding at least [[symbol:b]][[symbol:b]][[symbol:b]][[symbol:b]].
-2. When the creature dies, Nim Deathmantle and Dross Scorpion trigger.
-3. Resolve the Nim Deathmantle trigger, causing you to pay [[symbol:4]] to return the creature from your graveyard to the battlefield, and attach Nim Deathmantle to it.
-4. Resolve the Dross Scorpion trigger, untapping Illuminor Szeras.
-5. Repeat.
-
-
-Results:
-- Infinite black mana
-- Infinite death triggers
-- Infinite creature ETB
-- Infinite creature LTB
-- Infinite creature sacrifice triggers
-===endpanel
-===endaccordion
-
-===endpanel
-===endaccordion
-
-===accordion
 ===panel: Imotekh the Stormlord
 
 ===accordion
 ===panel: Imotekh the Stormlord + Scrap Trawler + Myr Retriever + Ashnod's Altar
 [[symbol:b]]
+
 
 Cards Required:
 - [[Imotekh the Stormlord]]
@@ -2123,6 +2135,7 @@ Results:
 ===panel: Imotekh the Stormlord + Scrap Trawler + Myr Retriever + Krark-Clan Ironworks
 [[symbol:b]]
 
+
 Cards Required:
 - [[Imotekh the Stormlord]]
 - [[Scrap Trawler]]
@@ -2162,6 +2175,7 @@ Results:
 ===accordion
 ===panel: Imotekh the Stormlord + Junk Diver + Myr Retriever + Ashnod's Altar
 [[symbol:b]]
+
 
 Cards Required:
 - [[Imotekh the Stormlord]]
@@ -2203,6 +2217,7 @@ Results:
 ===panel: Imotekh the Stormlord + Nim Deathmantle + Ashnod's Altar
 [[symbol:b]]
 
+
 Cards Required:
 - [[Imotekh the Stormlord]]
 - [[Nim Deathmantle]]
@@ -2236,6 +2251,7 @@ Results:
 ===accordion
 ===panel: Imotekh the Stormlord + Myr Retriever + Workshop Assistant + Ashnod's Altar
 [[symbol:b]]
+
 
 Cards Required:
 - [[Imotekh the Stormlord]]
@@ -2277,6 +2293,7 @@ Results:
 ===panel: Imotekh the Stormlord + Junk Diver + Myr Retriever + Krark-Clan Ironworks
 [[symbol:b]]
 
+
 Cards Required:
 - [[Imotekh the Stormlord]]
 - [[Junk Diver]]
@@ -2316,6 +2333,7 @@ Results:
 ===accordion
 ===panel: Imotekh the Stormlord + Junk Diver + Workshop Assistant + Ashnod's Altar
 [[symbol:b]]
+
 
 Cards Required:
 - [[Imotekh the Stormlord]]
@@ -2357,6 +2375,7 @@ Results:
 ===panel: Imotekh the Stormlord + Nim Deathmantle + Krark-Clan Ironworks
 [[symbol:b]]
 
+
 Cards Required:
 - [[Imotekh the Stormlord]]
 - [[Nim Deathmantle]]
@@ -2390,6 +2409,7 @@ Results:
 ===accordion
 ===panel: Imotekh the Stormlord + Myr Retriever + Workshop Assistant + Krark-Clan Ironworks
 [[symbol:b]]
+
 
 Cards Required:
 - [[Imotekh the Stormlord]]
@@ -2431,6 +2451,7 @@ Results:
 ===panel: Imotekh the Stormlord + Junk Diver + Workshop Assistant + Krark-Clan Ironworks
 [[symbol:b]]
 
+
 Cards Required:
 - [[Imotekh the Stormlord]]
 - [[Junk Diver]]
@@ -2471,6 +2492,7 @@ Results:
 ===panel: Tortured Existence + Phyrexian Altar + Imotekh the Stormlord
 [[symbol:b]]
 
+
 Cards Required:
 - [[Tortured Existence]]
 - [[Phyrexian Altar]]
@@ -2509,6 +2531,7 @@ Results:
 ===panel: Imotekh the Stormlord + Clock of Omens + Tortured Existence
 [[symbol:b]]
 
+
 Cards Required:
 - [[Imotekh the Stormlord]]
 - [[Clock of Omens]]
@@ -2539,6 +2562,7 @@ Results:
 ===accordion
 ===panel: Imotekh the Stormlord + Metalwork Colossus + Skirge Familiar
 [[symbol:b]]
+
 
 Cards Required:
 - [[Imotekh the Stormlord]]
@@ -2572,6 +2596,7 @@ Results:
 ===accordion
 ===panel: Tortured Existence + Pitiless Plunderer + Imotekh the Stormlord + Altar of Dementia
 [[symbol:b]]
+
 
 Cards Required:
 - [[Tortured Existence]]
@@ -2618,6 +2643,7 @@ Results:
 ===accordion
 ===panel: Tortured Existence + Pitiless Plunderer + Imotekh the Stormlord + Blasting Station
 [[symbol:b]]
+
 
 Cards Required:
 - [[Tortured Existence]]
@@ -2671,6 +2697,7 @@ Results:
 ===panel: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Sol Ring + Junk Diver
 [[symbol:c]]
 
+
 Cards Required:
 - [[Scrap Trawler]]
 - [[Myr Retriever]]
@@ -2718,6 +2745,7 @@ Results:
 ===panel: Glaring Fleshraker + Myr Retriever + Junk Diver + Krark-Clan Ironworks
 [[symbol:c]]
 
+
 Cards Required:
 - [[Glaring Fleshraker]]
 - [[Myr Retriever]]
@@ -2759,6 +2787,7 @@ Results:
 ===panel: Imotekh the Stormlord + Junk Diver + Myr Retriever + Ashnod's Altar
 [[symbol:b]]
 
+
 Cards Required:
 - [[Imotekh the Stormlord]]
 - [[Junk Diver]]
@@ -2798,6 +2827,7 @@ Results:
 ===accordion
 ===panel: Glaring Fleshraker + Ashnod's Altar + Myr Retriever + Junk Diver
 [[symbol:c]]
+
 
 Cards Required:
 - [[Glaring Fleshraker]]
@@ -2840,6 +2870,7 @@ Results:
 ===panel: Imotekh the Stormlord + Junk Diver + Myr Retriever + Krark-Clan Ironworks
 [[symbol:b]]
 
+
 Cards Required:
 - [[Imotekh the Stormlord]]
 - [[Junk Diver]]
@@ -2880,6 +2911,7 @@ Results:
 ===panel: Imotekh the Stormlord + Junk Diver + Workshop Assistant + Ashnod's Altar
 [[symbol:b]]
 
+
 Cards Required:
 - [[Imotekh the Stormlord]]
 - [[Junk Diver]]
@@ -2919,6 +2951,7 @@ Results:
 ===accordion
 ===panel: Glaring Fleshraker + Junk Diver + Workshop Assistant + Krark-Clan Ironworks
 [[symbol:c]]
+
 
 Cards Required:
 - [[Glaring Fleshraker]]
@@ -2961,6 +2994,7 @@ Results:
 ===panel: Imotekh the Stormlord + Junk Diver + Workshop Assistant + Krark-Clan Ironworks
 [[symbol:b]]
 
+
 Cards Required:
 - [[Imotekh the Stormlord]]
 - [[Junk Diver]]
@@ -3000,6 +3034,7 @@ Results:
 ===accordion
 ===panel: Glaring Fleshraker + Ashnod's Altar + Junk Diver + Workshop Assistant
 [[symbol:c]]
+
 
 Cards Required:
 - [[Glaring Fleshraker]]
@@ -3048,6 +3083,7 @@ Results:
 ===panel: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Foundry Inspector
 [[symbol:c]]
 
+
 Cards Required:
 - [[Scrap Trawler]]
 - [[Myr Retriever]]
@@ -3086,6 +3122,7 @@ Results:
 ===accordion
 ===panel: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Sol Ring + Junk Diver
 [[symbol:c]]
+
 
 Cards Required:
 - [[Scrap Trawler]]
@@ -3134,6 +3171,7 @@ Results:
 ===panel: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Cloud Key
 [[symbol:c]]
 
+
 Cards Required:
 - [[Scrap Trawler]]
 - [[Myr Retriever]]
@@ -3172,6 +3210,7 @@ Results:
 ===accordion
 ===panel: Glaring Fleshraker + Myr Retriever + Scrap Trawler + Krark-Clan Ironworks
 [[symbol:c]]
+
 
 Cards Required:
 - [[Glaring Fleshraker]]
@@ -3214,6 +3253,7 @@ Results:
 ===panel: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Semblance Anvil
 [[symbol:c]]
 
+
 Cards Required:
 - [[Scrap Trawler]]
 - [[Myr Retriever]]
@@ -3253,6 +3293,7 @@ Results:
 ===accordion
 ===panel: Glaring Fleshraker + Myr Retriever + Junk Diver + Krark-Clan Ironworks
 [[symbol:c]]
+
 
 Cards Required:
 - [[Glaring Fleshraker]]
@@ -3295,6 +3336,7 @@ Results:
 ===panel: Imotekh the Stormlord + Scrap Trawler + Myr Retriever + Krark-Clan Ironworks
 [[symbol:b]]
 
+
 Cards Required:
 - [[Imotekh the Stormlord]]
 - [[Scrap Trawler]]
@@ -3335,6 +3377,7 @@ Results:
 ===panel: Imotekh the Stormlord + Junk Diver + Myr Retriever + Krark-Clan Ironworks
 [[symbol:b]]
 
+
 Cards Required:
 - [[Imotekh the Stormlord]]
 - [[Junk Diver]]
@@ -3372,8 +3415,49 @@ Results:
 ===endaccordion
 
 ===accordion
+===panel: Myr Retriever + Krark-Clan Ironworks + Ultron, Artificial Malevolence
+[[symbol:c]]
+
+
+Cards Required:
+- [[Myr Retriever]]
+- [[Krark-Clan Ironworks]]
+- [[Ultron, Artificial Malevolence]]
+
+
+Prerequisites:
+- Myr Retriever in hand.
+- Krark-Clan Ironworks and Ultron on the battlefield.
+- [[symbol:2]] available
+
+
+Steps:
+1. Cast Myr Retriever by paying [[symbol:2]].
+2. When Myr Retriever enters, Ultron triggers.
+3. Holding priority, activate Krark-Clan Ironworks by sacrificing Myr Retriever, adding [[symbol:c]][[symbol:c]]
+4. When Myr Retriever dies, it triggers, returning an artifact card from your graveyard to your hand.
+5. Resolve the Ultron trigger, causing you to pay [[symbol:2]] to create a token copy of Myr Retriever.
+6. Activate Krark-Clan Ironworks by sacrificing the Myr Retriever token, adding [[symbol:c]][[symbol:c]].
+7. When the Myr Retriever token dies, it triggers, returning the nontoken Myr Retriever from your graveyard to your hand.
+8. Repeat.
+
+
+Results:
+- Infinite creature ETB
+- Infinite creature LTB
+- Infinite death triggers
+- Infinite creature sacrifice triggers
+- Infinite storm count
+- Infinite artifact ETB
+- Infinite artifact LTB
+- Infinite artifact sacrifice triggers
+===endpanel
+===endaccordion
+
+===accordion
 ===panel: Imotekh the Stormlord + Nim Deathmantle + Krark-Clan Ironworks
 [[symbol:b]]
+
 
 Cards Required:
 - [[Imotekh the Stormlord]]
@@ -3408,6 +3492,7 @@ Results:
 ===accordion
 ===panel: Imotekh the Stormlord + Myr Retriever + Workshop Assistant + Krark-Clan Ironworks
 [[symbol:b]]
+
 
 Cards Required:
 - [[Imotekh the Stormlord]]
@@ -3448,6 +3533,7 @@ Results:
 ===accordion
 ===panel: Glaring Fleshraker + Myr Retriever + Workshop Assistant + Krark-Clan Ironworks
 [[symbol:c]]
+
 
 Cards Required:
 - [[Glaring Fleshraker]]
@@ -3490,6 +3576,7 @@ Results:
 ===panel: Glaring Fleshraker + Junk Diver + Workshop Assistant + Krark-Clan Ironworks
 [[symbol:c]]
 
+
 Cards Required:
 - [[Glaring Fleshraker]]
 - [[Junk Diver]]
@@ -3531,6 +3618,7 @@ Results:
 ===panel: Imotekh the Stormlord + Junk Diver + Workshop Assistant + Krark-Clan Ironworks
 [[symbol:b]]
 
+
 Cards Required:
 - [[Imotekh the Stormlord]]
 - [[Junk Diver]]
@@ -3571,6 +3659,7 @@ Results:
 ===panel: Pitiless Plunderer + Stridehangar Automaton + Krark-Clan Ironworks
 [[symbol:b]]
 
+
 Cards Required:
 - [[Pitiless Plunderer]]
 - [[Stridehangar Automaton]]
@@ -3606,6 +3695,7 @@ Results:
 ===accordion
 ===panel: Dross Scorpion + Retrofitter Foundry + Krark-Clan Ironworks
 [[symbol:c]]
+
 
 Cards Required:
 - [[Dross Scorpion]]
@@ -3677,6 +3767,7 @@ Results:
 ===panel: Nim Deathmantle + Ashnod's Altar + Marionette Apprentice
 [[symbol:b]]
 
+
 Cards Required:
 - [[Nim Deathmantle]]
 - [[Ashnod's Altar]]
@@ -3716,6 +3807,7 @@ Results:
 ===panel: Imotekh the Stormlord + Metalwork Colossus + Skirge Familiar
 [[symbol:b]]
 
+
 Cards Required:
 - [[Imotekh the Stormlord]]
 - [[Metalwork Colossus]]
@@ -3748,6 +3840,7 @@ Results:
 ===accordion
 ===panel: Metalwork Colossus + Warren Soultrader + Aetherflux Reservoir + Stridehangar Automaton
 [[symbol:b]]
+
 
 Cards Required:
 - [[Metalwork Colossus]]
@@ -3785,6 +3878,7 @@ Results:
 ===accordion
 ===panel: Metalwork Colossus + Warren Soultrader + Pitiless Plunderer + Aetherflux Reservoir
 [[symbol:b]]
+
 
 Cards Required:
 - [[Metalwork Colossus]]
@@ -3832,6 +3926,7 @@ Results:
 ===panel: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Foundry Inspector
 [[symbol:c]]
 
+
 Cards Required:
 - [[Scrap Trawler]]
 - [[Myr Retriever]]
@@ -3871,6 +3966,7 @@ Results:
 ===panel: Scrap Trawler + Myr Retriever + Ashnod's Altar + Foundry Inspector
 [[symbol:c]]
 
+
 Cards Required:
 - [[Scrap Trawler]]
 - [[Myr Retriever]]
@@ -3909,6 +4005,7 @@ Results:
 ===accordion
 ===panel: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Sol Ring + Junk Diver
 [[symbol:c]]
+
 
 Cards Required:
 - [[Scrap Trawler]]
@@ -3957,6 +4054,7 @@ Results:
 ===panel: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Cloud Key
 [[symbol:c]]
 
+
 Cards Required:
 - [[Scrap Trawler]]
 - [[Myr Retriever]]
@@ -3996,6 +4094,7 @@ Results:
 ===panel: Scrap Trawler + Myr Retriever + Ashnod's Altar + Cloud Key
 [[symbol:c]]
 
+
 Cards Required:
 - [[Scrap Trawler]]
 - [[Myr Retriever]]
@@ -4034,6 +4133,7 @@ Results:
 ===accordion
 ===panel: Glaring Fleshraker + Myr Retriever + Scrap Trawler + Krark-Clan Ironworks
 [[symbol:c]]
+
 
 Cards Required:
 - [[Glaring Fleshraker]]
@@ -4076,6 +4176,7 @@ Results:
 ===panel: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Semblance Anvil
 [[symbol:c]]
 
+
 Cards Required:
 - [[Scrap Trawler]]
 - [[Myr Retriever]]
@@ -4116,6 +4217,7 @@ Results:
 ===panel: Imotekh the Stormlord + Scrap Trawler + Myr Retriever + Ashnod's Altar
 [[symbol:b]]
 
+
 Cards Required:
 - [[Imotekh the Stormlord]]
 - [[Scrap Trawler]]
@@ -4155,6 +4257,7 @@ Results:
 ===accordion
 ===panel: Glaring Fleshraker + Myr Retriever + Junk Diver + Krark-Clan Ironworks
 [[symbol:c]]
+
 
 Cards Required:
 - [[Glaring Fleshraker]]
@@ -4197,6 +4300,7 @@ Results:
 ===panel: Imotekh the Stormlord + Scrap Trawler + Myr Retriever + Krark-Clan Ironworks
 [[symbol:b]]
 
+
 Cards Required:
 - [[Imotekh the Stormlord]]
 - [[Scrap Trawler]]
@@ -4237,6 +4341,7 @@ Results:
 ===panel: Imotekh the Stormlord + Junk Diver + Myr Retriever + Ashnod's Altar
 [[symbol:b]]
 
+
 Cards Required:
 - [[Imotekh the Stormlord]]
 - [[Junk Diver]]
@@ -4276,6 +4381,7 @@ Results:
 ===accordion
 ===panel: Glaring Fleshraker + Ashnod's Altar + Myr Retriever + Scrap Trawler
 [[symbol:c]]
+
 
 Cards Required:
 - [[Glaring Fleshraker]]
@@ -4318,6 +4424,7 @@ Results:
 ===panel: Scrap Trawler + Myr Retriever + Ashnod's Altar + Semblance Anvil
 [[symbol:c]]
 
+
 Cards Required:
 - [[Scrap Trawler]]
 - [[Myr Retriever]]
@@ -4357,6 +4464,7 @@ Results:
 ===accordion
 ===panel: Glaring Fleshraker + Ashnod's Altar + Myr Retriever + Junk Diver
 [[symbol:c]]
+
 
 Cards Required:
 - [[Glaring Fleshraker]]
@@ -4399,6 +4507,7 @@ Results:
 ===panel: Imotekh the Stormlord + Myr Retriever + Workshop Assistant + Ashnod's Altar
 [[symbol:b]]
 
+
 Cards Required:
 - [[Imotekh the Stormlord]]
 - [[Myr Retriever]]
@@ -4439,6 +4548,7 @@ Results:
 ===panel: Imotekh the Stormlord + Junk Diver + Myr Retriever + Krark-Clan Ironworks
 [[symbol:b]]
 
+
 Cards Required:
 - [[Imotekh the Stormlord]]
 - [[Junk Diver]]
@@ -4476,8 +4586,49 @@ Results:
 ===endaccordion
 
 ===accordion
+===panel: Myr Retriever + Krark-Clan Ironworks + Ultron, Artificial Malevolence
+[[symbol:c]]
+
+
+Cards Required:
+- [[Myr Retriever]]
+- [[Krark-Clan Ironworks]]
+- [[Ultron, Artificial Malevolence]]
+
+
+Prerequisites:
+- Myr Retriever in hand.
+- Krark-Clan Ironworks and Ultron on the battlefield.
+- [[symbol:2]] available
+
+
+Steps:
+1. Cast Myr Retriever by paying [[symbol:2]].
+2. When Myr Retriever enters, Ultron triggers.
+3. Holding priority, activate Krark-Clan Ironworks by sacrificing Myr Retriever, adding [[symbol:c]][[symbol:c]]
+4. When Myr Retriever dies, it triggers, returning an artifact card from your graveyard to your hand.
+5. Resolve the Ultron trigger, causing you to pay [[symbol:2]] to create a token copy of Myr Retriever.
+6. Activate Krark-Clan Ironworks by sacrificing the Myr Retriever token, adding [[symbol:c]][[symbol:c]].
+7. When the Myr Retriever token dies, it triggers, returning the nontoken Myr Retriever from your graveyard to your hand.
+8. Repeat.
+
+
+Results:
+- Infinite creature ETB
+- Infinite creature LTB
+- Infinite death triggers
+- Infinite creature sacrifice triggers
+- Infinite storm count
+- Infinite artifact ETB
+- Infinite artifact LTB
+- Infinite artifact sacrifice triggers
+===endpanel
+===endaccordion
+
+===accordion
 ===panel: Imotekh the Stormlord + Myr Retriever + Workshop Assistant + Krark-Clan Ironworks
 [[symbol:b]]
+
 
 Cards Required:
 - [[Imotekh the Stormlord]]
@@ -4519,6 +4670,7 @@ Results:
 ===panel: Glaring Fleshraker + Myr Retriever + Workshop Assistant + Krark-Clan Ironworks
 [[symbol:c]]
 
+
 Cards Required:
 - [[Glaring Fleshraker]]
 - [[Myr Retriever]]
@@ -4557,8 +4709,49 @@ Results:
 ===endaccordion
 
 ===accordion
+===panel: Myr Retriever + Ashnod's Altar + Ultron, Artificial Malevolence
+[[symbol:c]]
+
+
+Cards Required:
+- [[Myr Retriever]]
+- [[Ashnod's Altar]]
+- [[Ultron, Artificial Malevolence]]
+
+
+Prerequisites:
+- Myr Retriever in hand.
+- Ashnod's Altar and Ultron on the battlefield.
+- [[symbol:2]] available
+
+
+Steps:
+1. Cast Myr Retriever by paying [[symbol:2]].
+2. When Myr Retriever enters, Ultron triggers.
+3. Holding priority, activate Ashnod's Altar by sacrificing Myr Retriever, adding [[symbol:c]][[symbol:c]]
+4. When Myr Retriever dies, it triggers, returning an artifact card from your graveyard to your hand.
+5. Resolve the Ultron trigger, causing you to pay [[symbol:2]] to create a token copy of Myr Retriever.
+6. Activate Ashnod's Altar by sacrificing the Myr Retriever token, adding [[symbol:c]][[symbol:c]].
+7. When the Myr Retriever token dies, it triggers, returning the nontoken Myr Retriever from your graveyard to your hand.
+8. Repeat.
+
+
+Results:
+- Infinite creature ETB
+- Infinite creature LTB
+- Infinite death triggers
+- Infinite creature sacrifice triggers
+- Infinite storm count
+- Infinite artifact ETB
+- Infinite artifact LTB
+- Infinite artifact sacrifice triggers
+===endpanel
+===endaccordion
+
+===accordion
 ===panel: Glaring Fleshraker + Ashnod's Altar + Myr Retriever + Workshop Assistant
 [[symbol:c]]
+
 
 Cards Required:
 - [[Glaring Fleshraker]]
@@ -4600,6 +4793,7 @@ Results:
 ===accordion
 ===panel: Scrap Trawler + Myr Retriever + Phyrexian Altar + Semblance Anvil
 [[symbol:c]]
+
 
 Cards Required:
 - [[Scrap Trawler]]
@@ -4647,6 +4841,7 @@ Results:
 ===panel: Sensei's Divining Top + Foundry Inspector + Mystic Forge
 [[symbol:c]]
 
+
 Cards Required:
 - [[Sensei's Divining Top]]
 - [[Foundry Inspector]]
@@ -4674,6 +4869,7 @@ Results:
 ===panel: Sensei's Divining Top + Mystic Forge + Cloud Key
 [[symbol:c]]
 
+
 Cards Required:
 - [[Sensei's Divining Top]]
 - [[Mystic Forge]]
@@ -4700,6 +4896,7 @@ Results:
 ===accordion
 ===panel: Sensei's Divining Top + Glaring Fleshraker + Mystic Forge
 [[symbol:c]]
+
 
 Cards Required:
 - [[Sensei's Divining Top]]
@@ -4737,6 +4934,7 @@ Results:
 ===panel: Sensei's Divining Top + Mystic Forge + Semblance Anvil
 [[symbol:c]]
 
+
 Cards Required:
 - [[Sensei's Divining Top]]
 - [[Mystic Forge]]
@@ -4763,6 +4961,7 @@ Results:
 ===accordion
 ===panel: Sensei's Divining Top + Mystic Forge + Skirge Familiar
 [[symbol:b]]
+
 
 Cards Required:
 - [[Sensei's Divining Top]]
@@ -4801,6 +5000,7 @@ Results:
 ===panel: Nim Deathmantle + Ashnod's Altar
 [[symbol:c]]
 
+
 Cards Required:
 - [[Nim Deathmantle]]
 - [[Ashnod's Altar]]
@@ -4831,6 +5031,7 @@ Results:
 ===accordion
 ===panel: Nim Deathmantle + Ashnod's Altar + Marionette Apprentice
 [[symbol:b]]
+
 
 Cards Required:
 - [[Nim Deathmantle]]
@@ -4864,6 +5065,7 @@ Results:
 ===accordion
 ===panel: Imotekh the Stormlord + Nim Deathmantle + Ashnod's Altar
 [[symbol:b]]
+
 
 Cards Required:
 - [[Imotekh the Stormlord]]
@@ -4899,6 +5101,7 @@ Results:
 ===panel: Imotekh the Stormlord + Nim Deathmantle + Krark-Clan Ironworks
 [[symbol:b]]
 
+
 Cards Required:
 - [[Imotekh the Stormlord]]
 - [[Nim Deathmantle]]
@@ -4933,6 +5136,7 @@ Results:
 ===panel: Nim Deathmantle + Ashnod's Altar + Orcish Bowmasters
 [[symbol:b]]
 
+
 Cards Required:
 - [[Nim Deathmantle]]
 - [[Ashnod's Altar]]
@@ -4955,39 +5159,6 @@ Steps:
 
 Results:
 - Infinite damage
-- Infinite death triggers
-- Infinite creature ETB
-- Infinite creature LTB
-- Infinite creature sacrifice triggers
-===endpanel
-===endaccordion
-
-===accordion
-===panel: Illuminor Szeras + Nim Deathmantle + Dross Scorpion
-[[symbol:b]]
-
-Cards Required:
-- [[Illuminor Szeras]]
-- [[Nim Deathmantle]]
-- [[Dross Scorpion]]
-
-
-Prerequisites:
-- All permanents on the battlefield.
-- You control a nontoken creature with mana value five or greater
-- Illuminor Szeras does not have summoning sickness.
-
-
-Steps:
-1. Activate Illuminor Szeras by tapping it and sacrificing Dross Scorpion or another artifact creature with mana value four or greater, adding at least [[symbol:b]][[symbol:b]][[symbol:b]][[symbol:b]].
-2. When the creature dies, Nim Deathmantle and Dross Scorpion trigger.
-3. Resolve the Nim Deathmantle trigger, causing you to pay [[symbol:4]] to return the creature from your graveyard to the battlefield, and attach Nim Deathmantle to it.
-4. Resolve the Dross Scorpion trigger, untapping Illuminor Szeras.
-5. Repeat.
-
-
-Results:
-- Infinite black mana
 - Infinite death triggers
 - Infinite creature ETB
 - Infinite creature LTB
@@ -5113,6 +5284,7 @@ Results:
 ===panel: Nim Deathmantle + Ashnod's Altar + Orcish Bowmasters
 [[symbol:b]]
 
+
 Cards Required:
 - [[Nim Deathmantle]]
 - [[Ashnod's Altar]]
@@ -5152,6 +5324,7 @@ Results:
 ===panel: Pitiless Plunderer + Phyrexian Altar + Stridehangar Automaton
 [[symbol:b]]
 
+
 Cards Required:
 - [[Pitiless Plunderer]]
 - [[Phyrexian Altar]]
@@ -5186,6 +5359,7 @@ Results:
 ===accordion
 ===panel: Tortured Existence + Phyrexian Altar + Imotekh the Stormlord
 [[symbol:b]]
+
 
 Cards Required:
 - [[Tortured Existence]]
@@ -5224,6 +5398,7 @@ Results:
 ===accordion
 ===panel: Scrap Trawler + Myr Retriever + Phyrexian Altar + Semblance Anvil
 [[symbol:c]]
+
 
 Cards Required:
 - [[Scrap Trawler]]
@@ -5311,6 +5486,7 @@ Results:
 ===panel: Pitiless Plunderer + Ashnod's Altar + Stridehangar Automaton
 [[symbol:b]]
 
+
 Cards Required:
 - [[Pitiless Plunderer]]
 - [[Ashnod's Altar]]
@@ -5347,6 +5523,7 @@ Results:
 ===panel: Pitiless Plunderer + Phyrexian Altar + Stridehangar Automaton
 [[symbol:b]]
 
+
 Cards Required:
 - [[Pitiless Plunderer]]
 - [[Phyrexian Altar]]
@@ -5381,6 +5558,7 @@ Results:
 ===accordion
 ===panel: Pitiless Plunderer + Stridehangar Automaton + Krark-Clan Ironworks
 [[symbol:b]]
+
 
 Cards Required:
 - [[Pitiless Plunderer]]
@@ -5417,6 +5595,7 @@ Results:
 ===accordion
 ===panel: Pitiless Plunderer + Umbral Collar Zealot + Stridehangar Automaton
 [[symbol:b]]
+
 
 Cards Required:
 - [[Pitiless Plunderer]]
@@ -5455,6 +5634,7 @@ Results:
 ===panel: Pitiless Plunderer + Altar of Dementia + Stridehangar Automaton
 [[symbol:b]]
 
+
 Cards Required:
 - [[Pitiless Plunderer]]
 - [[Altar of Dementia]]
@@ -5492,6 +5672,7 @@ Results:
 ===accordion
 ===panel: Pitiless Plunderer + Stridehangar Automaton + Grinding Station
 [[symbol:b]]
+
 
 Cards Required:
 - [[Pitiless Plunderer]]
@@ -5532,6 +5713,7 @@ Results:
 ===panel: Pitiless Plunderer + Stridehangar Automaton + Arcbound Ravager
 [[symbol:b]]
 
+
 Cards Required:
 - [[Pitiless Plunderer]]
 - [[Stridehangar Automaton]]
@@ -5568,6 +5750,7 @@ Results:
 ===accordion
 ===panel: Tortured Existence + Pitiless Plunderer + Imotekh the Stormlord + Altar of Dementia
 [[symbol:b]]
+
 
 Cards Required:
 - [[Tortured Existence]]
@@ -5615,6 +5798,7 @@ Results:
 ===panel: Pitiless Plunderer + Blasting Station + Stridehangar Automaton
 [[symbol:b]]
 
+
 Cards Required:
 - [[Pitiless Plunderer]]
 - [[Blasting Station]]
@@ -5652,6 +5836,7 @@ Results:
 ===accordion
 ===panel: Tortured Existence + Pitiless Plunderer + Imotekh the Stormlord + Blasting Station
 [[symbol:b]]
+
 
 Cards Required:
 - [[Tortured Existence]]
@@ -5698,6 +5883,7 @@ Results:
 ===accordion
 ===panel: Metalwork Colossus + Warren Soultrader + Pitiless Plunderer + Aetherflux Reservoir
 [[symbol:b]]
+
 
 Cards Required:
 - [[Metalwork Colossus]]
@@ -5785,6 +5971,7 @@ Results:
 ===panel: Retrofitter Foundry + Clock of Omens + Stridehangar Automaton
 [[symbol:c]]
 
+
 Cards Required:
 - [[Retrofitter Foundry]]
 - [[Clock of Omens]]
@@ -5814,6 +6001,7 @@ Results:
 ===accordion
 ===panel: Dross Scorpion + Retrofitter Foundry + Krark-Clan Ironworks
 [[symbol:c]]
+
 
 Cards Required:
 - [[Dross Scorpion]]
@@ -5845,6 +6033,7 @@ Results:
 ===panel: Retrofitter Foundry + Dross Scorpion + Stridehangar Automaton
 [[symbol:c]]
 
+
 Cards Required:
 - [[Retrofitter Foundry]]
 - [[Dross Scorpion]]
@@ -5875,6 +6064,7 @@ Results:
 ===accordion
 ===panel: Dross Scorpion + Retrofitter Foundry + Ashnod's Altar
 [[symbol:c]]
+
 
 Cards Required:
 - [[Dross Scorpion]]
@@ -5911,6 +6101,7 @@ Results:
 ===accordion
 ===panel: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Foundry Inspector
 [[symbol:c]]
+
 
 Cards Required:
 - [[Scrap Trawler]]
@@ -5951,6 +6142,7 @@ Results:
 ===panel: Scrap Trawler + Myr Retriever + Ashnod's Altar + Foundry Inspector
 [[symbol:c]]
 
+
 Cards Required:
 - [[Scrap Trawler]]
 - [[Myr Retriever]]
@@ -5989,6 +6181,7 @@ Results:
 ===accordion
 ===panel: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Sol Ring + Junk Diver
 [[symbol:c]]
+
 
 Cards Required:
 - [[Scrap Trawler]]
@@ -6037,6 +6230,7 @@ Results:
 ===panel: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Cloud Key
 [[symbol:c]]
 
+
 Cards Required:
 - [[Scrap Trawler]]
 - [[Myr Retriever]]
@@ -6076,6 +6270,7 @@ Results:
 ===panel: Scrap Trawler + Myr Retriever + Ashnod's Altar + Cloud Key
 [[symbol:c]]
 
+
 Cards Required:
 - [[Scrap Trawler]]
 - [[Myr Retriever]]
@@ -6114,6 +6309,7 @@ Results:
 ===accordion
 ===panel: Glaring Fleshraker + Myr Retriever + Scrap Trawler + Krark-Clan Ironworks
 [[symbol:c]]
+
 
 Cards Required:
 - [[Glaring Fleshraker]]
@@ -6156,6 +6352,7 @@ Results:
 ===panel: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Semblance Anvil
 [[symbol:c]]
 
+
 Cards Required:
 - [[Scrap Trawler]]
 - [[Myr Retriever]]
@@ -6195,6 +6392,7 @@ Results:
 ===accordion
 ===panel: Imotekh the Stormlord + Scrap Trawler + Myr Retriever + Ashnod's Altar
 [[symbol:b]]
+
 
 Cards Required:
 - [[Imotekh the Stormlord]]
@@ -6236,6 +6434,7 @@ Results:
 ===panel: Imotekh the Stormlord + Scrap Trawler + Myr Retriever + Krark-Clan Ironworks
 [[symbol:b]]
 
+
 Cards Required:
 - [[Imotekh the Stormlord]]
 - [[Scrap Trawler]]
@@ -6275,6 +6474,7 @@ Results:
 ===accordion
 ===panel: Glaring Fleshraker + Ashnod's Altar + Myr Retriever + Scrap Trawler
 [[symbol:c]]
+
 
 Cards Required:
 - [[Glaring Fleshraker]]
@@ -6317,6 +6517,7 @@ Results:
 ===panel: Scrap Trawler + Myr Retriever + Ashnod's Altar + Semblance Anvil
 [[symbol:c]]
 
+
 Cards Required:
 - [[Scrap Trawler]]
 - [[Myr Retriever]]
@@ -6356,6 +6557,7 @@ Results:
 ===accordion
 ===panel: Glaring Fleshraker + Ashnod's Altar + Scrap Trawler + Workshop Assistant
 [[symbol:c]]
+
 
 Cards Required:
 - [[Glaring Fleshraker]]
@@ -6397,6 +6599,7 @@ Results:
 ===accordion
 ===panel: Scrap Trawler + Myr Retriever + Phyrexian Altar + Semblance Anvil
 [[symbol:c]]
+
 
 Cards Required:
 - [[Scrap Trawler]]
@@ -6444,6 +6647,7 @@ Results:
 ===panel: Sensei's Divining Top + Mystic Forge + Semblance Anvil
 [[symbol:c]]
 
+
 Cards Required:
 - [[Sensei's Divining Top]]
 - [[Mystic Forge]]
@@ -6470,6 +6674,7 @@ Results:
 ===accordion
 ===panel: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Semblance Anvil
 [[symbol:c]]
+
 
 Cards Required:
 - [[Scrap Trawler]]
@@ -6511,6 +6716,7 @@ Results:
 ===panel: Scrap Trawler + Myr Retriever + Ashnod's Altar + Semblance Anvil
 [[symbol:c]]
 
+
 Cards Required:
 - [[Scrap Trawler]]
 - [[Myr Retriever]]
@@ -6550,6 +6756,7 @@ Results:
 ===accordion
 ===panel: Scrap Trawler + Myr Retriever + Phyrexian Altar + Semblance Anvil
 [[symbol:c]]
+
 
 Cards Required:
 - [[Scrap Trawler]]
@@ -6597,6 +6804,7 @@ Results:
 ===panel: Sensei's Divining Top + Foundry Inspector + Mystic Forge
 [[symbol:c]]
 
+
 Cards Required:
 - [[Sensei's Divining Top]]
 - [[Foundry Inspector]]
@@ -6623,6 +6831,7 @@ Results:
 ===accordion
 ===panel: Sensei's Divining Top + Aetherflux Reservoir + Bolas's Citadel
 [[symbol:b]]
+
 
 Cards Required:
 - [[Sensei's Divining Top]]
@@ -6658,6 +6867,7 @@ Results:
 ===panel: Sensei's Divining Top + Mystic Forge + Cloud Key
 [[symbol:c]]
 
+
 Cards Required:
 - [[Sensei's Divining Top]]
 - [[Mystic Forge]]
@@ -6684,6 +6894,7 @@ Results:
 ===accordion
 ===panel: Sensei's Divining Top + Glaring Fleshraker + Mystic Forge
 [[symbol:c]]
+
 
 Cards Required:
 - [[Sensei's Divining Top]]
@@ -6721,6 +6932,7 @@ Results:
 ===panel: Sensei's Divining Top + Mystic Forge + Semblance Anvil
 [[symbol:c]]
 
+
 Cards Required:
 - [[Sensei's Divining Top]]
 - [[Mystic Forge]]
@@ -6747,6 +6959,7 @@ Results:
 ===accordion
 ===panel: Sensei's Divining Top + Mystic Forge + Skirge Familiar
 [[symbol:b]]
+
 
 Cards Required:
 - [[Sensei's Divining Top]]
@@ -6779,11 +6992,12 @@ Results:
 ===endaccordion
 
 ===accordion
-===panel: Sephiroth, Fabled SOLDIER // Sephiroth, One-Winged Angel
+===panel: Sephiroth, Fabled SOLDIER
 
 ===accordion
-===panel: Warren Soultrader + Stridehangar Automaton + Sephiroth, Fabled SOLDIER // Sephiroth, One-Winged Angel
+===panel: Warren Soultrader + Stridehangar Automaton + Sephiroth, Fabled SOLDIER
 [[symbol:b]]
+
 
 Cards Required:
 - [[Warren Soultrader]]
@@ -6830,6 +7044,7 @@ Results:
 ===panel: Imotekh the Stormlord + Metalwork Colossus + Skirge Familiar
 [[symbol:b]]
 
+
 Cards Required:
 - [[Imotekh the Stormlord]]
 - [[Metalwork Colossus]]
@@ -6862,6 +7077,7 @@ Results:
 ===accordion
 ===panel: Sensei's Divining Top + Mystic Forge + Skirge Familiar
 [[symbol:b]]
+
 
 Cards Required:
 - [[Sensei's Divining Top]]
@@ -6899,6 +7115,7 @@ Results:
 ===accordion
 ===panel: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Sol Ring + Junk Diver
 [[symbol:c]]
+
 
 Cards Required:
 - [[Scrap Trawler]]
@@ -6953,6 +7170,7 @@ Results:
 ===panel: Pitiless Plunderer + Ashnod's Altar + Stridehangar Automaton
 [[symbol:b]]
 
+
 Cards Required:
 - [[Pitiless Plunderer]]
 - [[Ashnod's Altar]]
@@ -6989,6 +7207,7 @@ Results:
 ===panel: Pitiless Plunderer + Phyrexian Altar + Stridehangar Automaton
 [[symbol:b]]
 
+
 Cards Required:
 - [[Pitiless Plunderer]]
 - [[Phyrexian Altar]]
@@ -7023,6 +7242,7 @@ Results:
 ===accordion
 ===panel: Warren Soultrader + Zulaport Cutthroat + Stridehangar Automaton
 [[symbol:b]]
+
 
 Cards Required:
 - [[Warren Soultrader]]
@@ -7060,8 +7280,9 @@ Results:
 ===endaccordion
 
 ===accordion
-===panel: Warren Soultrader + Stridehangar Automaton + Sephiroth, Fabled SOLDIER // Sephiroth, One-Winged Angel
+===panel: Warren Soultrader + Stridehangar Automaton + Sephiroth, Fabled SOLDIER
 [[symbol:b]]
+
 
 Cards Required:
 - [[Warren Soultrader]]
@@ -7102,6 +7323,7 @@ Results:
 ===panel: Pitiless Plunderer + Stridehangar Automaton + Krark-Clan Ironworks
 [[symbol:b]]
 
+
 Cards Required:
 - [[Pitiless Plunderer]]
 - [[Stridehangar Automaton]]
@@ -7137,6 +7359,7 @@ Results:
 ===accordion
 ===panel: Pitiless Plunderer + Umbral Collar Zealot + Stridehangar Automaton
 [[symbol:b]]
+
 
 Cards Required:
 - [[Pitiless Plunderer]]
@@ -7175,6 +7398,7 @@ Results:
 ===panel: Retrofitter Foundry + Clock of Omens + Stridehangar Automaton
 [[symbol:c]]
 
+
 Cards Required:
 - [[Retrofitter Foundry]]
 - [[Clock of Omens]]
@@ -7204,6 +7428,7 @@ Results:
 ===accordion
 ===panel: Pitiless Plunderer + Altar of Dementia + Stridehangar Automaton
 [[symbol:b]]
+
 
 Cards Required:
 - [[Pitiless Plunderer]]
@@ -7242,6 +7467,7 @@ Results:
 ===accordion
 ===panel: Pitiless Plunderer + Stridehangar Automaton + Grinding Station
 [[symbol:b]]
+
 
 Cards Required:
 - [[Pitiless Plunderer]]
@@ -7282,6 +7508,7 @@ Results:
 ===panel: Retrofitter Foundry + Dross Scorpion + Stridehangar Automaton
 [[symbol:c]]
 
+
 Cards Required:
 - [[Retrofitter Foundry]]
 - [[Dross Scorpion]]
@@ -7312,6 +7539,7 @@ Results:
 ===accordion
 ===panel: Pitiless Plunderer + Stridehangar Automaton + Arcbound Ravager
 [[symbol:b]]
+
 
 Cards Required:
 - [[Pitiless Plunderer]]
@@ -7350,6 +7578,7 @@ Results:
 ===panel: Pitiless Plunderer + Blasting Station + Stridehangar Automaton
 [[symbol:b]]
 
+
 Cards Required:
 - [[Pitiless Plunderer]]
 - [[Blasting Station]]
@@ -7387,6 +7616,7 @@ Results:
 ===accordion
 ===panel: Metalwork Colossus + Warren Soultrader + Aetherflux Reservoir + Stridehangar Automaton
 [[symbol:b]]
+
 
 Cards Required:
 - [[Metalwork Colossus]]
@@ -7431,6 +7661,7 @@ Results:
 ===panel: Tortured Existence + Phyrexian Altar + Imotekh the Stormlord
 [[symbol:b]]
 
+
 Cards Required:
 - [[Tortured Existence]]
 - [[Phyrexian Altar]]
@@ -7469,6 +7700,7 @@ Results:
 ===panel: Imotekh the Stormlord + Clock of Omens + Tortured Existence
 [[symbol:b]]
 
+
 Cards Required:
 - [[Imotekh the Stormlord]]
 - [[Clock of Omens]]
@@ -7499,6 +7731,7 @@ Results:
 ===accordion
 ===panel: Tortured Existence + Pitiless Plunderer + Imotekh the Stormlord + Altar of Dementia
 [[symbol:b]]
+
 
 Cards Required:
 - [[Tortured Existence]]
@@ -7545,6 +7778,7 @@ Results:
 ===accordion
 ===panel: Tortured Existence + Pitiless Plunderer + Imotekh the Stormlord + Blasting Station
 [[symbol:b]]
+
 
 Cards Required:
 - [[Tortured Existence]]
@@ -7706,11 +7940,98 @@ Results:
 ===endaccordion
 
 ===accordion
+===panel: Ultron, Artificial Malevolence
+
+===accordion
+===panel: Myr Retriever + Krark-Clan Ironworks + Ultron, Artificial Malevolence
+[[symbol:c]]
+
+
+Cards Required:
+- [[Myr Retriever]]
+- [[Krark-Clan Ironworks]]
+- [[Ultron, Artificial Malevolence]]
+
+
+Prerequisites:
+- Myr Retriever in hand.
+- Krark-Clan Ironworks and Ultron on the battlefield.
+- [[symbol:2]] available
+
+
+Steps:
+1. Cast Myr Retriever by paying [[symbol:2]].
+2. When Myr Retriever enters, Ultron triggers.
+3. Holding priority, activate Krark-Clan Ironworks by sacrificing Myr Retriever, adding [[symbol:c]][[symbol:c]]
+4. When Myr Retriever dies, it triggers, returning an artifact card from your graveyard to your hand.
+5. Resolve the Ultron trigger, causing you to pay [[symbol:2]] to create a token copy of Myr Retriever.
+6. Activate Krark-Clan Ironworks by sacrificing the Myr Retriever token, adding [[symbol:c]][[symbol:c]].
+7. When the Myr Retriever token dies, it triggers, returning the nontoken Myr Retriever from your graveyard to your hand.
+8. Repeat.
+
+
+Results:
+- Infinite creature ETB
+- Infinite creature LTB
+- Infinite death triggers
+- Infinite creature sacrifice triggers
+- Infinite storm count
+- Infinite artifact ETB
+- Infinite artifact LTB
+- Infinite artifact sacrifice triggers
+===endpanel
+===endaccordion
+
+===accordion
+===panel: Myr Retriever + Ashnod's Altar + Ultron, Artificial Malevolence
+[[symbol:c]]
+
+
+Cards Required:
+- [[Myr Retriever]]
+- [[Ashnod's Altar]]
+- [[Ultron, Artificial Malevolence]]
+
+
+Prerequisites:
+- Myr Retriever in hand.
+- Ashnod's Altar and Ultron on the battlefield.
+- [[symbol:2]] available
+
+
+Steps:
+1. Cast Myr Retriever by paying [[symbol:2]].
+2. When Myr Retriever enters, Ultron triggers.
+3. Holding priority, activate Ashnod's Altar by sacrificing Myr Retriever, adding [[symbol:c]][[symbol:c]]
+4. When Myr Retriever dies, it triggers, returning an artifact card from your graveyard to your hand.
+5. Resolve the Ultron trigger, causing you to pay [[symbol:2]] to create a token copy of Myr Retriever.
+6. Activate Ashnod's Altar by sacrificing the Myr Retriever token, adding [[symbol:c]][[symbol:c]].
+7. When the Myr Retriever token dies, it triggers, returning the nontoken Myr Retriever from your graveyard to your hand.
+8. Repeat.
+
+
+Results:
+- Infinite creature ETB
+- Infinite creature LTB
+- Infinite death triggers
+- Infinite creature sacrifice triggers
+- Infinite storm count
+- Infinite artifact ETB
+- Infinite artifact LTB
+- Infinite artifact sacrifice triggers
+===endpanel
+===endaccordion
+
+===endpanel
+===endaccordion
+
+===accordion
 ===panel: Umbral Collar Zealot
 
 ===accordion
 ===panel: Pitiless Plunderer + Umbral Collar Zealot + Stridehangar Automaton
 [[symbol:b]]
+
 
 Cards Required:
 - [[Pitiless Plunderer]]
@@ -7755,6 +8076,7 @@ Results:
 ===panel: Warren Soultrader + Zulaport Cutthroat + Stridehangar Automaton
 [[symbol:b]]
 
+
 Cards Required:
 - [[Warren Soultrader]]
 - [[Zulaport Cutthroat]]
@@ -7791,8 +8113,9 @@ Results:
 ===endaccordion
 
 ===accordion
-===panel: Warren Soultrader + Stridehangar Automaton + Sephiroth, Fabled SOLDIER // Sephiroth, One-Winged Angel
+===panel: Warren Soultrader + Stridehangar Automaton + Sephiroth, Fabled SOLDIER
 [[symbol:b]]
+
 
 Cards Required:
 - [[Warren Soultrader]]
@@ -7833,6 +8156,7 @@ Results:
 ===panel: Metalwork Colossus + Warren Soultrader + Aetherflux Reservoir + Stridehangar Automaton
 [[symbol:b]]
 
+
 Cards Required:
 - [[Metalwork Colossus]]
 - [[Warren Soultrader]]
@@ -7869,6 +8193,7 @@ Results:
 ===accordion
 ===panel: Metalwork Colossus + Warren Soultrader + Pitiless Plunderer + Aetherflux Reservoir
 [[symbol:b]]
+
 
 Cards Required:
 - [[Metalwork Colossus]]
@@ -7916,6 +8241,7 @@ Results:
 ===panel: Imotekh the Stormlord + Myr Retriever + Workshop Assistant + Ashnod's Altar
 [[symbol:b]]
 
+
 Cards Required:
 - [[Imotekh the Stormlord]]
 - [[Myr Retriever]]
@@ -7955,6 +8281,7 @@ Results:
 ===accordion
 ===panel: Imotekh the Stormlord + Junk Diver + Workshop Assistant + Ashnod's Altar
 [[symbol:b]]
+
 
 Cards Required:
 - [[Imotekh the Stormlord]]
@@ -7996,6 +8323,7 @@ Results:
 ===panel: Imotekh the Stormlord + Myr Retriever + Workshop Assistant + Krark-Clan Ironworks
 [[symbol:b]]
 
+
 Cards Required:
 - [[Imotekh the Stormlord]]
 - [[Myr Retriever]]
@@ -8035,6 +8363,7 @@ Results:
 ===accordion
 ===panel: Glaring Fleshraker + Myr Retriever + Workshop Assistant + Krark-Clan Ironworks
 [[symbol:c]]
+
 
 Cards Required:
 - [[Glaring Fleshraker]]
@@ -8077,6 +8406,7 @@ Results:
 ===panel: Glaring Fleshraker + Junk Diver + Workshop Assistant + Krark-Clan Ironworks
 [[symbol:c]]
 
+
 Cards Required:
 - [[Glaring Fleshraker]]
 - [[Junk Diver]]
@@ -8118,6 +8448,7 @@ Results:
 ===panel: Imotekh the Stormlord + Junk Diver + Workshop Assistant + Krark-Clan Ironworks
 [[symbol:b]]
 
+
 Cards Required:
 - [[Imotekh the Stormlord]]
 - [[Junk Diver]]
@@ -8157,6 +8488,7 @@ Results:
 ===accordion
 ===panel: Glaring Fleshraker + Ashnod's Altar + Myr Retriever + Workshop Assistant
 [[symbol:c]]
+
 
 Cards Required:
 - [[Glaring Fleshraker]]
@@ -8199,6 +8531,7 @@ Results:
 ===panel: Glaring Fleshraker + Ashnod's Altar + Junk Diver + Workshop Assistant
 [[symbol:c]]
 
+
 Cards Required:
 - [[Glaring Fleshraker]]
 - [[Ashnod's Altar]]
@@ -8239,6 +8572,7 @@ Results:
 ===accordion
 ===panel: Glaring Fleshraker + Ashnod's Altar + Scrap Trawler + Workshop Assistant
 [[symbol:c]]
+
 
 Cards Required:
 - [[Glaring Fleshraker]]
@@ -8286,6 +8620,7 @@ Results:
 ===accordion
 ===panel: Warren Soultrader + Zulaport Cutthroat + Stridehangar Automaton
 [[symbol:b]]
+
 
 Cards Required:
 - [[Warren Soultrader]]
