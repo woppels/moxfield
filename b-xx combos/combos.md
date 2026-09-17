@@ -2,41 +2,6 @@
 ===panel: Aetherflux Reservoir
 
 ===accordion
-===panel: Sensei's Divining Top + Aetherflux Reservoir + Bolas's Citadel
-[[symbol:b]]
-
-
-Cards Required:
-- [[Sensei's Divining Top]]
-- [[Aetherflux Reservoir]]
-- [[Bolas's Citadel]]
-
-
-Prerequisites:
-- All permanents on the battlefield.
-- Your life total is at least 2.
-
-
-Steps:
-1. Activate Sensei's Divining Top by tapping it, drawing a card and then putting Sensei's Divining Top on top of your library.
-2. Cast Sensei's Divining Top from the top of your library by paying 1 life.
-3. Aetherflux Reservoir triggers, gaining you 1 life for each spell you have cast this turn.
-4. Repeat until your life total is 52 or greater.
-5. Activate Aetherflux Reservoir by paying 50 life, dealing 50 damage to any target.
-6. Repeat.
-
-
-Results:
-- Infinite card draw
-- Infinite draw triggers
-- Near-infinite damage
-- Near-infinite lifegain
-- Near-infinite lifegain triggers
-- Near-infinite storm count
-===endpanel
-===endaccordion
-
-===accordion
 ===panel: Metalwork Colossus + Warren Soultrader + Aetherflux Reservoir + Stridehangar Automaton
 [[symbol:b]]
 
@@ -112,6 +77,41 @@ Results:
 - Infinite lifegain triggers
 - Infinite lifegain
 - Infinite storm count
+===endpanel
+===endaccordion
+
+===accordion
+===panel: Sensei's Divining Top + Aetherflux Reservoir + Bolas's Citadel
+[[symbol:b]]
+
+
+Cards Required:
+- [[Sensei's Divining Top]]
+- [[Aetherflux Reservoir]]
+- [[Bolas's Citadel]]
+
+
+Prerequisites:
+- All permanents on the battlefield.
+- Your life total is at least 2.
+
+
+Steps:
+1. Activate Sensei's Divining Top by tapping it, drawing a card and then putting Sensei's Divining Top on top of your library.
+2. Cast Sensei's Divining Top from the top of your library by paying 1 life.
+3. Aetherflux Reservoir triggers, gaining you 1 life for each spell you have cast this turn.
+4. Repeat until your life total is 52 or greater.
+5. Activate Aetherflux Reservoir by paying 50 life, dealing 50 damage to any target.
+6. Repeat.
+
+
+Results:
+- Infinite card draw
+- Infinite draw triggers
+- Near-infinite damage
+- Near-infinite lifegain
+- Near-infinite lifegain triggers
+- Near-infinite storm count
 ===endpanel
 ===endaccordion
 
@@ -258,126 +258,14 @@ Results:
 ===panel: Ashnod's Altar
 
 ===accordion
-===panel: Nim Deathmantle + Ashnod's Altar
+===panel: Dross Scorpion + Retrofitter Foundry + Ashnod's Altar
 [[symbol:c]]
 
 
 Cards Required:
-- [[Nim Deathmantle]]
+- [[Dross Scorpion]]
+- [[Retrofitter Foundry]]
 - [[Ashnod's Altar]]
-
-
-Prerequisites:
-- All permanents on the battlefield.
-
-
-Steps:
-1. Activate Ashnod's Altar by sacrificing the persist or undying creature, adding [[symbol:c]][[symbol:c]].
-2. When the persist or undying creature dies, its persist or undying ability and Nim Deathmantle trigger.
-3. Resolve the Nim Deathmantle trigger, choosing not to pay.
-4. Resolve the creature's trigger, returning it from your graveyard to the battlefield with a +1/+1 or -1/-1 counter on it.
-5. Activate Ashnod's Altar by sacrificing the persist or undying creature, adding [[symbol:c]][[symbol:c]].
-6. When the persist or undying creature dies, Nim Deathmantle triggers, causing you to pay [[symbol:4]] to return the persist or undying creature from your graveyard to the battlefield.
-7. Repeat.
-
-
-Results:
-- Infinite creature LTB
-- Infinite creature ETB
-- Infinite creature sacrifice triggers
-- Infinite death triggers
-===endpanel
-===endaccordion
-
-===accordion
-===panel: Scrap Trawler + Myr Retriever + Ashnod's Altar + Foundry Inspector
-[[symbol:c]]
-
-
-Cards Required:
-- [[Scrap Trawler]]
-- [[Myr Retriever]]
-- [[Ashnod's Altar]]
-- [[Foundry Inspector]]
-
-
-Prerequisites:
-- Scrap Trawler in your graveyard.
-- All other permanents on the battlefield.
-
-
-Steps:
-1. Activate Ashnod's Altar by sacrificing Myr Retriever, adding [[symbol:c]][[symbol:c]].
-2. When Myr Retriever dies, it triggers, returning Scrap Trawler from your graveyard to your hand.
-3. Cast Scrap Trawler by paying its mana cost, which is reduced by Foundry Inspector.
-4. Activate Ashnod's Altar by sacrificing Scrap Trawler, adding [[symbol:c]][[symbol:c]].
-5. When Scrap Trawler dies, it triggers, returning Myr Retriever from your graveyard to your hand.
-6. Cast Myr Retriever by paying its mana cost, which is reduced by Foundry Inspector.
-7. Repeat.
-
-
-Results:
-- Infinite artifact ETB
-- Infinite artifact LTB
-- Infinite artifact sacrifice triggers
-- Infinite creature ETB
-- Infinite creature LTB
-- Infinite colorless mana
-- Infinite death triggers
-- Infinite creature sacrifice triggers
-- Infinite storm count
-===endpanel
-===endaccordion
-
-===accordion
-===panel: Scrap Trawler + Myr Retriever + Ashnod's Altar + Cloud Key
-[[symbol:c]]
-
-
-Cards Required:
-- [[Scrap Trawler]]
-- [[Myr Retriever]]
-- [[Ashnod's Altar]]
-- [[Cloud Key]]
-
-
-Prerequisites:
-- Scrap Trawler in your graveyard.
-- All other permanents on the battlefield (Cloud Key with "Artifact" or "Creature" chosen).
-
-
-Steps:
-1. Activate Ashnod's Altar by sacrificing Myr Retriever, adding [[symbol:c]][[symbol:c]].
-2. When Myr Retriever dies, it triggers, returning Scrap Trawler from your graveyard to your hand.
-3. Cast Scrap Trawler by paying its mana cost, which is reduced by Cloud Key.
-4. Activate Ashnod's Altar by sacrificing Scrap Trawler, adding [[symbol:c]][[symbol:c]].
-5. When Scrap Trawler dies, it triggers, returning Myr Retriever from your graveyard to your hand.
-6. Cast Myr Retriever by paying its mana cost, which is reduced by Cloud Key.
-7. Repeat.
-
-
-Results:
-- Infinite artifact ETB
-- Infinite artifact LTB
-- Infinite artifact sacrifice triggers
-- Infinite creature ETB
-- Infinite creature LTB
-- Infinite colorless mana
-- Infinite death triggers
-- Infinite creature sacrifice triggers
-- Infinite storm count
-===endpanel
-===endaccordion
-
-===accordion
-===panel: Nim Deathmantle + Ashnod's Altar + Marionette Apprentice
-[[symbol:b]]
-
-
-Cards Required:
-- [[Nim Deathmantle]]
-- [[Ashnod's Altar]]
-- [[Marionette Apprentice]]
 
 
 Prerequisites:
@@ -386,12 +274,10 @@ Prerequisites:
 
 
 Steps:
-1. Activate Ashnod's Altar by sacrificing Marionette Apprentice, adding [[symbol:c]][[symbol:c]].
-2. When Marionette Apprentice dies, Nim Deathmantle triggers, causing you to pay [[symbol:4]] to return Marionette Apprentice from your graveyard to the battlefield and attach Nim Deathmantle to it.
-3. When Marionette Apprentice enters, it triggers, creating a creature token.
-4. Activate Ashnod's Altar by sacrificing a creature token, adding [[symbol:c]][[symbol:c]].
-5. When the creature token dies, Marionette Apprentice triggers, causing each opponent to lose 1 life.
-6. Repeat.
+1. Activate Retrofitter Foundry's second ability by paying [[symbol:2]] and tapping it, creating a 1/1 Servo artifact creature token.
+2. Activate Ashnod's Altar by sacrificing the Servo, adding [[symbol:c]][[symbol:c]].
+3. When the Servo dies, Dross Scorpion triggers, untapping Retrofitter Foundry.
+4. Repeat.
 
 
 Results:
@@ -399,107 +285,24 @@ Results:
 - Infinite creature ETB
 - Infinite creature sacrifice triggers
 - Infinite death triggers
-- Infinite lifeloss
 ===endpanel
 ===endaccordion
 
 ===accordion
-===panel: Imotekh the Stormlord + Scrap Trawler + Myr Retriever + Ashnod's Altar
-[[symbol:b]]
-
-
-Cards Required:
-- [[Imotekh the Stormlord]]
-- [[Scrap Trawler]]
-- [[Myr Retriever]]
-- [[Ashnod's Altar]]
-
-
-Prerequisites:
-- Scrap Trawler in your graveyard.
-- All other permanents on the battlefield.
-
-
-Steps:
-1. Activate Ashnod's Altar by sacrificing Myr Retriever, adding [[symbol:c]][[symbol:c]].
-2. When Myr Retriever dies, it triggers, returning Scrap Trawler to your hand from your graveyard.
-3. Imotekh the Stormlord's first ability triggers, creating two 2/2 Necron Warrior artifact creature tokens.
-4. Activate Ashnod's Altar by sacrificing a Necron Warrior, adding [[symbol:c]][[symbol:c]].
-5. Cast Scrap Trawler by paying [[symbol:3]].
-6. Activate Ashnod's Altar by sacrificing Scrap Trawler, adding [[symbol:c]][[symbol:c]].
-7. When Scrap Trawler dies, it triggers, returning Myr Retriever to your hand from your graveyard.
-8. Imotekh the Stormlord's first ability triggers, creating two 2/2 Necron Warrior artifact creature tokens.
-9. Cast Myr Retriever by paying [[symbol:2]].
-10. Repeat.
-
-
-Results:
-- Infinite colorless mana
-- Infinite creature tokens
-- Infinite death triggers
-- Infinite creature ETB
-- Infinite creature LTB
-- Infinite creature sacrifice triggers
-- Infinite storm count
-===endpanel
-===endaccordion
-
-===accordion
-===panel: Imotekh the Stormlord + Junk Diver + Myr Retriever + Ashnod's Altar
-[[symbol:b]]
-
-
-Cards Required:
-- [[Imotekh the Stormlord]]
-- [[Junk Diver]]
-- [[Myr Retriever]]
-- [[Ashnod's Altar]]
-
-
-Prerequisites:
-- Junk Diver in your graveyard.
-- All other permanents on the battlefield.
-
-
-Steps:
-1. Activate Ashnod's Altar by sacrificing Myr Retriever, adding [[symbol:c]][[symbol:c]].
-2. When Myr Retriever dies, it triggers, returning Junk Diver to your hand from your graveyard.
-3. Imotekh the Stormlord's first ability triggers, creating two 2/2 Necron Warrior artifact creature tokens.
-4. Activate Ashnod's Altar by sacrificing a Necron Warrior, adding [[symbol:c]][[symbol:c]].
-5. Cast Junk Diver by paying [[symbol:3]].
-6. Activate Ashnod's Altar by sacrificing Junk Diver, adding [[symbol:c]][[symbol:c]].
-7. When Junk Diver dies, it triggers, returning Myr Retriever to your hand from your graveyard.
-8. Imotekh the Stormlord's first ability triggers, creating two 2/2 Necron Warrior artifact creature tokens.
-9. Cast Myr Retriever by paying [[symbol:2]].
-10. Repeat.
-
-
-Results:
-- Infinite colorless mana
-- Infinite creature tokens
-- Infinite death triggers
-- Infinite creature ETB
-- Infinite creature LTB
-- Infinite creature sacrifice triggers
-- Infinite storm count
-===endpanel
-===endaccordion
-
-===accordion
-===panel: Glaring Fleshraker + Ashnod's Altar + Myr Retriever + Scrap Trawler
+===panel: Glaring Fleshraker + Ashnod's Altar + Junk Diver + Workshop Assistant
 [[symbol:c]]
 
 
 Cards Required:
 - [[Glaring Fleshraker]]
 - [[Ashnod's Altar]]
-- [[Myr Retriever]]
-- [[Scrap Trawler]]
+- [[Junk Diver]]
+- [[Workshop Assistant]]
 
 
 Prerequisites:
 - Glaring Fleshraker and Ashnod's Altar on the battlefield.
-- Myr Retriever and Scrap Trawler in hand or in your graveyard.
+- Junk Diver and Workshop Assistant in hand or in your graveyard.
 - One of the artifact creatures must be in your hand while the other is in your graveyard
 - You have enough mana to cast the artifact card in your hand.
 
@@ -524,119 +327,6 @@ Results:
 - Infinite storm count
 - Infinite colorless mana
 - Infinite creature tokens
-===endpanel
-===endaccordion
-
-===accordion
-===panel: Imotekh the Stormlord + Nim Deathmantle + Ashnod's Altar
-[[symbol:b]]
-
-
-Cards Required:
-- [[Imotekh the Stormlord]]
-- [[Nim Deathmantle]]
-- [[Ashnod's Altar]]
-
-
-Prerequisites:
-- All permanents on the battlefield.
-- You control at least one nontoken artifact creature.
-- [[symbol:2]] available
-
-
-Steps:
-1. Activate Ashnod's Altar by sacrificing a nontoken artifact creature, adding [[symbol:c]][[symbol:c]].
-2. The creature dies, triggering Nim Deathmantle, causing you to pay [[symbol:4]] to return the artifact creature from your graveyard to the battlefield, and attach Nim Deathmantle to it.
-3. Imotekh's first ability triggers, creating two 2/2 Necron Warrior artifact creature tokens.
-4. Activate Ashnod's Altar by sacrificing a Necron Warrior, adding [[symbol:c]][[symbol:c]].
-5. Repeat.
-
-
-Results:
-- Infinite colorless mana
-- Infinite creature tokens
-- Infinite death triggers
-- Infinite creature ETB
-- Infinite creature LTB
-- Infinite creature sacrifice triggers
-===endpanel
-===endaccordion
-
-===accordion
-===panel: Scrap Trawler + Myr Retriever + Ashnod's Altar + Semblance Anvil
-[[symbol:c]]
-
-
-Cards Required:
-- [[Scrap Trawler]]
-- [[Myr Retriever]]
-- [[Ashnod's Altar]]
-- [[Semblance Anvil]]
-
-
-Prerequisites:
-- Scrap Trawler in your graveyard.
-- All other permanents on the battlefield.
-- There is an artifact or creature card exiled with Semblance Anvil.
-
-
-Steps:
-1. Activate Ashnod's Altar by sacrificing Myr Retriever, adding [[symbol:c]][[symbol:c]].
-2. When Myr Retriever dies, it triggers, returning Scrap Trawler from your graveyard to your hand.
-3. Cast Scrap Trawler by paying its mana cost, which is reduced by Semblance Anvil.
-4. Activate Ashnod's Altar by sacrificing Scrap Trawler, adding [[symbol:c]][[symbol:c]].
-5. When Scrap Trawler dies, it triggers, returning Myr Retriever from your graveyard to your hand.
-6. Cast Myr Retriever by paying its mana cost, which is reduced by Semblance Anvil.
-7. Repeat.
-
-
-Results:
-- Infinite artifact ETB
-- Infinite artifact LTB
-- Infinite artifact sacrifice triggers
-- Infinite creature ETB
-- Infinite creature LTB
-- Infinite colorless mana
-- Infinite death triggers
-- Infinite creature sacrifice triggers
-- Infinite storm count
-===endpanel
-===endaccordion
-
-===accordion
-===panel: Pitiless Plunderer + Ashnod's Altar + Stridehangar Automaton
-[[symbol:b]]
-
-
-Cards Required:
-- [[Pitiless Plunderer]]
-- [[Ashnod's Altar]]
-- [[Stridehangar Automaton]]
-
-
-Prerequisites:
-- All permanents on the battlefield.
-- You control another creature.
-
-
-Steps:
-1. Activate Ashnod's Altar by sacrificing another creature, adding [[symbol:c]][[symbol:c]].
-2. When the creature dies, Pitiless Plunderer triggers, creating a Treasure token and a 1/1 Thopter artifact creature token.
-3. Repeat.
-
-
-Results:
-- Infinite artifact ETB
-- Infinite artifact LTB
-- Infinite artifact sacrifice triggers
-- Infinite artifact tokens
-- Infinite creature LTB
-- Infinite creature ETB
-- Infinite colored mana
-- Infinite creature sacrifice triggers
-- Infinite death triggers
-- Infinite colorless mana
-- Infinite Treasure tokens
 ===endpanel
 ===endaccordion
 
@@ -683,129 +373,7 @@ Results:
 ===endaccordion
 
 ===accordion
-===panel: Imotekh the Stormlord + Myr Retriever + Workshop Assistant + Ashnod's Altar
-[[symbol:b]]
-
-
-Cards Required:
-- [[Imotekh the Stormlord]]
-- [[Myr Retriever]]
-- [[Workshop Assistant]]
-- [[Ashnod's Altar]]
-
-
-Prerequisites:
-- Myr Retriever in your graveyard.
-- All other permanents on the battlefield.
-
-
-Steps:
-1. Activate Ashnod's Altar by sacrificing Workshop Assistant, adding [[symbol:c]][[symbol:c]].
-2. When Workshop Assistant dies, it triggers, returning Myr Retriever to your hand from your graveyard.
-3. Imotekh the Stormlord's first ability triggers, creating two 2/2 Necron Warrior artifact creature tokens.
-4. Activate Ashnod's Altar by sacrificing a Necron Warrior, adding [[symbol:c]][[symbol:c]].
-5. Cast Myr Retriever by paying [[symbol:2]].
-6. Activate Ashnod's Altar by sacrificing Myr Retriever, adding [[symbol:c]][[symbol:c]].
-7. When Myr Retriever dies, it triggers, returning Workshop Assistant to your hand from your graveyard.
-8. Imotekh the Stormlord's first ability triggers, creating two 2/2 Necron Warrior artifact creature tokens.
-9. Cast Workshop Assistant by paying [[symbol:3]].
-10. Repeat.
-
-
-Results:
-- Infinite colorless mana
-- Infinite creature tokens
-- Infinite death triggers
-- Infinite creature ETB
-- Infinite creature LTB
-- Infinite creature sacrifice triggers
-- Infinite storm count
-===endpanel
-===endaccordion
-
-===accordion
-===panel: Imotekh the Stormlord + Junk Diver + Workshop Assistant + Ashnod's Altar
-[[symbol:b]]
-
-
-Cards Required:
-- [[Imotekh the Stormlord]]
-- [[Junk Diver]]
-- [[Workshop Assistant]]
-- [[Ashnod's Altar]]
-
-
-Prerequisites:
-- Junk Diver in your graveyard.
-- All other permanents on the battlefield.
-
-
-Steps:
-1. Activate Ashnod's Altar by sacrificing Workshop Assistant, adding [[symbol:c]][[symbol:c]].
-2. When Workshop Assistant dies, it triggers, returning Junk Diver to your hand from your graveyard.
-3. Imotekh the Stormlord's first ability triggers, creating two 2/2 Necron Warrior artifact creature tokens.
-4. Activate Ashnod's Altar by sacrificing a Necron Warrior, adding [[symbol:c]][[symbol:c]].
-5. Cast Junk Diver by paying [[symbol:3]].
-6. Activate Ashnod's Altar by sacrificing Junk Diver, adding [[symbol:c]][[symbol:c]].
-7. When Junk Diver dies, it triggers, returning Workshop Assistant to your hand from your graveyard.
-8. Imotekh the Stormlord's first ability triggers, creating two 2/2 Necron Warrior artifact creature tokens.
-9. Cast Workshop Assistant by paying [[symbol:3]].
-10. Repeat.
-
-
-Results:
-- Infinite colorless mana
-- Infinite creature tokens
-- Infinite death triggers
-- Infinite creature ETB
-- Infinite creature LTB
-- Infinite creature sacrifice triggers
-- Infinite storm count
-===endpanel
-===endaccordion
-
-===accordion
-===panel: Myr Retriever + Ashnod's Altar + Ultron, Artificial Malevolence
-[[symbol:c]]
-
-
-Cards Required:
-- [[Myr Retriever]]
-- [[Ashnod's Altar]]
-- [[Ultron, Artificial Malevolence]]
-
-
-Prerequisites:
-- Myr Retriever in hand.
-- Ashnod's Altar and Ultron on the battlefield.
-- [[symbol:2]] available
-
-
-Steps:
-1. Cast Myr Retriever by paying [[symbol:2]].
-2. When Myr Retriever enters, Ultron triggers.
-3. Holding priority, activate Ashnod's Altar by sacrificing Myr Retriever, adding [[symbol:c]][[symbol:c]]
-4. When Myr Retriever dies, it triggers, returning an artifact card from your graveyard to your hand.
-5. Resolve the Ultron trigger, causing you to pay [[symbol:2]] to create a token copy of Myr Retriever.
-6. Activate Ashnod's Altar by sacrificing the Myr Retriever token, adding [[symbol:c]][[symbol:c]].
-7. When the Myr Retriever token dies, it triggers, returning the nontoken Myr Retriever from your graveyard to your hand.
-8. Repeat.
-
-
-Results:
-- Infinite creature ETB
-- Infinite creature LTB
-- Infinite death triggers
-- Infinite creature sacrifice triggers
-- Infinite storm count
-- Infinite artifact ETB
-- Infinite artifact LTB
-- Infinite artifact sacrifice triggers
-===endpanel
-===endaccordion
-
-===accordion
-===panel: Glaring Fleshraker + Ashnod's Altar + Myr Retriever + Workshop Assistant
+===panel: Glaring Fleshraker + Ashnod's Altar + Myr Retriever + Scrap Trawler
 [[symbol:c]]
 
 
@@ -813,12 +381,12 @@ Cards Required:
 - [[Glaring Fleshraker]]
 - [[Ashnod's Altar]]
 - [[Myr Retriever]]
-- [[Workshop Assistant]]
+- [[Scrap Trawler]]
 
 
 Prerequisites:
 - Glaring Fleshraker and Ashnod's Altar on the battlefield.
-- Myr Retriever and Workshop Assistant in hand or in your graveyard.
+- Myr Retriever and Scrap Trawler in hand or in your graveyard.
 - One of the artifact creatures must be in your hand while the other is in your graveyard
 - You have enough mana to cast the artifact card in your hand.
 
@@ -847,20 +415,20 @@ Results:
 ===endaccordion
 
 ===accordion
-===panel: Glaring Fleshraker + Ashnod's Altar + Junk Diver + Workshop Assistant
+===panel: Glaring Fleshraker + Ashnod's Altar + Myr Retriever + Workshop Assistant
 [[symbol:c]]
 
 
 Cards Required:
 - [[Glaring Fleshraker]]
 - [[Ashnod's Altar]]
-- [[Junk Diver]]
+- [[Myr Retriever]]
 - [[Workshop Assistant]]
 
 
 Prerequisites:
 - Glaring Fleshraker and Ashnod's Altar on the battlefield.
-- Junk Diver and Workshop Assistant in hand or in your graveyard.
+- Myr Retriever and Workshop Assistant in hand or in your graveyard.
 - One of the artifact creatures must be in your hand while the other is in your graveyard
 - You have enough mana to cast the artifact card in your hand.
 
@@ -931,6 +499,311 @@ Results:
 ===endaccordion
 
 ===accordion
+===panel: Imotekh the Stormlord + Junk Diver + Myr Retriever + Ashnod's Altar
+[[symbol:b]]
+
+
+Cards Required:
+- [[Imotekh the Stormlord]]
+- [[Junk Diver]]
+- [[Myr Retriever]]
+- [[Ashnod's Altar]]
+
+
+Prerequisites:
+- Junk Diver in your graveyard.
+- All other permanents on the battlefield.
+
+
+Steps:
+1. Activate Ashnod's Altar by sacrificing Myr Retriever, adding [[symbol:c]][[symbol:c]].
+2. When Myr Retriever dies, it triggers, returning Junk Diver to your hand from your graveyard.
+3. Imotekh the Stormlord's first ability triggers, creating two 2/2 Necron Warrior artifact creature tokens.
+4. Activate Ashnod's Altar by sacrificing a Necron Warrior, adding [[symbol:c]][[symbol:c]].
+5. Cast Junk Diver by paying [[symbol:3]].
+6. Activate Ashnod's Altar by sacrificing Junk Diver, adding [[symbol:c]][[symbol:c]].
+7. When Junk Diver dies, it triggers, returning Myr Retriever to your hand from your graveyard.
+8. Imotekh the Stormlord's first ability triggers, creating two 2/2 Necron Warrior artifact creature tokens.
+9. Cast Myr Retriever by paying [[symbol:2]].
+10. Repeat.
+
+
+Results:
+- Infinite colorless mana
+- Infinite creature tokens
+- Infinite death triggers
+- Infinite creature ETB
+- Infinite creature LTB
+- Infinite creature sacrifice triggers
+- Infinite storm count
+===endpanel
+===endaccordion
+
+===accordion
+===panel: Imotekh the Stormlord + Junk Diver + Workshop Assistant + Ashnod's Altar
+[[symbol:b]]
+
+
+Cards Required:
+- [[Imotekh the Stormlord]]
+- [[Junk Diver]]
+- [[Workshop Assistant]]
+- [[Ashnod's Altar]]
+
+
+Prerequisites:
+- Junk Diver in your graveyard.
+- All other permanents on the battlefield.
+
+
+Steps:
+1. Activate Ashnod's Altar by sacrificing Workshop Assistant, adding [[symbol:c]][[symbol:c]].
+2. When Workshop Assistant dies, it triggers, returning Junk Diver to your hand from your graveyard.
+3. Imotekh the Stormlord's first ability triggers, creating two 2/2 Necron Warrior artifact creature tokens.
+4. Activate Ashnod's Altar by sacrificing a Necron Warrior, adding [[symbol:c]][[symbol:c]].
+5. Cast Junk Diver by paying [[symbol:3]].
+6. Activate Ashnod's Altar by sacrificing Junk Diver, adding [[symbol:c]][[symbol:c]].
+7. When Junk Diver dies, it triggers, returning Workshop Assistant to your hand from your graveyard.
+8. Imotekh the Stormlord's first ability triggers, creating two 2/2 Necron Warrior artifact creature tokens.
+9. Cast Workshop Assistant by paying [[symbol:3]].
+10. Repeat.
+
+
+Results:
+- Infinite colorless mana
+- Infinite creature tokens
+- Infinite death triggers
+- Infinite creature ETB
+- Infinite creature LTB
+- Infinite creature sacrifice triggers
+- Infinite storm count
+===endpanel
+===endaccordion
+
+===accordion
+===panel: Imotekh the Stormlord + Myr Retriever + Workshop Assistant + Ashnod's Altar
+[[symbol:b]]
+
+
+Cards Required:
+- [[Imotekh the Stormlord]]
+- [[Myr Retriever]]
+- [[Workshop Assistant]]
+- [[Ashnod's Altar]]
+
+
+Prerequisites:
+- Myr Retriever in your graveyard.
+- All other permanents on the battlefield.
+
+
+Steps:
+1. Activate Ashnod's Altar by sacrificing Workshop Assistant, adding [[symbol:c]][[symbol:c]].
+2. When Workshop Assistant dies, it triggers, returning Myr Retriever to your hand from your graveyard.
+3. Imotekh the Stormlord's first ability triggers, creating two 2/2 Necron Warrior artifact creature tokens.
+4. Activate Ashnod's Altar by sacrificing a Necron Warrior, adding [[symbol:c]][[symbol:c]].
+5. Cast Myr Retriever by paying [[symbol:2]].
+6. Activate Ashnod's Altar by sacrificing Myr Retriever, adding [[symbol:c]][[symbol:c]].
+7. When Myr Retriever dies, it triggers, returning Workshop Assistant to your hand from your graveyard.
+8. Imotekh the Stormlord's first ability triggers, creating two 2/2 Necron Warrior artifact creature tokens.
+9. Cast Workshop Assistant by paying [[symbol:3]].
+10. Repeat.
+
+
+Results:
+- Infinite colorless mana
+- Infinite creature tokens
+- Infinite death triggers
+- Infinite creature ETB
+- Infinite creature LTB
+- Infinite creature sacrifice triggers
+- Infinite storm count
+===endpanel
+===endaccordion
+
+===accordion
+===panel: Imotekh the Stormlord + Nim Deathmantle + Ashnod's Altar
+[[symbol:b]]
+
+
+Cards Required:
+- [[Imotekh the Stormlord]]
+- [[Nim Deathmantle]]
+- [[Ashnod's Altar]]
+
+
+Prerequisites:
+- All permanents on the battlefield.
+- You control at least one nontoken artifact creature.
+- [[symbol:2]] available
+
+
+Steps:
+1. Activate Ashnod's Altar by sacrificing a nontoken artifact creature, adding [[symbol:c]][[symbol:c]].
+2. The creature dies, triggering Nim Deathmantle, causing you to pay [[symbol:4]] to return the artifact creature from your graveyard to the battlefield, and attach Nim Deathmantle to it.
+3. Imotekh's first ability triggers, creating two 2/2 Necron Warrior artifact creature tokens.
+4. Activate Ashnod's Altar by sacrificing a Necron Warrior, adding [[symbol:c]][[symbol:c]].
+5. Repeat.
+
+
+Results:
+- Infinite colorless mana
+- Infinite creature tokens
+- Infinite death triggers
+- Infinite creature ETB
+- Infinite creature LTB
+- Infinite creature sacrifice triggers
+===endpanel
+===endaccordion
+
+===accordion
+===panel: Imotekh the Stormlord + Scrap Trawler + Myr Retriever + Ashnod's Altar
+[[symbol:b]]
+
+
+Cards Required:
+- [[Imotekh the Stormlord]]
+- [[Scrap Trawler]]
+- [[Myr Retriever]]
+- [[Ashnod's Altar]]
+
+
+Prerequisites:
+- Scrap Trawler in your graveyard.
+- All other permanents on the battlefield.
+
+
+Steps:
+1. Activate Ashnod's Altar by sacrificing Myr Retriever, adding [[symbol:c]][[symbol:c]].
+2. When Myr Retriever dies, it triggers, returning Scrap Trawler to your hand from your graveyard.
+3. Imotekh the Stormlord's first ability triggers, creating two 2/2 Necron Warrior artifact creature tokens.
+4. Activate Ashnod's Altar by sacrificing a Necron Warrior, adding [[symbol:c]][[symbol:c]].
+5. Cast Scrap Trawler by paying [[symbol:3]].
+6. Activate Ashnod's Altar by sacrificing Scrap Trawler, adding [[symbol:c]][[symbol:c]].
+7. When Scrap Trawler dies, it triggers, returning Myr Retriever to your hand from your graveyard.
+8. Imotekh the Stormlord's first ability triggers, creating two 2/2 Necron Warrior artifact creature tokens.
+9. Cast Myr Retriever by paying [[symbol:2]].
+10. Repeat.
+
+
+Results:
+- Infinite colorless mana
+- Infinite creature tokens
+- Infinite death triggers
+- Infinite creature ETB
+- Infinite creature LTB
+- Infinite creature sacrifice triggers
+- Infinite storm count
+===endpanel
+===endaccordion
+
+===accordion
+===panel: Myr Retriever + Ashnod's Altar + Ultron, Artificial Malevolence
+[[symbol:c]]
+
+
+Cards Required:
+- [[Myr Retriever]]
+- [[Ashnod's Altar]]
+- [[Ultron, Artificial Malevolence]]
+
+
+Prerequisites:
+- Myr Retriever in hand.
+- Ashnod's Altar and Ultron on the battlefield.
+- [[symbol:2]] available
+
+
+Steps:
+1. Cast Myr Retriever by paying [[symbol:2]].
+2. When Myr Retriever enters, Ultron triggers.
+3. Holding priority, activate Ashnod's Altar by sacrificing Myr Retriever, adding [[symbol:c]][[symbol:c]]
+4. When Myr Retriever dies, it triggers, returning an artifact card from your graveyard to your hand.
+5. Resolve the Ultron trigger, causing you to pay [[symbol:2]] to create a token copy of Myr Retriever.
+6. Activate Ashnod's Altar by sacrificing the Myr Retriever token, adding [[symbol:c]][[symbol:c]].
+7. When the Myr Retriever token dies, it triggers, returning the nontoken Myr Retriever from your graveyard to your hand.
+8. Repeat.
+
+
+Results:
+- Infinite creature ETB
+- Infinite creature LTB
+- Infinite death triggers
+- Infinite creature sacrifice triggers
+- Infinite storm count
+- Infinite artifact ETB
+- Infinite artifact LTB
+- Infinite artifact sacrifice triggers
+===endpanel
+===endaccordion
+
+===accordion
+===panel: Nim Deathmantle + Ashnod's Altar
+[[symbol:c]]
+
+
+Cards Required:
+- [[Nim Deathmantle]]
+- [[Ashnod's Altar]]
+
+
+Prerequisites:
+- All permanents on the battlefield.
+
+
+Steps:
+1. Activate Ashnod's Altar by sacrificing the persist or undying creature, adding [[symbol:c]][[symbol:c]].
+2. When the persist or undying creature dies, its persist or undying ability and Nim Deathmantle trigger.
+3. Resolve the Nim Deathmantle trigger, choosing not to pay.
+4. Resolve the creature's trigger, returning it from your graveyard to the battlefield with a +1/+1 or -1/-1 counter on it.
+5. Activate Ashnod's Altar by sacrificing the persist or undying creature, adding [[symbol:c]][[symbol:c]].
+6. When the persist or undying creature dies, Nim Deathmantle triggers, causing you to pay [[symbol:4]] to return the persist or undying creature from your graveyard to the battlefield.
+7. Repeat.
+
+
+Results:
+- Infinite creature LTB
+- Infinite creature ETB
+- Infinite creature sacrifice triggers
+- Infinite death triggers
+===endpanel
+===endaccordion
+
+===accordion
+===panel: Nim Deathmantle + Ashnod's Altar + Marionette Apprentice
+[[symbol:b]]
+
+
+Cards Required:
+- [[Nim Deathmantle]]
+- [[Ashnod's Altar]]
+- [[Marionette Apprentice]]
+
+
+Prerequisites:
+- All permanents on the battlefield.
+- [[symbol:2]] available
+
+
+Steps:
+1. Activate Ashnod's Altar by sacrificing Marionette Apprentice, adding [[symbol:c]][[symbol:c]].
+2. When Marionette Apprentice dies, Nim Deathmantle triggers, causing you to pay [[symbol:4]] to return Marionette Apprentice from your graveyard to the battlefield and attach Nim Deathmantle to it.
+3. When Marionette Apprentice enters, it triggers, creating a creature token.
+4. Activate Ashnod's Altar by sacrificing a creature token, adding [[symbol:c]][[symbol:c]].
+5. When the creature token dies, Marionette Apprentice triggers, causing each opponent to lose 1 life.
+6. Repeat.
+
+
+Results:
+- Infinite creature LTB
+- Infinite creature ETB
+- Infinite creature sacrifice triggers
+- Infinite death triggers
+- Infinite lifeloss
+===endpanel
+===endaccordion
+
+===accordion
 ===panel: Nim Deathmantle + Ashnod's Altar + Orcish Bowmasters
 [[symbol:b]]
 
@@ -965,31 +838,193 @@ Results:
 ===endaccordion
 
 ===accordion
-===panel: Dross Scorpion + Retrofitter Foundry + Ashnod's Altar
-[[symbol:c]]
+===panel: Pitiless Plunderer + Ashnod's Altar + Stridehangar Automaton
+[[symbol:b]]
 
 
 Cards Required:
-- [[Dross Scorpion]]
-- [[Retrofitter Foundry]]
+- [[Pitiless Plunderer]]
 - [[Ashnod's Altar]]
+- [[Stridehangar Automaton]]
 
 
 Prerequisites:
 - All permanents on the battlefield.
-- [[symbol:2]] available
+- You control another creature.
 
 
 Steps:
-1. Activate Retrofitter Foundry's second ability by paying [[symbol:2]] and tapping it, creating a 1/1 Servo artifact creature token.
-2. Activate Ashnod's Altar by sacrificing the Servo, adding [[symbol:c]][[symbol:c]].
-3. When the Servo dies, Dross Scorpion triggers, untapping Retrofitter Foundry.
-4. Repeat.
+1. Activate Ashnod's Altar by sacrificing another creature, adding [[symbol:c]][[symbol:c]].
+2. When the creature dies, Pitiless Plunderer triggers, creating a Treasure token and a 1/1 Thopter artifact creature token.
+3. Repeat.
 
 
 Results:
+- Infinite artifact ETB
+- Infinite artifact LTB
+- Infinite artifact sacrifice triggers
+- Infinite artifact tokens
 - Infinite creature LTB
 - Infinite creature ETB
+- Infinite colored mana
+- Infinite creature sacrifice triggers
+- Infinite death triggers
+- Infinite colorless mana
+- Infinite Treasure tokens
+===endpanel
+===endaccordion
+
+===accordion
+===panel: Scrap Trawler + Myr Retriever + Ashnod's Altar + Cloud Key
+[[symbol:c]]
+
+
+Cards Required:
+- [[Scrap Trawler]]
+- [[Myr Retriever]]
+- [[Ashnod's Altar]]
+- [[Cloud Key]]
+
+
+Prerequisites:
+- Scrap Trawler in your graveyard.
+- All other permanents on the battlefield (Cloud Key with "Artifact" or "Creature" chosen).
+
+
+Steps:
+1. Activate Ashnod's Altar by sacrificing Myr Retriever, adding [[symbol:c]][[symbol:c]].
+2. When Myr Retriever dies, it triggers, returning Scrap Trawler from your graveyard to your hand.
+3. Cast Scrap Trawler by paying its mana cost, which is reduced by Cloud Key.
+4. Activate Ashnod's Altar by sacrificing Scrap Trawler, adding [[symbol:c]][[symbol:c]].
+5. When Scrap Trawler dies, it triggers, returning Myr Retriever from your graveyard to your hand.
+6. Cast Myr Retriever by paying its mana cost, which is reduced by Cloud Key.
+7. Repeat.
+
+
+Results:
+- Infinite artifact ETB
+- Infinite artifact LTB
+- Infinite artifact sacrifice triggers
+- Infinite creature ETB
+- Infinite creature LTB
+- Infinite colorless mana
+- Infinite death triggers
+- Infinite creature sacrifice triggers
+- Infinite storm count
+===endpanel
+===endaccordion
+
+===accordion
+===panel: Scrap Trawler + Myr Retriever + Ashnod's Altar + Foundry Inspector
+[[symbol:c]]
+
+
+Cards Required:
+- [[Scrap Trawler]]
+- [[Myr Retriever]]
+- [[Ashnod's Altar]]
+- [[Foundry Inspector]]
+
+
+Prerequisites:
+- Scrap Trawler in your graveyard.
+- All other permanents on the battlefield.
+
+
+Steps:
+1. Activate Ashnod's Altar by sacrificing Myr Retriever, adding [[symbol:c]][[symbol:c]].
+2. When Myr Retriever dies, it triggers, returning Scrap Trawler from your graveyard to your hand.
+3. Cast Scrap Trawler by paying its mana cost, which is reduced by Foundry Inspector.
+4. Activate Ashnod's Altar by sacrificing Scrap Trawler, adding [[symbol:c]][[symbol:c]].
+5. When Scrap Trawler dies, it triggers, returning Myr Retriever from your graveyard to your hand.
+6. Cast Myr Retriever by paying its mana cost, which is reduced by Foundry Inspector.
+7. Repeat.
+
+
+Results:
+- Infinite artifact ETB
+- Infinite artifact LTB
+- Infinite artifact sacrifice triggers
+- Infinite creature ETB
+- Infinite creature LTB
+- Infinite colorless mana
+- Infinite death triggers
+- Infinite creature sacrifice triggers
+- Infinite storm count
+===endpanel
+===endaccordion
+
+===accordion
+===panel: Scrap Trawler + Myr Retriever + Ashnod's Altar + Semblance Anvil
+[[symbol:c]]
+
+
+Cards Required:
+- [[Scrap Trawler]]
+- [[Myr Retriever]]
+- [[Ashnod's Altar]]
+- [[Semblance Anvil]]
+
+
+Prerequisites:
+- Scrap Trawler in your graveyard.
+- All other permanents on the battlefield.
+- There is an artifact or creature card exiled with Semblance Anvil.
+
+
+Steps:
+1. Activate Ashnod's Altar by sacrificing Myr Retriever, adding [[symbol:c]][[symbol:c]].
+2. When Myr Retriever dies, it triggers, returning Scrap Trawler from your graveyard to your hand.
+3. Cast Scrap Trawler by paying its mana cost, which is reduced by Semblance Anvil.
+4. Activate Ashnod's Altar by sacrificing Scrap Trawler, adding [[symbol:c]][[symbol:c]].
+5. When Scrap Trawler dies, it triggers, returning Myr Retriever from your graveyard to your hand.
+6. Cast Myr Retriever by paying its mana cost, which is reduced by Semblance Anvil.
+7. Repeat.
+
+
+Results:
+- Infinite artifact ETB
+- Infinite artifact LTB
+- Infinite artifact sacrifice triggers
+- Infinite creature ETB
+- Infinite creature LTB
+- Infinite colorless mana
+- Infinite death triggers
+- Infinite creature sacrifice triggers
+- Infinite storm count
+===endpanel
+===endaccordion
+
+===accordion
+===panel: The Ooze + Stridehangar Automaton + Ashnod's Altar
+[[symbol:c]]
+
+Cards Required:
+- [[The Ooze]]
+- [[Stridehangar Automaton]]
+- [[Ashnod's Altar]]
+
+Prerequisites:
+- All permanents on the battlefield.
+- You control another creature with at least one +1/+1 counter on it.
+- [[symbol:1]] available.
+
+Steps:
+1. Activate Ashnod's Altar by sacrificing the creature with a +1/+1 counter on it, adding [[symbol:c]][[symbol:c]].
+2. The Ooze triggers, creating a Mutagen token. Stridehangar Automaton causes you to also create a 1/1 Thopter artifact creature token.
+3. Pay [[symbol:1]], tap and sacrifice the Mutagen to put a +1/+1 counter on the Thopter.
+4. Activate Ashnod's Altar by sacrificing the Thopter, adding [[symbol:c]][[symbol:c]].
+5. The Ooze triggers, creating another Mutagen token. Stridehangar Automaton causes you to also create another 1/1 Thopter artifact creature token.
+6. Repeat from step 3.
+
+Results:
+- Infinite colorless mana
+- Infinite artifact ETB
+- Infinite artifact LTB
+- Infinite artifact sacrifice triggers
+- Infinite artifact tokens
+- Infinite creature ETB
+- Infinite creature LTB
 - Infinite creature sacrifice triggers
 - Infinite death triggers
 ===endpanel
@@ -1169,37 +1204,6 @@ Results:
 ===panel: Clock of Omens
 
 ===accordion
-===panel: Retrofitter Foundry + Clock of Omens + Stridehangar Automaton
-[[symbol:c]]
-
-
-Cards Required:
-- [[Retrofitter Foundry]]
-- [[Clock of Omens]]
-- [[Stridehangar Automaton]]
-
-
-Prerequisites:
-- All permanents on the battlefield.
-- You control a Thopter.
-
-
-Steps:
-1. Activate Retrofitter Foundry's fourth ability by tapping it and sacrificing a Thopter, creating a 4/4 Construct and a 1/1 Thopter artifact creature token.
-2. Activate Clock of Omens by tapping the Construct and Thopter, untapping Retrofitter Foundry.
-3. Repeat.
-
-
-Results:
-- Infinite creature ETB
-- Infinite tapped creature tokens
-- Infinite creature LTB
-- Infinite creature sacrifice triggers
-- Infinite death triggers
-===endpanel
-===endaccordion
-
-===accordion
 ===panel: Imotekh the Stormlord + Clock of Omens + Tortured Existence
 [[symbol:b]]
 
@@ -1231,6 +1235,37 @@ Results:
 ===endpanel
 ===endaccordion
 
+===accordion
+===panel: Retrofitter Foundry + Clock of Omens + Stridehangar Automaton
+[[symbol:c]]
+
+
+Cards Required:
+- [[Retrofitter Foundry]]
+- [[Clock of Omens]]
+- [[Stridehangar Automaton]]
+
+
+Prerequisites:
+- All permanents on the battlefield.
+- You control a Thopter.
+
+
+Steps:
+1. Activate Retrofitter Foundry's fourth ability by tapping it and sacrificing a Thopter, creating a 4/4 Construct and a 1/1 Thopter artifact creature token.
+2. Activate Clock of Omens by tapping the Construct and Thopter, untapping Retrofitter Foundry.
+3. Repeat.
+
+
+Results:
+- Infinite creature ETB
+- Infinite tapped creature tokens
+- Infinite creature LTB
+- Infinite creature sacrifice triggers
+- Infinite death triggers
+===endpanel
+===endaccordion
+
 ===endpanel
 ===endaccordion
 
@@ -1238,30 +1273,42 @@ Results:
 ===panel: Cloud Key
 
 ===accordion
-===panel: Sensei's Divining Top + Mystic Forge + Cloud Key
+===panel: Scrap Trawler + Myr Retriever + Ashnod's Altar + Cloud Key
 [[symbol:c]]
 
 
 Cards Required:
-- [[Sensei's Divining Top]]
-- [[Mystic Forge]]
+- [[Scrap Trawler]]
+- [[Myr Retriever]]
+- [[Ashnod's Altar]]
 - [[Cloud Key]]
 
 
 Prerequisites:
-- All permanents on the battlefield (Cloud Key with "Artifact" chosen).
+- Scrap Trawler in your graveyard.
+- All other permanents on the battlefield (Cloud Key with "Artifact" or "Creature" chosen).
 
 
 Steps:
-1. Activate Sensei's Divining Top by tapping it, causing you to draw a card and put Sensei's Divining Top on top of your library.
-2. Cast Sensei's Divining Top from the top of your library by paying [[symbol:0]].
-3. Repeat
+1. Activate Ashnod's Altar by sacrificing Myr Retriever, adding [[symbol:c]][[symbol:c]].
+2. When Myr Retriever dies, it triggers, returning Scrap Trawler from your graveyard to your hand.
+3. Cast Scrap Trawler by paying its mana cost, which is reduced by Cloud Key.
+4. Activate Ashnod's Altar by sacrificing Scrap Trawler, adding [[symbol:c]][[symbol:c]].
+5. When Scrap Trawler dies, it triggers, returning Myr Retriever from your graveyard to your hand.
+6. Cast Myr Retriever by paying its mana cost, which is reduced by Cloud Key.
+7. Repeat.
 
 
 Results:
-- Infinite card draw
-- Near-infinite storm count
-- Infinite draw triggers
+- Infinite artifact ETB
+- Infinite artifact LTB
+- Infinite artifact sacrifice triggers
+- Infinite creature ETB
+- Infinite creature LTB
+- Infinite colorless mana
+- Infinite death triggers
+- Infinite creature sacrifice triggers
+- Infinite storm count
 ===endpanel
 ===endaccordion
 
@@ -1306,42 +1353,30 @@ Results:
 ===endaccordion
 
 ===accordion
-===panel: Scrap Trawler + Myr Retriever + Ashnod's Altar + Cloud Key
+===panel: Sensei's Divining Top + Mystic Forge + Cloud Key
 [[symbol:c]]
 
 
 Cards Required:
-- [[Scrap Trawler]]
-- [[Myr Retriever]]
-- [[Ashnod's Altar]]
+- [[Sensei's Divining Top]]
+- [[Mystic Forge]]
 - [[Cloud Key]]
 
 
 Prerequisites:
-- Scrap Trawler in your graveyard.
-- All other permanents on the battlefield (Cloud Key with "Artifact" or "Creature" chosen).
+- All permanents on the battlefield (Cloud Key with "Artifact" chosen).
 
 
 Steps:
-1. Activate Ashnod's Altar by sacrificing Myr Retriever, adding [[symbol:c]][[symbol:c]].
-2. When Myr Retriever dies, it triggers, returning Scrap Trawler from your graveyard to your hand.
-3. Cast Scrap Trawler by paying its mana cost, which is reduced by Cloud Key.
-4. Activate Ashnod's Altar by sacrificing Scrap Trawler, adding [[symbol:c]][[symbol:c]].
-5. When Scrap Trawler dies, it triggers, returning Myr Retriever from your graveyard to your hand.
-6. Cast Myr Retriever by paying its mana cost, which is reduced by Cloud Key.
-7. Repeat.
+1. Activate Sensei's Divining Top by tapping it, causing you to draw a card and put Sensei's Divining Top on top of your library.
+2. Cast Sensei's Divining Top from the top of your library by paying [[symbol:0]].
+3. Repeat
 
 
 Results:
-- Infinite artifact ETB
-- Infinite artifact LTB
-- Infinite artifact sacrifice triggers
-- Infinite creature ETB
-- Infinite creature LTB
-- Infinite colorless mana
-- Infinite death triggers
-- Infinite creature sacrifice triggers
-- Infinite storm count
+- Infinite card draw
+- Near-infinite storm count
+- Infinite draw triggers
 ===endpanel
 ===endaccordion
 
@@ -1410,6 +1445,37 @@ Results:
 ===panel: Dross Scorpion
 
 ===accordion
+===panel: Dross Scorpion + Retrofitter Foundry + Ashnod's Altar
+[[symbol:c]]
+
+
+Cards Required:
+- [[Dross Scorpion]]
+- [[Retrofitter Foundry]]
+- [[Ashnod's Altar]]
+
+
+Prerequisites:
+- All permanents on the battlefield.
+- [[symbol:2]] available
+
+
+Steps:
+1. Activate Retrofitter Foundry's second ability by paying [[symbol:2]] and tapping it, creating a 1/1 Servo artifact creature token.
+2. Activate Ashnod's Altar by sacrificing the Servo, adding [[symbol:c]][[symbol:c]].
+3. When the Servo dies, Dross Scorpion triggers, untapping Retrofitter Foundry.
+4. Repeat.
+
+
+Results:
+- Infinite creature LTB
+- Infinite creature ETB
+- Infinite creature sacrifice triggers
+- Infinite death triggers
+===endpanel
+===endaccordion
+
+===accordion
 ===panel: Dross Scorpion + Retrofitter Foundry + Krark-Clan Ironworks
 [[symbol:c]]
 
@@ -1472,37 +1538,6 @@ Results:
 ===endpanel
 ===endaccordion
 
-===accordion
-===panel: Dross Scorpion + Retrofitter Foundry + Ashnod's Altar
-[[symbol:c]]
-
-
-Cards Required:
-- [[Dross Scorpion]]
-- [[Retrofitter Foundry]]
-- [[Ashnod's Altar]]
-
-
-Prerequisites:
-- All permanents on the battlefield.
-- [[symbol:2]] available
-
-
-Steps:
-1. Activate Retrofitter Foundry's second ability by paying [[symbol:2]] and tapping it, creating a 1/1 Servo artifact creature token.
-2. Activate Ashnod's Altar by sacrificing the Servo, adding [[symbol:c]][[symbol:c]].
-3. When the Servo dies, Dross Scorpion triggers, untapping Retrofitter Foundry.
-4. Repeat.
-
-
-Results:
-- Infinite creature LTB
-- Infinite creature ETB
-- Infinite creature sacrifice triggers
-- Infinite death triggers
-===endpanel
-===endaccordion
-
 ===endpanel
 ===endaccordion
 
@@ -1510,30 +1545,42 @@ Results:
 ===panel: Foundry Inspector
 
 ===accordion
-===panel: Sensei's Divining Top + Foundry Inspector + Mystic Forge
+===panel: Scrap Trawler + Myr Retriever + Ashnod's Altar + Foundry Inspector
 [[symbol:c]]
 
 
 Cards Required:
-- [[Sensei's Divining Top]]
+- [[Scrap Trawler]]
+- [[Myr Retriever]]
+- [[Ashnod's Altar]]
 - [[Foundry Inspector]]
-- [[Mystic Forge]]
 
 
 Prerequisites:
-- All permanents on the battlefield.
+- Scrap Trawler in your graveyard.
+- All other permanents on the battlefield.
 
 
 Steps:
-1. Activate Sensei's Divining Top by tapping it, causing you to draw a card and put Sensei's Divining Top on top of your library.
-2. Cast Sensei's Divining Top from the top of your library by paying [[symbol:0]].
-3. Repeat
+1. Activate Ashnod's Altar by sacrificing Myr Retriever, adding [[symbol:c]][[symbol:c]].
+2. When Myr Retriever dies, it triggers, returning Scrap Trawler from your graveyard to your hand.
+3. Cast Scrap Trawler by paying its mana cost, which is reduced by Foundry Inspector.
+4. Activate Ashnod's Altar by sacrificing Scrap Trawler, adding [[symbol:c]][[symbol:c]].
+5. When Scrap Trawler dies, it triggers, returning Myr Retriever from your graveyard to your hand.
+6. Cast Myr Retriever by paying its mana cost, which is reduced by Foundry Inspector.
+7. Repeat.
 
 
 Results:
-- Infinite card draw
-- Near-infinite storm count
-- Infinite draw triggers
+- Infinite artifact ETB
+- Infinite artifact LTB
+- Infinite artifact sacrifice triggers
+- Infinite creature ETB
+- Infinite creature LTB
+- Infinite colorless mana
+- Infinite death triggers
+- Infinite creature sacrifice triggers
+- Infinite storm count
 ===endpanel
 ===endaccordion
 
@@ -1578,42 +1625,30 @@ Results:
 ===endaccordion
 
 ===accordion
-===panel: Scrap Trawler + Myr Retriever + Ashnod's Altar + Foundry Inspector
+===panel: Sensei's Divining Top + Foundry Inspector + Mystic Forge
 [[symbol:c]]
 
 
 Cards Required:
-- [[Scrap Trawler]]
-- [[Myr Retriever]]
-- [[Ashnod's Altar]]
+- [[Sensei's Divining Top]]
 - [[Foundry Inspector]]
+- [[Mystic Forge]]
 
 
 Prerequisites:
-- Scrap Trawler in your graveyard.
-- All other permanents on the battlefield.
+- All permanents on the battlefield.
 
 
 Steps:
-1. Activate Ashnod's Altar by sacrificing Myr Retriever, adding [[symbol:c]][[symbol:c]].
-2. When Myr Retriever dies, it triggers, returning Scrap Trawler from your graveyard to your hand.
-3. Cast Scrap Trawler by paying its mana cost, which is reduced by Foundry Inspector.
-4. Activate Ashnod's Altar by sacrificing Scrap Trawler, adding [[symbol:c]][[symbol:c]].
-5. When Scrap Trawler dies, it triggers, returning Myr Retriever from your graveyard to your hand.
-6. Cast Myr Retriever by paying its mana cost, which is reduced by Foundry Inspector.
-7. Repeat.
+1. Activate Sensei's Divining Top by tapping it, causing you to draw a card and put Sensei's Divining Top on top of your library.
+2. Cast Sensei's Divining Top from the top of your library by paying [[symbol:0]].
+3. Repeat
 
 
 Results:
-- Infinite artifact ETB
-- Infinite artifact LTB
-- Infinite artifact sacrifice triggers
-- Infinite creature ETB
-- Infinite creature LTB
-- Infinite colorless mana
-- Infinite death triggers
-- Infinite creature sacrifice triggers
-- Infinite storm count
+- Infinite card draw
+- Near-infinite storm count
+- Infinite draw triggers
 ===endpanel
 ===endaccordion
 
@@ -1624,141 +1659,20 @@ Results:
 ===panel: Glaring Fleshraker
 
 ===accordion
-===panel: Sensei's Divining Top + Glaring Fleshraker + Mystic Forge
-[[symbol:c]]
-
-
-Cards Required:
-- [[Sensei's Divining Top]]
-- [[Glaring Fleshraker]]
-- [[Mystic Forge]]
-
-
-Prerequisites:
-- All permanents on the battlefield.
-- [[symbol:1]] available
-
-
-Steps:
-1. Activate Sensei's Divining Top by tapping it, causing you to draw a card and put Sensei's Divining Top on top of your library.
-2. Cast Sensei's Divining Top from the top of your library by paying [[symbol:1]].
-3. Glaring Fleshraker's first ability triggers, creating a 0/1 Eldrazi Spawn creature token.
-4. When the Eldrazi Spawn enters, Glaring Fleshraker's second ability triggers, dealing 1 damage to each opponent.
-5. Activate the Eldrazi Spawn by sacrificing it, adding [[symbol:c]].
-6. Repeat
-
-
-Results:
-- Infinite card draw
-- Infinite draw triggers
-- Near-infinite storm count
-- Near-infinite damage
-- Near-infinite creature ETB
-- Near-infinite creature LTB
-- Near-infinite death triggers
-- Near-infinite creature sacrifice triggers
-===endpanel
-===endaccordion
-
-===accordion
-===panel: Glaring Fleshraker + Myr Retriever + Scrap Trawler + Krark-Clan Ironworks
-[[symbol:c]]
-
-
-Cards Required:
-- [[Glaring Fleshraker]]
-- [[Myr Retriever]]
-- [[Scrap Trawler]]
-- [[Krark-Clan Ironworks]]
-
-
-Prerequisites:
-- Glaring Fleshraker and Krark-Clan Ironworks on the battlefield.
-- Myr Retriever and Scrap Trawler in hand or in your graveyard.
-- One of the artifact creatures must be in your hand while the other is in your graveyard
-- You have enough mana to cast the artifact card in your hand.
-
-
-Steps:
-1. Cast the artifact creature card in your hand by paying its mana cost.
-2. Glaring Fleshraker's first ability triggers, creating a 0/1 Eldrazi Spawn creature token.
-3. When the Eldrazi Spawn enters the battlefield, Glaring Fleshraker's second ability triggers, dealing 1 damage to each opponent.
-4. Resolve the artifact creature spell, triggering Glaring Fleshraker's second ability, dealing 1 damage to each opponent.
-5. Activate Krark-Clan Ironworks by sacrificing the artifact creature, adding [[symbol:c]][[symbol:c]].
-6. When the artifact creature dies, it triggers, returning the other artifact creature from your graveyard to your hand.
-7. If needed, activate the Eldrazi Spawn by sacrificing it, adding [[symbol:c]].
-8. Repeat.
-
-
-Results:
-- Infinite creature LTB
-- Infinite creature ETB
-- Infinite creature sacrifice triggers
-- Infinite death triggers
-- Infinite colorless mana
-- Infinite damage
-- Infinite storm count
-- Infinite creature tokens
-===endpanel
-===endaccordion
-
-===accordion
-===panel: Glaring Fleshraker + Myr Retriever + Junk Diver + Krark-Clan Ironworks
-[[symbol:c]]
-
-
-Cards Required:
-- [[Glaring Fleshraker]]
-- [[Myr Retriever]]
-- [[Junk Diver]]
-- [[Krark-Clan Ironworks]]
-
-
-Prerequisites:
-- Glaring Fleshraker and Krark-Clan Ironworks on the battlefield.
-- Myr Retriever and Junk Diver in hand or in your graveyard.
-- One of the artifact creatures must be in your hand while the other is in your graveyard
-- You have enough mana to cast the artifact card in your hand.
-
-
-Steps:
-1. Cast the artifact creature card in your hand by paying its mana cost.
-2. Glaring Fleshraker's first ability triggers, creating a 0/1 Eldrazi Spawn creature token.
-3. When the Eldrazi Spawn enters the battlefield, Glaring Fleshraker's second ability triggers, dealing 1 damage to each opponent.
-4. Resolve the artifact creature spell, triggering Glaring Fleshraker's second ability, dealing 1 damage to each opponent.
-5. Activate Krark-Clan Ironworks by sacrificing the artifact creature, adding [[symbol:c]][[symbol:c]].
-6. When the artifact creature dies, it triggers, returning the other artifact creature from your graveyard to your hand.
-7. If needed, activate the Eldrazi Spawn by sacrificing it, adding [[symbol:c]].
-8. Repeat.
-
-
-Results:
-- Infinite creature LTB
-- Infinite creature ETB
-- Infinite creature sacrifice triggers
-- Infinite death triggers
-- Infinite colorless mana
-- Infinite damage
-- Infinite storm count
-- Infinite creature tokens
-===endpanel
-===endaccordion
-
-===accordion
-===panel: Glaring Fleshraker + Ashnod's Altar + Myr Retriever + Scrap Trawler
+===panel: Glaring Fleshraker + Ashnod's Altar + Junk Diver + Workshop Assistant
 [[symbol:c]]
 
 
 Cards Required:
 - [[Glaring Fleshraker]]
 - [[Ashnod's Altar]]
-- [[Myr Retriever]]
-- [[Scrap Trawler]]
+- [[Junk Diver]]
+- [[Workshop Assistant]]
 
 
 Prerequisites:
 - Glaring Fleshraker and Ashnod's Altar on the battlefield.
-- Myr Retriever and Scrap Trawler in hand or in your graveyard.
+- Junk Diver and Workshop Assistant in hand or in your graveyard.
 - One of the artifact creatures must be in your hand while the other is in your graveyard
 - You have enough mana to cast the artifact card in your hand.
 
@@ -1829,20 +1743,20 @@ Results:
 ===endaccordion
 
 ===accordion
-===panel: Glaring Fleshraker + Myr Retriever + Workshop Assistant + Krark-Clan Ironworks
+===panel: Glaring Fleshraker + Ashnod's Altar + Myr Retriever + Scrap Trawler
 [[symbol:c]]
 
 
 Cards Required:
 - [[Glaring Fleshraker]]
+- [[Ashnod's Altar]]
 - [[Myr Retriever]]
-- [[Workshop Assistant]]
-- [[Krark-Clan Ironworks]]
+- [[Scrap Trawler]]
 
 
 Prerequisites:
-- Glaring Fleshraker and Krark-Clan Ironworks on the battlefield.
-- Myr Retriever and Workshop Assistant in hand or in your graveyard.
+- Glaring Fleshraker and Ashnod's Altar on the battlefield.
+- Myr Retriever and Scrap Trawler in hand or in your graveyard.
 - One of the artifact creatures must be in your hand while the other is in your graveyard
 - You have enough mana to cast the artifact card in your hand.
 
@@ -1852,49 +1766,7 @@ Steps:
 2. Glaring Fleshraker's first ability triggers, creating a 0/1 Eldrazi Spawn creature token.
 3. When the Eldrazi Spawn enters the battlefield, Glaring Fleshraker's second ability triggers, dealing 1 damage to each opponent.
 4. Resolve the artifact creature spell, triggering Glaring Fleshraker's second ability, dealing 1 damage to each opponent.
-5. Activate Krark-Clan Ironworks by sacrificing the artifact creature, adding [[symbol:c]][[symbol:c]].
-6. When the artifact creature dies, it triggers, returning the other artifact creature from your graveyard to your hand.
-7. If needed, activate the Eldrazi Spawn by sacrificing it, adding [[symbol:c]].
-8. Repeat.
-
-
-Results:
-- Infinite creature LTB
-- Infinite creature ETB
-- Infinite creature sacrifice triggers
-- Infinite death triggers
-- Infinite colorless mana
-- Infinite damage
-- Infinite storm count
-- Infinite creature tokens
-===endpanel
-===endaccordion
-
-===accordion
-===panel: Glaring Fleshraker + Junk Diver + Workshop Assistant + Krark-Clan Ironworks
-[[symbol:c]]
-
-
-Cards Required:
-- [[Glaring Fleshraker]]
-- [[Junk Diver]]
-- [[Workshop Assistant]]
-- [[Krark-Clan Ironworks]]
-
-
-Prerequisites:
-- Glaring Fleshraker and Krark-Clan Ironworks on the battlefield.
-- Junk Diver and Workshop Assistant in hand or in your graveyard.
-- One of the artifact creatures must be in your hand while the other is in your graveyard
-- You have enough mana to cast the artifact card in your hand.
-
-
-Steps:
-1. Cast the artifact creature card in your hand by paying its mana cost.
-2. Glaring Fleshraker's first ability triggers, creating a 0/1 Eldrazi Spawn creature token.
-3. When the Eldrazi Spawn enters the battlefield, Glaring Fleshraker's second ability triggers, dealing 1 damage to each opponent.
-4. Resolve the artifact creature spell, triggering Glaring Fleshraker's second ability, dealing 1 damage to each opponent.
-5. Activate Krark-Clan Ironworks by sacrificing the artifact creature, adding [[symbol:c]][[symbol:c]].
+5. Activate Ashnod's Altar by sacrificing the artifact creature, adding [[symbol:c]][[symbol:c]].
 6. When the artifact creature dies, it triggers, returning the other artifact creature from your graveyard to your hand.
 7. If needed, activate the Eldrazi Spawn by sacrificing it, adding [[symbol:c]].
 8. Repeat.
@@ -1927,48 +1799,6 @@ Cards Required:
 Prerequisites:
 - Glaring Fleshraker and Ashnod's Altar on the battlefield.
 - Myr Retriever and Workshop Assistant in hand or in your graveyard.
-- One of the artifact creatures must be in your hand while the other is in your graveyard
-- You have enough mana to cast the artifact card in your hand.
-
-
-Steps:
-1. Cast the artifact creature card in your hand by paying its mana cost.
-2. Glaring Fleshraker's first ability triggers, creating a 0/1 Eldrazi Spawn creature token.
-3. When the Eldrazi Spawn enters the battlefield, Glaring Fleshraker's second ability triggers, dealing 1 damage to each opponent.
-4. Resolve the artifact creature spell, triggering Glaring Fleshraker's second ability, dealing 1 damage to each opponent.
-5. Activate Ashnod's Altar by sacrificing the artifact creature, adding [[symbol:c]][[symbol:c]].
-6. When the artifact creature dies, it triggers, returning the other artifact creature from your graveyard to your hand.
-7. If needed, activate the Eldrazi Spawn by sacrificing it, adding [[symbol:c]].
-8. Repeat.
-
-
-Results:
-- Infinite creature LTB
-- Infinite creature ETB
-- Infinite creature sacrifice triggers
-- Infinite death triggers
-- Infinite damage
-- Infinite storm count
-- Infinite colorless mana
-- Infinite creature tokens
-===endpanel
-===endaccordion
-
-===accordion
-===panel: Glaring Fleshraker + Ashnod's Altar + Junk Diver + Workshop Assistant
-[[symbol:c]]
-
-
-Cards Required:
-- [[Glaring Fleshraker]]
-- [[Ashnod's Altar]]
-- [[Junk Diver]]
-- [[Workshop Assistant]]
-
-
-Prerequisites:
-- Glaring Fleshraker and Ashnod's Altar on the battlefield.
-- Junk Diver and Workshop Assistant in hand or in your graveyard.
 - One of the artifact creatures must be in your hand while the other is in your graveyard
 - You have enough mana to cast the artifact card in your hand.
 
@@ -2038,6 +1868,211 @@ Results:
 ===endpanel
 ===endaccordion
 
+===accordion
+===panel: Glaring Fleshraker + Junk Diver + Workshop Assistant + Krark-Clan Ironworks
+[[symbol:c]]
+
+
+Cards Required:
+- [[Glaring Fleshraker]]
+- [[Junk Diver]]
+- [[Workshop Assistant]]
+- [[Krark-Clan Ironworks]]
+
+
+Prerequisites:
+- Glaring Fleshraker and Krark-Clan Ironworks on the battlefield.
+- Junk Diver and Workshop Assistant in hand or in your graveyard.
+- One of the artifact creatures must be in your hand while the other is in your graveyard
+- You have enough mana to cast the artifact card in your hand.
+
+
+Steps:
+1. Cast the artifact creature card in your hand by paying its mana cost.
+2. Glaring Fleshraker's first ability triggers, creating a 0/1 Eldrazi Spawn creature token.
+3. When the Eldrazi Spawn enters the battlefield, Glaring Fleshraker's second ability triggers, dealing 1 damage to each opponent.
+4. Resolve the artifact creature spell, triggering Glaring Fleshraker's second ability, dealing 1 damage to each opponent.
+5. Activate Krark-Clan Ironworks by sacrificing the artifact creature, adding [[symbol:c]][[symbol:c]].
+6. When the artifact creature dies, it triggers, returning the other artifact creature from your graveyard to your hand.
+7. If needed, activate the Eldrazi Spawn by sacrificing it, adding [[symbol:c]].
+8. Repeat.
+
+
+Results:
+- Infinite creature LTB
+- Infinite creature ETB
+- Infinite creature sacrifice triggers
+- Infinite death triggers
+- Infinite damage
+- Infinite storm count
+- Infinite colorless mana
+- Infinite creature tokens
+===endpanel
+===endaccordion
+
+===accordion
+===panel: Glaring Fleshraker + Myr Retriever + Junk Diver + Krark-Clan Ironworks
+[[symbol:c]]
+
+
+Cards Required:
+- [[Glaring Fleshraker]]
+- [[Myr Retriever]]
+- [[Junk Diver]]
+- [[Krark-Clan Ironworks]]
+
+
+Prerequisites:
+- Glaring Fleshraker and Krark-Clan Ironworks on the battlefield.
+- Myr Retriever and Junk Diver in hand or in your graveyard.
+- One of the artifact creatures must be in your hand while the other is in your graveyard
+- You have enough mana to cast the artifact card in your hand.
+
+
+Steps:
+1. Cast the artifact creature card in your hand by paying its mana cost.
+2. Glaring Fleshraker's first ability triggers, creating a 0/1 Eldrazi Spawn creature token.
+3. When the Eldrazi Spawn enters the battlefield, Glaring Fleshraker's second ability triggers, dealing 1 damage to each opponent.
+4. Resolve the artifact creature spell, triggering Glaring Fleshraker's second ability, dealing 1 damage to each opponent.
+5. Activate Krark-Clan Ironworks by sacrificing the artifact creature, adding [[symbol:c]][[symbol:c]].
+6. When the artifact creature dies, it triggers, returning the other artifact creature from your graveyard to your hand.
+7. If needed, activate the Eldrazi Spawn by sacrificing it, adding [[symbol:c]].
+8. Repeat.
+
+
+Results:
+- Infinite creature LTB
+- Infinite creature ETB
+- Infinite creature sacrifice triggers
+- Infinite death triggers
+- Infinite colorless mana
+- Infinite damage
+- Infinite storm count
+- Infinite creature tokens
+===endpanel
+===endaccordion
+
+===accordion
+===panel: Glaring Fleshraker + Myr Retriever + Scrap Trawler + Krark-Clan Ironworks
+[[symbol:c]]
+
+
+Cards Required:
+- [[Glaring Fleshraker]]
+- [[Myr Retriever]]
+- [[Scrap Trawler]]
+- [[Krark-Clan Ironworks]]
+
+
+Prerequisites:
+- Glaring Fleshraker and Krark-Clan Ironworks on the battlefield.
+- Myr Retriever and Scrap Trawler in hand or in your graveyard.
+- One of the artifact creatures must be in your hand while the other is in your graveyard
+- You have enough mana to cast the artifact card in your hand.
+
+
+Steps:
+1. Cast the artifact creature card in your hand by paying its mana cost.
+2. Glaring Fleshraker's first ability triggers, creating a 0/1 Eldrazi Spawn creature token.
+3. When the Eldrazi Spawn enters the battlefield, Glaring Fleshraker's second ability triggers, dealing 1 damage to each opponent.
+4. Resolve the artifact creature spell, triggering Glaring Fleshraker's second ability, dealing 1 damage to each opponent.
+5. Activate Krark-Clan Ironworks by sacrificing the artifact creature, adding [[symbol:c]][[symbol:c]].
+6. When the artifact creature dies, it triggers, returning the other artifact creature from your graveyard to your hand.
+7. If needed, activate the Eldrazi Spawn by sacrificing it, adding [[symbol:c]].
+8. Repeat.
+
+
+Results:
+- Infinite creature LTB
+- Infinite creature ETB
+- Infinite creature sacrifice triggers
+- Infinite death triggers
+- Infinite colorless mana
+- Infinite damage
+- Infinite storm count
+- Infinite creature tokens
+===endpanel
+===endaccordion
+
+===accordion
+===panel: Glaring Fleshraker + Myr Retriever + Workshop Assistant + Krark-Clan Ironworks
+[[symbol:c]]
+
+
+Cards Required:
+- [[Glaring Fleshraker]]
+- [[Myr Retriever]]
+- [[Workshop Assistant]]
+- [[Krark-Clan Ironworks]]
+
+
+Prerequisites:
+- Glaring Fleshraker and Krark-Clan Ironworks on the battlefield.
+- Myr Retriever and Workshop Assistant in hand or in your graveyard.
+- One of the artifact creatures must be in your hand while the other is in your graveyard
+- You have enough mana to cast the artifact card in your hand.
+
+
+Steps:
+1. Cast the artifact creature card in your hand by paying its mana cost.
+2. Glaring Fleshraker's first ability triggers, creating a 0/1 Eldrazi Spawn creature token.
+3. When the Eldrazi Spawn enters the battlefield, Glaring Fleshraker's second ability triggers, dealing 1 damage to each opponent.
+4. Resolve the artifact creature spell, triggering Glaring Fleshraker's second ability, dealing 1 damage to each opponent.
+5. Activate Krark-Clan Ironworks by sacrificing the artifact creature, adding [[symbol:c]][[symbol:c]].
+6. When the artifact creature dies, it triggers, returning the other artifact creature from your graveyard to your hand.
+7. If needed, activate the Eldrazi Spawn by sacrificing it, adding [[symbol:c]].
+8. Repeat.
+
+
+Results:
+- Infinite creature LTB
+- Infinite creature ETB
+- Infinite creature sacrifice triggers
+- Infinite death triggers
+- Infinite colorless mana
+- Infinite damage
+- Infinite storm count
+- Infinite creature tokens
+===endpanel
+===endaccordion
+
+===accordion
+===panel: Sensei's Divining Top + Glaring Fleshraker + Mystic Forge
+[[symbol:c]]
+
+
+Cards Required:
+- [[Sensei's Divining Top]]
+- [[Glaring Fleshraker]]
+- [[Mystic Forge]]
+
+
+Prerequisites:
+- All permanents on the battlefield.
+- [[symbol:1]] available
+
+
+Steps:
+1. Activate Sensei's Divining Top by tapping it, causing you to draw a card and put Sensei's Divining Top on top of your library.
+2. Cast Sensei's Divining Top from the top of your library by paying [[symbol:1]].
+3. Glaring Fleshraker's first ability triggers, creating a 0/1 Eldrazi Spawn creature token.
+4. When the Eldrazi Spawn enters, Glaring Fleshraker's second ability triggers, dealing 1 damage to each opponent.
+5. Activate the Eldrazi Spawn by sacrificing it, adding [[symbol:c]].
+6. Repeat
+
+
+Results:
+- Infinite card draw
+- Infinite draw triggers
+- Near-infinite storm count
+- Near-infinite damage
+- Near-infinite creature ETB
+- Near-infinite creature LTB
+- Near-infinite death triggers
+- Near-infinite creature sacrifice triggers
+===endpanel
+===endaccordion
+
 ===endpanel
 ===endaccordion
 
@@ -2091,84 +2126,34 @@ Results:
 ===panel: Imotekh the Stormlord
 
 ===accordion
-===panel: Imotekh the Stormlord + Scrap Trawler + Myr Retriever + Ashnod's Altar
+===panel: Imotekh the Stormlord + Clock of Omens + Tortured Existence
 [[symbol:b]]
 
 
 Cards Required:
 - [[Imotekh the Stormlord]]
-- [[Scrap Trawler]]
-- [[Myr Retriever]]
-- [[Ashnod's Altar]]
+- [[Clock of Omens]]
+- [[Tortured Existence]]
 
 
 Prerequisites:
-- Scrap Trawler in your graveyard.
-- All other permanents on the battlefield.
+- All permanents on the battlefield.
+- You control an artifact that can tap to produce at least [[symbol:b]]
+- You have at least one artifact creature card in hand
+- You have at least one artifact creature card in your graveyard.
 
 
 Steps:
-1. Activate Ashnod's Altar by sacrificing Myr Retriever, adding [[symbol:c]][[symbol:c]].
-2. When Myr Retriever dies, it triggers, returning Scrap Trawler to your hand from your graveyard.
-3. Imotekh the Stormlord's first ability triggers, creating two 2/2 Necron Warrior artifact creature tokens.
-4. Activate Ashnod's Altar by sacrificing a Necron Warrior, adding [[symbol:c]][[symbol:c]].
-5. Cast Scrap Trawler by paying [[symbol:3]].
-6. Activate Ashnod's Altar by sacrificing Scrap Trawler, adding [[symbol:c]][[symbol:c]].
-7. When Scrap Trawler dies, it triggers, returning Myr Retriever to your hand from your graveyard.
-8. Imotekh the Stormlord's first ability triggers, creating two 2/2 Necron Warrior artifact creature tokens.
-9. Cast Myr Retriever by paying [[symbol:2]].
-10. Repeat.
+1. Activate a mana-producing artifact you control by tapping it, adding [[symbol:b]].
+2. Activate Tortured Existence by paying [[symbol:b]] and discarding an artifact creature card, returning another artifact creature card from your graveyard to your hand.
+3. Imotekh's first ability triggers, creating two 2/2 Necron Warrior artifact creature tokens.
+4. Activate Clock of Omens by tapping the Necron Warriors, untapping the mana-producing artifact.
+5. Repeat.
 
 
 Results:
-- Infinite colorless mana
-- Infinite creature tokens
-- Infinite death triggers
 - Infinite creature ETB
-- Infinite creature LTB
-- Infinite creature sacrifice triggers
-- Infinite storm count
-===endpanel
-===endaccordion
-
-===accordion
-===panel: Imotekh the Stormlord + Scrap Trawler + Myr Retriever + Krark-Clan Ironworks
-[[symbol:b]]
-
-
-Cards Required:
-- [[Imotekh the Stormlord]]
-- [[Scrap Trawler]]
-- [[Myr Retriever]]
-- [[Krark-Clan Ironworks]]
-
-
-Prerequisites:
-- Scrap Trawler in your graveyard.
-- All other permanents on the battlefield.
-
-
-Steps:
-1. Activate Krark-Clan Ironworks by sacrificing Myr Retriever, adding [[symbol:c]][[symbol:c]].
-2. When Myr Retriever dies, it triggers, returning Scrap Trawler to your hand from your graveyard.
-3. Imotekh the Stormlord's first ability triggers, creating two 2/2 Necron Warrior artifact creature tokens.
-4. Activate Krark-Clan Ironworks by sacrificing a Necron Warrior, adding [[symbol:c]][[symbol:c]].
-5. Cast Scrap Trawler by paying [[symbol:3]].
-6. Activate Krark-Clan Ironworks by sacrificing Scrap Trawler, adding [[symbol:c]][[symbol:c]].
-7. When Scrap Trawler dies, it triggers, returning Myr Retriever to your hand from your graveyard.
-8. Imotekh the Stormlord's first ability triggers, creating two 2/2 Necron Warrior artifact creature tokens.
-9. Cast Myr Retriever by paying [[symbol:2]].
-10. Repeat.
-
-
-Results:
-- Infinite colorless mana
-- Infinite creature tokens
-- Infinite death triggers
-- Infinite creature ETB
-- Infinite creature LTB
-- Infinite creature sacrifice triggers
-- Infinite storm count
+- Infinite tapped creature tokens
 ===endpanel
 ===endaccordion
 
@@ -2199,82 +2184,6 @@ Steps:
 7. When Junk Diver dies, it triggers, returning Myr Retriever to your hand from your graveyard.
 8. Imotekh the Stormlord's first ability triggers, creating two 2/2 Necron Warrior artifact creature tokens.
 9. Cast Myr Retriever by paying [[symbol:2]].
-10. Repeat.
-
-
-Results:
-- Infinite colorless mana
-- Infinite creature tokens
-- Infinite death triggers
-- Infinite creature ETB
-- Infinite creature LTB
-- Infinite creature sacrifice triggers
-- Infinite storm count
-===endpanel
-===endaccordion
-
-===accordion
-===panel: Imotekh the Stormlord + Nim Deathmantle + Ashnod's Altar
-[[symbol:b]]
-
-
-Cards Required:
-- [[Imotekh the Stormlord]]
-- [[Nim Deathmantle]]
-- [[Ashnod's Altar]]
-
-
-Prerequisites:
-- All permanents on the battlefield.
-- You control at least one nontoken artifact creature.
-- [[symbol:2]] available
-
-
-Steps:
-1. Activate Ashnod's Altar by sacrificing a nontoken artifact creature, adding [[symbol:c]][[symbol:c]].
-2. The creature dies, triggering Nim Deathmantle, causing you to pay [[symbol:4]] to return the artifact creature from your graveyard to the battlefield, and attach Nim Deathmantle to it.
-3. Imotekh's first ability triggers, creating two 2/2 Necron Warrior artifact creature tokens.
-4. Activate Ashnod's Altar by sacrificing a Necron Warrior, adding [[symbol:c]][[symbol:c]].
-5. Repeat.
-
-
-Results:
-- Infinite colorless mana
-- Infinite creature tokens
-- Infinite death triggers
-- Infinite creature ETB
-- Infinite creature LTB
-- Infinite creature sacrifice triggers
-===endpanel
-===endaccordion
-
-===accordion
-===panel: Imotekh the Stormlord + Myr Retriever + Workshop Assistant + Ashnod's Altar
-[[symbol:b]]
-
-
-Cards Required:
-- [[Imotekh the Stormlord]]
-- [[Myr Retriever]]
-- [[Workshop Assistant]]
-- [[Ashnod's Altar]]
-
-
-Prerequisites:
-- Myr Retriever in your graveyard.
-- All other permanents on the battlefield.
-
-
-Steps:
-1. Activate Ashnod's Altar by sacrificing Workshop Assistant, adding [[symbol:c]][[symbol:c]].
-2. When Workshop Assistant dies, it triggers, returning Myr Retriever to your hand from your graveyard.
-3. Imotekh the Stormlord's first ability triggers, creating two 2/2 Necron Warrior artifact creature tokens.
-4. Activate Ashnod's Altar by sacrificing a Necron Warrior, adding [[symbol:c]][[symbol:c]].
-5. Cast Myr Retriever by paying [[symbol:2]].
-6. Activate Ashnod's Altar by sacrificing Myr Retriever, adding [[symbol:c]][[symbol:c]].
-7. When Myr Retriever dies, it triggers, returning Workshop Assistant to your hand from your graveyard.
-8. Imotekh the Stormlord's first ability triggers, creating two 2/2 Necron Warrior artifact creature tokens.
-9. Cast Workshop Assistant by paying [[symbol:3]].
 10. Repeat.
 
 
@@ -2372,28 +2281,33 @@ Results:
 ===endaccordion
 
 ===accordion
-===panel: Imotekh the Stormlord + Nim Deathmantle + Krark-Clan Ironworks
+===panel: Imotekh the Stormlord + Junk Diver + Workshop Assistant + Krark-Clan Ironworks
 [[symbol:b]]
 
 
 Cards Required:
 - [[Imotekh the Stormlord]]
-- [[Nim Deathmantle]]
+- [[Junk Diver]]
+- [[Workshop Assistant]]
 - [[Krark-Clan Ironworks]]
 
 
 Prerequisites:
-- All permanents on the battlefield.
-- You control at least one nontoken artifact creature.
-- [[symbol:2]] available
+- Junk Diver in your graveyard.
+- All other permanents on the battlefield.
 
 
 Steps:
-1. Activate Krark-Clan Ironworks by sacrificing a nontoken artifact creature, adding [[symbol:c]][[symbol:c]].
-2. The creature dies, triggering Nim Deathmantle, causing you to pay [[symbol:4]] to return the artifact creature from your graveyard to the battlefield, and attach Nim Deathmantle to it.
-3. Imotekh's first ability triggers, creating two 2/2 Necron Warrior artifact creature tokens.
+1. Activate Krark-Clan Ironworks by sacrificing Workshop Assistant, adding [[symbol:c]][[symbol:c]].
+2. When Workshop Assistant dies, it triggers, returning Junk Diver to your hand from your graveyard.
+3. Imotekh the Stormlord's first ability triggers, creating two 2/2 Necron Warrior artifact creature tokens.
 4. Activate Krark-Clan Ironworks by sacrificing a Necron Warrior, adding [[symbol:c]][[symbol:c]].
-5. Repeat.
+5. Cast Junk Diver by paying [[symbol:3]].
+6. Activate Krark-Clan Ironworks by sacrificing Junk Diver, adding [[symbol:c]][[symbol:c]].
+7. When Junk Diver dies, it triggers, returning Workshop Assistant to your hand from your graveyard.
+8. Imotekh the Stormlord's first ability triggers, creating two 2/2 Necron Warrior artifact creature tokens.
+9. Cast Workshop Assistant by paying [[symbol:3]].
+10. Repeat.
 
 
 Results:
@@ -2403,6 +2317,82 @@ Results:
 - Infinite creature ETB
 - Infinite creature LTB
 - Infinite creature sacrifice triggers
+- Infinite storm count
+===endpanel
+===endaccordion
+
+===accordion
+===panel: Imotekh the Stormlord + Metalwork Colossus + Skirge Familiar
+[[symbol:b]]
+
+
+Cards Required:
+- [[Imotekh the Stormlord]]
+- [[Metalwork Colossus]]
+- [[Skirge Familiar]]
+
+
+Prerequisites:
+- Metalwork Colossus in your graveyard.
+- Imotekh the Stormlord and Skirge Familiar on the battlefield.
+- You control at least two other artifacts.
+
+
+Steps:
+1. Activate Metalwork Colossus by sacrificing two artifacts, returning it from your graveyard to your hand.
+2. Imotekh triggers, creating two 2/2 Necron Warrior artifact creature tokens.
+3. Activate Skirge Familiar by discarding Metalwork Colossus, adding [[symbol:b]].
+4. Repeat.
+
+
+Results:
+- Infinite creature ETB
+- Infinite creature LTB
+- Infinite black mana
+- Infinite death triggers
+- Infinite creature sacrifice triggers
+- Infinite self-discard triggers
+===endpanel
+===endaccordion
+
+===accordion
+===panel: Imotekh the Stormlord + Myr Retriever + Workshop Assistant + Ashnod's Altar
+[[symbol:b]]
+
+
+Cards Required:
+- [[Imotekh the Stormlord]]
+- [[Myr Retriever]]
+- [[Workshop Assistant]]
+- [[Ashnod's Altar]]
+
+
+Prerequisites:
+- Myr Retriever in your graveyard.
+- All other permanents on the battlefield.
+
+
+Steps:
+1. Activate Ashnod's Altar by sacrificing Workshop Assistant, adding [[symbol:c]][[symbol:c]].
+2. When Workshop Assistant dies, it triggers, returning Myr Retriever to your hand from your graveyard.
+3. Imotekh the Stormlord's first ability triggers, creating two 2/2 Necron Warrior artifact creature tokens.
+4. Activate Ashnod's Altar by sacrificing a Necron Warrior, adding [[symbol:c]][[symbol:c]].
+5. Cast Myr Retriever by paying [[symbol:2]].
+6. Activate Ashnod's Altar by sacrificing Myr Retriever, adding [[symbol:c]][[symbol:c]].
+7. When Myr Retriever dies, it triggers, returning Workshop Assistant to your hand from your graveyard.
+8. Imotekh the Stormlord's first ability triggers, creating two 2/2 Necron Warrior artifact creature tokens.
+9. Cast Workshop Assistant by paying [[symbol:3]].
+10. Repeat.
+
+
+Results:
+- Infinite colorless mana
+- Infinite creature tokens
+- Infinite death triggers
+- Infinite creature ETB
+- Infinite creature LTB
+- Infinite creature sacrifice triggers
+- Infinite storm count
 ===endpanel
 ===endaccordion
 
@@ -2448,32 +2438,143 @@ Results:
 ===endaccordion
 
 ===accordion
-===panel: Imotekh the Stormlord + Junk Diver + Workshop Assistant + Krark-Clan Ironworks
+===panel: Imotekh the Stormlord + Nim Deathmantle + Ashnod's Altar
 [[symbol:b]]
 
 
 Cards Required:
 - [[Imotekh the Stormlord]]
-- [[Junk Diver]]
-- [[Workshop Assistant]]
+- [[Nim Deathmantle]]
+- [[Ashnod's Altar]]
+
+
+Prerequisites:
+- All permanents on the battlefield.
+- You control at least one nontoken artifact creature.
+- [[symbol:2]] available
+
+
+Steps:
+1. Activate Ashnod's Altar by sacrificing a nontoken artifact creature, adding [[symbol:c]][[symbol:c]].
+2. The creature dies, triggering Nim Deathmantle, causing you to pay [[symbol:4]] to return the artifact creature from your graveyard to the battlefield, and attach Nim Deathmantle to it.
+3. Imotekh's first ability triggers, creating two 2/2 Necron Warrior artifact creature tokens.
+4. Activate Ashnod's Altar by sacrificing a Necron Warrior, adding [[symbol:c]][[symbol:c]].
+5. Repeat.
+
+
+Results:
+- Infinite colorless mana
+- Infinite creature tokens
+- Infinite death triggers
+- Infinite creature ETB
+- Infinite creature LTB
+- Infinite creature sacrifice triggers
+===endpanel
+===endaccordion
+
+===accordion
+===panel: Imotekh the Stormlord + Nim Deathmantle + Krark-Clan Ironworks
+[[symbol:b]]
+
+
+Cards Required:
+- [[Imotekh the Stormlord]]
+- [[Nim Deathmantle]]
 - [[Krark-Clan Ironworks]]
 
 
 Prerequisites:
-- Junk Diver in your graveyard.
+- All permanents on the battlefield.
+- You control at least one nontoken artifact creature.
+- [[symbol:2]] available
+
+
+Steps:
+1. Activate Krark-Clan Ironworks by sacrificing a nontoken artifact creature, adding [[symbol:c]][[symbol:c]].
+2. The creature dies, triggering Nim Deathmantle, causing you to pay [[symbol:4]] to return the artifact creature from your graveyard to the battlefield, and attach Nim Deathmantle to it.
+3. Imotekh's first ability triggers, creating two 2/2 Necron Warrior artifact creature tokens.
+4. Activate Krark-Clan Ironworks by sacrificing a Necron Warrior, adding [[symbol:c]][[symbol:c]].
+5. Repeat.
+
+
+Results:
+- Infinite colorless mana
+- Infinite creature tokens
+- Infinite death triggers
+- Infinite creature ETB
+- Infinite creature LTB
+- Infinite creature sacrifice triggers
+===endpanel
+===endaccordion
+
+===accordion
+===panel: Imotekh the Stormlord + Scrap Trawler + Myr Retriever + Ashnod's Altar
+[[symbol:b]]
+
+
+Cards Required:
+- [[Imotekh the Stormlord]]
+- [[Scrap Trawler]]
+- [[Myr Retriever]]
+- [[Ashnod's Altar]]
+
+
+Prerequisites:
+- Scrap Trawler in your graveyard.
 - All other permanents on the battlefield.
 
 
 Steps:
-1. Activate Krark-Clan Ironworks by sacrificing Workshop Assistant, adding [[symbol:c]][[symbol:c]].
-2. When Workshop Assistant dies, it triggers, returning Junk Diver to your hand from your graveyard.
+1. Activate Ashnod's Altar by sacrificing Myr Retriever, adding [[symbol:c]][[symbol:c]].
+2. When Myr Retriever dies, it triggers, returning Scrap Trawler to your hand from your graveyard.
+3. Imotekh the Stormlord's first ability triggers, creating two 2/2 Necron Warrior artifact creature tokens.
+4. Activate Ashnod's Altar by sacrificing a Necron Warrior, adding [[symbol:c]][[symbol:c]].
+5. Cast Scrap Trawler by paying [[symbol:3]].
+6. Activate Ashnod's Altar by sacrificing Scrap Trawler, adding [[symbol:c]][[symbol:c]].
+7. When Scrap Trawler dies, it triggers, returning Myr Retriever to your hand from your graveyard.
+8. Imotekh the Stormlord's first ability triggers, creating two 2/2 Necron Warrior artifact creature tokens.
+9. Cast Myr Retriever by paying [[symbol:2]].
+10. Repeat.
+
+
+Results:
+- Infinite colorless mana
+- Infinite creature tokens
+- Infinite death triggers
+- Infinite creature ETB
+- Infinite creature LTB
+- Infinite creature sacrifice triggers
+- Infinite storm count
+===endpanel
+===endaccordion
+
+===accordion
+===panel: Imotekh the Stormlord + Scrap Trawler + Myr Retriever + Krark-Clan Ironworks
+[[symbol:b]]
+
+
+Cards Required:
+- [[Imotekh the Stormlord]]
+- [[Scrap Trawler]]
+- [[Myr Retriever]]
+- [[Krark-Clan Ironworks]]
+
+
+Prerequisites:
+- Scrap Trawler in your graveyard.
+- All other permanents on the battlefield.
+
+
+Steps:
+1. Activate Krark-Clan Ironworks by sacrificing Myr Retriever, adding [[symbol:c]][[symbol:c]].
+2. When Myr Retriever dies, it triggers, returning Scrap Trawler to your hand from your graveyard.
 3. Imotekh the Stormlord's first ability triggers, creating two 2/2 Necron Warrior artifact creature tokens.
 4. Activate Krark-Clan Ironworks by sacrificing a Necron Warrior, adding [[symbol:c]][[symbol:c]].
-5. Cast Junk Diver by paying [[symbol:3]].
-6. Activate Krark-Clan Ironworks by sacrificing Junk Diver, adding [[symbol:c]][[symbol:c]].
-7. When Junk Diver dies, it triggers, returning Workshop Assistant to your hand from your graveyard.
+5. Cast Scrap Trawler by paying [[symbol:3]].
+6. Activate Krark-Clan Ironworks by sacrificing Scrap Trawler, adding [[symbol:c]][[symbol:c]].
+7. When Scrap Trawler dies, it triggers, returning Myr Retriever to your hand from your graveyard.
 8. Imotekh the Stormlord's first ability triggers, creating two 2/2 Necron Warrior artifact creature tokens.
-9. Cast Workshop Assistant by paying [[symbol:3]].
+9. Cast Myr Retriever by paying [[symbol:2]].
 10. Repeat.
 
 
@@ -2521,72 +2622,6 @@ Results:
 - Infinite creature tokens
 - Infinite creature ETB
 - Infinite creature LTB
-- Infinite death triggers
-- Infinite creature sacrifice triggers
-- Infinite self-discard triggers
-===endpanel
-===endaccordion
-
-===accordion
-===panel: Imotekh the Stormlord + Clock of Omens + Tortured Existence
-[[symbol:b]]
-
-
-Cards Required:
-- [[Imotekh the Stormlord]]
-- [[Clock of Omens]]
-- [[Tortured Existence]]
-
-
-Prerequisites:
-- All permanents on the battlefield.
-- You control an artifact that can tap to produce at least [[symbol:b]]
-- You have at least one artifact creature card in hand
-- You have at least one artifact creature card in your graveyard.
-
-
-Steps:
-1. Activate a mana-producing artifact you control by tapping it, adding [[symbol:b]].
-2. Activate Tortured Existence by paying [[symbol:b]] and discarding an artifact creature card, returning another artifact creature card from your graveyard to your hand.
-3. Imotekh's first ability triggers, creating two 2/2 Necron Warrior artifact creature tokens.
-4. Activate Clock of Omens by tapping the Necron Warriors, untapping the mana-producing artifact.
-5. Repeat.
-
-
-Results:
-- Infinite creature ETB
-- Infinite tapped creature tokens
-===endpanel
-===endaccordion
-
-===accordion
-===panel: Imotekh the Stormlord + Metalwork Colossus + Skirge Familiar
-[[symbol:b]]
-
-
-Cards Required:
-- [[Imotekh the Stormlord]]
-- [[Metalwork Colossus]]
-- [[Skirge Familiar]]
-
-
-Prerequisites:
-- Metalwork Colossus in your graveyard.
-- Imotekh the Stormlord and Skirge Familiar on the battlefield.
-- You control at least two other artifacts.
-
-
-Steps:
-1. Activate Metalwork Colossus by sacrificing two artifacts, returning it from your graveyard to your hand.
-2. Imotekh triggers, creating two 2/2 Necron Warrior artifact creature tokens.
-3. Activate Skirge Familiar by discarding Metalwork Colossus, adding [[symbol:b]].
-4. Repeat.
-
-
-Results:
-- Infinite creature ETB
-- Infinite creature LTB
-- Infinite black mana
 - Infinite death triggers
 - Infinite creature sacrifice triggers
 - Infinite self-discard triggers
@@ -2694,50 +2729,128 @@ Results:
 ===panel: Junk Diver
 
 ===accordion
-===panel: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Sol Ring + Junk Diver
+===panel: Glaring Fleshraker + Ashnod's Altar + Junk Diver + Workshop Assistant
 [[symbol:c]]
 
 
 Cards Required:
-- [[Scrap Trawler]]
+- [[Glaring Fleshraker]]
+- [[Ashnod's Altar]]
+- [[Junk Diver]]
+- [[Workshop Assistant]]
+
+
+Prerequisites:
+- Glaring Fleshraker and Ashnod's Altar on the battlefield.
+- Junk Diver and Workshop Assistant in hand or in your graveyard.
+- One of the artifact creatures must be in your hand while the other is in your graveyard
+- You have enough mana to cast the artifact card in your hand.
+
+
+Steps:
+1. Cast the artifact creature card in your hand by paying its mana cost.
+2. Glaring Fleshraker's first ability triggers, creating a 0/1 Eldrazi Spawn creature token.
+3. When the Eldrazi Spawn enters the battlefield, Glaring Fleshraker's second ability triggers, dealing 1 damage to each opponent.
+4. Resolve the artifact creature spell, triggering Glaring Fleshraker's second ability, dealing 1 damage to each opponent.
+5. Activate Ashnod's Altar by sacrificing the artifact creature, adding [[symbol:c]][[symbol:c]].
+6. When the artifact creature dies, it triggers, returning the other artifact creature from your graveyard to your hand.
+7. If needed, activate the Eldrazi Spawn by sacrificing it, adding [[symbol:c]].
+8. Repeat.
+
+
+Results:
+- Infinite creature LTB
+- Infinite creature ETB
+- Infinite creature sacrifice triggers
+- Infinite death triggers
+- Infinite damage
+- Infinite storm count
+- Infinite colorless mana
+- Infinite creature tokens
+===endpanel
+===endaccordion
+
+===accordion
+===panel: Glaring Fleshraker + Ashnod's Altar + Myr Retriever + Junk Diver
+[[symbol:c]]
+
+
+Cards Required:
+- [[Glaring Fleshraker]]
+- [[Ashnod's Altar]]
 - [[Myr Retriever]]
-- [[Krark-Clan Ironworks]]
-- [[Sol Ring]]
 - [[Junk Diver]]
 
 
 Prerequisites:
-- Sol Ring and Junk Diver in your graveyard.
-- All other permanents on the battlefield.
+- Glaring Fleshraker and Ashnod's Altar on the battlefield.
+- Myr Retriever and Junk Diver in hand or in your graveyard.
+- One of the artifact creatures must be in your hand while the other is in your graveyard
+- You have enough mana to cast the artifact card in your hand.
 
 
 Steps:
-1. Activate Krark-Clan Ironworks by sacrificing Myr Retriever, adding [[symbol:c]][[symbol:c]].
-2. Myr Retriever dies, triggering itself and Scrap Trawler.
-3. Resolve the Myr Retriever trigger, returning Junk Diver from your graveyard to your hand.
-4. Resolve the Scrap Trawler trigger, returning Sol Ring from your hand to your graveyard.
-5. Cast Sol Ring by paying [[symbol:1]].
-6. Activate Sol Ring by tapping it, adding [[symbol:c]][[symbol:c]].
-7. Activate Krark-Clan Ironworks by sacrificing Sol Ring, adding [[symbol:c]][[symbol:c]].
-8. Scrap Trawler triggers, choose not to return an artifact to your hand.
-9. Cast Junk Diver by paying [[symbol:3]].
-10. Activate Krark-Clan Ironworks by sacrificing Junk Diver, adding [[symbol:c]][[symbol:c]].
-11. Junk Diver dies, triggering itself and Scrap Trawler.
-12. Resolve the Junk Diver trigger, returning Myr Retriever from your graveyard to your hand.
-13. Resolve the Scrap Trawler trigger, returning Sol Ring from your graveyard to your hand.
-14. Repeat steps 5-8 one additional time.
-15. Cast Myr Retriever by paying [[symbol:2]].
-16. Repeat from step 1.
+1. Cast the artifact creature card in your hand by paying its mana cost.
+2. Glaring Fleshraker's first ability triggers, creating a 0/1 Eldrazi Spawn creature token.
+3. When the Eldrazi Spawn enters the battlefield, Glaring Fleshraker's second ability triggers, dealing 1 damage to each opponent.
+4. Resolve the artifact creature spell, triggering Glaring Fleshraker's second ability, dealing 1 damage to each opponent.
+5. Activate Ashnod's Altar by sacrificing the artifact creature, adding [[symbol:c]][[symbol:c]].
+6. When the artifact creature dies, it triggers, returning the other artifact creature from your graveyard to your hand.
+7. If needed, activate the Eldrazi Spawn by sacrificing it, adding [[symbol:c]].
+8. Repeat.
 
 
 Results:
-- Infinite blinking of some artifacts
-- Infinite colorless mana
-- Infinite death triggers
-- Infinite creature ETB
 - Infinite creature LTB
+- Infinite creature ETB
 - Infinite creature sacrifice triggers
+- Infinite death triggers
+- Infinite damage
 - Infinite storm count
+- Infinite colorless mana
+- Infinite creature tokens
+===endpanel
+===endaccordion
+
+===accordion
+===panel: Glaring Fleshraker + Junk Diver + Workshop Assistant + Krark-Clan Ironworks
+[[symbol:c]]
+
+
+Cards Required:
+- [[Glaring Fleshraker]]
+- [[Junk Diver]]
+- [[Workshop Assistant]]
+- [[Krark-Clan Ironworks]]
+
+
+Prerequisites:
+- Glaring Fleshraker and Krark-Clan Ironworks on the battlefield.
+- Junk Diver and Workshop Assistant in hand or in your graveyard.
+- One of the artifact creatures must be in your hand while the other is in your graveyard
+- You have enough mana to cast the artifact card in your hand.
+
+
+Steps:
+1. Cast the artifact creature card in your hand by paying its mana cost.
+2. Glaring Fleshraker's first ability triggers, creating a 0/1 Eldrazi Spawn creature token.
+3. When the Eldrazi Spawn enters the battlefield, Glaring Fleshraker's second ability triggers, dealing 1 damage to each opponent.
+4. Resolve the artifact creature spell, triggering Glaring Fleshraker's second ability, dealing 1 damage to each opponent.
+5. Activate Krark-Clan Ironworks by sacrificing the artifact creature, adding [[symbol:c]][[symbol:c]].
+6. When the artifact creature dies, it triggers, returning the other artifact creature from your graveyard to your hand.
+7. If needed, activate the Eldrazi Spawn by sacrificing it, adding [[symbol:c]].
+8. Repeat.
+
+
+Results:
+- Infinite creature LTB
+- Infinite creature ETB
+- Infinite creature sacrifice triggers
+- Infinite death triggers
+- Infinite damage
+- Infinite storm count
+- Infinite colorless mana
+- Infinite creature tokens
 ===endpanel
 ===endaccordion
 
@@ -2825,48 +2938,6 @@ Results:
 ===endaccordion
 
 ===accordion
-===panel: Glaring Fleshraker + Ashnod's Altar + Myr Retriever + Junk Diver
-[[symbol:c]]
-
-
-Cards Required:
-- [[Glaring Fleshraker]]
-- [[Ashnod's Altar]]
-- [[Myr Retriever]]
-- [[Junk Diver]]
-
-
-Prerequisites:
-- Glaring Fleshraker and Ashnod's Altar on the battlefield.
-- Myr Retriever and Junk Diver in hand or in your graveyard.
-- One of the artifact creatures must be in your hand while the other is in your graveyard
-- You have enough mana to cast the artifact card in your hand.
-
-
-Steps:
-1. Cast the artifact creature card in your hand by paying its mana cost.
-2. Glaring Fleshraker's first ability triggers, creating a 0/1 Eldrazi Spawn creature token.
-3. When the Eldrazi Spawn enters the battlefield, Glaring Fleshraker's second ability triggers, dealing 1 damage to each opponent.
-4. Resolve the artifact creature spell, triggering Glaring Fleshraker's second ability, dealing 1 damage to each opponent.
-5. Activate Ashnod's Altar by sacrificing the artifact creature, adding [[symbol:c]][[symbol:c]].
-6. When the artifact creature dies, it triggers, returning the other artifact creature from your graveyard to your hand.
-7. If needed, activate the Eldrazi Spawn by sacrificing it, adding [[symbol:c]].
-8. Repeat.
-
-
-Results:
-- Infinite creature LTB
-- Infinite creature ETB
-- Infinite creature sacrifice triggers
-- Infinite death triggers
-- Infinite damage
-- Infinite storm count
-- Infinite colorless mana
-- Infinite creature tokens
-===endpanel
-===endaccordion
-
-===accordion
 ===panel: Imotekh the Stormlord + Junk Diver + Myr Retriever + Krark-Clan Ironworks
 [[symbol:b]]
 
@@ -2949,6 +3020,132 @@ Results:
 ===endaccordion
 
 ===accordion
+===panel: Imotekh the Stormlord + Junk Diver + Workshop Assistant + Krark-Clan Ironworks
+[[symbol:b]]
+
+
+Cards Required:
+- [[Imotekh the Stormlord]]
+- [[Junk Diver]]
+- [[Workshop Assistant]]
+- [[Krark-Clan Ironworks]]
+
+
+Prerequisites:
+- Junk Diver in your graveyard.
+- All other permanents on the battlefield.
+
+
+Steps:
+1. Activate Krark-Clan Ironworks by sacrificing Workshop Assistant, adding [[symbol:c]][[symbol:c]].
+2. When Workshop Assistant dies, it triggers, returning Junk Diver to your hand from your graveyard.
+3. Imotekh the Stormlord's first ability triggers, creating two 2/2 Necron Warrior artifact creature tokens.
+4. Activate Krark-Clan Ironworks by sacrificing a Necron Warrior, adding [[symbol:c]][[symbol:c]].
+5. Cast Junk Diver by paying [[symbol:3]].
+6. Activate Krark-Clan Ironworks by sacrificing Junk Diver, adding [[symbol:c]][[symbol:c]].
+7. When Junk Diver dies, it triggers, returning Workshop Assistant to your hand from your graveyard.
+8. Imotekh the Stormlord's first ability triggers, creating two 2/2 Necron Warrior artifact creature tokens.
+9. Cast Workshop Assistant by paying [[symbol:3]].
+10. Repeat.
+
+
+Results:
+- Infinite colorless mana
+- Infinite creature tokens
+- Infinite death triggers
+- Infinite creature ETB
+- Infinite creature LTB
+- Infinite creature sacrifice triggers
+- Infinite storm count
+===endpanel
+===endaccordion
+
+===accordion
+===panel: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Sol Ring + Junk Diver
+[[symbol:c]]
+
+
+Cards Required:
+- [[Scrap Trawler]]
+- [[Myr Retriever]]
+- [[Krark-Clan Ironworks]]
+- [[Sol Ring]]
+- [[Junk Diver]]
+
+
+Prerequisites:
+- Sol Ring and Junk Diver in your graveyard.
+- All other permanents on the battlefield.
+
+
+Steps:
+1. Activate Krark-Clan Ironworks by sacrificing Myr Retriever, adding [[symbol:c]][[symbol:c]].
+2. Myr Retriever dies, triggering itself and Scrap Trawler.
+3. Resolve the Myr Retriever trigger, returning Junk Diver from your graveyard to your hand.
+4. Resolve the Scrap Trawler trigger, returning Sol Ring from your hand to your graveyard.
+5. Cast Sol Ring by paying [[symbol:1]].
+6. Activate Sol Ring by tapping it, adding [[symbol:c]][[symbol:c]].
+7. Activate Krark-Clan Ironworks by sacrificing Sol Ring, adding [[symbol:c]][[symbol:c]].
+8. Scrap Trawler triggers, choose not to return an artifact to your hand.
+9. Cast Junk Diver by paying [[symbol:3]].
+10. Activate Krark-Clan Ironworks by sacrificing Junk Diver, adding [[symbol:c]][[symbol:c]].
+11. Junk Diver dies, triggering itself and Scrap Trawler.
+12. Resolve the Junk Diver trigger, returning Myr Retriever from your graveyard to your hand.
+13. Resolve the Scrap Trawler trigger, returning Sol Ring from your graveyard to your hand.
+14. Repeat steps 5-8 one additional time.
+15. Cast Myr Retriever by paying [[symbol:2]].
+16. Repeat from step 1.
+
+
+Results:
+- Infinite blinking of some artifacts
+- Infinite colorless mana
+- Infinite death triggers
+- Infinite creature ETB
+- Infinite creature LTB
+- Infinite creature sacrifice triggers
+- Infinite storm count
+===endpanel
+===endaccordion
+
+===endpanel
+===endaccordion
+
+===accordion
+===panel: Krark-Clan Ironworks
+
+===accordion
+===panel: Dross Scorpion + Retrofitter Foundry + Krark-Clan Ironworks
+[[symbol:c]]
+
+
+Cards Required:
+- [[Dross Scorpion]]
+- [[Retrofitter Foundry]]
+- [[Krark-Clan Ironworks]]
+
+
+Prerequisites:
+- All permanents on the battlefield.
+- [[symbol:2]] available
+
+
+Steps:
+1. Activate Retrofitter Foundry's second ability by paying [[symbol:2]] and tapping it, creating a 1/1 Servo artifact creature token.
+2. Activate Krark-Clan Ironworks by sacrificing the Servo, adding [[symbol:c]][[symbol:c]].
+3. When the Servo dies, Dross Scorpion triggers, untapping Retrofitter Foundry.
+4. Repeat.
+
+
+Results:
+- Infinite creature LTB
+- Infinite creature ETB
+- Infinite creature sacrifice triggers
+- Infinite death triggers
+===endpanel
+===endaccordion
+
+===accordion
 ===panel: Glaring Fleshraker + Junk Diver + Workshop Assistant + Krark-Clan Ironworks
 [[symbol:c]]
 
@@ -2987,6 +3184,173 @@ Results:
 - Infinite storm count
 - Infinite colorless mana
 - Infinite creature tokens
+===endpanel
+===endaccordion
+
+===accordion
+===panel: Glaring Fleshraker + Myr Retriever + Junk Diver + Krark-Clan Ironworks
+[[symbol:c]]
+
+
+Cards Required:
+- [[Glaring Fleshraker]]
+- [[Myr Retriever]]
+- [[Junk Diver]]
+- [[Krark-Clan Ironworks]]
+
+
+Prerequisites:
+- Glaring Fleshraker and Krark-Clan Ironworks on the battlefield.
+- Myr Retriever and Junk Diver in hand or in your graveyard.
+- One of the artifact creatures must be in your hand while the other is in your graveyard
+- You have enough mana to cast the artifact card in your hand.
+
+
+Steps:
+1. Cast the artifact creature card in your hand by paying its mana cost.
+2. Glaring Fleshraker's first ability triggers, creating a 0/1 Eldrazi Spawn creature token.
+3. When the Eldrazi Spawn enters the battlefield, Glaring Fleshraker's second ability triggers, dealing 1 damage to each opponent.
+4. Resolve the artifact creature spell, triggering Glaring Fleshraker's second ability, dealing 1 damage to each opponent.
+5. Activate Krark-Clan Ironworks by sacrificing the artifact creature, adding [[symbol:c]][[symbol:c]].
+6. When the artifact creature dies, it triggers, returning the other artifact creature from your graveyard to your hand.
+7. If needed, activate the Eldrazi Spawn by sacrificing it, adding [[symbol:c]].
+8. Repeat.
+
+
+Results:
+- Infinite creature LTB
+- Infinite creature ETB
+- Infinite creature sacrifice triggers
+- Infinite death triggers
+- Infinite colorless mana
+- Infinite damage
+- Infinite storm count
+- Infinite creature tokens
+===endpanel
+===endaccordion
+
+===accordion
+===panel: Glaring Fleshraker + Myr Retriever + Scrap Trawler + Krark-Clan Ironworks
+[[symbol:c]]
+
+
+Cards Required:
+- [[Glaring Fleshraker]]
+- [[Myr Retriever]]
+- [[Scrap Trawler]]
+- [[Krark-Clan Ironworks]]
+
+
+Prerequisites:
+- Glaring Fleshraker and Krark-Clan Ironworks on the battlefield.
+- Myr Retriever and Scrap Trawler in hand or in your graveyard.
+- One of the artifact creatures must be in your hand while the other is in your graveyard
+- You have enough mana to cast the artifact card in your hand.
+
+
+Steps:
+1. Cast the artifact creature card in your hand by paying its mana cost.
+2. Glaring Fleshraker's first ability triggers, creating a 0/1 Eldrazi Spawn creature token.
+3. When the Eldrazi Spawn enters the battlefield, Glaring Fleshraker's second ability triggers, dealing 1 damage to each opponent.
+4. Resolve the artifact creature spell, triggering Glaring Fleshraker's second ability, dealing 1 damage to each opponent.
+5. Activate Krark-Clan Ironworks by sacrificing the artifact creature, adding [[symbol:c]][[symbol:c]].
+6. When the artifact creature dies, it triggers, returning the other artifact creature from your graveyard to your hand.
+7. If needed, activate the Eldrazi Spawn by sacrificing it, adding [[symbol:c]].
+8. Repeat.
+
+
+Results:
+- Infinite creature LTB
+- Infinite creature ETB
+- Infinite creature sacrifice triggers
+- Infinite death triggers
+- Infinite colorless mana
+- Infinite damage
+- Infinite storm count
+- Infinite creature tokens
+===endpanel
+===endaccordion
+
+===accordion
+===panel: Glaring Fleshraker + Myr Retriever + Workshop Assistant + Krark-Clan Ironworks
+[[symbol:c]]
+
+
+Cards Required:
+- [[Glaring Fleshraker]]
+- [[Myr Retriever]]
+- [[Workshop Assistant]]
+- [[Krark-Clan Ironworks]]
+
+
+Prerequisites:
+- Glaring Fleshraker and Krark-Clan Ironworks on the battlefield.
+- Myr Retriever and Workshop Assistant in hand or in your graveyard.
+- One of the artifact creatures must be in your hand while the other is in your graveyard
+- You have enough mana to cast the artifact card in your hand.
+
+
+Steps:
+1. Cast the artifact creature card in your hand by paying its mana cost.
+2. Glaring Fleshraker's first ability triggers, creating a 0/1 Eldrazi Spawn creature token.
+3. When the Eldrazi Spawn enters the battlefield, Glaring Fleshraker's second ability triggers, dealing 1 damage to each opponent.
+4. Resolve the artifact creature spell, triggering Glaring Fleshraker's second ability, dealing 1 damage to each opponent.
+5. Activate Krark-Clan Ironworks by sacrificing the artifact creature, adding [[symbol:c]][[symbol:c]].
+6. When the artifact creature dies, it triggers, returning the other artifact creature from your graveyard to your hand.
+7. If needed, activate the Eldrazi Spawn by sacrificing it, adding [[symbol:c]].
+8. Repeat.
+
+
+Results:
+- Infinite creature LTB
+- Infinite creature ETB
+- Infinite creature sacrifice triggers
+- Infinite death triggers
+- Infinite colorless mana
+- Infinite damage
+- Infinite storm count
+- Infinite creature tokens
+===endpanel
+===endaccordion
+
+===accordion
+===panel: Imotekh the Stormlord + Junk Diver + Myr Retriever + Krark-Clan Ironworks
+[[symbol:b]]
+
+
+Cards Required:
+- [[Imotekh the Stormlord]]
+- [[Junk Diver]]
+- [[Myr Retriever]]
+- [[Krark-Clan Ironworks]]
+
+
+Prerequisites:
+- Junk Diver in your graveyard.
+- All other permanents on the battlefield.
+
+
+Steps:
+1. Activate Krark-Clan Ironworks by sacrificing Myr Retriever, adding [[symbol:c]][[symbol:c]].
+2. When Myr Retriever dies, it triggers, returning Junk Diver to your hand from your graveyard.
+3. Imotekh the Stormlord's first ability triggers, creating two 2/2 Necron Warrior artifact creature tokens.
+4. Activate Krark-Clan Ironworks by sacrificing a Necron Warrior, adding [[symbol:c]][[symbol:c]].
+5. Cast Junk Diver by paying [[symbol:3]].
+6. Activate Krark-Clan Ironworks by sacrificing Junk Diver, adding [[symbol:c]][[symbol:c]].
+7. When Junk Diver dies, it triggers, returning Myr Retriever to your hand from your graveyard.
+8. Imotekh the Stormlord's first ability triggers, creating two 2/2 Necron Warrior artifact creature tokens.
+9. Cast Myr Retriever by paying [[symbol:2]].
+10. Repeat.
+
+
+Results:
+- Infinite colorless mana
+- Infinite creature tokens
+- Infinite death triggers
+- Infinite creature ETB
+- Infinite creature LTB
+- Infinite creature sacrifice triggers
+- Infinite storm count
 ===endpanel
 ===endaccordion
 
@@ -3032,52 +3396,238 @@ Results:
 ===endaccordion
 
 ===accordion
-===panel: Glaring Fleshraker + Ashnod's Altar + Junk Diver + Workshop Assistant
-[[symbol:c]]
+===panel: Imotekh the Stormlord + Myr Retriever + Workshop Assistant + Krark-Clan Ironworks
+[[symbol:b]]
 
 
 Cards Required:
-- [[Glaring Fleshraker]]
-- [[Ashnod's Altar]]
-- [[Junk Diver]]
+- [[Imotekh the Stormlord]]
+- [[Myr Retriever]]
 - [[Workshop Assistant]]
+- [[Krark-Clan Ironworks]]
 
 
 Prerequisites:
-- Glaring Fleshraker and Ashnod's Altar on the battlefield.
-- Junk Diver and Workshop Assistant in hand or in your graveyard.
-- One of the artifact creatures must be in your hand while the other is in your graveyard
-- You have enough mana to cast the artifact card in your hand.
+- Myr Retriever in your graveyard.
+- All other permanents on the battlefield.
 
 
 Steps:
-1. Cast the artifact creature card in your hand by paying its mana cost.
-2. Glaring Fleshraker's first ability triggers, creating a 0/1 Eldrazi Spawn creature token.
-3. When the Eldrazi Spawn enters the battlefield, Glaring Fleshraker's second ability triggers, dealing 1 damage to each opponent.
-4. Resolve the artifact creature spell, triggering Glaring Fleshraker's second ability, dealing 1 damage to each opponent.
-5. Activate Ashnod's Altar by sacrificing the artifact creature, adding [[symbol:c]][[symbol:c]].
-6. When the artifact creature dies, it triggers, returning the other artifact creature from your graveyard to your hand.
-7. If needed, activate the Eldrazi Spawn by sacrificing it, adding [[symbol:c]].
-8. Repeat.
+1. Activate Krark-Clan Ironworks by sacrificing Workshop Assistant, adding [[symbol:c]][[symbol:c]].
+2. When Workshop Assistant dies, it triggers, returning Myr Retriever to your hand from your graveyard.
+3. Imotekh the Stormlord's first ability triggers, creating two 2/2 Necron Warrior artifact creature tokens.
+4. Activate Krark-Clan Ironworks by sacrificing a Necron Warrior, adding [[symbol:c]][[symbol:c]].
+5. Cast Myr Retriever by paying [[symbol:2]].
+6. Activate Krark-Clan Ironworks by sacrificing Myr Retriever, adding [[symbol:c]][[symbol:c]].
+7. When Myr Retriever dies, it triggers, returning Workshop Assistant to your hand from your graveyard.
+8. Imotekh the Stormlord's first ability triggers, creating two 2/2 Necron Warrior artifact creature tokens.
+9. Cast Workshop Assistant by paying [[symbol:3]].
+10. Repeat.
 
 
 Results:
-- Infinite creature LTB
-- Infinite creature ETB
-- Infinite creature sacrifice triggers
-- Infinite death triggers
-- Infinite damage
-- Infinite storm count
 - Infinite colorless mana
 - Infinite creature tokens
-===endpanel
-===endaccordion
-
+- Infinite death triggers
+- Infinite creature ETB
+- Infinite creature LTB
+- Infinite creature sacrifice triggers
+- Infinite storm count
 ===endpanel
 ===endaccordion
 
 ===accordion
-===panel: Krark-Clan Ironworks
+===panel: Imotekh the Stormlord + Nim Deathmantle + Krark-Clan Ironworks
+[[symbol:b]]
+
+
+Cards Required:
+- [[Imotekh the Stormlord]]
+- [[Nim Deathmantle]]
+- [[Krark-Clan Ironworks]]
+
+
+Prerequisites:
+- All permanents on the battlefield.
+- You control at least one nontoken artifact creature.
+- [[symbol:2]] available
+
+
+Steps:
+1. Activate Krark-Clan Ironworks by sacrificing a nontoken artifact creature, adding [[symbol:c]][[symbol:c]].
+2. The creature dies, triggering Nim Deathmantle, causing you to pay [[symbol:4]] to return the artifact creature from your graveyard to the battlefield, and attach Nim Deathmantle to it.
+3. Imotekh's first ability triggers, creating two 2/2 Necron Warrior artifact creature tokens.
+4. Activate Krark-Clan Ironworks by sacrificing a Necron Warrior, adding [[symbol:c]][[symbol:c]].
+5. Repeat.
+
+
+Results:
+- Infinite colorless mana
+- Infinite creature tokens
+- Infinite death triggers
+- Infinite creature ETB
+- Infinite creature LTB
+- Infinite creature sacrifice triggers
+===endpanel
+===endaccordion
+
+===accordion
+===panel: Imotekh the Stormlord + Scrap Trawler + Myr Retriever + Krark-Clan Ironworks
+[[symbol:b]]
+
+
+Cards Required:
+- [[Imotekh the Stormlord]]
+- [[Scrap Trawler]]
+- [[Myr Retriever]]
+- [[Krark-Clan Ironworks]]
+
+
+Prerequisites:
+- Scrap Trawler in your graveyard.
+- All other permanents on the battlefield.
+
+
+Steps:
+1. Activate Krark-Clan Ironworks by sacrificing Myr Retriever, adding [[symbol:c]][[symbol:c]].
+2. When Myr Retriever dies, it triggers, returning Scrap Trawler to your hand from your graveyard.
+3. Imotekh the Stormlord's first ability triggers, creating two 2/2 Necron Warrior artifact creature tokens.
+4. Activate Krark-Clan Ironworks by sacrificing a Necron Warrior, adding [[symbol:c]][[symbol:c]].
+5. Cast Scrap Trawler by paying [[symbol:3]].
+6. Activate Krark-Clan Ironworks by sacrificing Scrap Trawler, adding [[symbol:c]][[symbol:c]].
+7. When Scrap Trawler dies, it triggers, returning Myr Retriever to your hand from your graveyard.
+8. Imotekh the Stormlord's first ability triggers, creating two 2/2 Necron Warrior artifact creature tokens.
+9. Cast Myr Retriever by paying [[symbol:2]].
+10. Repeat.
+
+
+Results:
+- Infinite colorless mana
+- Infinite creature tokens
+- Infinite death triggers
+- Infinite creature ETB
+- Infinite creature LTB
+- Infinite creature sacrifice triggers
+- Infinite storm count
+===endpanel
+===endaccordion
+
+===accordion
+===panel: Myr Retriever + Krark-Clan Ironworks + Ultron, Artificial Malevolence
+[[symbol:c]]
+
+
+Cards Required:
+- [[Myr Retriever]]
+- [[Krark-Clan Ironworks]]
+- [[Ultron, Artificial Malevolence]]
+
+
+Prerequisites:
+- Myr Retriever in hand.
+- Krark-Clan Ironworks and Ultron on the battlefield.
+- [[symbol:2]] available
+
+
+Steps:
+1. Cast Myr Retriever by paying [[symbol:2]].
+2. When Myr Retriever enters, Ultron triggers.
+3. Holding priority, activate Krark-Clan Ironworks by sacrificing Myr Retriever, adding [[symbol:c]][[symbol:c]]
+4. When Myr Retriever dies, it triggers, returning an artifact card from your graveyard to your hand.
+5. Resolve the Ultron trigger, causing you to pay [[symbol:2]] to create a token copy of Myr Retriever.
+6. Activate Krark-Clan Ironworks by sacrificing the Myr Retriever token, adding [[symbol:c]][[symbol:c]].
+7. When the Myr Retriever token dies, it triggers, returning the nontoken Myr Retriever from your graveyard to your hand.
+8. Repeat.
+
+
+Results:
+- Infinite creature ETB
+- Infinite creature LTB
+- Infinite death triggers
+- Infinite creature sacrifice triggers
+- Infinite storm count
+- Infinite artifact ETB
+- Infinite artifact LTB
+- Infinite artifact sacrifice triggers
+===endpanel
+===endaccordion
+
+===accordion
+===panel: Pitiless Plunderer + Stridehangar Automaton + Krark-Clan Ironworks
+[[symbol:b]]
+
+
+Cards Required:
+- [[Pitiless Plunderer]]
+- [[Stridehangar Automaton]]
+- [[Krark-Clan Ironworks]]
+
+
+Prerequisites:
+- All permanents on the battlefield.
+- You control another artifact creature.
+
+
+Steps:
+1. Activate Krark-Clan Ironworks by sacrificing another artifact creature, adding [[symbol:c]][[symbol:c]].
+2. When the creature dies, Pitiless Plunderer triggers, creating a Treasure token and a 1/1 Thopter artifact creature token.
+3. Repeat.
+
+
+Results:
+- Infinite artifact ETB
+- Infinite artifact LTB
+- Infinite artifact sacrifice triggers
+- Infinite artifact tokens
+- Infinite creature LTB
+- Infinite creature ETB
+- Infinite colored mana
+- Infinite creature sacrifice triggers
+- Infinite death triggers
+- Infinite colorless mana
+- Infinite Treasure tokens
+===endpanel
+===endaccordion
+
+===accordion
+===panel: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Cloud Key
+[[symbol:c]]
+
+
+Cards Required:
+- [[Scrap Trawler]]
+- [[Myr Retriever]]
+- [[Krark-Clan Ironworks]]
+- [[Cloud Key]]
+
+
+Prerequisites:
+- Scrap Trawler in your graveyard.
+- All other permanents on the battlefield (Cloud Key with "Artifact" or "Creature" chosen).
+
+
+Steps:
+1. Activate Krark-Clan Ironworks by sacrificing Myr Retriever, adding [[symbol:c]][[symbol:c]].
+2. When Myr Retriever dies, it triggers, returning Scrap Trawler from your graveyard to your hand.
+3. Cast Scrap Trawler by paying its mana cost, which is reduced by Cloud Key.
+4. Activate Krark-Clan Ironworks by sacrificing Scrap Trawler, adding [[symbol:c]][[symbol:c]].
+5. When Scrap Trawler dies, it triggers, returning Myr Retriever from your graveyard to your hand.
+6. Cast Myr Retriever by paying its mana cost, which is reduced by Cloud Key.
+7. Repeat.
+
+
+Results:
+- Infinite artifact ETB
+- Infinite artifact LTB
+- Infinite artifact sacrifice triggers
+- Infinite creature ETB
+- Infinite creature LTB
+- Infinite colorless mana
+- Infinite death triggers
+- Infinite creature sacrifice triggers
+- Infinite storm count
+===endpanel
+===endaccordion
 
 ===accordion
 ===panel: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Foundry Inspector
@@ -3103,6 +3653,47 @@ Steps:
 4. Activate Krark-Clan Ironworks by sacrificing Scrap Trawler, adding [[symbol:c]][[symbol:c]].
 5. When Scrap Trawler dies, it triggers, returning Myr Retriever from your graveyard to your hand.
 6. Cast Myr Retriever by paying its mana cost, which is reduced by Foundry Inspector.
+7. Repeat.
+
+
+Results:
+- Infinite artifact ETB
+- Infinite artifact LTB
+- Infinite artifact sacrifice triggers
+- Infinite creature ETB
+- Infinite creature LTB
+- Infinite colorless mana
+- Infinite death triggers
+- Infinite creature sacrifice triggers
+- Infinite storm count
+===endpanel
+===endaccordion
+
+===accordion
+===panel: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Semblance Anvil
+[[symbol:c]]
+
+
+Cards Required:
+- [[Scrap Trawler]]
+- [[Myr Retriever]]
+- [[Krark-Clan Ironworks]]
+- [[Semblance Anvil]]
+
+
+Prerequisites:
+- Scrap Trawler in your graveyard.
+- All other permanents on the battlefield.
+- There is an artifact card exiled with Semblance Anvil.
+
+
+Steps:
+1. Activate Krark-Clan Ironworks by sacrificing Myr Retriever, adding [[symbol:c]][[symbol:c]].
+2. When Myr Retriever dies, it triggers, returning Scrap Trawler from your graveyard to your hand.
+3. Cast Scrap Trawler by paying its mana cost, which is reduced by Semblance Anvil.
+4. Activate Krark-Clan Ironworks by sacrificing Scrap Trawler, adding [[symbol:c]][[symbol:c]].
+5. When Scrap Trawler dies, it triggers, returning Myr Retriever from your graveyard to your hand.
+6. Cast Myr Retriever by paying its mana cost, which is reduced by Semblance Anvil.
 7. Repeat.
 
 
@@ -3164,562 +3755,6 @@ Results:
 - Infinite creature LTB
 - Infinite creature sacrifice triggers
 - Infinite storm count
-===endpanel
-===endaccordion
-
-===accordion
-===panel: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Cloud Key
-[[symbol:c]]
-
-
-Cards Required:
-- [[Scrap Trawler]]
-- [[Myr Retriever]]
-- [[Krark-Clan Ironworks]]
-- [[Cloud Key]]
-
-
-Prerequisites:
-- Scrap Trawler in your graveyard.
-- All other permanents on the battlefield (Cloud Key with "Artifact" or "Creature" chosen).
-
-
-Steps:
-1. Activate Krark-Clan Ironworks by sacrificing Myr Retriever, adding [[symbol:c]][[symbol:c]].
-2. When Myr Retriever dies, it triggers, returning Scrap Trawler from your graveyard to your hand.
-3. Cast Scrap Trawler by paying its mana cost, which is reduced by Cloud Key.
-4. Activate Krark-Clan Ironworks by sacrificing Scrap Trawler, adding [[symbol:c]][[symbol:c]].
-5. When Scrap Trawler dies, it triggers, returning Myr Retriever from your graveyard to your hand.
-6. Cast Myr Retriever by paying its mana cost, which is reduced by Cloud Key.
-7. Repeat.
-
-
-Results:
-- Infinite artifact ETB
-- Infinite artifact LTB
-- Infinite artifact sacrifice triggers
-- Infinite creature ETB
-- Infinite creature LTB
-- Infinite colorless mana
-- Infinite death triggers
-- Infinite creature sacrifice triggers
-- Infinite storm count
-===endpanel
-===endaccordion
-
-===accordion
-===panel: Glaring Fleshraker + Myr Retriever + Scrap Trawler + Krark-Clan Ironworks
-[[symbol:c]]
-
-
-Cards Required:
-- [[Glaring Fleshraker]]
-- [[Myr Retriever]]
-- [[Scrap Trawler]]
-- [[Krark-Clan Ironworks]]
-
-
-Prerequisites:
-- Glaring Fleshraker and Krark-Clan Ironworks on the battlefield.
-- Myr Retriever and Scrap Trawler in hand or in your graveyard.
-- One of the artifact creatures must be in your hand while the other is in your graveyard
-- You have enough mana to cast the artifact card in your hand.
-
-
-Steps:
-1. Cast the artifact creature card in your hand by paying its mana cost.
-2. Glaring Fleshraker's first ability triggers, creating a 0/1 Eldrazi Spawn creature token.
-3. When the Eldrazi Spawn enters the battlefield, Glaring Fleshraker's second ability triggers, dealing 1 damage to each opponent.
-4. Resolve the artifact creature spell, triggering Glaring Fleshraker's second ability, dealing 1 damage to each opponent.
-5. Activate Krark-Clan Ironworks by sacrificing the artifact creature, adding [[symbol:c]][[symbol:c]].
-6. When the artifact creature dies, it triggers, returning the other artifact creature from your graveyard to your hand.
-7. If needed, activate the Eldrazi Spawn by sacrificing it, adding [[symbol:c]].
-8. Repeat.
-
-
-Results:
-- Infinite creature LTB
-- Infinite creature ETB
-- Infinite creature sacrifice triggers
-- Infinite death triggers
-- Infinite colorless mana
-- Infinite damage
-- Infinite storm count
-- Infinite creature tokens
-===endpanel
-===endaccordion
-
-===accordion
-===panel: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Semblance Anvil
-[[symbol:c]]
-
-
-Cards Required:
-- [[Scrap Trawler]]
-- [[Myr Retriever]]
-- [[Krark-Clan Ironworks]]
-- [[Semblance Anvil]]
-
-
-Prerequisites:
-- Scrap Trawler in your graveyard.
-- All other permanents on the battlefield.
-- There is an artifact card exiled with Semblance Anvil.
-
-
-Steps:
-1. Activate Krark-Clan Ironworks by sacrificing Myr Retriever, adding [[symbol:c]][[symbol:c]].
-2. When Myr Retriever dies, it triggers, returning Scrap Trawler from your graveyard to your hand.
-3. Cast Scrap Trawler by paying its mana cost, which is reduced by Semblance Anvil.
-4. Activate Krark-Clan Ironworks by sacrificing Scrap Trawler, adding [[symbol:c]][[symbol:c]].
-5. When Scrap Trawler dies, it triggers, returning Myr Retriever from your graveyard to your hand.
-6. Cast Myr Retriever by paying its mana cost, which is reduced by Semblance Anvil.
-7. Repeat.
-
-
-Results:
-- Infinite artifact ETB
-- Infinite artifact LTB
-- Infinite artifact sacrifice triggers
-- Infinite creature ETB
-- Infinite creature LTB
-- Infinite colorless mana
-- Infinite death triggers
-- Infinite creature sacrifice triggers
-- Infinite storm count
-===endpanel
-===endaccordion
-
-===accordion
-===panel: Glaring Fleshraker + Myr Retriever + Junk Diver + Krark-Clan Ironworks
-[[symbol:c]]
-
-
-Cards Required:
-- [[Glaring Fleshraker]]
-- [[Myr Retriever]]
-- [[Junk Diver]]
-- [[Krark-Clan Ironworks]]
-
-
-Prerequisites:
-- Glaring Fleshraker and Krark-Clan Ironworks on the battlefield.
-- Myr Retriever and Junk Diver in hand or in your graveyard.
-- One of the artifact creatures must be in your hand while the other is in your graveyard
-- You have enough mana to cast the artifact card in your hand.
-
-
-Steps:
-1. Cast the artifact creature card in your hand by paying its mana cost.
-2. Glaring Fleshraker's first ability triggers, creating a 0/1 Eldrazi Spawn creature token.
-3. When the Eldrazi Spawn enters the battlefield, Glaring Fleshraker's second ability triggers, dealing 1 damage to each opponent.
-4. Resolve the artifact creature spell, triggering Glaring Fleshraker's second ability, dealing 1 damage to each opponent.
-5. Activate Krark-Clan Ironworks by sacrificing the artifact creature, adding [[symbol:c]][[symbol:c]].
-6. When the artifact creature dies, it triggers, returning the other artifact creature from your graveyard to your hand.
-7. If needed, activate the Eldrazi Spawn by sacrificing it, adding [[symbol:c]].
-8. Repeat.
-
-
-Results:
-- Infinite creature LTB
-- Infinite creature ETB
-- Infinite creature sacrifice triggers
-- Infinite death triggers
-- Infinite colorless mana
-- Infinite damage
-- Infinite storm count
-- Infinite creature tokens
-===endpanel
-===endaccordion
-
-===accordion
-===panel: Imotekh the Stormlord + Scrap Trawler + Myr Retriever + Krark-Clan Ironworks
-[[symbol:b]]
-
-
-Cards Required:
-- [[Imotekh the Stormlord]]
-- [[Scrap Trawler]]
-- [[Myr Retriever]]
-- [[Krark-Clan Ironworks]]
-
-
-Prerequisites:
-- Scrap Trawler in your graveyard.
-- All other permanents on the battlefield.
-
-
-Steps:
-1. Activate Krark-Clan Ironworks by sacrificing Myr Retriever, adding [[symbol:c]][[symbol:c]].
-2. When Myr Retriever dies, it triggers, returning Scrap Trawler to your hand from your graveyard.
-3. Imotekh the Stormlord's first ability triggers, creating two 2/2 Necron Warrior artifact creature tokens.
-4. Activate Krark-Clan Ironworks by sacrificing a Necron Warrior, adding [[symbol:c]][[symbol:c]].
-5. Cast Scrap Trawler by paying [[symbol:3]].
-6. Activate Krark-Clan Ironworks by sacrificing Scrap Trawler, adding [[symbol:c]][[symbol:c]].
-7. When Scrap Trawler dies, it triggers, returning Myr Retriever to your hand from your graveyard.
-8. Imotekh the Stormlord's first ability triggers, creating two 2/2 Necron Warrior artifact creature tokens.
-9. Cast Myr Retriever by paying [[symbol:2]].
-10. Repeat.
-
-
-Results:
-- Infinite colorless mana
-- Infinite creature tokens
-- Infinite death triggers
-- Infinite creature ETB
-- Infinite creature LTB
-- Infinite creature sacrifice triggers
-- Infinite storm count
-===endpanel
-===endaccordion
-
-===accordion
-===panel: Imotekh the Stormlord + Junk Diver + Myr Retriever + Krark-Clan Ironworks
-[[symbol:b]]
-
-
-Cards Required:
-- [[Imotekh the Stormlord]]
-- [[Junk Diver]]
-- [[Myr Retriever]]
-- [[Krark-Clan Ironworks]]
-
-
-Prerequisites:
-- Junk Diver in your graveyard.
-- All other permanents on the battlefield.
-
-
-Steps:
-1. Activate Krark-Clan Ironworks by sacrificing Myr Retriever, adding [[symbol:c]][[symbol:c]].
-2. When Myr Retriever dies, it triggers, returning Junk Diver to your hand from your graveyard.
-3. Imotekh the Stormlord's first ability triggers, creating two 2/2 Necron Warrior artifact creature tokens.
-4. Activate Krark-Clan Ironworks by sacrificing a Necron Warrior, adding [[symbol:c]][[symbol:c]].
-5. Cast Junk Diver by paying [[symbol:3]].
-6. Activate Krark-Clan Ironworks by sacrificing Junk Diver, adding [[symbol:c]][[symbol:c]].
-7. When Junk Diver dies, it triggers, returning Myr Retriever to your hand from your graveyard.
-8. Imotekh the Stormlord's first ability triggers, creating two 2/2 Necron Warrior artifact creature tokens.
-9. Cast Myr Retriever by paying [[symbol:2]].
-10. Repeat.
-
-
-Results:
-- Infinite colorless mana
-- Infinite creature tokens
-- Infinite death triggers
-- Infinite creature ETB
-- Infinite creature LTB
-- Infinite creature sacrifice triggers
-- Infinite storm count
-===endpanel
-===endaccordion
-
-===accordion
-===panel: Myr Retriever + Krark-Clan Ironworks + Ultron, Artificial Malevolence
-[[symbol:c]]
-
-
-Cards Required:
-- [[Myr Retriever]]
-- [[Krark-Clan Ironworks]]
-- [[Ultron, Artificial Malevolence]]
-
-
-Prerequisites:
-- Myr Retriever in hand.
-- Krark-Clan Ironworks and Ultron on the battlefield.
-- [[symbol:2]] available
-
-
-Steps:
-1. Cast Myr Retriever by paying [[symbol:2]].
-2. When Myr Retriever enters, Ultron triggers.
-3. Holding priority, activate Krark-Clan Ironworks by sacrificing Myr Retriever, adding [[symbol:c]][[symbol:c]]
-4. When Myr Retriever dies, it triggers, returning an artifact card from your graveyard to your hand.
-5. Resolve the Ultron trigger, causing you to pay [[symbol:2]] to create a token copy of Myr Retriever.
-6. Activate Krark-Clan Ironworks by sacrificing the Myr Retriever token, adding [[symbol:c]][[symbol:c]].
-7. When the Myr Retriever token dies, it triggers, returning the nontoken Myr Retriever from your graveyard to your hand.
-8. Repeat.
-
-
-Results:
-- Infinite creature ETB
-- Infinite creature LTB
-- Infinite death triggers
-- Infinite creature sacrifice triggers
-- Infinite storm count
-- Infinite artifact ETB
-- Infinite artifact LTB
-- Infinite artifact sacrifice triggers
-===endpanel
-===endaccordion
-
-===accordion
-===panel: Imotekh the Stormlord + Nim Deathmantle + Krark-Clan Ironworks
-[[symbol:b]]
-
-
-Cards Required:
-- [[Imotekh the Stormlord]]
-- [[Nim Deathmantle]]
-- [[Krark-Clan Ironworks]]
-
-
-Prerequisites:
-- All permanents on the battlefield.
-- You control at least one nontoken artifact creature.
-- [[symbol:2]] available
-
-
-Steps:
-1. Activate Krark-Clan Ironworks by sacrificing a nontoken artifact creature, adding [[symbol:c]][[symbol:c]].
-2. The creature dies, triggering Nim Deathmantle, causing you to pay [[symbol:4]] to return the artifact creature from your graveyard to the battlefield, and attach Nim Deathmantle to it.
-3. Imotekh's first ability triggers, creating two 2/2 Necron Warrior artifact creature tokens.
-4. Activate Krark-Clan Ironworks by sacrificing a Necron Warrior, adding [[symbol:c]][[symbol:c]].
-5. Repeat.
-
-
-Results:
-- Infinite colorless mana
-- Infinite creature tokens
-- Infinite death triggers
-- Infinite creature ETB
-- Infinite creature LTB
-- Infinite creature sacrifice triggers
-===endpanel
-===endaccordion
-
-===accordion
-===panel: Imotekh the Stormlord + Myr Retriever + Workshop Assistant + Krark-Clan Ironworks
-[[symbol:b]]
-
-
-Cards Required:
-- [[Imotekh the Stormlord]]
-- [[Myr Retriever]]
-- [[Workshop Assistant]]
-- [[Krark-Clan Ironworks]]
-
-
-Prerequisites:
-- Myr Retriever in your graveyard.
-- All other permanents on the battlefield.
-
-
-Steps:
-1. Activate Krark-Clan Ironworks by sacrificing Workshop Assistant, adding [[symbol:c]][[symbol:c]].
-2. When Workshop Assistant dies, it triggers, returning Myr Retriever to your hand from your graveyard.
-3. Imotekh the Stormlord's first ability triggers, creating two 2/2 Necron Warrior artifact creature tokens.
-4. Activate Krark-Clan Ironworks by sacrificing a Necron Warrior, adding [[symbol:c]][[symbol:c]].
-5. Cast Myr Retriever by paying [[symbol:2]].
-6. Activate Krark-Clan Ironworks by sacrificing Myr Retriever, adding [[symbol:c]][[symbol:c]].
-7. When Myr Retriever dies, it triggers, returning Workshop Assistant to your hand from your graveyard.
-8. Imotekh the Stormlord's first ability triggers, creating two 2/2 Necron Warrior artifact creature tokens.
-9. Cast Workshop Assistant by paying [[symbol:3]].
-10. Repeat.
-
-
-Results:
-- Infinite colorless mana
-- Infinite creature tokens
-- Infinite death triggers
-- Infinite creature ETB
-- Infinite creature LTB
-- Infinite creature sacrifice triggers
-- Infinite storm count
-===endpanel
-===endaccordion
-
-===accordion
-===panel: Glaring Fleshraker + Myr Retriever + Workshop Assistant + Krark-Clan Ironworks
-[[symbol:c]]
-
-
-Cards Required:
-- [[Glaring Fleshraker]]
-- [[Myr Retriever]]
-- [[Workshop Assistant]]
-- [[Krark-Clan Ironworks]]
-
-
-Prerequisites:
-- Glaring Fleshraker and Krark-Clan Ironworks on the battlefield.
-- Myr Retriever and Workshop Assistant in hand or in your graveyard.
-- One of the artifact creatures must be in your hand while the other is in your graveyard
-- You have enough mana to cast the artifact card in your hand.
-
-
-Steps:
-1. Cast the artifact creature card in your hand by paying its mana cost.
-2. Glaring Fleshraker's first ability triggers, creating a 0/1 Eldrazi Spawn creature token.
-3. When the Eldrazi Spawn enters the battlefield, Glaring Fleshraker's second ability triggers, dealing 1 damage to each opponent.
-4. Resolve the artifact creature spell, triggering Glaring Fleshraker's second ability, dealing 1 damage to each opponent.
-5. Activate Krark-Clan Ironworks by sacrificing the artifact creature, adding [[symbol:c]][[symbol:c]].
-6. When the artifact creature dies, it triggers, returning the other artifact creature from your graveyard to your hand.
-7. If needed, activate the Eldrazi Spawn by sacrificing it, adding [[symbol:c]].
-8. Repeat.
-
-
-Results:
-- Infinite creature LTB
-- Infinite creature ETB
-- Infinite creature sacrifice triggers
-- Infinite death triggers
-- Infinite colorless mana
-- Infinite damage
-- Infinite storm count
-- Infinite creature tokens
-===endpanel
-===endaccordion
-
-===accordion
-===panel: Glaring Fleshraker + Junk Diver + Workshop Assistant + Krark-Clan Ironworks
-[[symbol:c]]
-
-
-Cards Required:
-- [[Glaring Fleshraker]]
-- [[Junk Diver]]
-- [[Workshop Assistant]]
-- [[Krark-Clan Ironworks]]
-
-
-Prerequisites:
-- Glaring Fleshraker and Krark-Clan Ironworks on the battlefield.
-- Junk Diver and Workshop Assistant in hand or in your graveyard.
-- One of the artifact creatures must be in your hand while the other is in your graveyard
-- You have enough mana to cast the artifact card in your hand.
-
-
-Steps:
-1. Cast the artifact creature card in your hand by paying its mana cost.
-2. Glaring Fleshraker's first ability triggers, creating a 0/1 Eldrazi Spawn creature token.
-3. When the Eldrazi Spawn enters the battlefield, Glaring Fleshraker's second ability triggers, dealing 1 damage to each opponent.
-4. Resolve the artifact creature spell, triggering Glaring Fleshraker's second ability, dealing 1 damage to each opponent.
-5. Activate Krark-Clan Ironworks by sacrificing the artifact creature, adding [[symbol:c]][[symbol:c]].
-6. When the artifact creature dies, it triggers, returning the other artifact creature from your graveyard to your hand.
-7. If needed, activate the Eldrazi Spawn by sacrificing it, adding [[symbol:c]].
-8. Repeat.
-
-
-Results:
-- Infinite creature LTB
-- Infinite creature ETB
-- Infinite creature sacrifice triggers
-- Infinite death triggers
-- Infinite damage
-- Infinite storm count
-- Infinite colorless mana
-- Infinite creature tokens
-===endpanel
-===endaccordion
-
-===accordion
-===panel: Imotekh the Stormlord + Junk Diver + Workshop Assistant + Krark-Clan Ironworks
-[[symbol:b]]
-
-
-Cards Required:
-- [[Imotekh the Stormlord]]
-- [[Junk Diver]]
-- [[Workshop Assistant]]
-- [[Krark-Clan Ironworks]]
-
-
-Prerequisites:
-- Junk Diver in your graveyard.
-- All other permanents on the battlefield.
-
-
-Steps:
-1. Activate Krark-Clan Ironworks by sacrificing Workshop Assistant, adding [[symbol:c]][[symbol:c]].
-2. When Workshop Assistant dies, it triggers, returning Junk Diver to your hand from your graveyard.
-3. Imotekh the Stormlord's first ability triggers, creating two 2/2 Necron Warrior artifact creature tokens.
-4. Activate Krark-Clan Ironworks by sacrificing a Necron Warrior, adding [[symbol:c]][[symbol:c]].
-5. Cast Junk Diver by paying [[symbol:3]].
-6. Activate Krark-Clan Ironworks by sacrificing Junk Diver, adding [[symbol:c]][[symbol:c]].
-7. When Junk Diver dies, it triggers, returning Workshop Assistant to your hand from your graveyard.
-8. Imotekh the Stormlord's first ability triggers, creating two 2/2 Necron Warrior artifact creature tokens.
-9. Cast Workshop Assistant by paying [[symbol:3]].
-10. Repeat.
-
-
-Results:
-- Infinite colorless mana
-- Infinite creature tokens
-- Infinite death triggers
-- Infinite creature ETB
-- Infinite creature LTB
-- Infinite creature sacrifice triggers
-- Infinite storm count
-===endpanel
-===endaccordion
-
-===accordion
-===panel: Pitiless Plunderer + Stridehangar Automaton + Krark-Clan Ironworks
-[[symbol:b]]
-
-
-Cards Required:
-- [[Pitiless Plunderer]]
-- [[Stridehangar Automaton]]
-- [[Krark-Clan Ironworks]]
-
-
-Prerequisites:
-- All permanents on the battlefield.
-- You control another artifact creature.
-
-
-Steps:
-1. Activate Krark-Clan Ironworks by sacrificing another artifact creature, adding [[symbol:c]][[symbol:c]].
-2. When the creature dies, Pitiless Plunderer triggers, creating a Treasure token and a 1/1 Thopter artifact creature token.
-3. Repeat.
-
-
-Results:
-- Infinite artifact ETB
-- Infinite artifact LTB
-- Infinite artifact sacrifice triggers
-- Infinite artifact tokens
-- Infinite creature LTB
-- Infinite creature ETB
-- Infinite colored mana
-- Infinite creature sacrifice triggers
-- Infinite death triggers
-- Infinite colorless mana
-- Infinite Treasure tokens
-===endpanel
-===endaccordion
-
-===accordion
-===panel: Dross Scorpion + Retrofitter Foundry + Krark-Clan Ironworks
-[[symbol:c]]
-
-
-Cards Required:
-- [[Dross Scorpion]]
-- [[Retrofitter Foundry]]
-- [[Krark-Clan Ironworks]]
-
-
-Prerequisites:
-- All permanents on the battlefield.
-- [[symbol:2]] available
-
-
-Steps:
-1. Activate Retrofitter Foundry's second ability by paying [[symbol:2]] and tapping it, creating a 1/1 Servo artifact creature token.
-2. Activate Krark-Clan Ironworks by sacrificing the Servo, adding [[symbol:c]][[symbol:c]].
-3. When the Servo dies, Dross Scorpion triggers, untapping Retrofitter Foundry.
-4. Repeat.
-
-
-Results:
-- Infinite creature LTB
-- Infinite creature ETB
-- Infinite creature sacrifice triggers
-- Infinite death triggers
 ===endpanel
 ===endaccordion
 
@@ -3923,15 +3958,472 @@ Results:
 ===panel: Myr Retriever
 
 ===accordion
-===panel: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Foundry Inspector
+===panel: Glaring Fleshraker + Ashnod's Altar + Myr Retriever + Junk Diver
 [[symbol:c]]
 
 
 Cards Required:
+- [[Glaring Fleshraker]]
+- [[Ashnod's Altar]]
+- [[Myr Retriever]]
+- [[Junk Diver]]
+
+
+Prerequisites:
+- Glaring Fleshraker and Ashnod's Altar on the battlefield.
+- Myr Retriever and Junk Diver in hand or in your graveyard.
+- One of the artifact creatures must be in your hand while the other is in your graveyard
+- You have enough mana to cast the artifact card in your hand.
+
+
+Steps:
+1. Cast the artifact creature card in your hand by paying its mana cost.
+2. Glaring Fleshraker's first ability triggers, creating a 0/1 Eldrazi Spawn creature token.
+3. When the Eldrazi Spawn enters the battlefield, Glaring Fleshraker's second ability triggers, dealing 1 damage to each opponent.
+4. Resolve the artifact creature spell, triggering Glaring Fleshraker's second ability, dealing 1 damage to each opponent.
+5. Activate Ashnod's Altar by sacrificing the artifact creature, adding [[symbol:c]][[symbol:c]].
+6. When the artifact creature dies, it triggers, returning the other artifact creature from your graveyard to your hand.
+7. If needed, activate the Eldrazi Spawn by sacrificing it, adding [[symbol:c]].
+8. Repeat.
+
+
+Results:
+- Infinite creature LTB
+- Infinite creature ETB
+- Infinite creature sacrifice triggers
+- Infinite death triggers
+- Infinite damage
+- Infinite storm count
+- Infinite colorless mana
+- Infinite creature tokens
+===endpanel
+===endaccordion
+
+===accordion
+===panel: Glaring Fleshraker + Ashnod's Altar + Myr Retriever + Scrap Trawler
+[[symbol:c]]
+
+
+Cards Required:
+- [[Glaring Fleshraker]]
+- [[Ashnod's Altar]]
+- [[Myr Retriever]]
+- [[Scrap Trawler]]
+
+
+Prerequisites:
+- Glaring Fleshraker and Ashnod's Altar on the battlefield.
+- Myr Retriever and Scrap Trawler in hand or in your graveyard.
+- One of the artifact creatures must be in your hand while the other is in your graveyard
+- You have enough mana to cast the artifact card in your hand.
+
+
+Steps:
+1. Cast the artifact creature card in your hand by paying its mana cost.
+2. Glaring Fleshraker's first ability triggers, creating a 0/1 Eldrazi Spawn creature token.
+3. When the Eldrazi Spawn enters the battlefield, Glaring Fleshraker's second ability triggers, dealing 1 damage to each opponent.
+4. Resolve the artifact creature spell, triggering Glaring Fleshraker's second ability, dealing 1 damage to each opponent.
+5. Activate Ashnod's Altar by sacrificing the artifact creature, adding [[symbol:c]][[symbol:c]].
+6. When the artifact creature dies, it triggers, returning the other artifact creature from your graveyard to your hand.
+7. If needed, activate the Eldrazi Spawn by sacrificing it, adding [[symbol:c]].
+8. Repeat.
+
+
+Results:
+- Infinite creature LTB
+- Infinite creature ETB
+- Infinite creature sacrifice triggers
+- Infinite death triggers
+- Infinite damage
+- Infinite storm count
+- Infinite colorless mana
+- Infinite creature tokens
+===endpanel
+===endaccordion
+
+===accordion
+===panel: Glaring Fleshraker + Ashnod's Altar + Myr Retriever + Workshop Assistant
+[[symbol:c]]
+
+
+Cards Required:
+- [[Glaring Fleshraker]]
+- [[Ashnod's Altar]]
+- [[Myr Retriever]]
+- [[Workshop Assistant]]
+
+
+Prerequisites:
+- Glaring Fleshraker and Ashnod's Altar on the battlefield.
+- Myr Retriever and Workshop Assistant in hand or in your graveyard.
+- One of the artifact creatures must be in your hand while the other is in your graveyard
+- You have enough mana to cast the artifact card in your hand.
+
+
+Steps:
+1. Cast the artifact creature card in your hand by paying its mana cost.
+2. Glaring Fleshraker's first ability triggers, creating a 0/1 Eldrazi Spawn creature token.
+3. When the Eldrazi Spawn enters the battlefield, Glaring Fleshraker's second ability triggers, dealing 1 damage to each opponent.
+4. Resolve the artifact creature spell, triggering Glaring Fleshraker's second ability, dealing 1 damage to each opponent.
+5. Activate Ashnod's Altar by sacrificing the artifact creature, adding [[symbol:c]][[symbol:c]].
+6. When the artifact creature dies, it triggers, returning the other artifact creature from your graveyard to your hand.
+7. If needed, activate the Eldrazi Spawn by sacrificing it, adding [[symbol:c]].
+8. Repeat.
+
+
+Results:
+- Infinite creature LTB
+- Infinite creature ETB
+- Infinite creature sacrifice triggers
+- Infinite death triggers
+- Infinite damage
+- Infinite storm count
+- Infinite colorless mana
+- Infinite creature tokens
+===endpanel
+===endaccordion
+
+===accordion
+===panel: Glaring Fleshraker + Myr Retriever + Junk Diver + Krark-Clan Ironworks
+[[symbol:c]]
+
+
+Cards Required:
+- [[Glaring Fleshraker]]
+- [[Myr Retriever]]
+- [[Junk Diver]]
+- [[Krark-Clan Ironworks]]
+
+
+Prerequisites:
+- Glaring Fleshraker and Krark-Clan Ironworks on the battlefield.
+- Myr Retriever and Junk Diver in hand or in your graveyard.
+- One of the artifact creatures must be in your hand while the other is in your graveyard
+- You have enough mana to cast the artifact card in your hand.
+
+
+Steps:
+1. Cast the artifact creature card in your hand by paying its mana cost.
+2. Glaring Fleshraker's first ability triggers, creating a 0/1 Eldrazi Spawn creature token.
+3. When the Eldrazi Spawn enters the battlefield, Glaring Fleshraker's second ability triggers, dealing 1 damage to each opponent.
+4. Resolve the artifact creature spell, triggering Glaring Fleshraker's second ability, dealing 1 damage to each opponent.
+5. Activate Krark-Clan Ironworks by sacrificing the artifact creature, adding [[symbol:c]][[symbol:c]].
+6. When the artifact creature dies, it triggers, returning the other artifact creature from your graveyard to your hand.
+7. If needed, activate the Eldrazi Spawn by sacrificing it, adding [[symbol:c]].
+8. Repeat.
+
+
+Results:
+- Infinite creature LTB
+- Infinite creature ETB
+- Infinite creature sacrifice triggers
+- Infinite death triggers
+- Infinite colorless mana
+- Infinite damage
+- Infinite storm count
+- Infinite creature tokens
+===endpanel
+===endaccordion
+
+===accordion
+===panel: Glaring Fleshraker + Myr Retriever + Scrap Trawler + Krark-Clan Ironworks
+[[symbol:c]]
+
+
+Cards Required:
+- [[Glaring Fleshraker]]
+- [[Myr Retriever]]
+- [[Scrap Trawler]]
+- [[Krark-Clan Ironworks]]
+
+
+Prerequisites:
+- Glaring Fleshraker and Krark-Clan Ironworks on the battlefield.
+- Myr Retriever and Scrap Trawler in hand or in your graveyard.
+- One of the artifact creatures must be in your hand while the other is in your graveyard
+- You have enough mana to cast the artifact card in your hand.
+
+
+Steps:
+1. Cast the artifact creature card in your hand by paying its mana cost.
+2. Glaring Fleshraker's first ability triggers, creating a 0/1 Eldrazi Spawn creature token.
+3. When the Eldrazi Spawn enters the battlefield, Glaring Fleshraker's second ability triggers, dealing 1 damage to each opponent.
+4. Resolve the artifact creature spell, triggering Glaring Fleshraker's second ability, dealing 1 damage to each opponent.
+5. Activate Krark-Clan Ironworks by sacrificing the artifact creature, adding [[symbol:c]][[symbol:c]].
+6. When the artifact creature dies, it triggers, returning the other artifact creature from your graveyard to your hand.
+7. If needed, activate the Eldrazi Spawn by sacrificing it, adding [[symbol:c]].
+8. Repeat.
+
+
+Results:
+- Infinite creature LTB
+- Infinite creature ETB
+- Infinite creature sacrifice triggers
+- Infinite death triggers
+- Infinite colorless mana
+- Infinite damage
+- Infinite storm count
+- Infinite creature tokens
+===endpanel
+===endaccordion
+
+===accordion
+===panel: Glaring Fleshraker + Myr Retriever + Workshop Assistant + Krark-Clan Ironworks
+[[symbol:c]]
+
+
+Cards Required:
+- [[Glaring Fleshraker]]
+- [[Myr Retriever]]
+- [[Workshop Assistant]]
+- [[Krark-Clan Ironworks]]
+
+
+Prerequisites:
+- Glaring Fleshraker and Krark-Clan Ironworks on the battlefield.
+- Myr Retriever and Workshop Assistant in hand or in your graveyard.
+- One of the artifact creatures must be in your hand while the other is in your graveyard
+- You have enough mana to cast the artifact card in your hand.
+
+
+Steps:
+1. Cast the artifact creature card in your hand by paying its mana cost.
+2. Glaring Fleshraker's first ability triggers, creating a 0/1 Eldrazi Spawn creature token.
+3. When the Eldrazi Spawn enters the battlefield, Glaring Fleshraker's second ability triggers, dealing 1 damage to each opponent.
+4. Resolve the artifact creature spell, triggering Glaring Fleshraker's second ability, dealing 1 damage to each opponent.
+5. Activate Krark-Clan Ironworks by sacrificing the artifact creature, adding [[symbol:c]][[symbol:c]].
+6. When the artifact creature dies, it triggers, returning the other artifact creature from your graveyard to your hand.
+7. If needed, activate the Eldrazi Spawn by sacrificing it, adding [[symbol:c]].
+8. Repeat.
+
+
+Results:
+- Infinite creature LTB
+- Infinite creature ETB
+- Infinite creature sacrifice triggers
+- Infinite death triggers
+- Infinite colorless mana
+- Infinite damage
+- Infinite storm count
+- Infinite creature tokens
+===endpanel
+===endaccordion
+
+===accordion
+===panel: Imotekh the Stormlord + Junk Diver + Myr Retriever + Ashnod's Altar
+[[symbol:b]]
+
+
+Cards Required:
+- [[Imotekh the Stormlord]]
+- [[Junk Diver]]
+- [[Myr Retriever]]
+- [[Ashnod's Altar]]
+
+
+Prerequisites:
+- Junk Diver in your graveyard.
+- All other permanents on the battlefield.
+
+
+Steps:
+1. Activate Ashnod's Altar by sacrificing Myr Retriever, adding [[symbol:c]][[symbol:c]].
+2. When Myr Retriever dies, it triggers, returning Junk Diver to your hand from your graveyard.
+3. Imotekh the Stormlord's first ability triggers, creating two 2/2 Necron Warrior artifact creature tokens.
+4. Activate Ashnod's Altar by sacrificing a Necron Warrior, adding [[symbol:c]][[symbol:c]].
+5. Cast Junk Diver by paying [[symbol:3]].
+6. Activate Ashnod's Altar by sacrificing Junk Diver, adding [[symbol:c]][[symbol:c]].
+7. When Junk Diver dies, it triggers, returning Myr Retriever to your hand from your graveyard.
+8. Imotekh the Stormlord's first ability triggers, creating two 2/2 Necron Warrior artifact creature tokens.
+9. Cast Myr Retriever by paying [[symbol:2]].
+10. Repeat.
+
+
+Results:
+- Infinite colorless mana
+- Infinite creature tokens
+- Infinite death triggers
+- Infinite creature ETB
+- Infinite creature LTB
+- Infinite creature sacrifice triggers
+- Infinite storm count
+===endpanel
+===endaccordion
+
+===accordion
+===panel: Imotekh the Stormlord + Junk Diver + Myr Retriever + Krark-Clan Ironworks
+[[symbol:b]]
+
+
+Cards Required:
+- [[Imotekh the Stormlord]]
+- [[Junk Diver]]
+- [[Myr Retriever]]
+- [[Krark-Clan Ironworks]]
+
+
+Prerequisites:
+- Junk Diver in your graveyard.
+- All other permanents on the battlefield.
+
+
+Steps:
+1. Activate Krark-Clan Ironworks by sacrificing Myr Retriever, adding [[symbol:c]][[symbol:c]].
+2. When Myr Retriever dies, it triggers, returning Junk Diver to your hand from your graveyard.
+3. Imotekh the Stormlord's first ability triggers, creating two 2/2 Necron Warrior artifact creature tokens.
+4. Activate Krark-Clan Ironworks by sacrificing a Necron Warrior, adding [[symbol:c]][[symbol:c]].
+5. Cast Junk Diver by paying [[symbol:3]].
+6. Activate Krark-Clan Ironworks by sacrificing Junk Diver, adding [[symbol:c]][[symbol:c]].
+7. When Junk Diver dies, it triggers, returning Myr Retriever to your hand from your graveyard.
+8. Imotekh the Stormlord's first ability triggers, creating two 2/2 Necron Warrior artifact creature tokens.
+9. Cast Myr Retriever by paying [[symbol:2]].
+10. Repeat.
+
+
+Results:
+- Infinite colorless mana
+- Infinite creature tokens
+- Infinite death triggers
+- Infinite creature ETB
+- Infinite creature LTB
+- Infinite creature sacrifice triggers
+- Infinite storm count
+===endpanel
+===endaccordion
+
+===accordion
+===panel: Imotekh the Stormlord + Myr Retriever + Workshop Assistant + Ashnod's Altar
+[[symbol:b]]
+
+
+Cards Required:
+- [[Imotekh the Stormlord]]
+- [[Myr Retriever]]
+- [[Workshop Assistant]]
+- [[Ashnod's Altar]]
+
+
+Prerequisites:
+- Myr Retriever in your graveyard.
+- All other permanents on the battlefield.
+
+
+Steps:
+1. Activate Ashnod's Altar by sacrificing Workshop Assistant, adding [[symbol:c]][[symbol:c]].
+2. When Workshop Assistant dies, it triggers, returning Myr Retriever to your hand from your graveyard.
+3. Imotekh the Stormlord's first ability triggers, creating two 2/2 Necron Warrior artifact creature tokens.
+4. Activate Ashnod's Altar by sacrificing a Necron Warrior, adding [[symbol:c]][[symbol:c]].
+5. Cast Myr Retriever by paying [[symbol:2]].
+6. Activate Ashnod's Altar by sacrificing Myr Retriever, adding [[symbol:c]][[symbol:c]].
+7. When Myr Retriever dies, it triggers, returning Workshop Assistant to your hand from your graveyard.
+8. Imotekh the Stormlord's first ability triggers, creating two 2/2 Necron Warrior artifact creature tokens.
+9. Cast Workshop Assistant by paying [[symbol:3]].
+10. Repeat.
+
+
+Results:
+- Infinite colorless mana
+- Infinite creature tokens
+- Infinite death triggers
+- Infinite creature ETB
+- Infinite creature LTB
+- Infinite creature sacrifice triggers
+- Infinite storm count
+===endpanel
+===endaccordion
+
+===accordion
+===panel: Imotekh the Stormlord + Myr Retriever + Workshop Assistant + Krark-Clan Ironworks
+[[symbol:b]]
+
+
+Cards Required:
+- [[Imotekh the Stormlord]]
+- [[Myr Retriever]]
+- [[Workshop Assistant]]
+- [[Krark-Clan Ironworks]]
+
+
+Prerequisites:
+- Myr Retriever in your graveyard.
+- All other permanents on the battlefield.
+
+
+Steps:
+1. Activate Krark-Clan Ironworks by sacrificing Workshop Assistant, adding [[symbol:c]][[symbol:c]].
+2. When Workshop Assistant dies, it triggers, returning Myr Retriever to your hand from your graveyard.
+3. Imotekh the Stormlord's first ability triggers, creating two 2/2 Necron Warrior artifact creature tokens.
+4. Activate Krark-Clan Ironworks by sacrificing a Necron Warrior, adding [[symbol:c]][[symbol:c]].
+5. Cast Myr Retriever by paying [[symbol:2]].
+6. Activate Krark-Clan Ironworks by sacrificing Myr Retriever, adding [[symbol:c]][[symbol:c]].
+7. When Myr Retriever dies, it triggers, returning Workshop Assistant to your hand from your graveyard.
+8. Imotekh the Stormlord's first ability triggers, creating two 2/2 Necron Warrior artifact creature tokens.
+9. Cast Workshop Assistant by paying [[symbol:3]].
+10. Repeat.
+
+
+Results:
+- Infinite colorless mana
+- Infinite creature tokens
+- Infinite death triggers
+- Infinite creature ETB
+- Infinite creature LTB
+- Infinite creature sacrifice triggers
+- Infinite storm count
+===endpanel
+===endaccordion
+
+===accordion
+===panel: Imotekh the Stormlord + Scrap Trawler + Myr Retriever + Ashnod's Altar
+[[symbol:b]]
+
+
+Cards Required:
+- [[Imotekh the Stormlord]]
+- [[Scrap Trawler]]
+- [[Myr Retriever]]
+- [[Ashnod's Altar]]
+
+
+Prerequisites:
+- Scrap Trawler in your graveyard.
+- All other permanents on the battlefield.
+
+
+Steps:
+1. Activate Ashnod's Altar by sacrificing Myr Retriever, adding [[symbol:c]][[symbol:c]].
+2. When Myr Retriever dies, it triggers, returning Scrap Trawler to your hand from your graveyard.
+3. Imotekh the Stormlord's first ability triggers, creating two 2/2 Necron Warrior artifact creature tokens.
+4. Activate Ashnod's Altar by sacrificing a Necron Warrior, adding [[symbol:c]][[symbol:c]].
+5. Cast Scrap Trawler by paying [[symbol:3]].
+6. Activate Ashnod's Altar by sacrificing Scrap Trawler, adding [[symbol:c]][[symbol:c]].
+7. When Scrap Trawler dies, it triggers, returning Myr Retriever to your hand from your graveyard.
+8. Imotekh the Stormlord's first ability triggers, creating two 2/2 Necron Warrior artifact creature tokens.
+9. Cast Myr Retriever by paying [[symbol:2]].
+10. Repeat.
+
+
+Results:
+- Infinite colorless mana
+- Infinite creature tokens
+- Infinite death triggers
+- Infinite creature ETB
+- Infinite creature LTB
+- Infinite creature sacrifice triggers
+- Infinite storm count
+===endpanel
+===endaccordion
+
+===accordion
+===panel: Imotekh the Stormlord + Scrap Trawler + Myr Retriever + Krark-Clan Ironworks
+[[symbol:b]]
+
+
+Cards Required:
+- [[Imotekh the Stormlord]]
 - [[Scrap Trawler]]
 - [[Myr Retriever]]
 - [[Krark-Clan Ironworks]]
-- [[Foundry Inspector]]
 
 
 Prerequisites:
@@ -3941,11 +4433,132 @@ Prerequisites:
 
 Steps:
 1. Activate Krark-Clan Ironworks by sacrificing Myr Retriever, adding [[symbol:c]][[symbol:c]].
+2. When Myr Retriever dies, it triggers, returning Scrap Trawler to your hand from your graveyard.
+3. Imotekh the Stormlord's first ability triggers, creating two 2/2 Necron Warrior artifact creature tokens.
+4. Activate Krark-Clan Ironworks by sacrificing a Necron Warrior, adding [[symbol:c]][[symbol:c]].
+5. Cast Scrap Trawler by paying [[symbol:3]].
+6. Activate Krark-Clan Ironworks by sacrificing Scrap Trawler, adding [[symbol:c]][[symbol:c]].
+7. When Scrap Trawler dies, it triggers, returning Myr Retriever to your hand from your graveyard.
+8. Imotekh the Stormlord's first ability triggers, creating two 2/2 Necron Warrior artifact creature tokens.
+9. Cast Myr Retriever by paying [[symbol:2]].
+10. Repeat.
+
+
+Results:
+- Infinite colorless mana
+- Infinite creature tokens
+- Infinite death triggers
+- Infinite creature ETB
+- Infinite creature LTB
+- Infinite creature sacrifice triggers
+- Infinite storm count
+===endpanel
+===endaccordion
+
+===accordion
+===panel: Myr Retriever + Ashnod's Altar + Ultron, Artificial Malevolence
+[[symbol:c]]
+
+
+Cards Required:
+- [[Myr Retriever]]
+- [[Ashnod's Altar]]
+- [[Ultron, Artificial Malevolence]]
+
+
+Prerequisites:
+- Myr Retriever in hand.
+- Ashnod's Altar and Ultron on the battlefield.
+- [[symbol:2]] available
+
+
+Steps:
+1. Cast Myr Retriever by paying [[symbol:2]].
+2. When Myr Retriever enters, Ultron triggers.
+3. Holding priority, activate Ashnod's Altar by sacrificing Myr Retriever, adding [[symbol:c]][[symbol:c]]
+4. When Myr Retriever dies, it triggers, returning an artifact card from your graveyard to your hand.
+5. Resolve the Ultron trigger, causing you to pay [[symbol:2]] to create a token copy of Myr Retriever.
+6. Activate Ashnod's Altar by sacrificing the Myr Retriever token, adding [[symbol:c]][[symbol:c]].
+7. When the Myr Retriever token dies, it triggers, returning the nontoken Myr Retriever from your graveyard to your hand.
+8. Repeat.
+
+
+Results:
+- Infinite creature ETB
+- Infinite creature LTB
+- Infinite death triggers
+- Infinite creature sacrifice triggers
+- Infinite storm count
+- Infinite artifact ETB
+- Infinite artifact LTB
+- Infinite artifact sacrifice triggers
+===endpanel
+===endaccordion
+
+===accordion
+===panel: Myr Retriever + Krark-Clan Ironworks + Ultron, Artificial Malevolence
+[[symbol:c]]
+
+
+Cards Required:
+- [[Myr Retriever]]
+- [[Krark-Clan Ironworks]]
+- [[Ultron, Artificial Malevolence]]
+
+
+Prerequisites:
+- Myr Retriever in hand.
+- Krark-Clan Ironworks and Ultron on the battlefield.
+- [[symbol:2]] available
+
+
+Steps:
+1. Cast Myr Retriever by paying [[symbol:2]].
+2. When Myr Retriever enters, Ultron triggers.
+3. Holding priority, activate Krark-Clan Ironworks by sacrificing Myr Retriever, adding [[symbol:c]][[symbol:c]]
+4. When Myr Retriever dies, it triggers, returning an artifact card from your graveyard to your hand.
+5. Resolve the Ultron trigger, causing you to pay [[symbol:2]] to create a token copy of Myr Retriever.
+6. Activate Krark-Clan Ironworks by sacrificing the Myr Retriever token, adding [[symbol:c]][[symbol:c]].
+7. When the Myr Retriever token dies, it triggers, returning the nontoken Myr Retriever from your graveyard to your hand.
+8. Repeat.
+
+
+Results:
+- Infinite creature ETB
+- Infinite creature LTB
+- Infinite death triggers
+- Infinite creature sacrifice triggers
+- Infinite storm count
+- Infinite artifact ETB
+- Infinite artifact LTB
+- Infinite artifact sacrifice triggers
+===endpanel
+===endaccordion
+
+===accordion
+===panel: Scrap Trawler + Myr Retriever + Ashnod's Altar + Cloud Key
+[[symbol:c]]
+
+
+Cards Required:
+- [[Scrap Trawler]]
+- [[Myr Retriever]]
+- [[Ashnod's Altar]]
+- [[Cloud Key]]
+
+
+Prerequisites:
+- Scrap Trawler in your graveyard.
+- All other permanents on the battlefield (Cloud Key with "Artifact" or "Creature" chosen).
+
+
+Steps:
+1. Activate Ashnod's Altar by sacrificing Myr Retriever, adding [[symbol:c]][[symbol:c]].
 2. When Myr Retriever dies, it triggers, returning Scrap Trawler from your graveyard to your hand.
-3. Cast Scrap Trawler by paying its mana cost, which is reduced by Foundry Inspector.
-4. Activate Krark-Clan Ironworks by sacrificing Scrap Trawler, adding [[symbol:c]][[symbol:c]].
+3. Cast Scrap Trawler by paying its mana cost, which is reduced by Cloud Key.
+4. Activate Ashnod's Altar by sacrificing Scrap Trawler, adding [[symbol:c]][[symbol:c]].
 5. When Scrap Trawler dies, it triggers, returning Myr Retriever from your graveyard to your hand.
-6. Cast Myr Retriever by paying its mana cost, which is reduced by Foundry Inspector.
+6. Cast Myr Retriever by paying its mana cost, which is reduced by Cloud Key.
 7. Repeat.
 
 
@@ -3986,6 +4599,168 @@ Steps:
 4. Activate Ashnod's Altar by sacrificing Scrap Trawler, adding [[symbol:c]][[symbol:c]].
 5. When Scrap Trawler dies, it triggers, returning Myr Retriever from your graveyard to your hand.
 6. Cast Myr Retriever by paying its mana cost, which is reduced by Foundry Inspector.
+7. Repeat.
+
+
+Results:
+- Infinite artifact ETB
+- Infinite artifact LTB
+- Infinite artifact sacrifice triggers
+- Infinite creature ETB
+- Infinite creature LTB
+- Infinite colorless mana
+- Infinite death triggers
+- Infinite creature sacrifice triggers
+- Infinite storm count
+===endpanel
+===endaccordion
+
+===accordion
+===panel: Scrap Trawler + Myr Retriever + Ashnod's Altar + Semblance Anvil
+[[symbol:c]]
+
+
+Cards Required:
+- [[Scrap Trawler]]
+- [[Myr Retriever]]
+- [[Ashnod's Altar]]
+- [[Semblance Anvil]]
+
+
+Prerequisites:
+- Scrap Trawler in your graveyard.
+- All other permanents on the battlefield.
+- There is an artifact or creature card exiled with Semblance Anvil.
+
+
+Steps:
+1. Activate Ashnod's Altar by sacrificing Myr Retriever, adding [[symbol:c]][[symbol:c]].
+2. When Myr Retriever dies, it triggers, returning Scrap Trawler from your graveyard to your hand.
+3. Cast Scrap Trawler by paying its mana cost, which is reduced by Semblance Anvil.
+4. Activate Ashnod's Altar by sacrificing Scrap Trawler, adding [[symbol:c]][[symbol:c]].
+5. When Scrap Trawler dies, it triggers, returning Myr Retriever from your graveyard to your hand.
+6. Cast Myr Retriever by paying its mana cost, which is reduced by Semblance Anvil.
+7. Repeat.
+
+
+Results:
+- Infinite artifact ETB
+- Infinite artifact LTB
+- Infinite artifact sacrifice triggers
+- Infinite creature ETB
+- Infinite creature LTB
+- Infinite colorless mana
+- Infinite death triggers
+- Infinite creature sacrifice triggers
+- Infinite storm count
+===endpanel
+===endaccordion
+
+===accordion
+===panel: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Cloud Key
+[[symbol:c]]
+
+
+Cards Required:
+- [[Scrap Trawler]]
+- [[Myr Retriever]]
+- [[Krark-Clan Ironworks]]
+- [[Cloud Key]]
+
+
+Prerequisites:
+- Scrap Trawler in your graveyard.
+- All other permanents on the battlefield (Cloud Key with "Artifact" or "Creature" chosen).
+
+
+Steps:
+1. Activate Krark-Clan Ironworks by sacrificing Myr Retriever, adding [[symbol:c]][[symbol:c]].
+2. When Myr Retriever dies, it triggers, returning Scrap Trawler from your graveyard to your hand.
+3. Cast Scrap Trawler by paying its mana cost, which is reduced by Cloud Key.
+4. Activate Krark-Clan Ironworks by sacrificing Scrap Trawler, adding [[symbol:c]][[symbol:c]].
+5. When Scrap Trawler dies, it triggers, returning Myr Retriever from your graveyard to your hand.
+6. Cast Myr Retriever by paying its mana cost, which is reduced by Cloud Key.
+7. Repeat.
+
+
+Results:
+- Infinite artifact ETB
+- Infinite artifact LTB
+- Infinite artifact sacrifice triggers
+- Infinite creature ETB
+- Infinite creature LTB
+- Infinite colorless mana
+- Infinite death triggers
+- Infinite creature sacrifice triggers
+- Infinite storm count
+===endpanel
+===endaccordion
+
+===accordion
+===panel: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Foundry Inspector
+[[symbol:c]]
+
+
+Cards Required:
+- [[Scrap Trawler]]
+- [[Myr Retriever]]
+- [[Krark-Clan Ironworks]]
+- [[Foundry Inspector]]
+
+
+Prerequisites:
+- Scrap Trawler in your graveyard.
+- All other permanents on the battlefield.
+
+
+Steps:
+1. Activate Krark-Clan Ironworks by sacrificing Myr Retriever, adding [[symbol:c]][[symbol:c]].
+2. When Myr Retriever dies, it triggers, returning Scrap Trawler from your graveyard to your hand.
+3. Cast Scrap Trawler by paying its mana cost, which is reduced by Foundry Inspector.
+4. Activate Krark-Clan Ironworks by sacrificing Scrap Trawler, adding [[symbol:c]][[symbol:c]].
+5. When Scrap Trawler dies, it triggers, returning Myr Retriever from your graveyard to your hand.
+6. Cast Myr Retriever by paying its mana cost, which is reduced by Foundry Inspector.
+7. Repeat.
+
+
+Results:
+- Infinite artifact ETB
+- Infinite artifact LTB
+- Infinite artifact sacrifice triggers
+- Infinite creature ETB
+- Infinite creature LTB
+- Infinite colorless mana
+- Infinite death triggers
+- Infinite creature sacrifice triggers
+- Infinite storm count
+===endpanel
+===endaccordion
+
+===accordion
+===panel: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Semblance Anvil
+[[symbol:c]]
+
+
+Cards Required:
+- [[Scrap Trawler]]
+- [[Myr Retriever]]
+- [[Krark-Clan Ironworks]]
+- [[Semblance Anvil]]
+
+
+Prerequisites:
+- Scrap Trawler in your graveyard.
+- All other permanents on the battlefield.
+- There is an artifact card exiled with Semblance Anvil.
+
+
+Steps:
+1. Activate Krark-Clan Ironworks by sacrificing Myr Retriever, adding [[symbol:c]][[symbol:c]].
+2. When Myr Retriever dies, it triggers, returning Scrap Trawler from your graveyard to your hand.
+3. Cast Scrap Trawler by paying its mana cost, which is reduced by Semblance Anvil.
+4. Activate Krark-Clan Ironworks by sacrificing Scrap Trawler, adding [[symbol:c]][[symbol:c]].
+5. When Scrap Trawler dies, it triggers, returning Myr Retriever from your graveyard to your hand.
+6. Cast Myr Retriever by paying its mana cost, which is reduced by Semblance Anvil.
 7. Repeat.
 
 
@@ -4047,746 +4822,6 @@ Results:
 - Infinite creature LTB
 - Infinite creature sacrifice triggers
 - Infinite storm count
-===endpanel
-===endaccordion
-
-===accordion
-===panel: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Cloud Key
-[[symbol:c]]
-
-
-Cards Required:
-- [[Scrap Trawler]]
-- [[Myr Retriever]]
-- [[Krark-Clan Ironworks]]
-- [[Cloud Key]]
-
-
-Prerequisites:
-- Scrap Trawler in your graveyard.
-- All other permanents on the battlefield (Cloud Key with "Artifact" or "Creature" chosen).
-
-
-Steps:
-1. Activate Krark-Clan Ironworks by sacrificing Myr Retriever, adding [[symbol:c]][[symbol:c]].
-2. When Myr Retriever dies, it triggers, returning Scrap Trawler from your graveyard to your hand.
-3. Cast Scrap Trawler by paying its mana cost, which is reduced by Cloud Key.
-4. Activate Krark-Clan Ironworks by sacrificing Scrap Trawler, adding [[symbol:c]][[symbol:c]].
-5. When Scrap Trawler dies, it triggers, returning Myr Retriever from your graveyard to your hand.
-6. Cast Myr Retriever by paying its mana cost, which is reduced by Cloud Key.
-7. Repeat.
-
-
-Results:
-- Infinite artifact ETB
-- Infinite artifact LTB
-- Infinite artifact sacrifice triggers
-- Infinite creature ETB
-- Infinite creature LTB
-- Infinite colorless mana
-- Infinite death triggers
-- Infinite creature sacrifice triggers
-- Infinite storm count
-===endpanel
-===endaccordion
-
-===accordion
-===panel: Scrap Trawler + Myr Retriever + Ashnod's Altar + Cloud Key
-[[symbol:c]]
-
-
-Cards Required:
-- [[Scrap Trawler]]
-- [[Myr Retriever]]
-- [[Ashnod's Altar]]
-- [[Cloud Key]]
-
-
-Prerequisites:
-- Scrap Trawler in your graveyard.
-- All other permanents on the battlefield (Cloud Key with "Artifact" or "Creature" chosen).
-
-
-Steps:
-1. Activate Ashnod's Altar by sacrificing Myr Retriever, adding [[symbol:c]][[symbol:c]].
-2. When Myr Retriever dies, it triggers, returning Scrap Trawler from your graveyard to your hand.
-3. Cast Scrap Trawler by paying its mana cost, which is reduced by Cloud Key.
-4. Activate Ashnod's Altar by sacrificing Scrap Trawler, adding [[symbol:c]][[symbol:c]].
-5. When Scrap Trawler dies, it triggers, returning Myr Retriever from your graveyard to your hand.
-6. Cast Myr Retriever by paying its mana cost, which is reduced by Cloud Key.
-7. Repeat.
-
-
-Results:
-- Infinite artifact ETB
-- Infinite artifact LTB
-- Infinite artifact sacrifice triggers
-- Infinite creature ETB
-- Infinite creature LTB
-- Infinite colorless mana
-- Infinite death triggers
-- Infinite creature sacrifice triggers
-- Infinite storm count
-===endpanel
-===endaccordion
-
-===accordion
-===panel: Glaring Fleshraker + Myr Retriever + Scrap Trawler + Krark-Clan Ironworks
-[[symbol:c]]
-
-
-Cards Required:
-- [[Glaring Fleshraker]]
-- [[Myr Retriever]]
-- [[Scrap Trawler]]
-- [[Krark-Clan Ironworks]]
-
-
-Prerequisites:
-- Glaring Fleshraker and Krark-Clan Ironworks on the battlefield.
-- Myr Retriever and Scrap Trawler in hand or in your graveyard.
-- One of the artifact creatures must be in your hand while the other is in your graveyard
-- You have enough mana to cast the artifact card in your hand.
-
-
-Steps:
-1. Cast the artifact creature card in your hand by paying its mana cost.
-2. Glaring Fleshraker's first ability triggers, creating a 0/1 Eldrazi Spawn creature token.
-3. When the Eldrazi Spawn enters the battlefield, Glaring Fleshraker's second ability triggers, dealing 1 damage to each opponent.
-4. Resolve the artifact creature spell, triggering Glaring Fleshraker's second ability, dealing 1 damage to each opponent.
-5. Activate Krark-Clan Ironworks by sacrificing the artifact creature, adding [[symbol:c]][[symbol:c]].
-6. When the artifact creature dies, it triggers, returning the other artifact creature from your graveyard to your hand.
-7. If needed, activate the Eldrazi Spawn by sacrificing it, adding [[symbol:c]].
-8. Repeat.
-
-
-Results:
-- Infinite creature LTB
-- Infinite creature ETB
-- Infinite creature sacrifice triggers
-- Infinite death triggers
-- Infinite colorless mana
-- Infinite damage
-- Infinite storm count
-- Infinite creature tokens
-===endpanel
-===endaccordion
-
-===accordion
-===panel: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Semblance Anvil
-[[symbol:c]]
-
-
-Cards Required:
-- [[Scrap Trawler]]
-- [[Myr Retriever]]
-- [[Krark-Clan Ironworks]]
-- [[Semblance Anvil]]
-
-
-Prerequisites:
-- Scrap Trawler in your graveyard.
-- All other permanents on the battlefield.
-- There is an artifact card exiled with Semblance Anvil.
-
-
-Steps:
-1. Activate Krark-Clan Ironworks by sacrificing Myr Retriever, adding [[symbol:c]][[symbol:c]].
-2. When Myr Retriever dies, it triggers, returning Scrap Trawler from your graveyard to your hand.
-3. Cast Scrap Trawler by paying its mana cost, which is reduced by Semblance Anvil.
-4. Activate Krark-Clan Ironworks by sacrificing Scrap Trawler, adding [[symbol:c]][[symbol:c]].
-5. When Scrap Trawler dies, it triggers, returning Myr Retriever from your graveyard to your hand.
-6. Cast Myr Retriever by paying its mana cost, which is reduced by Semblance Anvil.
-7. Repeat.
-
-
-Results:
-- Infinite artifact ETB
-- Infinite artifact LTB
-- Infinite artifact sacrifice triggers
-- Infinite creature ETB
-- Infinite creature LTB
-- Infinite colorless mana
-- Infinite death triggers
-- Infinite creature sacrifice triggers
-- Infinite storm count
-===endpanel
-===endaccordion
-
-===accordion
-===panel: Imotekh the Stormlord + Scrap Trawler + Myr Retriever + Ashnod's Altar
-[[symbol:b]]
-
-
-Cards Required:
-- [[Imotekh the Stormlord]]
-- [[Scrap Trawler]]
-- [[Myr Retriever]]
-- [[Ashnod's Altar]]
-
-
-Prerequisites:
-- Scrap Trawler in your graveyard.
-- All other permanents on the battlefield.
-
-
-Steps:
-1. Activate Ashnod's Altar by sacrificing Myr Retriever, adding [[symbol:c]][[symbol:c]].
-2. When Myr Retriever dies, it triggers, returning Scrap Trawler to your hand from your graveyard.
-3. Imotekh the Stormlord's first ability triggers, creating two 2/2 Necron Warrior artifact creature tokens.
-4. Activate Ashnod's Altar by sacrificing a Necron Warrior, adding [[symbol:c]][[symbol:c]].
-5. Cast Scrap Trawler by paying [[symbol:3]].
-6. Activate Ashnod's Altar by sacrificing Scrap Trawler, adding [[symbol:c]][[symbol:c]].
-7. When Scrap Trawler dies, it triggers, returning Myr Retriever to your hand from your graveyard.
-8. Imotekh the Stormlord's first ability triggers, creating two 2/2 Necron Warrior artifact creature tokens.
-9. Cast Myr Retriever by paying [[symbol:2]].
-10. Repeat.
-
-
-Results:
-- Infinite colorless mana
-- Infinite creature tokens
-- Infinite death triggers
-- Infinite creature ETB
-- Infinite creature LTB
-- Infinite creature sacrifice triggers
-- Infinite storm count
-===endpanel
-===endaccordion
-
-===accordion
-===panel: Glaring Fleshraker + Myr Retriever + Junk Diver + Krark-Clan Ironworks
-[[symbol:c]]
-
-
-Cards Required:
-- [[Glaring Fleshraker]]
-- [[Myr Retriever]]
-- [[Junk Diver]]
-- [[Krark-Clan Ironworks]]
-
-
-Prerequisites:
-- Glaring Fleshraker and Krark-Clan Ironworks on the battlefield.
-- Myr Retriever and Junk Diver in hand or in your graveyard.
-- One of the artifact creatures must be in your hand while the other is in your graveyard
-- You have enough mana to cast the artifact card in your hand.
-
-
-Steps:
-1. Cast the artifact creature card in your hand by paying its mana cost.
-2. Glaring Fleshraker's first ability triggers, creating a 0/1 Eldrazi Spawn creature token.
-3. When the Eldrazi Spawn enters the battlefield, Glaring Fleshraker's second ability triggers, dealing 1 damage to each opponent.
-4. Resolve the artifact creature spell, triggering Glaring Fleshraker's second ability, dealing 1 damage to each opponent.
-5. Activate Krark-Clan Ironworks by sacrificing the artifact creature, adding [[symbol:c]][[symbol:c]].
-6. When the artifact creature dies, it triggers, returning the other artifact creature from your graveyard to your hand.
-7. If needed, activate the Eldrazi Spawn by sacrificing it, adding [[symbol:c]].
-8. Repeat.
-
-
-Results:
-- Infinite creature LTB
-- Infinite creature ETB
-- Infinite creature sacrifice triggers
-- Infinite death triggers
-- Infinite colorless mana
-- Infinite damage
-- Infinite storm count
-- Infinite creature tokens
-===endpanel
-===endaccordion
-
-===accordion
-===panel: Imotekh the Stormlord + Scrap Trawler + Myr Retriever + Krark-Clan Ironworks
-[[symbol:b]]
-
-
-Cards Required:
-- [[Imotekh the Stormlord]]
-- [[Scrap Trawler]]
-- [[Myr Retriever]]
-- [[Krark-Clan Ironworks]]
-
-
-Prerequisites:
-- Scrap Trawler in your graveyard.
-- All other permanents on the battlefield.
-
-
-Steps:
-1. Activate Krark-Clan Ironworks by sacrificing Myr Retriever, adding [[symbol:c]][[symbol:c]].
-2. When Myr Retriever dies, it triggers, returning Scrap Trawler to your hand from your graveyard.
-3. Imotekh the Stormlord's first ability triggers, creating two 2/2 Necron Warrior artifact creature tokens.
-4. Activate Krark-Clan Ironworks by sacrificing a Necron Warrior, adding [[symbol:c]][[symbol:c]].
-5. Cast Scrap Trawler by paying [[symbol:3]].
-6. Activate Krark-Clan Ironworks by sacrificing Scrap Trawler, adding [[symbol:c]][[symbol:c]].
-7. When Scrap Trawler dies, it triggers, returning Myr Retriever to your hand from your graveyard.
-8. Imotekh the Stormlord's first ability triggers, creating two 2/2 Necron Warrior artifact creature tokens.
-9. Cast Myr Retriever by paying [[symbol:2]].
-10. Repeat.
-
-
-Results:
-- Infinite colorless mana
-- Infinite creature tokens
-- Infinite death triggers
-- Infinite creature ETB
-- Infinite creature LTB
-- Infinite creature sacrifice triggers
-- Infinite storm count
-===endpanel
-===endaccordion
-
-===accordion
-===panel: Imotekh the Stormlord + Junk Diver + Myr Retriever + Ashnod's Altar
-[[symbol:b]]
-
-
-Cards Required:
-- [[Imotekh the Stormlord]]
-- [[Junk Diver]]
-- [[Myr Retriever]]
-- [[Ashnod's Altar]]
-
-
-Prerequisites:
-- Junk Diver in your graveyard.
-- All other permanents on the battlefield.
-
-
-Steps:
-1. Activate Ashnod's Altar by sacrificing Myr Retriever, adding [[symbol:c]][[symbol:c]].
-2. When Myr Retriever dies, it triggers, returning Junk Diver to your hand from your graveyard.
-3. Imotekh the Stormlord's first ability triggers, creating two 2/2 Necron Warrior artifact creature tokens.
-4. Activate Ashnod's Altar by sacrificing a Necron Warrior, adding [[symbol:c]][[symbol:c]].
-5. Cast Junk Diver by paying [[symbol:3]].
-6. Activate Ashnod's Altar by sacrificing Junk Diver, adding [[symbol:c]][[symbol:c]].
-7. When Junk Diver dies, it triggers, returning Myr Retriever to your hand from your graveyard.
-8. Imotekh the Stormlord's first ability triggers, creating two 2/2 Necron Warrior artifact creature tokens.
-9. Cast Myr Retriever by paying [[symbol:2]].
-10. Repeat.
-
-
-Results:
-- Infinite colorless mana
-- Infinite creature tokens
-- Infinite death triggers
-- Infinite creature ETB
-- Infinite creature LTB
-- Infinite creature sacrifice triggers
-- Infinite storm count
-===endpanel
-===endaccordion
-
-===accordion
-===panel: Glaring Fleshraker + Ashnod's Altar + Myr Retriever + Scrap Trawler
-[[symbol:c]]
-
-
-Cards Required:
-- [[Glaring Fleshraker]]
-- [[Ashnod's Altar]]
-- [[Myr Retriever]]
-- [[Scrap Trawler]]
-
-
-Prerequisites:
-- Glaring Fleshraker and Ashnod's Altar on the battlefield.
-- Myr Retriever and Scrap Trawler in hand or in your graveyard.
-- One of the artifact creatures must be in your hand while the other is in your graveyard
-- You have enough mana to cast the artifact card in your hand.
-
-
-Steps:
-1. Cast the artifact creature card in your hand by paying its mana cost.
-2. Glaring Fleshraker's first ability triggers, creating a 0/1 Eldrazi Spawn creature token.
-3. When the Eldrazi Spawn enters the battlefield, Glaring Fleshraker's second ability triggers, dealing 1 damage to each opponent.
-4. Resolve the artifact creature spell, triggering Glaring Fleshraker's second ability, dealing 1 damage to each opponent.
-5. Activate Ashnod's Altar by sacrificing the artifact creature, adding [[symbol:c]][[symbol:c]].
-6. When the artifact creature dies, it triggers, returning the other artifact creature from your graveyard to your hand.
-7. If needed, activate the Eldrazi Spawn by sacrificing it, adding [[symbol:c]].
-8. Repeat.
-
-
-Results:
-- Infinite creature LTB
-- Infinite creature ETB
-- Infinite creature sacrifice triggers
-- Infinite death triggers
-- Infinite damage
-- Infinite storm count
-- Infinite colorless mana
-- Infinite creature tokens
-===endpanel
-===endaccordion
-
-===accordion
-===panel: Scrap Trawler + Myr Retriever + Ashnod's Altar + Semblance Anvil
-[[symbol:c]]
-
-
-Cards Required:
-- [[Scrap Trawler]]
-- [[Myr Retriever]]
-- [[Ashnod's Altar]]
-- [[Semblance Anvil]]
-
-
-Prerequisites:
-- Scrap Trawler in your graveyard.
-- All other permanents on the battlefield.
-- There is an artifact or creature card exiled with Semblance Anvil.
-
-
-Steps:
-1. Activate Ashnod's Altar by sacrificing Myr Retriever, adding [[symbol:c]][[symbol:c]].
-2. When Myr Retriever dies, it triggers, returning Scrap Trawler from your graveyard to your hand.
-3. Cast Scrap Trawler by paying its mana cost, which is reduced by Semblance Anvil.
-4. Activate Ashnod's Altar by sacrificing Scrap Trawler, adding [[symbol:c]][[symbol:c]].
-5. When Scrap Trawler dies, it triggers, returning Myr Retriever from your graveyard to your hand.
-6. Cast Myr Retriever by paying its mana cost, which is reduced by Semblance Anvil.
-7. Repeat.
-
-
-Results:
-- Infinite artifact ETB
-- Infinite artifact LTB
-- Infinite artifact sacrifice triggers
-- Infinite creature ETB
-- Infinite creature LTB
-- Infinite colorless mana
-- Infinite death triggers
-- Infinite creature sacrifice triggers
-- Infinite storm count
-===endpanel
-===endaccordion
-
-===accordion
-===panel: Glaring Fleshraker + Ashnod's Altar + Myr Retriever + Junk Diver
-[[symbol:c]]
-
-
-Cards Required:
-- [[Glaring Fleshraker]]
-- [[Ashnod's Altar]]
-- [[Myr Retriever]]
-- [[Junk Diver]]
-
-
-Prerequisites:
-- Glaring Fleshraker and Ashnod's Altar on the battlefield.
-- Myr Retriever and Junk Diver in hand or in your graveyard.
-- One of the artifact creatures must be in your hand while the other is in your graveyard
-- You have enough mana to cast the artifact card in your hand.
-
-
-Steps:
-1. Cast the artifact creature card in your hand by paying its mana cost.
-2. Glaring Fleshraker's first ability triggers, creating a 0/1 Eldrazi Spawn creature token.
-3. When the Eldrazi Spawn enters the battlefield, Glaring Fleshraker's second ability triggers, dealing 1 damage to each opponent.
-4. Resolve the artifact creature spell, triggering Glaring Fleshraker's second ability, dealing 1 damage to each opponent.
-5. Activate Ashnod's Altar by sacrificing the artifact creature, adding [[symbol:c]][[symbol:c]].
-6. When the artifact creature dies, it triggers, returning the other artifact creature from your graveyard to your hand.
-7. If needed, activate the Eldrazi Spawn by sacrificing it, adding [[symbol:c]].
-8. Repeat.
-
-
-Results:
-- Infinite creature LTB
-- Infinite creature ETB
-- Infinite creature sacrifice triggers
-- Infinite death triggers
-- Infinite damage
-- Infinite storm count
-- Infinite colorless mana
-- Infinite creature tokens
-===endpanel
-===endaccordion
-
-===accordion
-===panel: Imotekh the Stormlord + Myr Retriever + Workshop Assistant + Ashnod's Altar
-[[symbol:b]]
-
-
-Cards Required:
-- [[Imotekh the Stormlord]]
-- [[Myr Retriever]]
-- [[Workshop Assistant]]
-- [[Ashnod's Altar]]
-
-
-Prerequisites:
-- Myr Retriever in your graveyard.
-- All other permanents on the battlefield.
-
-
-Steps:
-1. Activate Ashnod's Altar by sacrificing Workshop Assistant, adding [[symbol:c]][[symbol:c]].
-2. When Workshop Assistant dies, it triggers, returning Myr Retriever to your hand from your graveyard.
-3. Imotekh the Stormlord's first ability triggers, creating two 2/2 Necron Warrior artifact creature tokens.
-4. Activate Ashnod's Altar by sacrificing a Necron Warrior, adding [[symbol:c]][[symbol:c]].
-5. Cast Myr Retriever by paying [[symbol:2]].
-6. Activate Ashnod's Altar by sacrificing Myr Retriever, adding [[symbol:c]][[symbol:c]].
-7. When Myr Retriever dies, it triggers, returning Workshop Assistant to your hand from your graveyard.
-8. Imotekh the Stormlord's first ability triggers, creating two 2/2 Necron Warrior artifact creature tokens.
-9. Cast Workshop Assistant by paying [[symbol:3]].
-10. Repeat.
-
-
-Results:
-- Infinite colorless mana
-- Infinite creature tokens
-- Infinite death triggers
-- Infinite creature ETB
-- Infinite creature LTB
-- Infinite creature sacrifice triggers
-- Infinite storm count
-===endpanel
-===endaccordion
-
-===accordion
-===panel: Imotekh the Stormlord + Junk Diver + Myr Retriever + Krark-Clan Ironworks
-[[symbol:b]]
-
-
-Cards Required:
-- [[Imotekh the Stormlord]]
-- [[Junk Diver]]
-- [[Myr Retriever]]
-- [[Krark-Clan Ironworks]]
-
-
-Prerequisites:
-- Junk Diver in your graveyard.
-- All other permanents on the battlefield.
-
-
-Steps:
-1. Activate Krark-Clan Ironworks by sacrificing Myr Retriever, adding [[symbol:c]][[symbol:c]].
-2. When Myr Retriever dies, it triggers, returning Junk Diver to your hand from your graveyard.
-3. Imotekh the Stormlord's first ability triggers, creating two 2/2 Necron Warrior artifact creature tokens.
-4. Activate Krark-Clan Ironworks by sacrificing a Necron Warrior, adding [[symbol:c]][[symbol:c]].
-5. Cast Junk Diver by paying [[symbol:3]].
-6. Activate Krark-Clan Ironworks by sacrificing Junk Diver, adding [[symbol:c]][[symbol:c]].
-7. When Junk Diver dies, it triggers, returning Myr Retriever to your hand from your graveyard.
-8. Imotekh the Stormlord's first ability triggers, creating two 2/2 Necron Warrior artifact creature tokens.
-9. Cast Myr Retriever by paying [[symbol:2]].
-10. Repeat.
-
-
-Results:
-- Infinite colorless mana
-- Infinite creature tokens
-- Infinite death triggers
-- Infinite creature ETB
-- Infinite creature LTB
-- Infinite creature sacrifice triggers
-- Infinite storm count
-===endpanel
-===endaccordion
-
-===accordion
-===panel: Myr Retriever + Krark-Clan Ironworks + Ultron, Artificial Malevolence
-[[symbol:c]]
-
-
-Cards Required:
-- [[Myr Retriever]]
-- [[Krark-Clan Ironworks]]
-- [[Ultron, Artificial Malevolence]]
-
-
-Prerequisites:
-- Myr Retriever in hand.
-- Krark-Clan Ironworks and Ultron on the battlefield.
-- [[symbol:2]] available
-
-
-Steps:
-1. Cast Myr Retriever by paying [[symbol:2]].
-2. When Myr Retriever enters, Ultron triggers.
-3. Holding priority, activate Krark-Clan Ironworks by sacrificing Myr Retriever, adding [[symbol:c]][[symbol:c]]
-4. When Myr Retriever dies, it triggers, returning an artifact card from your graveyard to your hand.
-5. Resolve the Ultron trigger, causing you to pay [[symbol:2]] to create a token copy of Myr Retriever.
-6. Activate Krark-Clan Ironworks by sacrificing the Myr Retriever token, adding [[symbol:c]][[symbol:c]].
-7. When the Myr Retriever token dies, it triggers, returning the nontoken Myr Retriever from your graveyard to your hand.
-8. Repeat.
-
-
-Results:
-- Infinite creature ETB
-- Infinite creature LTB
-- Infinite death triggers
-- Infinite creature sacrifice triggers
-- Infinite storm count
-- Infinite artifact ETB
-- Infinite artifact LTB
-- Infinite artifact sacrifice triggers
-===endpanel
-===endaccordion
-
-===accordion
-===panel: Imotekh the Stormlord + Myr Retriever + Workshop Assistant + Krark-Clan Ironworks
-[[symbol:b]]
-
-
-Cards Required:
-- [[Imotekh the Stormlord]]
-- [[Myr Retriever]]
-- [[Workshop Assistant]]
-- [[Krark-Clan Ironworks]]
-
-
-Prerequisites:
-- Myr Retriever in your graveyard.
-- All other permanents on the battlefield.
-
-
-Steps:
-1. Activate Krark-Clan Ironworks by sacrificing Workshop Assistant, adding [[symbol:c]][[symbol:c]].
-2. When Workshop Assistant dies, it triggers, returning Myr Retriever to your hand from your graveyard.
-3. Imotekh the Stormlord's first ability triggers, creating two 2/2 Necron Warrior artifact creature tokens.
-4. Activate Krark-Clan Ironworks by sacrificing a Necron Warrior, adding [[symbol:c]][[symbol:c]].
-5. Cast Myr Retriever by paying [[symbol:2]].
-6. Activate Krark-Clan Ironworks by sacrificing Myr Retriever, adding [[symbol:c]][[symbol:c]].
-7. When Myr Retriever dies, it triggers, returning Workshop Assistant to your hand from your graveyard.
-8. Imotekh the Stormlord's first ability triggers, creating two 2/2 Necron Warrior artifact creature tokens.
-9. Cast Workshop Assistant by paying [[symbol:3]].
-10. Repeat.
-
-
-Results:
-- Infinite colorless mana
-- Infinite creature tokens
-- Infinite death triggers
-- Infinite creature ETB
-- Infinite creature LTB
-- Infinite creature sacrifice triggers
-- Infinite storm count
-===endpanel
-===endaccordion
-
-===accordion
-===panel: Glaring Fleshraker + Myr Retriever + Workshop Assistant + Krark-Clan Ironworks
-[[symbol:c]]
-
-
-Cards Required:
-- [[Glaring Fleshraker]]
-- [[Myr Retriever]]
-- [[Workshop Assistant]]
-- [[Krark-Clan Ironworks]]
-
-
-Prerequisites:
-- Glaring Fleshraker and Krark-Clan Ironworks on the battlefield.
-- Myr Retriever and Workshop Assistant in hand or in your graveyard.
-- One of the artifact creatures must be in your hand while the other is in your graveyard
-- You have enough mana to cast the artifact card in your hand.
-
-
-Steps:
-1. Cast the artifact creature card in your hand by paying its mana cost.
-2. Glaring Fleshraker's first ability triggers, creating a 0/1 Eldrazi Spawn creature token.
-3. When the Eldrazi Spawn enters the battlefield, Glaring Fleshraker's second ability triggers, dealing 1 damage to each opponent.
-4. Resolve the artifact creature spell, triggering Glaring Fleshraker's second ability, dealing 1 damage to each opponent.
-5. Activate Krark-Clan Ironworks by sacrificing the artifact creature, adding [[symbol:c]][[symbol:c]].
-6. When the artifact creature dies, it triggers, returning the other artifact creature from your graveyard to your hand.
-7. If needed, activate the Eldrazi Spawn by sacrificing it, adding [[symbol:c]].
-8. Repeat.
-
-
-Results:
-- Infinite creature LTB
-- Infinite creature ETB
-- Infinite creature sacrifice triggers
-- Infinite death triggers
-- Infinite colorless mana
-- Infinite damage
-- Infinite storm count
-- Infinite creature tokens
-===endpanel
-===endaccordion
-
-===accordion
-===panel: Myr Retriever + Ashnod's Altar + Ultron, Artificial Malevolence
-[[symbol:c]]
-
-
-Cards Required:
-- [[Myr Retriever]]
-- [[Ashnod's Altar]]
-- [[Ultron, Artificial Malevolence]]
-
-
-Prerequisites:
-- Myr Retriever in hand.
-- Ashnod's Altar and Ultron on the battlefield.
-- [[symbol:2]] available
-
-
-Steps:
-1. Cast Myr Retriever by paying [[symbol:2]].
-2. When Myr Retriever enters, Ultron triggers.
-3. Holding priority, activate Ashnod's Altar by sacrificing Myr Retriever, adding [[symbol:c]][[symbol:c]]
-4. When Myr Retriever dies, it triggers, returning an artifact card from your graveyard to your hand.
-5. Resolve the Ultron trigger, causing you to pay [[symbol:2]] to create a token copy of Myr Retriever.
-6. Activate Ashnod's Altar by sacrificing the Myr Retriever token, adding [[symbol:c]][[symbol:c]].
-7. When the Myr Retriever token dies, it triggers, returning the nontoken Myr Retriever from your graveyard to your hand.
-8. Repeat.
-
-
-Results:
-- Infinite creature ETB
-- Infinite creature LTB
-- Infinite death triggers
-- Infinite creature sacrifice triggers
-- Infinite storm count
-- Infinite artifact ETB
-- Infinite artifact LTB
-- Infinite artifact sacrifice triggers
-===endpanel
-===endaccordion
-
-===accordion
-===panel: Glaring Fleshraker + Ashnod's Altar + Myr Retriever + Workshop Assistant
-[[symbol:c]]
-
-
-Cards Required:
-- [[Glaring Fleshraker]]
-- [[Ashnod's Altar]]
-- [[Myr Retriever]]
-- [[Workshop Assistant]]
-
-
-Prerequisites:
-- Glaring Fleshraker and Ashnod's Altar on the battlefield.
-- Myr Retriever and Workshop Assistant in hand or in your graveyard.
-- One of the artifact creatures must be in your hand while the other is in your graveyard
-- You have enough mana to cast the artifact card in your hand.
-
-
-Steps:
-1. Cast the artifact creature card in your hand by paying its mana cost.
-2. Glaring Fleshraker's first ability triggers, creating a 0/1 Eldrazi Spawn creature token.
-3. When the Eldrazi Spawn enters the battlefield, Glaring Fleshraker's second ability triggers, dealing 1 damage to each opponent.
-4. Resolve the artifact creature spell, triggering Glaring Fleshraker's second ability, dealing 1 damage to each opponent.
-5. Activate Ashnod's Altar by sacrificing the artifact creature, adding [[symbol:c]][[symbol:c]].
-6. When the artifact creature dies, it triggers, returning the other artifact creature from your graveyard to your hand.
-7. If needed, activate the Eldrazi Spawn by sacrificing it, adding [[symbol:c]].
-8. Repeat.
-
-
-Results:
-- Infinite creature LTB
-- Infinite creature ETB
-- Infinite creature sacrifice triggers
-- Infinite death triggers
-- Infinite damage
-- Infinite storm count
-- Infinite colorless mana
-- Infinite creature tokens
 ===endpanel
 ===endaccordion
 
@@ -4866,34 +4901,6 @@ Results:
 ===endaccordion
 
 ===accordion
-===panel: Sensei's Divining Top + Mystic Forge + Cloud Key
-[[symbol:c]]
-
-
-Cards Required:
-- [[Sensei's Divining Top]]
-- [[Mystic Forge]]
-- [[Cloud Key]]
-
-
-Prerequisites:
-- All permanents on the battlefield (Cloud Key with "Artifact" chosen).
-
-
-Steps:
-1. Activate Sensei's Divining Top by tapping it, causing you to draw a card and put Sensei's Divining Top on top of your library.
-2. Cast Sensei's Divining Top from the top of your library by paying [[symbol:0]].
-3. Repeat
-
-
-Results:
-- Infinite card draw
-- Near-infinite storm count
-- Infinite draw triggers
-===endpanel
-===endaccordion
-
-===accordion
 ===panel: Sensei's Divining Top + Glaring Fleshraker + Mystic Forge
 [[symbol:c]]
 
@@ -4927,6 +4934,34 @@ Results:
 - Near-infinite creature LTB
 - Near-infinite death triggers
 - Near-infinite creature sacrifice triggers
+===endpanel
+===endaccordion
+
+===accordion
+===panel: Sensei's Divining Top + Mystic Forge + Cloud Key
+[[symbol:c]]
+
+
+Cards Required:
+- [[Sensei's Divining Top]]
+- [[Mystic Forge]]
+- [[Cloud Key]]
+
+
+Prerequisites:
+- All permanents on the battlefield (Cloud Key with "Artifact" chosen).
+
+
+Steps:
+1. Activate Sensei's Divining Top by tapping it, causing you to draw a card and put Sensei's Divining Top on top of your library.
+2. Cast Sensei's Divining Top from the top of your library by paying [[symbol:0]].
+3. Repeat
+
+
+Results:
+- Infinite card draw
+- Near-infinite storm count
+- Infinite draw triggers
 ===endpanel
 ===endaccordion
 
@@ -4997,72 +5032,6 @@ Results:
 ===panel: Nim Deathmantle
 
 ===accordion
-===panel: Nim Deathmantle + Ashnod's Altar
-[[symbol:c]]
-
-
-Cards Required:
-- [[Nim Deathmantle]]
-- [[Ashnod's Altar]]
-
-
-Prerequisites:
-- All permanents on the battlefield.
-
-
-Steps:
-1. Activate Ashnod's Altar by sacrificing the persist or undying creature, adding [[symbol:c]][[symbol:c]].
-2. When the persist or undying creature dies, its persist or undying ability and Nim Deathmantle trigger.
-3. Resolve the Nim Deathmantle trigger, choosing not to pay.
-4. Resolve the creature's trigger, returning it from your graveyard to the battlefield with a +1/+1 or -1/-1 counter on it.
-5. Activate Ashnod's Altar by sacrificing the persist or undying creature, adding [[symbol:c]][[symbol:c]].
-6. When the persist or undying creature dies, Nim Deathmantle triggers, causing you to pay [[symbol:4]] to return the persist or undying creature from your graveyard to the battlefield.
-7. Repeat.
-
-
-Results:
-- Infinite creature LTB
-- Infinite creature ETB
-- Infinite creature sacrifice triggers
-- Infinite death triggers
-===endpanel
-===endaccordion
-
-===accordion
-===panel: Nim Deathmantle + Ashnod's Altar + Marionette Apprentice
-[[symbol:b]]
-
-
-Cards Required:
-- [[Nim Deathmantle]]
-- [[Ashnod's Altar]]
-- [[Marionette Apprentice]]
-
-
-Prerequisites:
-- All permanents on the battlefield.
-- [[symbol:2]] available
-
-
-Steps:
-1. Activate Ashnod's Altar by sacrificing Marionette Apprentice, adding [[symbol:c]][[symbol:c]].
-2. When Marionette Apprentice dies, Nim Deathmantle triggers, causing you to pay [[symbol:4]] to return Marionette Apprentice from your graveyard to the battlefield and attach Nim Deathmantle to it.
-3. When Marionette Apprentice enters, it triggers, creating a creature token.
-4. Activate Ashnod's Altar by sacrificing a creature token, adding [[symbol:c]][[symbol:c]].
-5. When the creature token dies, Marionette Apprentice triggers, causing each opponent to lose 1 life.
-6. Repeat.
-
-
-Results:
-- Infinite creature LTB
-- Infinite creature ETB
-- Infinite creature sacrifice triggers
-- Infinite death triggers
-- Infinite lifeloss
-===endpanel
-===endaccordion
-
-===accordion
 ===panel: Imotekh the Stormlord + Nim Deathmantle + Ashnod's Altar
 [[symbol:b]]
 
@@ -5129,6 +5098,72 @@ Results:
 - Infinite creature ETB
 - Infinite creature LTB
 - Infinite creature sacrifice triggers
+===endpanel
+===endaccordion
+
+===accordion
+===panel: Nim Deathmantle + Ashnod's Altar
+[[symbol:c]]
+
+
+Cards Required:
+- [[Nim Deathmantle]]
+- [[Ashnod's Altar]]
+
+
+Prerequisites:
+- All permanents on the battlefield.
+
+
+Steps:
+1. Activate Ashnod's Altar by sacrificing the persist or undying creature, adding [[symbol:c]][[symbol:c]].
+2. When the persist or undying creature dies, its persist or undying ability and Nim Deathmantle trigger.
+3. Resolve the Nim Deathmantle trigger, choosing not to pay.
+4. Resolve the creature's trigger, returning it from your graveyard to the battlefield with a +1/+1 or -1/-1 counter on it.
+5. Activate Ashnod's Altar by sacrificing the persist or undying creature, adding [[symbol:c]][[symbol:c]].
+6. When the persist or undying creature dies, Nim Deathmantle triggers, causing you to pay [[symbol:4]] to return the persist or undying creature from your graveyard to the battlefield.
+7. Repeat.
+
+
+Results:
+- Infinite creature LTB
+- Infinite creature ETB
+- Infinite creature sacrifice triggers
+- Infinite death triggers
+===endpanel
+===endaccordion
+
+===accordion
+===panel: Nim Deathmantle + Ashnod's Altar + Marionette Apprentice
+[[symbol:b]]
+
+
+Cards Required:
+- [[Nim Deathmantle]]
+- [[Ashnod's Altar]]
+- [[Marionette Apprentice]]
+
+
+Prerequisites:
+- All permanents on the battlefield.
+- [[symbol:2]] available
+
+
+Steps:
+1. Activate Ashnod's Altar by sacrificing Marionette Apprentice, adding [[symbol:c]][[symbol:c]].
+2. When Marionette Apprentice dies, Nim Deathmantle triggers, causing you to pay [[symbol:4]] to return Marionette Apprentice from your graveyard to the battlefield and attach Nim Deathmantle to it.
+3. When Marionette Apprentice enters, it triggers, creating a creature token.
+4. Activate Ashnod's Altar by sacrificing a creature token, adding [[symbol:c]][[symbol:c]].
+5. When the creature token dies, Marionette Apprentice triggers, causing each opponent to lose 1 life.
+6. Repeat.
+
+
+Results:
+- Infinite creature LTB
+- Infinite creature ETB
+- Infinite creature sacrifice triggers
+- Infinite death triggers
+- Infinite lifeloss
 ===endpanel
 ===endaccordion
 
@@ -5357,45 +5392,6 @@ Results:
 ===endaccordion
 
 ===accordion
-===panel: Tortured Existence + Phyrexian Altar + Imotekh the Stormlord
-[[symbol:b]]
-
-
-Cards Required:
-- [[Tortured Existence]]
-- [[Phyrexian Altar]]
-- [[Imotekh the Stormlord]]
-
-
-Prerequisites:
-- All permanents on the battlefield.
-- You have an artifact creature card in your graveyard, and a creature card in your hand.
-- [[symbol:b]] available
-
-
-Steps:
-1. Activate Tortured Existence by paying [[symbol:b]] and discarding a creature card, returning another creature card from your graveyard to your hand.
-2. If the returned card was an artifact creature card, Imotekh the Stormlord triggers, creating two artifact creature tokens.
-3. Activate Phyrexian Altar by sacrificing a creature token, adding [[symbol:b]].
-4. Repeat.
-
-
-Results:
-- Infinite artifact ETB
-- Infinite artifact LTB
-- Infinite artifact sacrifice triggers
-- Infinite artifact tokens
-- Infinite colored mana
-- Infinite creature tokens
-- Infinite creature ETB
-- Infinite creature LTB
-- Infinite death triggers
-- Infinite creature sacrifice triggers
-- Infinite self-discard triggers
-===endpanel
-===endaccordion
-
-===accordion
 ===panel: Scrap Trawler + Myr Retriever + Phyrexian Altar + Semblance Anvil
 [[symbol:c]]
 
@@ -5433,6 +5429,78 @@ Results:
 - Infinite creature sacrifice triggers
 - Infinite storm count
 - Infinite colored mana
+===endpanel
+===endaccordion
+
+===accordion
+===panel: The Ooze + Stridehangar Automaton + Phyrexian Altar
+[[symbol:b]]
+
+Cards Required:
+- [[The Ooze]]
+- [[Stridehangar Automaton]]
+- [[Phyrexian Altar]]
+
+Prerequisites:
+- All permanents on the battlefield.
+- You control another creature with at least one +1/+1 counter on it.
+
+Steps:
+1. Activate Phyrexian Altar by sacrificing the creature with a +1/+1 counter on it, adding one mana of any color.
+2. The Ooze triggers, creating a Mutagen token. Stridehangar Automaton causes you to also create a 1/1 Thopter artifact creature token.
+3. Spend that mana, tap and sacrifice the Mutagen to put a +1/+1 counter on the Thopter.
+4. Activate Phyrexian Altar by sacrificing the Thopter, adding one mana of any color.
+5. The Ooze triggers, creating another Mutagen token. Stridehangar Automaton causes you to also create another 1/1 Thopter artifact creature token.
+6. Repeat from step 3.
+
+Results:
+- Infinite artifact ETB
+- Infinite artifact LTB
+- Infinite artifact sacrifice triggers
+- Infinite artifact tokens
+- Infinite creature ETB
+- Infinite creature LTB
+- Infinite creature sacrifice triggers
+- Infinite death triggers
+===endpanel
+===endaccordion
+
+===accordion
+===panel: Tortured Existence + Phyrexian Altar + Imotekh the Stormlord
+[[symbol:b]]
+
+
+Cards Required:
+- [[Tortured Existence]]
+- [[Phyrexian Altar]]
+- [[Imotekh the Stormlord]]
+
+
+Prerequisites:
+- All permanents on the battlefield.
+- You have an artifact creature card in your graveyard, and a creature card in your hand.
+- [[symbol:b]] available
+
+
+Steps:
+1. Activate Tortured Existence by paying [[symbol:b]] and discarding a creature card, returning another creature card from your graveyard to your hand.
+2. If the returned card was an artifact creature card, Imotekh the Stormlord triggers, creating two artifact creature tokens.
+3. Activate Phyrexian Altar by sacrificing a creature token, adding [[symbol:b]].
+4. Repeat.
+
+
+Results:
+- Infinite artifact ETB
+- Infinite artifact LTB
+- Infinite artifact sacrifice triggers
+- Infinite artifact tokens
+- Infinite colored mana
+- Infinite creature tokens
+- Infinite creature ETB
+- Infinite creature LTB
+- Infinite death triggers
+- Infinite creature sacrifice triggers
+- Infinite self-discard triggers
 ===endpanel
 ===endaccordion
 
@@ -5483,6 +5551,86 @@ Results:
 ===panel: Pitiless Plunderer
 
 ===accordion
+===panel: Metalwork Colossus + Warren Soultrader + Pitiless Plunderer + Aetherflux Reservoir
+[[symbol:b]]
+
+
+Cards Required:
+- [[Metalwork Colossus]]
+- [[Warren Soultrader]]
+- [[Pitiless Plunderer]]
+- [[Aetherflux Reservoir]]
+
+
+Prerequisites:
+- Metalwork Colossus in hand.
+- All other permanents on the battlefield.
+- The total mana value of noncreature artifacts you control is at least 10.
+
+
+Steps:
+1. Cast Metalwork Colossus by paying [[symbol:0]].
+2. Aetherflux Reservoir triggers, causing you to gain 1 life for each spell you've cast this turn.
+3. Activate Warren Soultrader by paying 1 life and sacrificing Metalwork Colossus.
+4. When Metalwork Colossus dies, Pitiless Plunderer triggers, creating a Treasure token.
+5. Resolve the Warren Soultrader ability, creating a Treasure token.
+6. Activate Metalwork Colossus by sacrificing the Treasures, returning Metalwork Colossus from your graveyard to your hand.
+7. Repeat.
+8. Once you have infinite life, you may activate Aetherflux Reservoir infinitely to deal infinite damage to any target(s).
+
+
+Results:
+- Infinite creature LTB
+- Infinite creature ETB
+- Infinite creature sacrifice triggers
+- Infinite death triggers
+- Infinite damage
+- Infinite lifegain triggers
+- Infinite lifegain
+- Infinite storm count
+===endpanel
+===endaccordion
+
+===accordion
+===panel: Pitiless Plunderer + Altar of Dementia + Stridehangar Automaton
+[[symbol:b]]
+
+
+Cards Required:
+- [[Pitiless Plunderer]]
+- [[Altar of Dementia]]
+- [[Stridehangar Automaton]]
+
+
+Prerequisites:
+- All permanents on the battlefield.
+- You control another creature.
+
+
+Steps:
+1. Activate Altar of Dementia by sacrificing another creature.
+2. When the creature dies, Pitiless Plunderer triggers, creating a Treasure token and a 1/1 Thopter artifact creature token.
+3. Resolve the Altar of Dementia ability.
+4. Repeat.
+
+
+Results:
+- Infinite artifact ETB
+- Infinite artifact LTB
+- Infinite artifact sacrifice triggers
+- Infinite artifact tokens
+- Infinite creature LTB
+- Infinite creature ETB
+- Infinite colored mana
+- Infinite creature sacrifice triggers
+- Infinite death triggers
+- Infinite mill
+- Infinite self-mill
+- Infinite Treasure tokens
+===endpanel
+===endaccordion
+
+===accordion
 ===panel: Pitiless Plunderer + Ashnod's Altar + Stridehangar Automaton
 [[symbol:b]]
 
@@ -5520,6 +5668,45 @@ Results:
 ===endaccordion
 
 ===accordion
+===panel: Pitiless Plunderer + Blasting Station + Stridehangar Automaton
+[[symbol:b]]
+
+
+Cards Required:
+- [[Pitiless Plunderer]]
+- [[Blasting Station]]
+- [[Stridehangar Automaton]]
+
+
+Prerequisites:
+- All permanents on the battlefield.
+- You control another creature.
+
+
+Steps:
+1. Activate Blasting Station by sacrificing another creature.
+2. When the creature dies, Pitiless Plunderer triggers, creating a Treasure token and a 1/1 Thopter artifact creature token.
+3. When the Thopter enters the battlefield, Blasting Station triggers, untapping Blasting Station.
+4. Resolve the Blasting Station ability from step 1.
+5. Repeat.
+
+
+Results:
+- Infinite artifact ETB
+- Infinite artifact LTB
+- Infinite artifact sacrifice triggers
+- Infinite artifact tokens
+- Infinite creature LTB
+- Infinite creature ETB
+- Infinite colored mana
+- Infinite creature sacrifice triggers
+- Infinite death triggers
+- Infinite damage
+- Infinite Treasure tokens
+===endpanel
+===endaccordion
+
+===accordion
 ===panel: Pitiless Plunderer + Phyrexian Altar + Stridehangar Automaton
 [[symbol:b]]
 
@@ -5551,6 +5738,84 @@ Results:
 - Infinite colored mana
 - Infinite creature sacrifice triggers
 - Infinite death triggers
+- Infinite Treasure tokens
+===endpanel
+===endaccordion
+
+===accordion
+===panel: Pitiless Plunderer + Stridehangar Automaton + Arcbound Ravager
+[[symbol:b]]
+
+
+Cards Required:
+- [[Pitiless Plunderer]]
+- [[Stridehangar Automaton]]
+- [[Arcbound Ravager]]
+
+
+Prerequisites:
+- All permanents on the battlefield.
+- You control another artifact creature.
+
+
+Steps:
+1. Activate Arcbound Ravager by sacrificing another artifact creature.
+2. When the creature dies, Pitiless Plunderer triggers, creating a Treasure token and a 1/1 Thopter artifact creature token.
+3. Resolve the Arcbound Ravager ability.
+4. Repeat.
+
+
+Results:
+- Infinite artifact ETB
+- Infinite artifact LTB
+- Infinite artifact sacrifice triggers
+- Infinite artifact tokens
+- Infinite creature LTB
+- Infinite creature ETB
+- Infinite colored mana
+- Infinite creature sacrifice triggers
+- Infinite death triggers
+- Infinite Treasure tokens
+- Infinite +1/+1 counters on a creature
+===endpanel
+===endaccordion
+
+===accordion
+===panel: Pitiless Plunderer + Stridehangar Automaton + Grinding Station
+[[symbol:b]]
+
+
+Cards Required:
+- [[Pitiless Plunderer]]
+- [[Stridehangar Automaton]]
+- [[Grinding Station]]
+
+
+Prerequisites:
+- All permanents on the battlefield.
+- You control another artifact creature.
+
+
+Steps:
+1. Activate Grinding Station by tapping it and sacrificing another artifact creature.
+2. When the creature dies, Pitiless Plunderer triggers, creating a Treasure token and a 1/1 Thopter artifact creature token.
+3. When the Treasure and Thopter enter the battlefield, Grinding Station triggers twice, untapping Grinding Station.
+4. Resolve the Grinding Station ability from step 1.
+5. Repeat.
+
+
+Results:
+- Infinite artifact ETB
+- Infinite artifact LTB
+- Infinite artifact sacrifice triggers
+- Infinite artifact tokens
+- Infinite creature LTB
+- Infinite creature ETB
+- Infinite colored mana
+- Infinite creature sacrifice triggers
+- Infinite death triggers
+- Infinite mill
+- Infinite self-mill
 - Infinite Treasure tokens
 ===endpanel
 ===endaccordion
@@ -5631,123 +5896,6 @@ Results:
 ===endaccordion
 
 ===accordion
-===panel: Pitiless Plunderer + Altar of Dementia + Stridehangar Automaton
-[[symbol:b]]
-
-
-Cards Required:
-- [[Pitiless Plunderer]]
-- [[Altar of Dementia]]
-- [[Stridehangar Automaton]]
-
-
-Prerequisites:
-- All permanents on the battlefield.
-- You control another creature.
-
-
-Steps:
-1. Activate Altar of Dementia by sacrificing another creature.
-2. When the creature dies, Pitiless Plunderer triggers, creating a Treasure token and a 1/1 Thopter artifact creature token.
-3. Resolve the Altar of Dementia ability.
-4. Repeat.
-
-
-Results:
-- Infinite artifact ETB
-- Infinite artifact LTB
-- Infinite artifact sacrifice triggers
-- Infinite artifact tokens
-- Infinite creature LTB
-- Infinite creature ETB
-- Infinite colored mana
-- Infinite creature sacrifice triggers
-- Infinite death triggers
-- Infinite mill
-- Infinite self-mill
-- Infinite Treasure tokens
-===endpanel
-===endaccordion
-
-===accordion
-===panel: Pitiless Plunderer + Stridehangar Automaton + Grinding Station
-[[symbol:b]]
-
-
-Cards Required:
-- [[Pitiless Plunderer]]
-- [[Stridehangar Automaton]]
-- [[Grinding Station]]
-
-
-Prerequisites:
-- All permanents on the battlefield.
-- You control another artifact creature.
-
-
-Steps:
-1. Activate Grinding Station by tapping it and sacrificing another artifact creature.
-2. When the creature dies, Pitiless Plunderer triggers, creating a Treasure token and a 1/1 Thopter artifact creature token.
-3. When the Treasure and Thopter enter the battlefield, Grinding Station triggers twice, untapping Grinding Station.
-4. Resolve the Grinding Station ability from step 1.
-5. Repeat.
-
-
-Results:
-- Infinite artifact ETB
-- Infinite artifact LTB
-- Infinite artifact sacrifice triggers
-- Infinite artifact tokens
-- Infinite creature LTB
-- Infinite creature ETB
-- Infinite colored mana
-- Infinite creature sacrifice triggers
-- Infinite death triggers
-- Infinite mill
-- Infinite self-mill
-- Infinite Treasure tokens
-===endpanel
-===endaccordion
-
-===accordion
-===panel: Pitiless Plunderer + Stridehangar Automaton + Arcbound Ravager
-[[symbol:b]]
-
-
-Cards Required:
-- [[Pitiless Plunderer]]
-- [[Stridehangar Automaton]]
-- [[Arcbound Ravager]]
-
-
-Prerequisites:
-- All permanents on the battlefield.
-- You control another artifact creature.
-
-
-Steps:
-1. Activate Arcbound Ravager by sacrificing another artifact creature.
-2. When the creature dies, Pitiless Plunderer triggers, creating a Treasure token and a 1/1 Thopter artifact creature token.
-3. Resolve the Arcbound Ravager ability.
-4. Repeat.
-
-
-Results:
-- Infinite artifact ETB
-- Infinite artifact LTB
-- Infinite artifact sacrifice triggers
-- Infinite artifact tokens
-- Infinite creature LTB
-- Infinite creature ETB
-- Infinite colored mana
-- Infinite creature sacrifice triggers
-- Infinite death triggers
-- Infinite Treasure tokens
-- Infinite +1/+1 counters on a creature
-===endpanel
-===endaccordion
-
-===accordion
 ===panel: Tortured Existence + Pitiless Plunderer + Imotekh the Stormlord + Altar of Dementia
 [[symbol:b]]
 
@@ -5790,45 +5938,6 @@ Results:
 - Infinite creature sacrifice triggers
 - Infinite self-discard triggers
 - Infinite self-mill
-- Infinite Treasure tokens
-===endpanel
-===endaccordion
-
-===accordion
-===panel: Pitiless Plunderer + Blasting Station + Stridehangar Automaton
-[[symbol:b]]
-
-
-Cards Required:
-- [[Pitiless Plunderer]]
-- [[Blasting Station]]
-- [[Stridehangar Automaton]]
-
-
-Prerequisites:
-- All permanents on the battlefield.
-- You control another creature.
-
-
-Steps:
-1. Activate Blasting Station by sacrificing another creature.
-2. When the creature dies, Pitiless Plunderer triggers, creating a Treasure token and a 1/1 Thopter artifact creature token.
-3. When the Thopter enters the battlefield, Blasting Station triggers, untapping Blasting Station.
-4. Resolve the Blasting Station ability from step 1.
-5. Repeat.
-
-
-Results:
-- Infinite artifact ETB
-- Infinite artifact LTB
-- Infinite artifact sacrifice triggers
-- Infinite artifact tokens
-- Infinite creature LTB
-- Infinite creature ETB
-- Infinite colored mana
-- Infinite creature sacrifice triggers
-- Infinite death triggers
-- Infinite damage
 - Infinite Treasure tokens
 ===endpanel
 ===endaccordion
@@ -5881,47 +5990,6 @@ Results:
 ===endaccordion
 
 ===accordion
-===panel: Metalwork Colossus + Warren Soultrader + Pitiless Plunderer + Aetherflux Reservoir
-[[symbol:b]]
-
-
-Cards Required:
-- [[Metalwork Colossus]]
-- [[Warren Soultrader]]
-- [[Pitiless Plunderer]]
-- [[Aetherflux Reservoir]]
-
-
-Prerequisites:
-- Metalwork Colossus in hand.
-- All other permanents on the battlefield.
-- The total mana value of noncreature artifacts you control is at least 10.
-
-
-Steps:
-1. Cast Metalwork Colossus by paying [[symbol:0]].
-2. Aetherflux Reservoir triggers, causing you to gain 1 life for each spell you've cast this turn.
-3. Activate Warren Soultrader by paying 1 life and sacrificing Metalwork Colossus.
-4. When Metalwork Colossus dies, Pitiless Plunderer triggers, creating a Treasure token.
-5. Resolve the Warren Soultrader ability, creating a Treasure token.
-6. Activate Metalwork Colossus by sacrificing the Treasures, returning Metalwork Colossus from your graveyard to your hand.
-7. Repeat.
-8. Once you have infinite life, you may activate Aetherflux Reservoir infinitely to deal infinite damage to any target(s).
-
-
-Results:
-- Infinite creature LTB
-- Infinite creature ETB
-- Infinite creature sacrifice triggers
-- Infinite death triggers
-- Infinite damage
-- Infinite lifegain triggers
-- Infinite lifegain
-- Infinite storm count
-===endpanel
-===endaccordion
-
-===accordion
 ===panel: Ultron the Annihilator + Nim Deathmantle + Phyrexian Altar + Pitiless Plunderer
 [[symbol:b]]
 
@@ -5968,31 +6036,31 @@ Results:
 ===panel: Retrofitter Foundry
 
 ===accordion
-===panel: Retrofitter Foundry + Clock of Omens + Stridehangar Automaton
+===panel: Dross Scorpion + Retrofitter Foundry + Ashnod's Altar
 [[symbol:c]]
 
 
 Cards Required:
+- [[Dross Scorpion]]
 - [[Retrofitter Foundry]]
-- [[Clock of Omens]]
-- [[Stridehangar Automaton]]
+- [[Ashnod's Altar]]
 
 
 Prerequisites:
 - All permanents on the battlefield.
-- You control a Thopter.
+- [[symbol:2]] available
 
 
 Steps:
-1. Activate Retrofitter Foundry's fourth ability by tapping it and sacrificing a Thopter, creating a 4/4 Construct and a 1/1 Thopter artifact creature token.
-2. Activate Clock of Omens by tapping the Construct and Thopter, untapping Retrofitter Foundry.
-3. Repeat.
+1. Activate Retrofitter Foundry's second ability by paying [[symbol:2]] and tapping it, creating a 1/1 Servo artifact creature token.
+2. Activate Ashnod's Altar by sacrificing the Servo, adding [[symbol:c]][[symbol:c]].
+3. When the Servo dies, Dross Scorpion triggers, untapping Retrofitter Foundry.
+4. Repeat.
 
 
 Results:
-- Infinite creature ETB
-- Infinite tapped creature tokens
 - Infinite creature LTB
+- Infinite creature ETB
 - Infinite creature sacrifice triggers
 - Infinite death triggers
 ===endpanel
@@ -6030,6 +6098,37 @@ Results:
 ===endaccordion
 
 ===accordion
+===panel: Retrofitter Foundry + Clock of Omens + Stridehangar Automaton
+[[symbol:c]]
+
+
+Cards Required:
+- [[Retrofitter Foundry]]
+- [[Clock of Omens]]
+- [[Stridehangar Automaton]]
+
+
+Prerequisites:
+- All permanents on the battlefield.
+- You control a Thopter.
+
+
+Steps:
+1. Activate Retrofitter Foundry's fourth ability by tapping it and sacrificing a Thopter, creating a 4/4 Construct and a 1/1 Thopter artifact creature token.
+2. Activate Clock of Omens by tapping the Construct and Thopter, untapping Retrofitter Foundry.
+3. Repeat.
+
+
+Results:
+- Infinite creature ETB
+- Infinite tapped creature tokens
+- Infinite creature LTB
+- Infinite creature sacrifice triggers
+- Infinite death triggers
+===endpanel
+===endaccordion
+
+===accordion
 ===panel: Retrofitter Foundry + Dross Scorpion + Stridehangar Automaton
 [[symbol:c]]
 
@@ -6061,37 +6160,6 @@ Results:
 ===endpanel
 ===endaccordion
 
-===accordion
-===panel: Dross Scorpion + Retrofitter Foundry + Ashnod's Altar
-[[symbol:c]]
-
-
-Cards Required:
-- [[Dross Scorpion]]
-- [[Retrofitter Foundry]]
-- [[Ashnod's Altar]]
-
-
-Prerequisites:
-- All permanents on the battlefield.
-- [[symbol:2]] available
-
-
-Steps:
-1. Activate Retrofitter Foundry's second ability by paying [[symbol:2]] and tapping it, creating a 1/1 Servo artifact creature token.
-2. Activate Ashnod's Altar by sacrificing the Servo, adding [[symbol:c]][[symbol:c]].
-3. When the Servo dies, Dross Scorpion triggers, untapping Retrofitter Foundry.
-4. Repeat.
-
-
-Results:
-- Infinite creature LTB
-- Infinite creature ETB
-- Infinite creature sacrifice triggers
-- Infinite death triggers
-===endpanel
-===endaccordion
-
 ===endpanel
 ===endaccordion
 
@@ -6099,210 +6167,86 @@ Results:
 ===panel: Scrap Trawler
 
 ===accordion
-===panel: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Foundry Inspector
+===panel: Glaring Fleshraker + Ashnod's Altar + Myr Retriever + Scrap Trawler
 [[symbol:c]]
 
 
 Cards Required:
-- [[Scrap Trawler]]
-- [[Myr Retriever]]
-- [[Krark-Clan Ironworks]]
-- [[Foundry Inspector]]
-
-
-Prerequisites:
-- Scrap Trawler in your graveyard.
-- All other permanents on the battlefield.
-
-
-Steps:
-1. Activate Krark-Clan Ironworks by sacrificing Myr Retriever, adding [[symbol:c]][[symbol:c]].
-2. When Myr Retriever dies, it triggers, returning Scrap Trawler from your graveyard to your hand.
-3. Cast Scrap Trawler by paying its mana cost, which is reduced by Foundry Inspector.
-4. Activate Krark-Clan Ironworks by sacrificing Scrap Trawler, adding [[symbol:c]][[symbol:c]].
-5. When Scrap Trawler dies, it triggers, returning Myr Retriever from your graveyard to your hand.
-6. Cast Myr Retriever by paying its mana cost, which is reduced by Foundry Inspector.
-7. Repeat.
-
-
-Results:
-- Infinite artifact ETB
-- Infinite artifact LTB
-- Infinite artifact sacrifice triggers
-- Infinite creature ETB
-- Infinite creature LTB
-- Infinite colorless mana
-- Infinite death triggers
-- Infinite creature sacrifice triggers
-- Infinite storm count
-===endpanel
-===endaccordion
-
-===accordion
-===panel: Scrap Trawler + Myr Retriever + Ashnod's Altar + Foundry Inspector
-[[symbol:c]]
-
-
-Cards Required:
-- [[Scrap Trawler]]
-- [[Myr Retriever]]
+- [[Glaring Fleshraker]]
 - [[Ashnod's Altar]]
-- [[Foundry Inspector]]
+- [[Myr Retriever]]
+- [[Scrap Trawler]]
 
 
 Prerequisites:
-- Scrap Trawler in your graveyard.
-- All other permanents on the battlefield.
+- Glaring Fleshraker and Ashnod's Altar on the battlefield.
+- Myr Retriever and Scrap Trawler in hand or in your graveyard.
+- One of the artifact creatures must be in your hand while the other is in your graveyard
+- You have enough mana to cast the artifact card in your hand.
 
 
 Steps:
-1. Activate Ashnod's Altar by sacrificing Myr Retriever, adding [[symbol:c]][[symbol:c]].
-2. When Myr Retriever dies, it triggers, returning Scrap Trawler from your graveyard to your hand.
-3. Cast Scrap Trawler by paying its mana cost, which is reduced by Foundry Inspector.
-4. Activate Ashnod's Altar by sacrificing Scrap Trawler, adding [[symbol:c]][[symbol:c]].
-5. When Scrap Trawler dies, it triggers, returning Myr Retriever from your graveyard to your hand.
-6. Cast Myr Retriever by paying its mana cost, which is reduced by Foundry Inspector.
-7. Repeat.
+1. Cast the artifact creature card in your hand by paying its mana cost.
+2. Glaring Fleshraker's first ability triggers, creating a 0/1 Eldrazi Spawn creature token.
+3. When the Eldrazi Spawn enters the battlefield, Glaring Fleshraker's second ability triggers, dealing 1 damage to each opponent.
+4. Resolve the artifact creature spell, triggering Glaring Fleshraker's second ability, dealing 1 damage to each opponent.
+5. Activate Ashnod's Altar by sacrificing the artifact creature, adding [[symbol:c]][[symbol:c]].
+6. When the artifact creature dies, it triggers, returning the other artifact creature from your graveyard to your hand.
+7. If needed, activate the Eldrazi Spawn by sacrificing it, adding [[symbol:c]].
+8. Repeat.
 
 
 Results:
-- Infinite artifact ETB
-- Infinite artifact LTB
-- Infinite artifact sacrifice triggers
-- Infinite creature ETB
 - Infinite creature LTB
-- Infinite colorless mana
-- Infinite death triggers
+- Infinite creature ETB
 - Infinite creature sacrifice triggers
+- Infinite death triggers
+- Infinite damage
 - Infinite storm count
+- Infinite colorless mana
+- Infinite creature tokens
 ===endpanel
 ===endaccordion
 
 ===accordion
-===panel: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Sol Ring + Junk Diver
+===panel: Glaring Fleshraker + Ashnod's Altar + Scrap Trawler + Workshop Assistant
 [[symbol:c]]
 
 
 Cards Required:
-- [[Scrap Trawler]]
-- [[Myr Retriever]]
-- [[Krark-Clan Ironworks]]
-- [[Sol Ring]]
-- [[Junk Diver]]
-
-
-Prerequisites:
-- Sol Ring and Junk Diver in your graveyard.
-- All other permanents on the battlefield.
-
-
-Steps:
-1. Activate Krark-Clan Ironworks by sacrificing Myr Retriever, adding [[symbol:c]][[symbol:c]].
-2. Myr Retriever dies, triggering itself and Scrap Trawler.
-3. Resolve the Myr Retriever trigger, returning Junk Diver from your graveyard to your hand.
-4. Resolve the Scrap Trawler trigger, returning Sol Ring from your hand to your graveyard.
-5. Cast Sol Ring by paying [[symbol:1]].
-6. Activate Sol Ring by tapping it, adding [[symbol:c]][[symbol:c]].
-7. Activate Krark-Clan Ironworks by sacrificing Sol Ring, adding [[symbol:c]][[symbol:c]].
-8. Scrap Trawler triggers, choose not to return an artifact to your hand.
-9. Cast Junk Diver by paying [[symbol:3]].
-10. Activate Krark-Clan Ironworks by sacrificing Junk Diver, adding [[symbol:c]][[symbol:c]].
-11. Junk Diver dies, triggering itself and Scrap Trawler.
-12. Resolve the Junk Diver trigger, returning Myr Retriever from your graveyard to your hand.
-13. Resolve the Scrap Trawler trigger, returning Sol Ring from your graveyard to your hand.
-14. Repeat steps 5-8 one additional time.
-15. Cast Myr Retriever by paying [[symbol:2]].
-16. Repeat from step 1.
-
-
-Results:
-- Infinite blinking of some artifacts
-- Infinite colorless mana
-- Infinite death triggers
-- Infinite creature ETB
-- Infinite creature LTB
-- Infinite creature sacrifice triggers
-- Infinite storm count
-===endpanel
-===endaccordion
-
-===accordion
-===panel: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Cloud Key
-[[symbol:c]]
-
-
-Cards Required:
-- [[Scrap Trawler]]
-- [[Myr Retriever]]
-- [[Krark-Clan Ironworks]]
-- [[Cloud Key]]
-
-
-Prerequisites:
-- Scrap Trawler in your graveyard.
-- All other permanents on the battlefield (Cloud Key with "Artifact" or "Creature" chosen).
-
-
-Steps:
-1. Activate Krark-Clan Ironworks by sacrificing Myr Retriever, adding [[symbol:c]][[symbol:c]].
-2. When Myr Retriever dies, it triggers, returning Scrap Trawler from your graveyard to your hand.
-3. Cast Scrap Trawler by paying its mana cost, which is reduced by Cloud Key.
-4. Activate Krark-Clan Ironworks by sacrificing Scrap Trawler, adding [[symbol:c]][[symbol:c]].
-5. When Scrap Trawler dies, it triggers, returning Myr Retriever from your graveyard to your hand.
-6. Cast Myr Retriever by paying its mana cost, which is reduced by Cloud Key.
-7. Repeat.
-
-
-Results:
-- Infinite artifact ETB
-- Infinite artifact LTB
-- Infinite artifact sacrifice triggers
-- Infinite creature ETB
-- Infinite creature LTB
-- Infinite colorless mana
-- Infinite death triggers
-- Infinite creature sacrifice triggers
-- Infinite storm count
-===endpanel
-===endaccordion
-
-===accordion
-===panel: Scrap Trawler + Myr Retriever + Ashnod's Altar + Cloud Key
-[[symbol:c]]
-
-
-Cards Required:
-- [[Scrap Trawler]]
-- [[Myr Retriever]]
+- [[Glaring Fleshraker]]
 - [[Ashnod's Altar]]
-- [[Cloud Key]]
+- [[Scrap Trawler]]
+- [[Workshop Assistant]]
 
 
 Prerequisites:
-- Scrap Trawler in your graveyard.
-- All other permanents on the battlefield (Cloud Key with "Artifact" or "Creature" chosen).
+- Glaring Fleshraker and Ashnod's Altar on the battlefield.
+- Scrap Trawler and Workshop Assistant in hand or in your graveyard.
+- One of the artifact creatures must be in your hand while the other is in your graveyard
+- You have enough mana to cast the artifact card in your hand.
 
 
 Steps:
-1. Activate Ashnod's Altar by sacrificing Myr Retriever, adding [[symbol:c]][[symbol:c]].
-2. When Myr Retriever dies, it triggers, returning Scrap Trawler from your graveyard to your hand.
-3. Cast Scrap Trawler by paying its mana cost, which is reduced by Cloud Key.
-4. Activate Ashnod's Altar by sacrificing Scrap Trawler, adding [[symbol:c]][[symbol:c]].
-5. When Scrap Trawler dies, it triggers, returning Myr Retriever from your graveyard to your hand.
-6. Cast Myr Retriever by paying its mana cost, which is reduced by Cloud Key.
-7. Repeat.
+1. Cast the artifact creature card in your hand by paying its mana cost.
+2. Glaring Fleshraker's first ability triggers, creating a 0/1 Eldrazi Spawn creature token.
+3. When the Eldrazi Spawn enters the battlefield, Glaring Fleshraker's second ability triggers, dealing 1 damage to each opponent.
+4. Resolve the artifact creature spell, triggering Glaring Fleshraker's second ability, dealing 1 damage to each opponent.
+5. Activate Ashnod's Altar by sacrificing the artifact creature, adding [[symbol:c]][[symbol:c]].
+6. When the artifact creature dies, it triggers, returning the other artifact creature from your graveyard to your hand.
+7. If needed, activate the Eldrazi Spawn by sacrificing it, adding [[symbol:c]].
+8. Repeat.
 
 
 Results:
-- Infinite artifact ETB
-- Infinite artifact LTB
-- Infinite artifact sacrifice triggers
-- Infinite creature ETB
 - Infinite creature LTB
-- Infinite colorless mana
-- Infinite death triggers
+- Infinite creature ETB
 - Infinite creature sacrifice triggers
+- Infinite death triggers
+- Infinite damage
 - Infinite storm count
+- Infinite colorless mana
+- Infinite creature tokens
 ===endpanel
 ===endaccordion
 
@@ -6345,47 +6289,6 @@ Results:
 - Infinite damage
 - Infinite storm count
 - Infinite creature tokens
-===endpanel
-===endaccordion
-
-===accordion
-===panel: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Semblance Anvil
-[[symbol:c]]
-
-
-Cards Required:
-- [[Scrap Trawler]]
-- [[Myr Retriever]]
-- [[Krark-Clan Ironworks]]
-- [[Semblance Anvil]]
-
-
-Prerequisites:
-- Scrap Trawler in your graveyard.
-- All other permanents on the battlefield.
-- There is an artifact card exiled with Semblance Anvil.
-
-
-Steps:
-1. Activate Krark-Clan Ironworks by sacrificing Myr Retriever, adding [[symbol:c]][[symbol:c]].
-2. When Myr Retriever dies, it triggers, returning Scrap Trawler from your graveyard to your hand.
-3. Cast Scrap Trawler by paying its mana cost, which is reduced by Semblance Anvil.
-4. Activate Krark-Clan Ironworks by sacrificing Scrap Trawler, adding [[symbol:c]][[symbol:c]].
-5. When Scrap Trawler dies, it triggers, returning Myr Retriever from your graveyard to your hand.
-6. Cast Myr Retriever by paying its mana cost, which is reduced by Semblance Anvil.
-7. Repeat.
-
-
-Results:
-- Infinite artifact ETB
-- Infinite artifact LTB
-- Infinite artifact sacrifice triggers
-- Infinite creature ETB
-- Infinite creature LTB
-- Infinite colorless mana
-- Infinite death triggers
-- Infinite creature sacrifice triggers
-- Infinite storm count
 ===endpanel
 ===endaccordion
 
@@ -6472,44 +6375,82 @@ Results:
 ===endaccordion
 
 ===accordion
-===panel: Glaring Fleshraker + Ashnod's Altar + Myr Retriever + Scrap Trawler
+===panel: Scrap Trawler + Myr Retriever + Ashnod's Altar + Cloud Key
 [[symbol:c]]
 
 
 Cards Required:
-- [[Glaring Fleshraker]]
-- [[Ashnod's Altar]]
-- [[Myr Retriever]]
 - [[Scrap Trawler]]
+- [[Myr Retriever]]
+- [[Ashnod's Altar]]
+- [[Cloud Key]]
 
 
 Prerequisites:
-- Glaring Fleshraker and Ashnod's Altar on the battlefield.
-- Myr Retriever and Scrap Trawler in hand or in your graveyard.
-- One of the artifact creatures must be in your hand while the other is in your graveyard
-- You have enough mana to cast the artifact card in your hand.
+- Scrap Trawler in your graveyard.
+- All other permanents on the battlefield (Cloud Key with "Artifact" or "Creature" chosen).
 
 
 Steps:
-1. Cast the artifact creature card in your hand by paying its mana cost.
-2. Glaring Fleshraker's first ability triggers, creating a 0/1 Eldrazi Spawn creature token.
-3. When the Eldrazi Spawn enters the battlefield, Glaring Fleshraker's second ability triggers, dealing 1 damage to each opponent.
-4. Resolve the artifact creature spell, triggering Glaring Fleshraker's second ability, dealing 1 damage to each opponent.
-5. Activate Ashnod's Altar by sacrificing the artifact creature, adding [[symbol:c]][[symbol:c]].
-6. When the artifact creature dies, it triggers, returning the other artifact creature from your graveyard to your hand.
-7. If needed, activate the Eldrazi Spawn by sacrificing it, adding [[symbol:c]].
-8. Repeat.
+1. Activate Ashnod's Altar by sacrificing Myr Retriever, adding [[symbol:c]][[symbol:c]].
+2. When Myr Retriever dies, it triggers, returning Scrap Trawler from your graveyard to your hand.
+3. Cast Scrap Trawler by paying its mana cost, which is reduced by Cloud Key.
+4. Activate Ashnod's Altar by sacrificing Scrap Trawler, adding [[symbol:c]][[symbol:c]].
+5. When Scrap Trawler dies, it triggers, returning Myr Retriever from your graveyard to your hand.
+6. Cast Myr Retriever by paying its mana cost, which is reduced by Cloud Key.
+7. Repeat.
 
 
 Results:
-- Infinite creature LTB
+- Infinite artifact ETB
+- Infinite artifact LTB
+- Infinite artifact sacrifice triggers
 - Infinite creature ETB
-- Infinite creature sacrifice triggers
-- Infinite death triggers
-- Infinite damage
-- Infinite storm count
+- Infinite creature LTB
 - Infinite colorless mana
-- Infinite creature tokens
+- Infinite death triggers
+- Infinite creature sacrifice triggers
+- Infinite storm count
+===endpanel
+===endaccordion
+
+===accordion
+===panel: Scrap Trawler + Myr Retriever + Ashnod's Altar + Foundry Inspector
+[[symbol:c]]
+
+
+Cards Required:
+- [[Scrap Trawler]]
+- [[Myr Retriever]]
+- [[Ashnod's Altar]]
+- [[Foundry Inspector]]
+
+
+Prerequisites:
+- Scrap Trawler in your graveyard.
+- All other permanents on the battlefield.
+
+
+Steps:
+1. Activate Ashnod's Altar by sacrificing Myr Retriever, adding [[symbol:c]][[symbol:c]].
+2. When Myr Retriever dies, it triggers, returning Scrap Trawler from your graveyard to your hand.
+3. Cast Scrap Trawler by paying its mana cost, which is reduced by Foundry Inspector.
+4. Activate Ashnod's Altar by sacrificing Scrap Trawler, adding [[symbol:c]][[symbol:c]].
+5. When Scrap Trawler dies, it triggers, returning Myr Retriever from your graveyard to your hand.
+6. Cast Myr Retriever by paying its mana cost, which is reduced by Foundry Inspector.
+7. Repeat.
+
+
+Results:
+- Infinite artifact ETB
+- Infinite artifact LTB
+- Infinite artifact sacrifice triggers
+- Infinite creature ETB
+- Infinite creature LTB
+- Infinite colorless mana
+- Infinite death triggers
+- Infinite creature sacrifice triggers
+- Infinite storm count
 ===endpanel
 ===endaccordion
 
@@ -6555,44 +6496,171 @@ Results:
 ===endaccordion
 
 ===accordion
-===panel: Glaring Fleshraker + Ashnod's Altar + Scrap Trawler + Workshop Assistant
+===panel: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Cloud Key
 [[symbol:c]]
 
 
 Cards Required:
-- [[Glaring Fleshraker]]
-- [[Ashnod's Altar]]
 - [[Scrap Trawler]]
-- [[Workshop Assistant]]
+- [[Myr Retriever]]
+- [[Krark-Clan Ironworks]]
+- [[Cloud Key]]
 
 
 Prerequisites:
-- Glaring Fleshraker and Ashnod's Altar on the battlefield.
-- Scrap Trawler and Workshop Assistant in hand or in your graveyard.
-- One of the artifact creatures must be in your hand while the other is in your graveyard
-- You have enough mana to cast the artifact card in your hand.
+- Scrap Trawler in your graveyard.
+- All other permanents on the battlefield (Cloud Key with "Artifact" or "Creature" chosen).
 
 
 Steps:
-1. Cast the artifact creature card in your hand by paying its mana cost.
-2. Glaring Fleshraker's first ability triggers, creating a 0/1 Eldrazi Spawn creature token.
-3. When the Eldrazi Spawn enters the battlefield, Glaring Fleshraker's second ability triggers, dealing 1 damage to each opponent.
-4. Resolve the artifact creature spell, triggering Glaring Fleshraker's second ability, dealing 1 damage to each opponent.
-5. Activate Ashnod's Altar by sacrificing the artifact creature, adding [[symbol:c]][[symbol:c]].
-6. When the artifact creature dies, it triggers, returning the other artifact creature from your graveyard to your hand.
-7. If needed, activate the Eldrazi Spawn by sacrificing it, adding [[symbol:c]].
-8. Repeat.
+1. Activate Krark-Clan Ironworks by sacrificing Myr Retriever, adding [[symbol:c]][[symbol:c]].
+2. When Myr Retriever dies, it triggers, returning Scrap Trawler from your graveyard to your hand.
+3. Cast Scrap Trawler by paying its mana cost, which is reduced by Cloud Key.
+4. Activate Krark-Clan Ironworks by sacrificing Scrap Trawler, adding [[symbol:c]][[symbol:c]].
+5. When Scrap Trawler dies, it triggers, returning Myr Retriever from your graveyard to your hand.
+6. Cast Myr Retriever by paying its mana cost, which is reduced by Cloud Key.
+7. Repeat.
 
 
 Results:
-- Infinite creature LTB
+- Infinite artifact ETB
+- Infinite artifact LTB
+- Infinite artifact sacrifice triggers
 - Infinite creature ETB
-- Infinite creature sacrifice triggers
-- Infinite death triggers
-- Infinite damage
-- Infinite storm count
+- Infinite creature LTB
 - Infinite colorless mana
-- Infinite creature tokens
+- Infinite death triggers
+- Infinite creature sacrifice triggers
+- Infinite storm count
+===endpanel
+===endaccordion
+
+===accordion
+===panel: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Foundry Inspector
+[[symbol:c]]
+
+
+Cards Required:
+- [[Scrap Trawler]]
+- [[Myr Retriever]]
+- [[Krark-Clan Ironworks]]
+- [[Foundry Inspector]]
+
+
+Prerequisites:
+- Scrap Trawler in your graveyard.
+- All other permanents on the battlefield.
+
+
+Steps:
+1. Activate Krark-Clan Ironworks by sacrificing Myr Retriever, adding [[symbol:c]][[symbol:c]].
+2. When Myr Retriever dies, it triggers, returning Scrap Trawler from your graveyard to your hand.
+3. Cast Scrap Trawler by paying its mana cost, which is reduced by Foundry Inspector.
+4. Activate Krark-Clan Ironworks by sacrificing Scrap Trawler, adding [[symbol:c]][[symbol:c]].
+5. When Scrap Trawler dies, it triggers, returning Myr Retriever from your graveyard to your hand.
+6. Cast Myr Retriever by paying its mana cost, which is reduced by Foundry Inspector.
+7. Repeat.
+
+
+Results:
+- Infinite artifact ETB
+- Infinite artifact LTB
+- Infinite artifact sacrifice triggers
+- Infinite creature ETB
+- Infinite creature LTB
+- Infinite colorless mana
+- Infinite death triggers
+- Infinite creature sacrifice triggers
+- Infinite storm count
+===endpanel
+===endaccordion
+
+===accordion
+===panel: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Semblance Anvil
+[[symbol:c]]
+
+
+Cards Required:
+- [[Scrap Trawler]]
+- [[Myr Retriever]]
+- [[Krark-Clan Ironworks]]
+- [[Semblance Anvil]]
+
+
+Prerequisites:
+- Scrap Trawler in your graveyard.
+- All other permanents on the battlefield.
+- There is an artifact card exiled with Semblance Anvil.
+
+
+Steps:
+1. Activate Krark-Clan Ironworks by sacrificing Myr Retriever, adding [[symbol:c]][[symbol:c]].
+2. When Myr Retriever dies, it triggers, returning Scrap Trawler from your graveyard to your hand.
+3. Cast Scrap Trawler by paying its mana cost, which is reduced by Semblance Anvil.
+4. Activate Krark-Clan Ironworks by sacrificing Scrap Trawler, adding [[symbol:c]][[symbol:c]].
+5. When Scrap Trawler dies, it triggers, returning Myr Retriever from your graveyard to your hand.
+6. Cast Myr Retriever by paying its mana cost, which is reduced by Semblance Anvil.
+7. Repeat.
+
+
+Results:
+- Infinite artifact ETB
+- Infinite artifact LTB
+- Infinite artifact sacrifice triggers
+- Infinite creature ETB
+- Infinite creature LTB
+- Infinite colorless mana
+- Infinite death triggers
+- Infinite creature sacrifice triggers
+- Infinite storm count
+===endpanel
+===endaccordion
+
+===accordion
+===panel: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Sol Ring + Junk Diver
+[[symbol:c]]
+
+
+Cards Required:
+- [[Scrap Trawler]]
+- [[Myr Retriever]]
+- [[Krark-Clan Ironworks]]
+- [[Sol Ring]]
+- [[Junk Diver]]
+
+
+Prerequisites:
+- Sol Ring and Junk Diver in your graveyard.
+- All other permanents on the battlefield.
+
+
+Steps:
+1. Activate Krark-Clan Ironworks by sacrificing Myr Retriever, adding [[symbol:c]][[symbol:c]].
+2. Myr Retriever dies, triggering itself and Scrap Trawler.
+3. Resolve the Myr Retriever trigger, returning Junk Diver from your graveyard to your hand.
+4. Resolve the Scrap Trawler trigger, returning Sol Ring from your hand to your graveyard.
+5. Cast Sol Ring by paying [[symbol:1]].
+6. Activate Sol Ring by tapping it, adding [[symbol:c]][[symbol:c]].
+7. Activate Krark-Clan Ironworks by sacrificing Sol Ring, adding [[symbol:c]][[symbol:c]].
+8. Scrap Trawler triggers, choose not to return an artifact to your hand.
+9. Cast Junk Diver by paying [[symbol:3]].
+10. Activate Krark-Clan Ironworks by sacrificing Junk Diver, adding [[symbol:c]][[symbol:c]].
+11. Junk Diver dies, triggering itself and Scrap Trawler.
+12. Resolve the Junk Diver trigger, returning Myr Retriever from your graveyard to your hand.
+13. Resolve the Scrap Trawler trigger, returning Sol Ring from your graveyard to your hand.
+14. Repeat steps 5-8 one additional time.
+15. Cast Myr Retriever by paying [[symbol:2]].
+16. Repeat from step 1.
+
+
+Results:
+- Infinite blinking of some artifacts
+- Infinite colorless mana
+- Infinite death triggers
+- Infinite creature ETB
+- Infinite creature LTB
+- Infinite creature sacrifice triggers
+- Infinite storm count
 ===endpanel
 ===endaccordion
 
@@ -6644,30 +6712,43 @@ Results:
 ===panel: Semblance Anvil
 
 ===accordion
-===panel: Sensei's Divining Top + Mystic Forge + Semblance Anvil
+===panel: Scrap Trawler + Myr Retriever + Ashnod's Altar + Semblance Anvil
 [[symbol:c]]
 
 
 Cards Required:
-- [[Sensei's Divining Top]]
-- [[Mystic Forge]]
+- [[Scrap Trawler]]
+- [[Myr Retriever]]
+- [[Ashnod's Altar]]
 - [[Semblance Anvil]]
 
 
 Prerequisites:
-- All permanents on the battlefield (Semblance Anvil with an artifact card exiled).
+- Scrap Trawler in your graveyard.
+- All other permanents on the battlefield.
+- There is an artifact or creature card exiled with Semblance Anvil.
 
 
 Steps:
-1. Activate Sensei's Divining Top by tapping it, causing you to draw a card and put Sensei's Divining Top on top of your library.
-2. Cast Sensei's Divining Top from the top of your library by paying [[symbol:0]].
-3. Repeat
+1. Activate Ashnod's Altar by sacrificing Myr Retriever, adding [[symbol:c]][[symbol:c]].
+2. When Myr Retriever dies, it triggers, returning Scrap Trawler from your graveyard to your hand.
+3. Cast Scrap Trawler by paying its mana cost, which is reduced by Semblance Anvil.
+4. Activate Ashnod's Altar by sacrificing Scrap Trawler, adding [[symbol:c]][[symbol:c]].
+5. When Scrap Trawler dies, it triggers, returning Myr Retriever from your graveyard to your hand.
+6. Cast Myr Retriever by paying its mana cost, which is reduced by Semblance Anvil.
+7. Repeat.
 
 
 Results:
-- Infinite card draw
-- Infinite draw triggers
-- Near-infinite storm count
+- Infinite artifact ETB
+- Infinite artifact LTB
+- Infinite artifact sacrifice triggers
+- Infinite creature ETB
+- Infinite creature LTB
+- Infinite colorless mana
+- Infinite death triggers
+- Infinite creature sacrifice triggers
+- Infinite storm count
 ===endpanel
 ===endaccordion
 
@@ -6694,47 +6775,6 @@ Steps:
 2. When Myr Retriever dies, it triggers, returning Scrap Trawler from your graveyard to your hand.
 3. Cast Scrap Trawler by paying its mana cost, which is reduced by Semblance Anvil.
 4. Activate Krark-Clan Ironworks by sacrificing Scrap Trawler, adding [[symbol:c]][[symbol:c]].
-5. When Scrap Trawler dies, it triggers, returning Myr Retriever from your graveyard to your hand.
-6. Cast Myr Retriever by paying its mana cost, which is reduced by Semblance Anvil.
-7. Repeat.
-
-
-Results:
-- Infinite artifact ETB
-- Infinite artifact LTB
-- Infinite artifact sacrifice triggers
-- Infinite creature ETB
-- Infinite creature LTB
-- Infinite colorless mana
-- Infinite death triggers
-- Infinite creature sacrifice triggers
-- Infinite storm count
-===endpanel
-===endaccordion
-
-===accordion
-===panel: Scrap Trawler + Myr Retriever + Ashnod's Altar + Semblance Anvil
-[[symbol:c]]
-
-
-Cards Required:
-- [[Scrap Trawler]]
-- [[Myr Retriever]]
-- [[Ashnod's Altar]]
-- [[Semblance Anvil]]
-
-
-Prerequisites:
-- Scrap Trawler in your graveyard.
-- All other permanents on the battlefield.
-- There is an artifact or creature card exiled with Semblance Anvil.
-
-
-Steps:
-1. Activate Ashnod's Altar by sacrificing Myr Retriever, adding [[symbol:c]][[symbol:c]].
-2. When Myr Retriever dies, it triggers, returning Scrap Trawler from your graveyard to your hand.
-3. Cast Scrap Trawler by paying its mana cost, which is reduced by Semblance Anvil.
-4. Activate Ashnod's Altar by sacrificing Scrap Trawler, adding [[symbol:c]][[symbol:c]].
 5. When Scrap Trawler dies, it triggers, returning Myr Retriever from your graveyard to your hand.
 6. Cast Myr Retriever by paying its mana cost, which is reduced by Semblance Anvil.
 7. Repeat.
@@ -6794,25 +6834,19 @@ Results:
 ===endpanel
 ===endaccordion
 
-===endpanel
-===endaccordion
-
 ===accordion
-===panel: Sensei's Divining Top
-
-===accordion
-===panel: Sensei's Divining Top + Foundry Inspector + Mystic Forge
+===panel: Sensei's Divining Top + Mystic Forge + Semblance Anvil
 [[symbol:c]]
 
 
 Cards Required:
 - [[Sensei's Divining Top]]
-- [[Foundry Inspector]]
 - [[Mystic Forge]]
+- [[Semblance Anvil]]
 
 
 Prerequisites:
-- All permanents on the battlefield.
+- All permanents on the battlefield (Semblance Anvil with an artifact card exiled).
 
 
 Steps:
@@ -6823,10 +6857,16 @@ Steps:
 
 Results:
 - Infinite card draw
-- Near-infinite storm count
 - Infinite draw triggers
+- Near-infinite storm count
 ===endpanel
 ===endaccordion
+
+===endpanel
+===endaccordion
+
+===accordion
+===panel: Sensei's Divining Top
 
 ===accordion
 ===panel: Sensei's Divining Top + Aetherflux Reservoir + Bolas's Citadel
@@ -6864,18 +6904,18 @@ Results:
 ===endaccordion
 
 ===accordion
-===panel: Sensei's Divining Top + Mystic Forge + Cloud Key
+===panel: Sensei's Divining Top + Foundry Inspector + Mystic Forge
 [[symbol:c]]
 
 
 Cards Required:
 - [[Sensei's Divining Top]]
+- [[Foundry Inspector]]
 - [[Mystic Forge]]
-- [[Cloud Key]]
 
 
 Prerequisites:
-- All permanents on the battlefield (Cloud Key with "Artifact" chosen).
+- All permanents on the battlefield.
 
 
 Steps:
@@ -6925,6 +6965,34 @@ Results:
 - Near-infinite creature LTB
 - Near-infinite death triggers
 - Near-infinite creature sacrifice triggers
+===endpanel
+===endaccordion
+
+===accordion
+===panel: Sensei's Divining Top + Mystic Forge + Cloud Key
+[[symbol:c]]
+
+
+Cards Required:
+- [[Sensei's Divining Top]]
+- [[Mystic Forge]]
+- [[Cloud Key]]
+
+
+Prerequisites:
+- All permanents on the battlefield (Cloud Key with "Artifact" chosen).
+
+
+Steps:
+1. Activate Sensei's Divining Top by tapping it, causing you to draw a card and put Sensei's Divining Top on top of your library.
+2. Cast Sensei's Divining Top from the top of your library by paying [[symbol:0]].
+3. Repeat
+
+
+Results:
+- Infinite card draw
+- Near-infinite storm count
+- Infinite draw triggers
 ===endpanel
 ===endaccordion
 
@@ -6992,10 +7060,10 @@ Results:
 ===endaccordion
 
 ===accordion
-===panel: Sephiroth, Fabled SOLDIER
+===panel: Sephiroth, Fabled SOLDIER // Sephiroth, One-Winged Angel
 
 ===accordion
-===panel: Warren Soultrader + Stridehangar Automaton + Sephiroth, Fabled SOLDIER
+===panel: Warren Soultrader + Stridehangar Automaton + Sephiroth, Fabled SOLDIER // Sephiroth, One-Winged Angel
 [[symbol:b]]
 
 
@@ -7167,6 +7235,83 @@ Results:
 ===panel: Stridehangar Automaton
 
 ===accordion
+===panel: Metalwork Colossus + Warren Soultrader + Aetherflux Reservoir + Stridehangar Automaton
+[[symbol:b]]
+
+
+Cards Required:
+- [[Metalwork Colossus]]
+- [[Warren Soultrader]]
+- [[Aetherflux Reservoir]]
+- [[Stridehangar Automaton]]
+
+
+Prerequisites:
+- Metalwork Colossus in hand.
+- All other permanents on the battlefield.
+- The total mana value of noncreature artifacts you control is at least 10.
+
+
+Steps:
+1. Cast Metalwork Colossus by paying [[symbol:0]].
+2. Aetherflux Reservoir triggers, causing you to gain 1 life for each spell you've cast this turn.
+3. Activate Warren Soultrader by paying 1 life and sacrificing Metalwork Colossus, creating a 1/1 Thopter artifact creature token and a Treasure token.
+4. Activate Metalwork Colossus by sacrificing the Treasure and Thopter, returning Metalwork Colossus from your graveyard to your hand.
+5. Repeat.
+
+
+Results:
+- Infinite creature LTB
+- Infinite creature ETB
+- Infinite creature sacrifice triggers
+- Infinite death triggers
+- Infinite damage
+- Infinite lifegain triggers
+- Infinite lifegain
+- Infinite storm count
+===endpanel
+===endaccordion
+
+===accordion
+===panel: Pitiless Plunderer + Altar of Dementia + Stridehangar Automaton
+[[symbol:b]]
+
+
+Cards Required:
+- [[Pitiless Plunderer]]
+- [[Altar of Dementia]]
+- [[Stridehangar Automaton]]
+
+
+Prerequisites:
+- All permanents on the battlefield.
+- You control another creature.
+
+
+Steps:
+1. Activate Altar of Dementia by sacrificing another creature.
+2. When the creature dies, Pitiless Plunderer triggers, creating a Treasure token and a 1/1 Thopter artifact creature token.
+3. Resolve the Altar of Dementia ability.
+4. Repeat.
+
+
+Results:
+- Infinite artifact ETB
+- Infinite artifact LTB
+- Infinite artifact sacrifice triggers
+- Infinite artifact tokens
+- Infinite creature LTB
+- Infinite creature ETB
+- Infinite colored mana
+- Infinite creature sacrifice triggers
+- Infinite death triggers
+- Infinite mill
+- Infinite self-mill
+- Infinite Treasure tokens
+===endpanel
+===endaccordion
+
+===accordion
 ===panel: Pitiless Plunderer + Ashnod's Altar + Stridehangar Automaton
 [[symbol:b]]
 
@@ -7199,6 +7344,45 @@ Results:
 - Infinite creature sacrifice triggers
 - Infinite death triggers
 - Infinite colorless mana
+- Infinite Treasure tokens
+===endpanel
+===endaccordion
+
+===accordion
+===panel: Pitiless Plunderer + Blasting Station + Stridehangar Automaton
+[[symbol:b]]
+
+
+Cards Required:
+- [[Pitiless Plunderer]]
+- [[Blasting Station]]
+- [[Stridehangar Automaton]]
+
+
+Prerequisites:
+- All permanents on the battlefield.
+- You control another creature.
+
+
+Steps:
+1. Activate Blasting Station by sacrificing another creature.
+2. When the creature dies, Pitiless Plunderer triggers, creating a Treasure token and a 1/1 Thopter artifact creature token.
+3. When the Thopter enters the battlefield, Blasting Station triggers, untapping Blasting Station.
+4. Resolve the Blasting Station ability from step 1.
+5. Repeat.
+
+
+Results:
+- Infinite artifact ETB
+- Infinite artifact LTB
+- Infinite artifact sacrifice triggers
+- Infinite artifact tokens
+- Infinite creature LTB
+- Infinite creature ETB
+- Infinite colored mana
+- Infinite creature sacrifice triggers
+- Infinite death triggers
+- Infinite damage
 - Infinite Treasure tokens
 ===endpanel
 ===endaccordion
@@ -7240,26 +7424,25 @@ Results:
 ===endaccordion
 
 ===accordion
-===panel: Warren Soultrader + Zulaport Cutthroat + Stridehangar Automaton
+===panel: Pitiless Plunderer + Stridehangar Automaton + Arcbound Ravager
 [[symbol:b]]
 
 
 Cards Required:
-- [[Warren Soultrader]]
-- [[Zulaport Cutthroat]]
+- [[Pitiless Plunderer]]
 - [[Stridehangar Automaton]]
+- [[Arcbound Ravager]]
 
 
 Prerequisites:
 - All permanents on the battlefield.
-- You control at least one additional creature
-- Your life total is at least 2.
+- You control another artifact creature.
 
 
 Steps:
-1. Activate Warren Soultrader by paying 1 life and sacrificing another creature.
-2. When the creature dies, Zulaport Cutthroat triggers, causing you to gain 1 life and each opponent to lose 1 life.
-3. Resolve the Warren Soultrader ability, creating a Treasure token and a 1/1 Thopter artifact creature token.
+1. Activate Arcbound Ravager by sacrificing another artifact creature.
+2. When the creature dies, Pitiless Plunderer triggers, creating a Treasure token and a 1/1 Thopter artifact creature token.
+3. Resolve the Arcbound Ravager ability.
 4. Repeat.
 
 
@@ -7273,34 +7456,33 @@ Results:
 - Infinite colored mana
 - Infinite creature sacrifice triggers
 - Infinite death triggers
-- Infinite lifeloss
 - Infinite Treasure tokens
-- Infinite lifegain triggers
+- Infinite +1/+1 counters on a creature
 ===endpanel
 ===endaccordion
 
 ===accordion
-===panel: Warren Soultrader + Stridehangar Automaton + Sephiroth, Fabled SOLDIER
+===panel: Pitiless Plunderer + Stridehangar Automaton + Grinding Station
 [[symbol:b]]
 
 
 Cards Required:
-- [[Warren Soultrader]]
+- [[Pitiless Plunderer]]
 - [[Stridehangar Automaton]]
-- [[Sephiroth, Fabled SOLDIER // Sephiroth, One-Winged Angel]]
+- [[Grinding Station]]
 
 
 Prerequisites:
 - All permanents on the battlefield.
-- You control at least one additional creature
-- Your life total is at least 2.
+- You control another artifact creature.
 
 
 Steps:
-1. Activate Warren Soultrader by paying 1 life and sacrificing another creature.
-2. When the creature dies, Sephiroth, Fabled SOLDIER // Sephiroth, One-Winged Angel triggers, causing you to gain 1 life and target opponent to lose 1 life.
-3. Resolve the Warren Soultrader ability, creating a Treasure token and a 1/1 Thopter artifact creature token.
-4. Repeat.
+1. Activate Grinding Station by tapping it and sacrificing another artifact creature.
+2. When the creature dies, Pitiless Plunderer triggers, creating a Treasure token and a 1/1 Thopter artifact creature token.
+3. When the Treasure and Thopter enter the battlefield, Grinding Station triggers twice, untapping Grinding Station.
+4. Resolve the Grinding Station ability from step 1.
+5. Repeat.
 
 
 Results:
@@ -7313,9 +7495,9 @@ Results:
 - Infinite colored mana
 - Infinite creature sacrifice triggers
 - Infinite death triggers
-- Infinite lifegain triggers
+- Infinite mill
+- Infinite self-mill
 - Infinite Treasure tokens
-- Infinite lifeloss
 ===endpanel
 ===endaccordion
 
@@ -7426,85 +7608,6 @@ Results:
 ===endaccordion
 
 ===accordion
-===panel: Pitiless Plunderer + Altar of Dementia + Stridehangar Automaton
-[[symbol:b]]
-
-
-Cards Required:
-- [[Pitiless Plunderer]]
-- [[Altar of Dementia]]
-- [[Stridehangar Automaton]]
-
-
-Prerequisites:
-- All permanents on the battlefield.
-- You control another creature.
-
-
-Steps:
-1. Activate Altar of Dementia by sacrificing another creature.
-2. When the creature dies, Pitiless Plunderer triggers, creating a Treasure token and a 1/1 Thopter artifact creature token.
-3. Resolve the Altar of Dementia ability.
-4. Repeat.
-
-
-Results:
-- Infinite artifact ETB
-- Infinite artifact LTB
-- Infinite artifact sacrifice triggers
-- Infinite artifact tokens
-- Infinite creature LTB
-- Infinite creature ETB
-- Infinite colored mana
-- Infinite creature sacrifice triggers
-- Infinite death triggers
-- Infinite mill
-- Infinite self-mill
-- Infinite Treasure tokens
-===endpanel
-===endaccordion
-
-===accordion
-===panel: Pitiless Plunderer + Stridehangar Automaton + Grinding Station
-[[symbol:b]]
-
-
-Cards Required:
-- [[Pitiless Plunderer]]
-- [[Stridehangar Automaton]]
-- [[Grinding Station]]
-
-
-Prerequisites:
-- All permanents on the battlefield.
-- You control another artifact creature.
-
-
-Steps:
-1. Activate Grinding Station by tapping it and sacrificing another artifact creature.
-2. When the creature dies, Pitiless Plunderer triggers, creating a Treasure token and a 1/1 Thopter artifact creature token.
-3. When the Treasure and Thopter enter the battlefield, Grinding Station triggers twice, untapping Grinding Station.
-4. Resolve the Grinding Station ability from step 1.
-5. Repeat.
-
-
-Results:
-- Infinite artifact ETB
-- Infinite artifact LTB
-- Infinite artifact sacrifice triggers
-- Infinite artifact tokens
-- Infinite creature LTB
-- Infinite creature ETB
-- Infinite colored mana
-- Infinite creature sacrifice triggers
-- Infinite death triggers
-- Infinite mill
-- Infinite self-mill
-- Infinite Treasure tokens
-===endpanel
-===endaccordion
-
-===accordion
 ===panel: Retrofitter Foundry + Dross Scorpion + Stridehangar Automaton
 [[symbol:c]]
 
@@ -7537,25 +7640,94 @@ Results:
 ===endaccordion
 
 ===accordion
-===panel: Pitiless Plunderer + Stridehangar Automaton + Arcbound Ravager
+===panel: The Ooze + Stridehangar Automaton + Ashnod's Altar
+[[symbol:c]]
+
+Cards Required:
+- [[The Ooze]]
+- [[Stridehangar Automaton]]
+- [[Ashnod's Altar]]
+
+Prerequisites:
+- All permanents on the battlefield.
+- You control another creature with at least one +1/+1 counter on it.
+- [[symbol:1]] available.
+
+Steps:
+1. Activate Ashnod's Altar by sacrificing the creature with a +1/+1 counter on it, adding [[symbol:c]][[symbol:c]].
+2. The Ooze triggers, creating a Mutagen token. Stridehangar Automaton causes you to also create a 1/1 Thopter artifact creature token.
+3. Pay [[symbol:1]], tap and sacrifice the Mutagen to put a +1/+1 counter on the Thopter.
+4. Activate Ashnod's Altar by sacrificing the Thopter, adding [[symbol:c]][[symbol:c]].
+5. The Ooze triggers, creating another Mutagen token. Stridehangar Automaton causes you to also create another 1/1 Thopter artifact creature token.
+6. Repeat from step 3.
+
+Results:
+- Infinite colorless mana
+- Infinite artifact ETB
+- Infinite artifact LTB
+- Infinite artifact sacrifice triggers
+- Infinite artifact tokens
+- Infinite creature ETB
+- Infinite creature LTB
+- Infinite creature sacrifice triggers
+- Infinite death triggers
+===endpanel
+===endaccordion
+
+===accordion
+===panel: The Ooze + Stridehangar Automaton + Phyrexian Altar
+[[symbol:b]]
+
+Cards Required:
+- [[The Ooze]]
+- [[Stridehangar Automaton]]
+- [[Phyrexian Altar]]
+
+Prerequisites:
+- All permanents on the battlefield.
+- You control another creature with at least one +1/+1 counter on it.
+
+Steps:
+1. Activate Phyrexian Altar by sacrificing the creature with a +1/+1 counter on it, adding one mana of any color.
+2. The Ooze triggers, creating a Mutagen token. Stridehangar Automaton causes you to also create a 1/1 Thopter artifact creature token.
+3. Spend that mana, tap and sacrifice the Mutagen to put a +1/+1 counter on the Thopter.
+4. Activate Phyrexian Altar by sacrificing the Thopter, adding one mana of any color.
+5. The Ooze triggers, creating another Mutagen token. Stridehangar Automaton causes you to also create another 1/1 Thopter artifact creature token.
+6. Repeat from step 3.
+
+Results:
+- Infinite artifact ETB
+- Infinite artifact LTB
+- Infinite artifact sacrifice triggers
+- Infinite artifact tokens
+- Infinite creature ETB
+- Infinite creature LTB
+- Infinite creature sacrifice triggers
+- Infinite death triggers
+===endpanel
+===endaccordion
+
+===accordion
+===panel: Warren Soultrader + Stridehangar Automaton + Sephiroth, Fabled SOLDIER // Sephiroth, One-Winged Angel
 [[symbol:b]]
 
 
 Cards Required:
-- [[Pitiless Plunderer]]
+- [[Warren Soultrader]]
 - [[Stridehangar Automaton]]
-- [[Arcbound Ravager]]
+- [[Sephiroth, Fabled SOLDIER // Sephiroth, One-Winged Angel]]
 
 
 Prerequisites:
 - All permanents on the battlefield.
-- You control another artifact creature.
+- You control at least one additional creature
+- Your life total is at least 2.
 
 
 Steps:
-1. Activate Arcbound Ravager by sacrificing another artifact creature.
-2. When the creature dies, Pitiless Plunderer triggers, creating a Treasure token and a 1/1 Thopter artifact creature token.
-3. Resolve the Arcbound Ravager ability.
+1. Activate Warren Soultrader by paying 1 life and sacrificing another creature.
+2. When the creature dies, Sephiroth, Fabled SOLDIER // Sephiroth, One-Winged Angel triggers, causing you to gain 1 life and target opponent to lose 1 life.
+3. Resolve the Warren Soultrader ability, creating a Treasure token and a 1/1 Thopter artifact creature token.
 4. Repeat.
 
 
@@ -7569,33 +7741,34 @@ Results:
 - Infinite colored mana
 - Infinite creature sacrifice triggers
 - Infinite death triggers
+- Infinite lifegain triggers
 - Infinite Treasure tokens
-- Infinite +1/+1 counters on a creature
+- Infinite lifeloss
 ===endpanel
 ===endaccordion
 
 ===accordion
-===panel: Pitiless Plunderer + Blasting Station + Stridehangar Automaton
+===panel: Warren Soultrader + Zulaport Cutthroat + Stridehangar Automaton
 [[symbol:b]]
 
 
 Cards Required:
-- [[Pitiless Plunderer]]
-- [[Blasting Station]]
+- [[Warren Soultrader]]
+- [[Zulaport Cutthroat]]
 - [[Stridehangar Automaton]]
 
 
 Prerequisites:
 - All permanents on the battlefield.
-- You control another creature.
+- You control at least one additional creature
+- Your life total is at least 2.
 
 
 Steps:
-1. Activate Blasting Station by sacrificing another creature.
-2. When the creature dies, Pitiless Plunderer triggers, creating a Treasure token and a 1/1 Thopter artifact creature token.
-3. When the Thopter enters the battlefield, Blasting Station triggers, untapping Blasting Station.
-4. Resolve the Blasting Station ability from step 1.
-5. Repeat.
+1. Activate Warren Soultrader by paying 1 life and sacrificing another creature.
+2. When the creature dies, Zulaport Cutthroat triggers, causing you to gain 1 life and each opponent to lose 1 life.
+3. Resolve the Warren Soultrader ability, creating a Treasure token and a 1/1 Thopter artifact creature token.
+4. Repeat.
 
 
 Results:
@@ -7608,46 +7781,83 @@ Results:
 - Infinite colored mana
 - Infinite creature sacrifice triggers
 - Infinite death triggers
-- Infinite damage
+- Infinite lifeloss
 - Infinite Treasure tokens
+- Infinite lifegain triggers
+===endpanel
+===endaccordion
+
 ===endpanel
 ===endaccordion
 
 ===accordion
-===panel: Metalwork Colossus + Warren Soultrader + Aetherflux Reservoir + Stridehangar Automaton
-[[symbol:b]]
+===panel: The Ooze
 
+===accordion
+===panel: The Ooze + Stridehangar Automaton + Ashnod's Altar
+[[symbol:c]]
 
 Cards Required:
-- [[Metalwork Colossus]]
-- [[Warren Soultrader]]
-- [[Aetherflux Reservoir]]
+- [[The Ooze]]
 - [[Stridehangar Automaton]]
-
+- [[Ashnod's Altar]]
 
 Prerequisites:
-- Metalwork Colossus in hand.
-- All other permanents on the battlefield.
-- The total mana value of noncreature artifacts you control is at least 10.
-
+- All permanents on the battlefield.
+- You control another creature with at least one +1/+1 counter on it.
+- [[symbol:1]] available.
 
 Steps:
-1. Cast Metalwork Colossus by paying [[symbol:0]].
-2. Aetherflux Reservoir triggers, causing you to gain 1 life for each spell you've cast this turn.
-3. Activate Warren Soultrader by paying 1 life and sacrificing Metalwork Colossus, creating a 1/1 Thopter artifact creature token and a Treasure token.
-4. Activate Metalwork Colossus by sacrificing the Treasure and Thopter, returning Metalwork Colossus from your graveyard to your hand.
-5. Repeat.
-
+1. Activate Ashnod's Altar by sacrificing the creature with a +1/+1 counter on it, adding [[symbol:c]][[symbol:c]].
+2. The Ooze triggers, creating a Mutagen token. Stridehangar Automaton causes you to also create a 1/1 Thopter artifact creature token.
+3. Pay [[symbol:1]], tap and sacrifice the Mutagen to put a +1/+1 counter on the Thopter.
+4. Activate Ashnod's Altar by sacrificing the Thopter, adding [[symbol:c]][[symbol:c]].
+5. The Ooze triggers, creating another Mutagen token. Stridehangar Automaton causes you to also create another 1/1 Thopter artifact creature token.
+6. Repeat from step 3.
 
 Results:
-- Infinite creature LTB
+- Infinite colorless mana
+- Infinite artifact ETB
+- Infinite artifact LTB
+- Infinite artifact sacrifice triggers
+- Infinite artifact tokens
 - Infinite creature ETB
+- Infinite creature LTB
 - Infinite creature sacrifice triggers
 - Infinite death triggers
-- Infinite damage
-- Infinite lifegain triggers
-- Infinite lifegain
-- Infinite storm count
+===endpanel
+===endaccordion
+
+===accordion
+===panel: The Ooze + Stridehangar Automaton + Phyrexian Altar
+[[symbol:b]]
+
+Cards Required:
+- [[The Ooze]]
+- [[Stridehangar Automaton]]
+- [[Phyrexian Altar]]
+
+Prerequisites:
+- All permanents on the battlefield.
+- You control another creature with at least one +1/+1 counter on it.
+
+Steps:
+1. Activate Phyrexian Altar by sacrificing the creature with a +1/+1 counter on it, adding one mana of any color.
+2. The Ooze triggers, creating a Mutagen token. Stridehangar Automaton causes you to also create a 1/1 Thopter artifact creature token.
+3. Spend that mana, tap and sacrifice the Mutagen to put a +1/+1 counter on the Thopter.
+4. Activate Phyrexian Altar by sacrificing the Thopter, adding one mana of any color.
+5. The Ooze triggers, creating another Mutagen token. Stridehangar Automaton causes you to also create another 1/1 Thopter artifact creature token.
+6. Repeat from step 3.
+
+Results:
+- Infinite artifact ETB
+- Infinite artifact LTB
+- Infinite artifact sacrifice triggers
+- Infinite artifact tokens
+- Infinite creature ETB
+- Infinite creature LTB
+- Infinite creature sacrifice triggers
+- Infinite death triggers
 ===endpanel
 ===endaccordion
 
@@ -7656,6 +7866,38 @@ Results:
 
 ===accordion
 ===panel: Tortured Existence
+
+===accordion
+===panel: Imotekh the Stormlord + Clock of Omens + Tortured Existence
+[[symbol:b]]
+
+
+Cards Required:
+- [[Imotekh the Stormlord]]
+- [[Clock of Omens]]
+- [[Tortured Existence]]
+
+
+Prerequisites:
+- All permanents on the battlefield.
+- You control an artifact that can tap to produce at least [[symbol:b]]
+- You have at least one artifact creature card in hand
+- You have at least one artifact creature card in your graveyard.
+
+
+Steps:
+1. Activate a mana-producing artifact you control by tapping it, adding [[symbol:b]].
+2. Activate Tortured Existence by paying [[symbol:b]] and discarding an artifact creature card, returning another artifact creature card from your graveyard to your hand.
+3. Imotekh's first ability triggers, creating two 2/2 Necron Warrior artifact creature tokens.
+4. Activate Clock of Omens by tapping the Necron Warriors, untapping the mana-producing artifact.
+5. Repeat.
+
+
+Results:
+- Infinite creature ETB
+- Infinite tapped creature tokens
+===endpanel
+===endaccordion
 
 ===accordion
 ===panel: Tortured Existence + Phyrexian Altar + Imotekh the Stormlord
@@ -7693,38 +7935,6 @@ Results:
 - Infinite death triggers
 - Infinite creature sacrifice triggers
 - Infinite self-discard triggers
-===endpanel
-===endaccordion
-
-===accordion
-===panel: Imotekh the Stormlord + Clock of Omens + Tortured Existence
-[[symbol:b]]
-
-
-Cards Required:
-- [[Imotekh the Stormlord]]
-- [[Clock of Omens]]
-- [[Tortured Existence]]
-
-
-Prerequisites:
-- All permanents on the battlefield.
-- You control an artifact that can tap to produce at least [[symbol:b]]
-- You have at least one artifact creature card in hand
-- You have at least one artifact creature card in your graveyard.
-
-
-Steps:
-1. Activate a mana-producing artifact you control by tapping it, adding [[symbol:b]].
-2. Activate Tortured Existence by paying [[symbol:b]] and discarding an artifact creature card, returning another artifact creature card from your graveyard to your hand.
-3. Imotekh's first ability triggers, creating two 2/2 Necron Warrior artifact creature tokens.
-4. Activate Clock of Omens by tapping the Necron Warriors, untapping the mana-producing artifact.
-5. Repeat.
-
-
-Results:
-- Infinite creature ETB
-- Infinite tapped creature tokens
 ===endpanel
 ===endaccordion
 
@@ -7943,46 +8153,6 @@ Results:
 ===panel: Ultron, Artificial Malevolence
 
 ===accordion
-===panel: Myr Retriever + Krark-Clan Ironworks + Ultron, Artificial Malevolence
-[[symbol:c]]
-
-
-Cards Required:
-- [[Myr Retriever]]
-- [[Krark-Clan Ironworks]]
-- [[Ultron, Artificial Malevolence]]
-
-
-Prerequisites:
-- Myr Retriever in hand.
-- Krark-Clan Ironworks and Ultron on the battlefield.
-- [[symbol:2]] available
-
-
-Steps:
-1. Cast Myr Retriever by paying [[symbol:2]].
-2. When Myr Retriever enters, Ultron triggers.
-3. Holding priority, activate Krark-Clan Ironworks by sacrificing Myr Retriever, adding [[symbol:c]][[symbol:c]]
-4. When Myr Retriever dies, it triggers, returning an artifact card from your graveyard to your hand.
-5. Resolve the Ultron trigger, causing you to pay [[symbol:2]] to create a token copy of Myr Retriever.
-6. Activate Krark-Clan Ironworks by sacrificing the Myr Retriever token, adding [[symbol:c]][[symbol:c]].
-7. When the Myr Retriever token dies, it triggers, returning the nontoken Myr Retriever from your graveyard to your hand.
-8. Repeat.
-
-
-Results:
-- Infinite creature ETB
-- Infinite creature LTB
-- Infinite death triggers
-- Infinite creature sacrifice triggers
-- Infinite storm count
-- Infinite artifact ETB
-- Infinite artifact LTB
-- Infinite artifact sacrifice triggers
-===endpanel
-===endaccordion
-
-===accordion
 ===panel: Myr Retriever + Ashnod's Altar + Ultron, Artificial Malevolence
 [[symbol:c]]
 
@@ -8006,6 +8176,46 @@ Steps:
 4. When Myr Retriever dies, it triggers, returning an artifact card from your graveyard to your hand.
 5. Resolve the Ultron trigger, causing you to pay [[symbol:2]] to create a token copy of Myr Retriever.
 6. Activate Ashnod's Altar by sacrificing the Myr Retriever token, adding [[symbol:c]][[symbol:c]].
+7. When the Myr Retriever token dies, it triggers, returning the nontoken Myr Retriever from your graveyard to your hand.
+8. Repeat.
+
+
+Results:
+- Infinite creature ETB
+- Infinite creature LTB
+- Infinite death triggers
+- Infinite creature sacrifice triggers
+- Infinite storm count
+- Infinite artifact ETB
+- Infinite artifact LTB
+- Infinite artifact sacrifice triggers
+===endpanel
+===endaccordion
+
+===accordion
+===panel: Myr Retriever + Krark-Clan Ironworks + Ultron, Artificial Malevolence
+[[symbol:c]]
+
+
+Cards Required:
+- [[Myr Retriever]]
+- [[Krark-Clan Ironworks]]
+- [[Ultron, Artificial Malevolence]]
+
+
+Prerequisites:
+- Myr Retriever in hand.
+- Krark-Clan Ironworks and Ultron on the battlefield.
+- [[symbol:2]] available
+
+
+Steps:
+1. Cast Myr Retriever by paying [[symbol:2]].
+2. When Myr Retriever enters, Ultron triggers.
+3. Holding priority, activate Krark-Clan Ironworks by sacrificing Myr Retriever, adding [[symbol:c]][[symbol:c]]
+4. When Myr Retriever dies, it triggers, returning an artifact card from your graveyard to your hand.
+5. Resolve the Ultron trigger, causing you to pay [[symbol:2]] to create a token copy of Myr Retriever.
+6. Activate Krark-Clan Ironworks by sacrificing the Myr Retriever token, adding [[symbol:c]][[symbol:c]].
 7. When the Myr Retriever token dies, it triggers, returning the nontoken Myr Retriever from your graveyard to your hand.
 8. Repeat.
 
@@ -8071,86 +8281,6 @@ Results:
 
 ===accordion
 ===panel: Warren Soultrader
-
-===accordion
-===panel: Warren Soultrader + Zulaport Cutthroat + Stridehangar Automaton
-[[symbol:b]]
-
-
-Cards Required:
-- [[Warren Soultrader]]
-- [[Zulaport Cutthroat]]
-- [[Stridehangar Automaton]]
-
-
-Prerequisites:
-- All permanents on the battlefield.
-- You control at least one additional creature
-- Your life total is at least 2.
-
-
-Steps:
-1. Activate Warren Soultrader by paying 1 life and sacrificing another creature.
-2. When the creature dies, Zulaport Cutthroat triggers, causing you to gain 1 life and each opponent to lose 1 life.
-3. Resolve the Warren Soultrader ability, creating a Treasure token and a 1/1 Thopter artifact creature token.
-4. Repeat.
-
-
-Results:
-- Infinite artifact ETB
-- Infinite artifact LTB
-- Infinite artifact sacrifice triggers
-- Infinite artifact tokens
-- Infinite creature LTB
-- Infinite creature ETB
-- Infinite colored mana
-- Infinite creature sacrifice triggers
-- Infinite death triggers
-- Infinite lifeloss
-- Infinite Treasure tokens
-- Infinite lifegain triggers
-===endpanel
-===endaccordion
-
-===accordion
-===panel: Warren Soultrader + Stridehangar Automaton + Sephiroth, Fabled SOLDIER
-[[symbol:b]]
-
-
-Cards Required:
-- [[Warren Soultrader]]
-- [[Stridehangar Automaton]]
-- [[Sephiroth, Fabled SOLDIER // Sephiroth, One-Winged Angel]]
-
-
-Prerequisites:
-- All permanents on the battlefield.
-- You control at least one additional creature
-- Your life total is at least 2.
-
-
-Steps:
-1. Activate Warren Soultrader by paying 1 life and sacrificing another creature.
-2. When the creature dies, Sephiroth, Fabled SOLDIER // Sephiroth, One-Winged Angel triggers, causing you to gain 1 life and target opponent to lose 1 life.
-3. Resolve the Warren Soultrader ability, creating a Treasure token and a 1/1 Thopter artifact creature token.
-4. Repeat.
-
-
-Results:
-- Infinite artifact ETB
-- Infinite artifact LTB
-- Infinite artifact sacrifice triggers
-- Infinite artifact tokens
-- Infinite creature LTB
-- Infinite creature ETB
-- Infinite colored mana
-- Infinite creature sacrifice triggers
-- Infinite death triggers
-- Infinite lifegain triggers
-- Infinite Treasure tokens
-- Infinite lifeloss
-===endpanel
-===endaccordion
 
 ===accordion
 ===panel: Metalwork Colossus + Warren Soultrader + Aetherflux Reservoir + Stridehangar Automaton
@@ -8231,6 +8361,86 @@ Results:
 ===endpanel
 ===endaccordion
 
+===accordion
+===panel: Warren Soultrader + Stridehangar Automaton + Sephiroth, Fabled SOLDIER // Sephiroth, One-Winged Angel
+[[symbol:b]]
+
+
+Cards Required:
+- [[Warren Soultrader]]
+- [[Stridehangar Automaton]]
+- [[Sephiroth, Fabled SOLDIER // Sephiroth, One-Winged Angel]]
+
+
+Prerequisites:
+- All permanents on the battlefield.
+- You control at least one additional creature
+- Your life total is at least 2.
+
+
+Steps:
+1. Activate Warren Soultrader by paying 1 life and sacrificing another creature.
+2. When the creature dies, Sephiroth, Fabled SOLDIER // Sephiroth, One-Winged Angel triggers, causing you to gain 1 life and target opponent to lose 1 life.
+3. Resolve the Warren Soultrader ability, creating a Treasure token and a 1/1 Thopter artifact creature token.
+4. Repeat.
+
+
+Results:
+- Infinite artifact ETB
+- Infinite artifact LTB
+- Infinite artifact sacrifice triggers
+- Infinite artifact tokens
+- Infinite creature LTB
+- Infinite creature ETB
+- Infinite colored mana
+- Infinite creature sacrifice triggers
+- Infinite death triggers
+- Infinite lifegain triggers
+- Infinite Treasure tokens
+- Infinite lifeloss
+===endpanel
+===endaccordion
+
+===accordion
+===panel: Warren Soultrader + Zulaport Cutthroat + Stridehangar Automaton
+[[symbol:b]]
+
+
+Cards Required:
+- [[Warren Soultrader]]
+- [[Zulaport Cutthroat]]
+- [[Stridehangar Automaton]]
+
+
+Prerequisites:
+- All permanents on the battlefield.
+- You control at least one additional creature
+- Your life total is at least 2.
+
+
+Steps:
+1. Activate Warren Soultrader by paying 1 life and sacrificing another creature.
+2. When the creature dies, Zulaport Cutthroat triggers, causing you to gain 1 life and each opponent to lose 1 life.
+3. Resolve the Warren Soultrader ability, creating a Treasure token and a 1/1 Thopter artifact creature token.
+4. Repeat.
+
+
+Results:
+- Infinite artifact ETB
+- Infinite artifact LTB
+- Infinite artifact sacrifice triggers
+- Infinite artifact tokens
+- Infinite creature LTB
+- Infinite creature ETB
+- Infinite colored mana
+- Infinite creature sacrifice triggers
+- Infinite death triggers
+- Infinite lifeloss
+- Infinite Treasure tokens
+- Infinite lifegain triggers
+===endpanel
+===endaccordion
+
 ===endpanel
 ===endaccordion
 
@@ -8238,268 +8448,20 @@ Results:
 ===panel: Workshop Assistant
 
 ===accordion
-===panel: Imotekh the Stormlord + Myr Retriever + Workshop Assistant + Ashnod's Altar
-[[symbol:b]]
-
-
-Cards Required:
-- [[Imotekh the Stormlord]]
-- [[Myr Retriever]]
-- [[Workshop Assistant]]
-- [[Ashnod's Altar]]
-
-
-Prerequisites:
-- Myr Retriever in your graveyard.
-- All other permanents on the battlefield.
-
-
-Steps:
-1. Activate Ashnod's Altar by sacrificing Workshop Assistant, adding [[symbol:c]][[symbol:c]].
-2. When Workshop Assistant dies, it triggers, returning Myr Retriever to your hand from your graveyard.
-3. Imotekh the Stormlord's first ability triggers, creating two 2/2 Necron Warrior artifact creature tokens.
-4. Activate Ashnod's Altar by sacrificing a Necron Warrior, adding [[symbol:c]][[symbol:c]].
-5. Cast Myr Retriever by paying [[symbol:2]].
-6. Activate Ashnod's Altar by sacrificing Myr Retriever, adding [[symbol:c]][[symbol:c]].
-7. When Myr Retriever dies, it triggers, returning Workshop Assistant to your hand from your graveyard.
-8. Imotekh the Stormlord's first ability triggers, creating two 2/2 Necron Warrior artifact creature tokens.
-9. Cast Workshop Assistant by paying [[symbol:3]].
-10. Repeat.
-
-
-Results:
-- Infinite colorless mana
-- Infinite creature tokens
-- Infinite death triggers
-- Infinite creature ETB
-- Infinite creature LTB
-- Infinite creature sacrifice triggers
-- Infinite storm count
-===endpanel
-===endaccordion
-
-===accordion
-===panel: Imotekh the Stormlord + Junk Diver + Workshop Assistant + Ashnod's Altar
-[[symbol:b]]
-
-
-Cards Required:
-- [[Imotekh the Stormlord]]
-- [[Junk Diver]]
-- [[Workshop Assistant]]
-- [[Ashnod's Altar]]
-
-
-Prerequisites:
-- Junk Diver in your graveyard.
-- All other permanents on the battlefield.
-
-
-Steps:
-1. Activate Ashnod's Altar by sacrificing Workshop Assistant, adding [[symbol:c]][[symbol:c]].
-2. When Workshop Assistant dies, it triggers, returning Junk Diver to your hand from your graveyard.
-3. Imotekh the Stormlord's first ability triggers, creating two 2/2 Necron Warrior artifact creature tokens.
-4. Activate Ashnod's Altar by sacrificing a Necron Warrior, adding [[symbol:c]][[symbol:c]].
-5. Cast Junk Diver by paying [[symbol:3]].
-6. Activate Ashnod's Altar by sacrificing Junk Diver, adding [[symbol:c]][[symbol:c]].
-7. When Junk Diver dies, it triggers, returning Workshop Assistant to your hand from your graveyard.
-8. Imotekh the Stormlord's first ability triggers, creating two 2/2 Necron Warrior artifact creature tokens.
-9. Cast Workshop Assistant by paying [[symbol:3]].
-10. Repeat.
-
-
-Results:
-- Infinite colorless mana
-- Infinite creature tokens
-- Infinite death triggers
-- Infinite creature ETB
-- Infinite creature LTB
-- Infinite creature sacrifice triggers
-- Infinite storm count
-===endpanel
-===endaccordion
-
-===accordion
-===panel: Imotekh the Stormlord + Myr Retriever + Workshop Assistant + Krark-Clan Ironworks
-[[symbol:b]]
-
-
-Cards Required:
-- [[Imotekh the Stormlord]]
-- [[Myr Retriever]]
-- [[Workshop Assistant]]
-- [[Krark-Clan Ironworks]]
-
-
-Prerequisites:
-- Myr Retriever in your graveyard.
-- All other permanents on the battlefield.
-
-
-Steps:
-1. Activate Krark-Clan Ironworks by sacrificing Workshop Assistant, adding [[symbol:c]][[symbol:c]].
-2. When Workshop Assistant dies, it triggers, returning Myr Retriever to your hand from your graveyard.
-3. Imotekh the Stormlord's first ability triggers, creating two 2/2 Necron Warrior artifact creature tokens.
-4. Activate Krark-Clan Ironworks by sacrificing a Necron Warrior, adding [[symbol:c]][[symbol:c]].
-5. Cast Myr Retriever by paying [[symbol:2]].
-6. Activate Krark-Clan Ironworks by sacrificing Myr Retriever, adding [[symbol:c]][[symbol:c]].
-7. When Myr Retriever dies, it triggers, returning Workshop Assistant to your hand from your graveyard.
-8. Imotekh the Stormlord's first ability triggers, creating two 2/2 Necron Warrior artifact creature tokens.
-9. Cast Workshop Assistant by paying [[symbol:3]].
-10. Repeat.
-
-
-Results:
-- Infinite colorless mana
-- Infinite creature tokens
-- Infinite death triggers
-- Infinite creature ETB
-- Infinite creature LTB
-- Infinite creature sacrifice triggers
-- Infinite storm count
-===endpanel
-===endaccordion
-
-===accordion
-===panel: Glaring Fleshraker + Myr Retriever + Workshop Assistant + Krark-Clan Ironworks
-[[symbol:c]]
-
-
-Cards Required:
-- [[Glaring Fleshraker]]
-- [[Myr Retriever]]
-- [[Workshop Assistant]]
-- [[Krark-Clan Ironworks]]
-
-
-Prerequisites:
-- Glaring Fleshraker and Krark-Clan Ironworks on the battlefield.
-- Myr Retriever and Workshop Assistant in hand or in your graveyard.
-- One of the artifact creatures must be in your hand while the other is in your graveyard
-- You have enough mana to cast the artifact card in your hand.
-
-
-Steps:
-1. Cast the artifact creature card in your hand by paying its mana cost.
-2. Glaring Fleshraker's first ability triggers, creating a 0/1 Eldrazi Spawn creature token.
-3. When the Eldrazi Spawn enters the battlefield, Glaring Fleshraker's second ability triggers, dealing 1 damage to each opponent.
-4. Resolve the artifact creature spell, triggering Glaring Fleshraker's second ability, dealing 1 damage to each opponent.
-5. Activate Krark-Clan Ironworks by sacrificing the artifact creature, adding [[symbol:c]][[symbol:c]].
-6. When the artifact creature dies, it triggers, returning the other artifact creature from your graveyard to your hand.
-7. If needed, activate the Eldrazi Spawn by sacrificing it, adding [[symbol:c]].
-8. Repeat.
-
-
-Results:
-- Infinite creature LTB
-- Infinite creature ETB
-- Infinite creature sacrifice triggers
-- Infinite death triggers
-- Infinite colorless mana
-- Infinite damage
-- Infinite storm count
-- Infinite creature tokens
-===endpanel
-===endaccordion
-
-===accordion
-===panel: Glaring Fleshraker + Junk Diver + Workshop Assistant + Krark-Clan Ironworks
-[[symbol:c]]
-
-
-Cards Required:
-- [[Glaring Fleshraker]]
-- [[Junk Diver]]
-- [[Workshop Assistant]]
-- [[Krark-Clan Ironworks]]
-
-
-Prerequisites:
-- Glaring Fleshraker and Krark-Clan Ironworks on the battlefield.
-- Junk Diver and Workshop Assistant in hand or in your graveyard.
-- One of the artifact creatures must be in your hand while the other is in your graveyard
-- You have enough mana to cast the artifact card in your hand.
-
-
-Steps:
-1. Cast the artifact creature card in your hand by paying its mana cost.
-2. Glaring Fleshraker's first ability triggers, creating a 0/1 Eldrazi Spawn creature token.
-3. When the Eldrazi Spawn enters the battlefield, Glaring Fleshraker's second ability triggers, dealing 1 damage to each opponent.
-4. Resolve the artifact creature spell, triggering Glaring Fleshraker's second ability, dealing 1 damage to each opponent.
-5. Activate Krark-Clan Ironworks by sacrificing the artifact creature, adding [[symbol:c]][[symbol:c]].
-6. When the artifact creature dies, it triggers, returning the other artifact creature from your graveyard to your hand.
-7. If needed, activate the Eldrazi Spawn by sacrificing it, adding [[symbol:c]].
-8. Repeat.
-
-
-Results:
-- Infinite creature LTB
-- Infinite creature ETB
-- Infinite creature sacrifice triggers
-- Infinite death triggers
-- Infinite damage
-- Infinite storm count
-- Infinite colorless mana
-- Infinite creature tokens
-===endpanel
-===endaccordion
-
-===accordion
-===panel: Imotekh the Stormlord + Junk Diver + Workshop Assistant + Krark-Clan Ironworks
-[[symbol:b]]
-
-
-Cards Required:
-- [[Imotekh the Stormlord]]
-- [[Junk Diver]]
-- [[Workshop Assistant]]
-- [[Krark-Clan Ironworks]]
-
-
-Prerequisites:
-- Junk Diver in your graveyard.
-- All other permanents on the battlefield.
-
-
-Steps:
-1. Activate Krark-Clan Ironworks by sacrificing Workshop Assistant, adding [[symbol:c]][[symbol:c]].
-2. When Workshop Assistant dies, it triggers, returning Junk Diver to your hand from your graveyard.
-3. Imotekh the Stormlord's first ability triggers, creating two 2/2 Necron Warrior artifact creature tokens.
-4. Activate Krark-Clan Ironworks by sacrificing a Necron Warrior, adding [[symbol:c]][[symbol:c]].
-5. Cast Junk Diver by paying [[symbol:3]].
-6. Activate Krark-Clan Ironworks by sacrificing Junk Diver, adding [[symbol:c]][[symbol:c]].
-7. When Junk Diver dies, it triggers, returning Workshop Assistant to your hand from your graveyard.
-8. Imotekh the Stormlord's first ability triggers, creating two 2/2 Necron Warrior artifact creature tokens.
-9. Cast Workshop Assistant by paying [[symbol:3]].
-10. Repeat.
-
-
-Results:
-- Infinite colorless mana
-- Infinite creature tokens
-- Infinite death triggers
-- Infinite creature ETB
-- Infinite creature LTB
-- Infinite creature sacrifice triggers
-- Infinite storm count
-===endpanel
-===endaccordion
-
-===accordion
-===panel: Glaring Fleshraker + Ashnod's Altar + Myr Retriever + Workshop Assistant
+===panel: Glaring Fleshraker + Ashnod's Altar + Junk Diver + Workshop Assistant
 [[symbol:c]]
 
 
 Cards Required:
 - [[Glaring Fleshraker]]
 - [[Ashnod's Altar]]
-- [[Myr Retriever]]
+- [[Junk Diver]]
 - [[Workshop Assistant]]
 
 
 Prerequisites:
 - Glaring Fleshraker and Ashnod's Altar on the battlefield.
-- Myr Retriever and Workshop Assistant in hand or in your graveyard.
+- Junk Diver and Workshop Assistant in hand or in your graveyard.
 - One of the artifact creatures must be in your hand while the other is in your graveyard
 - You have enough mana to cast the artifact card in your hand.
 
@@ -8528,20 +8490,20 @@ Results:
 ===endaccordion
 
 ===accordion
-===panel: Glaring Fleshraker + Ashnod's Altar + Junk Diver + Workshop Assistant
+===panel: Glaring Fleshraker + Ashnod's Altar + Myr Retriever + Workshop Assistant
 [[symbol:c]]
 
 
 Cards Required:
 - [[Glaring Fleshraker]]
 - [[Ashnod's Altar]]
-- [[Junk Diver]]
+- [[Myr Retriever]]
 - [[Workshop Assistant]]
 
 
 Prerequisites:
 - Glaring Fleshraker and Ashnod's Altar on the battlefield.
-- Junk Diver and Workshop Assistant in hand or in your graveyard.
+- Myr Retriever and Workshop Assistant in hand or in your graveyard.
 - One of the artifact creatures must be in your hand while the other is in your graveyard
 - You have enough mana to cast the artifact card in your hand.
 
@@ -8608,6 +8570,254 @@ Results:
 - Infinite storm count
 - Infinite colorless mana
 - Infinite creature tokens
+===endpanel
+===endaccordion
+
+===accordion
+===panel: Glaring Fleshraker + Junk Diver + Workshop Assistant + Krark-Clan Ironworks
+[[symbol:c]]
+
+
+Cards Required:
+- [[Glaring Fleshraker]]
+- [[Junk Diver]]
+- [[Workshop Assistant]]
+- [[Krark-Clan Ironworks]]
+
+
+Prerequisites:
+- Glaring Fleshraker and Krark-Clan Ironworks on the battlefield.
+- Junk Diver and Workshop Assistant in hand or in your graveyard.
+- One of the artifact creatures must be in your hand while the other is in your graveyard
+- You have enough mana to cast the artifact card in your hand.
+
+
+Steps:
+1. Cast the artifact creature card in your hand by paying its mana cost.
+2. Glaring Fleshraker's first ability triggers, creating a 0/1 Eldrazi Spawn creature token.
+3. When the Eldrazi Spawn enters the battlefield, Glaring Fleshraker's second ability triggers, dealing 1 damage to each opponent.
+4. Resolve the artifact creature spell, triggering Glaring Fleshraker's second ability, dealing 1 damage to each opponent.
+5. Activate Krark-Clan Ironworks by sacrificing the artifact creature, adding [[symbol:c]][[symbol:c]].
+6. When the artifact creature dies, it triggers, returning the other artifact creature from your graveyard to your hand.
+7. If needed, activate the Eldrazi Spawn by sacrificing it, adding [[symbol:c]].
+8. Repeat.
+
+
+Results:
+- Infinite creature LTB
+- Infinite creature ETB
+- Infinite creature sacrifice triggers
+- Infinite death triggers
+- Infinite damage
+- Infinite storm count
+- Infinite colorless mana
+- Infinite creature tokens
+===endpanel
+===endaccordion
+
+===accordion
+===panel: Glaring Fleshraker + Myr Retriever + Workshop Assistant + Krark-Clan Ironworks
+[[symbol:c]]
+
+
+Cards Required:
+- [[Glaring Fleshraker]]
+- [[Myr Retriever]]
+- [[Workshop Assistant]]
+- [[Krark-Clan Ironworks]]
+
+
+Prerequisites:
+- Glaring Fleshraker and Krark-Clan Ironworks on the battlefield.
+- Myr Retriever and Workshop Assistant in hand or in your graveyard.
+- One of the artifact creatures must be in your hand while the other is in your graveyard
+- You have enough mana to cast the artifact card in your hand.
+
+
+Steps:
+1. Cast the artifact creature card in your hand by paying its mana cost.
+2. Glaring Fleshraker's first ability triggers, creating a 0/1 Eldrazi Spawn creature token.
+3. When the Eldrazi Spawn enters the battlefield, Glaring Fleshraker's second ability triggers, dealing 1 damage to each opponent.
+4. Resolve the artifact creature spell, triggering Glaring Fleshraker's second ability, dealing 1 damage to each opponent.
+5. Activate Krark-Clan Ironworks by sacrificing the artifact creature, adding [[symbol:c]][[symbol:c]].
+6. When the artifact creature dies, it triggers, returning the other artifact creature from your graveyard to your hand.
+7. If needed, activate the Eldrazi Spawn by sacrificing it, adding [[symbol:c]].
+8. Repeat.
+
+
+Results:
+- Infinite creature LTB
+- Infinite creature ETB
+- Infinite creature sacrifice triggers
+- Infinite death triggers
+- Infinite colorless mana
+- Infinite damage
+- Infinite storm count
+- Infinite creature tokens
+===endpanel
+===endaccordion
+
+===accordion
+===panel: Imotekh the Stormlord + Junk Diver + Workshop Assistant + Ashnod's Altar
+[[symbol:b]]
+
+
+Cards Required:
+- [[Imotekh the Stormlord]]
+- [[Junk Diver]]
+- [[Workshop Assistant]]
+- [[Ashnod's Altar]]
+
+
+Prerequisites:
+- Junk Diver in your graveyard.
+- All other permanents on the battlefield.
+
+
+Steps:
+1. Activate Ashnod's Altar by sacrificing Workshop Assistant, adding [[symbol:c]][[symbol:c]].
+2. When Workshop Assistant dies, it triggers, returning Junk Diver to your hand from your graveyard.
+3. Imotekh the Stormlord's first ability triggers, creating two 2/2 Necron Warrior artifact creature tokens.
+4. Activate Ashnod's Altar by sacrificing a Necron Warrior, adding [[symbol:c]][[symbol:c]].
+5. Cast Junk Diver by paying [[symbol:3]].
+6. Activate Ashnod's Altar by sacrificing Junk Diver, adding [[symbol:c]][[symbol:c]].
+7. When Junk Diver dies, it triggers, returning Workshop Assistant to your hand from your graveyard.
+8. Imotekh the Stormlord's first ability triggers, creating two 2/2 Necron Warrior artifact creature tokens.
+9. Cast Workshop Assistant by paying [[symbol:3]].
+10. Repeat.
+
+
+Results:
+- Infinite colorless mana
+- Infinite creature tokens
+- Infinite death triggers
+- Infinite creature ETB
+- Infinite creature LTB
+- Infinite creature sacrifice triggers
+- Infinite storm count
+===endpanel
+===endaccordion
+
+===accordion
+===panel: Imotekh the Stormlord + Junk Diver + Workshop Assistant + Krark-Clan Ironworks
+[[symbol:b]]
+
+
+Cards Required:
+- [[Imotekh the Stormlord]]
+- [[Junk Diver]]
+- [[Workshop Assistant]]
+- [[Krark-Clan Ironworks]]
+
+
+Prerequisites:
+- Junk Diver in your graveyard.
+- All other permanents on the battlefield.
+
+
+Steps:
+1. Activate Krark-Clan Ironworks by sacrificing Workshop Assistant, adding [[symbol:c]][[symbol:c]].
+2. When Workshop Assistant dies, it triggers, returning Junk Diver to your hand from your graveyard.
+3. Imotekh the Stormlord's first ability triggers, creating two 2/2 Necron Warrior artifact creature tokens.
+4. Activate Krark-Clan Ironworks by sacrificing a Necron Warrior, adding [[symbol:c]][[symbol:c]].
+5. Cast Junk Diver by paying [[symbol:3]].
+6. Activate Krark-Clan Ironworks by sacrificing Junk Diver, adding [[symbol:c]][[symbol:c]].
+7. When Junk Diver dies, it triggers, returning Workshop Assistant to your hand from your graveyard.
+8. Imotekh the Stormlord's first ability triggers, creating two 2/2 Necron Warrior artifact creature tokens.
+9. Cast Workshop Assistant by paying [[symbol:3]].
+10. Repeat.
+
+
+Results:
+- Infinite colorless mana
+- Infinite creature tokens
+- Infinite death triggers
+- Infinite creature ETB
+- Infinite creature LTB
+- Infinite creature sacrifice triggers
+- Infinite storm count
+===endpanel
+===endaccordion
+
+===accordion
+===panel: Imotekh the Stormlord + Myr Retriever + Workshop Assistant + Ashnod's Altar
+[[symbol:b]]
+
+
+Cards Required:
+- [[Imotekh the Stormlord]]
+- [[Myr Retriever]]
+- [[Workshop Assistant]]
+- [[Ashnod's Altar]]
+
+
+Prerequisites:
+- Myr Retriever in your graveyard.
+- All other permanents on the battlefield.
+
+
+Steps:
+1. Activate Ashnod's Altar by sacrificing Workshop Assistant, adding [[symbol:c]][[symbol:c]].
+2. When Workshop Assistant dies, it triggers, returning Myr Retriever to your hand from your graveyard.
+3. Imotekh the Stormlord's first ability triggers, creating two 2/2 Necron Warrior artifact creature tokens.
+4. Activate Ashnod's Altar by sacrificing a Necron Warrior, adding [[symbol:c]][[symbol:c]].
+5. Cast Myr Retriever by paying [[symbol:2]].
+6. Activate Ashnod's Altar by sacrificing Myr Retriever, adding [[symbol:c]][[symbol:c]].
+7. When Myr Retriever dies, it triggers, returning Workshop Assistant to your hand from your graveyard.
+8. Imotekh the Stormlord's first ability triggers, creating two 2/2 Necron Warrior artifact creature tokens.
+9. Cast Workshop Assistant by paying [[symbol:3]].
+10. Repeat.
+
+
+Results:
+- Infinite colorless mana
+- Infinite creature tokens
+- Infinite death triggers
+- Infinite creature ETB
+- Infinite creature LTB
+- Infinite creature sacrifice triggers
+- Infinite storm count
+===endpanel
+===endaccordion
+
+===accordion
+===panel: Imotekh the Stormlord + Myr Retriever + Workshop Assistant + Krark-Clan Ironworks
+[[symbol:b]]
+
+
+Cards Required:
+- [[Imotekh the Stormlord]]
+- [[Myr Retriever]]
+- [[Workshop Assistant]]
+- [[Krark-Clan Ironworks]]
+
+
+Prerequisites:
+- Myr Retriever in your graveyard.
+- All other permanents on the battlefield.
+
+
+Steps:
+1. Activate Krark-Clan Ironworks by sacrificing Workshop Assistant, adding [[symbol:c]][[symbol:c]].
+2. When Workshop Assistant dies, it triggers, returning Myr Retriever to your hand from your graveyard.
+3. Imotekh the Stormlord's first ability triggers, creating two 2/2 Necron Warrior artifact creature tokens.
+4. Activate Krark-Clan Ironworks by sacrificing a Necron Warrior, adding [[symbol:c]][[symbol:c]].
+5. Cast Myr Retriever by paying [[symbol:2]].
+6. Activate Krark-Clan Ironworks by sacrificing Myr Retriever, adding [[symbol:c]][[symbol:c]].
+7. When Myr Retriever dies, it triggers, returning Workshop Assistant to your hand from your graveyard.
+8. Imotekh the Stormlord's first ability triggers, creating two 2/2 Necron Warrior artifact creature tokens.
+9. Cast Workshop Assistant by paying [[symbol:3]].
+10. Repeat.
+
+
+Results:
+- Infinite colorless mana
+- Infinite creature tokens
+- Infinite death triggers
+- Infinite creature ETB
+- Infinite creature LTB
+- Infinite creature sacrifice triggers
+- Infinite storm count
 ===endpanel
 ===endaccordion
 
