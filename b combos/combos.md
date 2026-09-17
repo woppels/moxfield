@@ -1579,33 +1579,6 @@ Results:
 ===endpanel
 ===endaccordion
 
-===accordion
-===panel: The Ooze + Clock of Omens: Clear the graveyard
-[[symbol:c]]
-
-Cards Required:
-- [[The Ooze]]
-- [[Clock of Omens]]
-
-Prerequisites:
-- All permanents on the battlefield and untapped.
-- You control another untapped artifact.
-- There is at least one card in a graveyard.
-
-Steps:
-1. Activate The Ooze by tapping it, exiling a card from a graveyard and creating a Mutagen artifact token.
-2. Activate Clock of Omens by tapping the Mutagen and another untapped artifact, untapping The Ooze.
-3. Activate The Ooze by tapping it, exiling another card from a graveyard and creating another Mutagen.
-4. Use two available untapped artifacts, including newly created Mutagens as needed, to activate Clock of Omens and untap The Ooze.
-5. Repeat until there are no cards remaining in the graveyards you wish to clear.
-
-Results:
-- Clear the graveyard
-- Exile all available cards from chosen graveyards
-- Create a Mutagen token for each card exiled
-===endpanel
-===endaccordion
-
 ===endpanel
 ===endaccordion
 
@@ -9202,33 +9175,6 @@ Results:
 - Exile all cards from all graveyards
 - Create a Mutagen token for each card exiled
 - Create a Thopter token for each card exiled
-===endpanel
-===endaccordion
-
-===accordion
-===panel: The Ooze + Clock of Omens: Clear the graveyard
-[[symbol:c]]
-
-Cards Required:
-- [[The Ooze]]
-- [[Clock of Omens]]
-
-Prerequisites:
-- All permanents on the battlefield and untapped.
-- You control another untapped artifact.
-- There is at least one card in a graveyard.
-
-Steps:
-1. Activate The Ooze by tapping it, exiling a card from a graveyard and creating a Mutagen artifact token.
-2. Activate Clock of Omens by tapping the Mutagen and another untapped artifact, untapping The Ooze.
-3. Activate The Ooze by tapping it, exiling another card from a graveyard and creating another Mutagen.
-4. Use two available untapped artifacts, including newly created Mutagens as needed, to activate Clock of Omens and untap The Ooze.
-5. Repeat until there are no cards remaining in the graveyards you wish to clear.
-
-Results:
-- Clear the graveyard
-- Exile all available cards from chosen graveyards
-- Create a Mutagen token for each card exiled
 ===endpanel
 ===endaccordion
 
