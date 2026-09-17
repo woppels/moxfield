@@ -10,7 +10,7 @@ Each directory represents an individual deck or deck project.
 
 ```text
 moxfield/
-├── b57 combos/
+├── b combos/
 │   ├── combos.md
 │   └── decklist.txt
 │
