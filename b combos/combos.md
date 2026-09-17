@@ -161,6 +161,51 @@ Results:
 ===endaccordion
 
 ===accordion
+===panel: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Altar of Dementia
+[[symbol:c]]
+
+Cards Required:
+- [[The Ooze]]
+- [[Stridehangar Automaton]]
+- [[Pitiless Plunderer]]
+- [[Altar of Dementia]]
+
+Prerequisites:
+- All permanents on the battlefield.
+- You control a Thopter.
+- There is at least one card in a graveyard.
+- The Ooze does not have summoning sickness.
+
+Steps:
+1. Sacrifice a Thopter to Altar of Dementia.
+2. When the Thopter dies, Pitiless Plunderer triggers, creating a Treasure token.
+3. Stridehangar Automaton causes you to also create a 1/1 Thopter artifact creature token.
+4. Activate The Ooze by tapping it, exiling a card from a graveyard and creating a Mutagen artifact token.
+5. Stridehangar Automaton causes you to also create another 1/1 Thopter artifact creature token.
+6. Activate the Treasure by tapping and sacrificing it, adding [[symbol:1]] mana.
+7. Spend [[symbol:1]], tap and sacrifice the Mutagen to put a +1/+1 counter on a Thopter.
+8. Activate Altar of Dementia by sacrificing the countered Thopter, causing target player to mill cards equal to its power.
+9. When the countered Thopter dies, Pitiless Plunderer triggers, creating a Treasure token, and The Ooze triggers, creating a Mutagen token.
+10. Stridehangar Automaton causes you to create replacement Thopter artifact creature tokens as the artifact tokens are created.
+11. Sacrifice the Treasure for [[symbol:1]] and use it to activate and sacrifice the Mutagen, putting a +1/+1 counter on a replacement Thopter.
+12. Repeat from step 8.
+
+Results:
+- Infinite mill
+- Infinite self-mill
+- Infinite Treasure tokens
+- Infinite artifact ETB
+- Infinite artifact LTB
+- Infinite artifact sacrifice triggers
+- Infinite artifact tokens
+- Infinite creature ETB
+- Infinite creature LTB
+- Infinite creature sacrifice triggers
+- Infinite death triggers
+===endpanel
+===endaccordion
+
+===accordion
 ===panel: Tortured Existence + Pitiless Plunderer + Imotekh the Stormlord + Altar of Dementia
 [[symbol:b]]
 
@@ -211,6 +256,45 @@ Results:
 ===endaccordion
 
 ===accordion
+===panel: Altar of the Brood
+
+===accordion
+===panel: The Ooze + Clock of Omens + Stridehangar Automaton + Altar of the Brood — Mill opponents' libraries
+[[symbol:c]]
+
+Cards Required:
+- [[The Ooze]]
+- [[Clock of Omens]]
+- [[Stridehangar Automaton]]
+- [[Altar of the Brood]]
+
+Prerequisites:
+- All permanents on the battlefield.
+- The Ooze is untapped and does not have summoning sickness.
+- There is at least one card in a graveyard.
+
+Steps:
+1. Activate The Ooze by tapping it, exiling a card from a graveyard and creating a Mutagen artifact token.
+2. Stridehangar Automaton causes you to also create a 1/1 Thopter artifact creature token.
+3. The Mutagen and Thopter entering trigger Altar of the Brood, causing each opponent to mill cards.
+4. Activate Clock of Omens by tapping the Mutagen and Thopter, untapping The Ooze.
+5. Exile one of the newly milled cards with The Ooze, creating another Mutagen and another Thopter.
+6. Altar of the Brood triggers from the new permanents entering, replenishing graveyard fuel.
+7. Repeat until your opponents' libraries are empty.
+
+Results:
+- Mill opponents' libraries
+- Repeated graveyard exile
+- Create Mutagen tokens
+- Create Thopter tokens
+- Repeated artifact ETB triggers
+===endpanel
+===endaccordion
+
+===endpanel
+===endaccordion
+
+===accordion
 ===panel: Arcbound Ravager
 
 ===accordion
@@ -248,6 +332,50 @@ Results:
 - Infinite death triggers
 - Infinite Treasure tokens
 - Infinite +1/+1 counters on a creature
+===endpanel
+===endaccordion
+
+===accordion
+===panel: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Arcbound Ravager
+[[symbol:c]]
+
+Cards Required:
+- [[The Ooze]]
+- [[Stridehangar Automaton]]
+- [[Pitiless Plunderer]]
+- [[Arcbound Ravager]]
+
+Prerequisites:
+- All permanents on the battlefield.
+- You control a Thopter.
+- There is at least one card in a graveyard.
+- The Ooze does not have summoning sickness.
+
+Steps:
+1. Sacrifice a Thopter to Arcbound Ravager.
+2. When the Thopter dies, Pitiless Plunderer triggers, creating a Treasure token.
+3. Stridehangar Automaton causes you to also create a 1/1 Thopter artifact creature token.
+4. Activate The Ooze by tapping it, exiling a card from a graveyard and creating a Mutagen artifact token.
+5. Stridehangar Automaton causes you to also create another 1/1 Thopter artifact creature token.
+6. Activate the Treasure by tapping and sacrificing it, adding [[symbol:1]] mana.
+7. Spend [[symbol:1]], tap and sacrifice the Mutagen to put a +1/+1 counter on a Thopter.
+8. Activate Arcbound Ravager by sacrificing the countered Thopter, putting a +1/+1 counter on Arcbound Ravager.
+9. When the countered Thopter dies, Pitiless Plunderer triggers, creating a Treasure token, and The Ooze triggers, creating a Mutagen token.
+10. Stridehangar Automaton causes you to create replacement Thopter artifact creature tokens as the artifact tokens are created.
+11. Sacrifice the Treasure for [[symbol:1]] and use it to activate and sacrifice the Mutagen, putting a +1/+1 counter on a replacement Thopter.
+12. Repeat from step 8.
+
+Results:
+- Infinite +1/+1 counters on Arcbound Ravager
+- Infinite Treasure tokens
+- Infinite artifact ETB
+- Infinite artifact LTB
+- Infinite artifact sacrifice triggers
+- Infinite artifact tokens
+- Infinite creature ETB
+- Infinite creature LTB
+- Infinite creature sacrifice triggers
+- Infinite death triggers
 ===endpanel
 ===endaccordion
 
@@ -1031,6 +1159,50 @@ Results:
 ===endaccordion
 
 ===accordion
+===panel: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Ashnod's Altar
+[[symbol:c]]
+
+Cards Required:
+- [[The Ooze]]
+- [[Stridehangar Automaton]]
+- [[Pitiless Plunderer]]
+- [[Ashnod's Altar]]
+
+Prerequisites:
+- All permanents on the battlefield.
+- You control a Thopter.
+- There is at least one card in a graveyard.
+- The Ooze does not have summoning sickness.
+
+Steps:
+1. Sacrifice a Thopter to Ashnod's Altar.
+2. When the Thopter dies, Pitiless Plunderer triggers, creating a Treasure token.
+3. Stridehangar Automaton causes you to also create a 1/1 Thopter artifact creature token.
+4. Activate The Ooze by tapping it, exiling a card from a graveyard and creating a Mutagen artifact token.
+5. Stridehangar Automaton causes you to also create another 1/1 Thopter artifact creature token.
+6. Activate the Treasure by tapping and sacrificing it, adding [[symbol:1]] mana.
+7. Spend [[symbol:1]], tap and sacrifice the Mutagen to put a +1/+1 counter on a Thopter.
+8. Activate Ashnod's Altar by sacrificing the countered Thopter, adding [[symbol:c]][[symbol:c]].
+9. When the countered Thopter dies, Pitiless Plunderer triggers, creating a Treasure token, and The Ooze triggers, creating a Mutagen token.
+10. Stridehangar Automaton causes you to create replacement Thopter artifact creature tokens as the artifact tokens are created.
+11. Sacrifice the Treasure for [[symbol:1]] and use it to activate and sacrifice the Mutagen, putting a +1/+1 counter on a replacement Thopter.
+12. Repeat from step 8.
+
+Results:
+- Infinite colorless mana
+- Infinite Treasure tokens
+- Infinite artifact ETB
+- Infinite artifact LTB
+- Infinite artifact sacrifice triggers
+- Infinite artifact tokens
+- Infinite creature ETB
+- Infinite creature LTB
+- Infinite creature sacrifice triggers
+- Infinite death triggers
+===endpanel
+===endaccordion
+
+===accordion
 ===panel: Ultron the Annihilator + Nim Deathmantle + Ashnod's Altar
 [[symbol:b]]
 
@@ -1106,6 +1278,50 @@ Results:
 - Infinite death triggers
 - Infinite damage
 - Infinite Treasure tokens
+===endpanel
+===endaccordion
+
+===accordion
+===panel: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Blasting Station
+[[symbol:c]]
+
+Cards Required:
+- [[The Ooze]]
+- [[Stridehangar Automaton]]
+- [[Pitiless Plunderer]]
+- [[Blasting Station]]
+
+Prerequisites:
+- All permanents on the battlefield.
+- You control a Thopter.
+- There is at least one card in a graveyard.
+- The Ooze does not have summoning sickness.
+
+Steps:
+1. Sacrifice a Thopter to Blasting Station.
+2. When the Thopter dies, Pitiless Plunderer triggers, creating a Treasure token.
+3. Stridehangar Automaton causes you to also create a 1/1 Thopter artifact creature token.
+4. Activate The Ooze by tapping it, exiling a card from a graveyard and creating a Mutagen artifact token.
+5. Stridehangar Automaton causes you to also create another 1/1 Thopter artifact creature token.
+6. Activate the Treasure by tapping and sacrificing it, adding [[symbol:1]] mana.
+7. Spend [[symbol:1]], tap and sacrifice the Mutagen to put a +1/+1 counter on a Thopter.
+8. Activate Blasting Station by tapping it and sacrificing the countered Thopter, dealing 1 damage to any target.
+9. When the countered Thopter dies, Pitiless Plunderer triggers, creating a Treasure token, and The Ooze triggers, creating a Mutagen token.
+10. Stridehangar Automaton causes you to create replacement Thopter artifact creature tokens as the artifact tokens are created.
+11. Sacrifice the Treasure for [[symbol:1]] and use it to activate and sacrifice the Mutagen, putting a +1/+1 counter on a replacement Thopter.
+12. Repeat from step 8.
+
+Results:
+- Infinite damage
+- Infinite Treasure tokens
+- Infinite artifact ETB
+- Infinite artifact LTB
+- Infinite artifact sacrifice triggers
+- Infinite artifact tokens
+- Infinite creature ETB
+- Infinite creature LTB
+- Infinite creature sacrifice triggers
+- Infinite death triggers
 ===endpanel
 ===endaccordion
 
@@ -1263,6 +1479,130 @@ Results:
 - Infinite creature LTB
 - Infinite creature sacrifice triggers
 - Infinite death triggers
+===endpanel
+===endaccordion
+
+===accordion
+===panel: The Ooze + Clock of Omens + Stridehangar Automaton + Altar of the Brood — Mill opponents' libraries
+[[symbol:c]]
+
+Cards Required:
+- [[The Ooze]]
+- [[Clock of Omens]]
+- [[Stridehangar Automaton]]
+- [[Altar of the Brood]]
+
+Prerequisites:
+- All permanents on the battlefield.
+- The Ooze is untapped and does not have summoning sickness.
+- There is at least one card in a graveyard.
+
+Steps:
+1. Activate The Ooze by tapping it, exiling a card from a graveyard and creating a Mutagen artifact token.
+2. Stridehangar Automaton causes you to also create a 1/1 Thopter artifact creature token.
+3. The Mutagen and Thopter entering trigger Altar of the Brood, causing each opponent to mill cards.
+4. Activate Clock of Omens by tapping the Mutagen and Thopter, untapping The Ooze.
+5. Exile one of the newly milled cards with The Ooze, creating another Mutagen and another Thopter.
+6. Altar of the Brood triggers from the new permanents entering, replenishing graveyard fuel.
+7. Repeat until your opponents' libraries are empty.
+
+Results:
+- Mill opponents' libraries
+- Repeated graveyard exile
+- Create Mutagen tokens
+- Create Thopter tokens
+- Repeated artifact ETB triggers
+===endpanel
+===endaccordion
+
+===accordion
+===panel: The Ooze + Clock of Omens + Stridehangar Automaton + Grinding Station — Mill a library
+[[symbol:c]]
+
+Cards Required:
+- [[The Ooze]]
+- [[Clock of Omens]]
+- [[Stridehangar Automaton]]
+- [[Grinding Station]]
+
+Prerequisites:
+- All permanents on the battlefield and untapped.
+- The Ooze does not have summoning sickness.
+- There is at least one card in a graveyard.
+
+Steps:
+1. Activate The Ooze by tapping it, exiling a card from a graveyard and creating a Mutagen artifact token.
+2. Stridehangar Automaton causes you to also create a 1/1 Thopter artifact creature token.
+3. Activate Clock of Omens by tapping the Mutagen and Thopter, untapping The Ooze.
+4. Activate Grinding Station by tapping it and sacrificing the tapped Mutagen, causing target player to mill three cards.
+5. Activate The Ooze by tapping it, exiling one of the newly milled cards and creating another Mutagen.
+6. Stridehangar Automaton causes you to also create another Thopter.
+7. The artifact tokens entering trigger Grinding Station, untapping Grinding Station.
+8. Activate Clock of Omens by tapping the new Mutagen and Thopter, untapping The Ooze.
+9. Activate Grinding Station by tapping it and sacrificing the tapped Mutagen, causing target player to mill three cards.
+10. Repeat from step 5 until the chosen player's library is empty.
+
+Results:
+- Mill a library
+- Repeated graveyard exile
+- Repeated artifact ETB
+- Repeated artifact LTB
+- Repeated artifact sacrifice triggers
+- Create Thopter tokens
+===endpanel
+===endaccordion
+
+===accordion
+===panel: The Ooze + Clock of Omens + Stridehangar Automaton — Clear the graveyard
+[[symbol:c]]
+
+Cards Required:
+- [[The Ooze]]
+- [[Clock of Omens]]
+- [[Stridehangar Automaton]]
+
+Prerequisites:
+- All permanents on the battlefield.
+- There is at least one card in a graveyard.
+
+Steps:
+1. Activate The Ooze by tapping it, targeting and exiling a card from a graveyard and creating a Mutagen artifact token.
+2. Stridehangar Automaton causes you to also create a 1/1 Thopter artifact creature token.
+3. Activate Clock of Omens by tapping the Mutagen and Thopter, untapping The Ooze.
+4. Repeat for each card remaining in any graveyard.
+
+Results:
+- Clear the graveyard
+- Exile all cards from all graveyards
+- Create a Mutagen token for each card exiled
+- Create a Thopter token for each card exiled
+===endpanel
+===endaccordion
+
+===accordion
+===panel: The Ooze + Clock of Omens — Clear the graveyard
+[[symbol:c]]
+
+Cards Required:
+- [[The Ooze]]
+- [[Clock of Omens]]
+
+Prerequisites:
+- All permanents on the battlefield and untapped.
+- You control another untapped artifact.
+- There is at least one card in a graveyard.
+
+Steps:
+1. Activate The Ooze by tapping it, exiling a card from a graveyard and creating a Mutagen artifact token.
+2. Activate Clock of Omens by tapping the Mutagen and another untapped artifact, untapping The Ooze.
+3. Activate The Ooze by tapping it, exiling another card from a graveyard and creating another Mutagen.
+4. Use two available untapped artifacts, including newly created Mutagens as needed, to activate Clock of Omens and untap The Ooze.
+5. Repeat until there are no cards remaining in the graveyards you wish to clear.
+
+Results:
+- Clear the graveyard
+- Exile all available cards from chosen graveyards
+- Create a Mutagen token for each card exiled
 ===endpanel
 ===endaccordion
 
@@ -2116,6 +2456,88 @@ Results:
 - Infinite mill
 - Infinite self-mill
 - Infinite Treasure tokens
+===endpanel
+===endaccordion
+
+===accordion
+===panel: The Ooze + Clock of Omens + Stridehangar Automaton + Grinding Station — Mill a library
+[[symbol:c]]
+
+Cards Required:
+- [[The Ooze]]
+- [[Clock of Omens]]
+- [[Stridehangar Automaton]]
+- [[Grinding Station]]
+
+Prerequisites:
+- All permanents on the battlefield and untapped.
+- The Ooze does not have summoning sickness.
+- There is at least one card in a graveyard.
+
+Steps:
+1. Activate The Ooze by tapping it, exiling a card from a graveyard and creating a Mutagen artifact token.
+2. Stridehangar Automaton causes you to also create a 1/1 Thopter artifact creature token.
+3. Activate Clock of Omens by tapping the Mutagen and Thopter, untapping The Ooze.
+4. Activate Grinding Station by tapping it and sacrificing the tapped Mutagen, causing target player to mill three cards.
+5. Activate The Ooze by tapping it, exiling one of the newly milled cards and creating another Mutagen.
+6. Stridehangar Automaton causes you to also create another Thopter.
+7. The artifact tokens entering trigger Grinding Station, untapping Grinding Station.
+8. Activate Clock of Omens by tapping the new Mutagen and Thopter, untapping The Ooze.
+9. Activate Grinding Station by tapping it and sacrificing the tapped Mutagen, causing target player to mill three cards.
+10. Repeat from step 5 until the chosen player's library is empty.
+
+Results:
+- Mill a library
+- Repeated graveyard exile
+- Repeated artifact ETB
+- Repeated artifact LTB
+- Repeated artifact sacrifice triggers
+- Create Thopter tokens
+===endpanel
+===endaccordion
+
+===accordion
+===panel: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Grinding Station
+[[symbol:c]]
+
+Cards Required:
+- [[The Ooze]]
+- [[Stridehangar Automaton]]
+- [[Pitiless Plunderer]]
+- [[Grinding Station]]
+
+Prerequisites:
+- All permanents on the battlefield.
+- You control a Thopter.
+- There is at least one card in a graveyard.
+- The Ooze does not have summoning sickness.
+
+Steps:
+1. Sacrifice a Thopter to Grinding Station.
+2. When the Thopter dies, Pitiless Plunderer triggers, creating a Treasure token.
+3. Stridehangar Automaton causes you to also create a 1/1 Thopter artifact creature token.
+4. Activate The Ooze by tapping it, exiling a card from a graveyard and creating a Mutagen artifact token.
+5. Stridehangar Automaton causes you to also create another 1/1 Thopter artifact creature token.
+6. Activate the Treasure by tapping and sacrificing it, adding [[symbol:1]] mana.
+7. Spend [[symbol:1]], tap and sacrifice the Mutagen to put a +1/+1 counter on a Thopter.
+8. Activate Grinding Station by tapping it and sacrificing the countered Thopter, causing target player to mill three cards.
+9. When the countered Thopter dies, Pitiless Plunderer triggers, creating a Treasure token, and The Ooze triggers, creating a Mutagen token.
+10. Stridehangar Automaton causes you to create replacement Thopter artifact creature tokens as the artifact tokens are created.
+11. Sacrifice the Treasure for [[symbol:1]] and use it to activate and sacrifice the Mutagen, putting a +1/+1 counter on a replacement Thopter.
+12. Repeat from step 8.
+
+Results:
+- Infinite mill
+- Infinite self-mill
+- Infinite Treasure tokens
+- Infinite artifact ETB
+- Infinite artifact LTB
+- Infinite artifact sacrifice triggers
+- Infinite artifact tokens
+- Infinite creature ETB
+- Infinite creature LTB
+- Infinite creature sacrifice triggers
+- Infinite death triggers
 ===endpanel
 ===endaccordion
 
@@ -3755,6 +4177,50 @@ Results:
 - Infinite creature LTB
 - Infinite creature sacrifice triggers
 - Infinite storm count
+===endpanel
+===endaccordion
+
+===accordion
+===panel: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Krark-Clan Ironworks
+[[symbol:c]]
+
+Cards Required:
+- [[The Ooze]]
+- [[Stridehangar Automaton]]
+- [[Pitiless Plunderer]]
+- [[Krark-Clan Ironworks]]
+
+Prerequisites:
+- All permanents on the battlefield.
+- You control a Thopter.
+- There is at least one card in a graveyard.
+- The Ooze does not have summoning sickness.
+
+Steps:
+1. Sacrifice a Thopter to Krark-Clan Ironworks.
+2. When the Thopter dies, Pitiless Plunderer triggers, creating a Treasure token.
+3. Stridehangar Automaton causes you to also create a 1/1 Thopter artifact creature token.
+4. Activate The Ooze by tapping it, exiling a card from a graveyard and creating a Mutagen artifact token.
+5. Stridehangar Automaton causes you to also create another 1/1 Thopter artifact creature token.
+6. Activate the Treasure by tapping and sacrificing it, adding [[symbol:1]] mana.
+7. Spend [[symbol:1]], tap and sacrifice the Mutagen to put a +1/+1 counter on a Thopter.
+8. Activate Krark-Clan Ironworks by sacrificing the countered Thopter, adding [[symbol:c]][[symbol:c]].
+9. When the countered Thopter dies, Pitiless Plunderer triggers, creating a Treasure token, and The Ooze triggers, creating a Mutagen token.
+10. Stridehangar Automaton causes you to create replacement Thopter artifact creature tokens as the artifact tokens are created.
+11. Sacrifice the Treasure for [[symbol:1]] and use it to activate and sacrifice the Mutagen, putting a +1/+1 counter on a replacement Thopter.
+12. Repeat from step 8.
+
+Results:
+- Infinite colorless mana
+- Infinite Treasure tokens
+- Infinite artifact ETB
+- Infinite artifact LTB
+- Infinite artifact sacrifice triggers
+- Infinite artifact tokens
+- Infinite creature ETB
+- Infinite creature LTB
+- Infinite creature sacrifice triggers
+- Infinite death triggers
 ===endpanel
 ===endaccordion
 
@@ -5466,6 +5932,50 @@ Results:
 ===endaccordion
 
 ===accordion
+===panel: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Phyrexian Altar
+[[symbol:b]]
+
+Cards Required:
+- [[The Ooze]]
+- [[Stridehangar Automaton]]
+- [[Pitiless Plunderer]]
+- [[Phyrexian Altar]]
+
+Prerequisites:
+- All permanents on the battlefield.
+- You control a Thopter.
+- There is at least one card in a graveyard.
+- The Ooze does not have summoning sickness.
+
+Steps:
+1. Sacrifice a Thopter to Phyrexian Altar.
+2. When the Thopter dies, Pitiless Plunderer triggers, creating a Treasure token.
+3. Stridehangar Automaton causes you to also create a 1/1 Thopter artifact creature token.
+4. Activate The Ooze by tapping it, exiling a card from a graveyard and creating a Mutagen artifact token.
+5. Stridehangar Automaton causes you to also create another 1/1 Thopter artifact creature token.
+6. Activate the Treasure by tapping and sacrificing it, adding [[symbol:1]] mana.
+7. Spend [[symbol:1]], tap and sacrifice the Mutagen to put a +1/+1 counter on a Thopter.
+8. Activate Phyrexian Altar by sacrificing the countered Thopter, adding one mana of any color.
+9. When the countered Thopter dies, Pitiless Plunderer triggers, creating a Treasure token, and The Ooze triggers, creating a Mutagen token.
+10. Stridehangar Automaton causes you to create replacement Thopter artifact creature tokens as the artifact tokens are created.
+11. Sacrifice the Treasure for [[symbol:1]] and use it to activate and sacrifice the Mutagen, putting a +1/+1 counter on a replacement Thopter.
+12. Repeat from step 8.
+
+Results:
+- Infinite colored mana
+- Infinite Treasure tokens
+- Infinite artifact ETB
+- Infinite artifact LTB
+- Infinite artifact sacrifice triggers
+- Infinite artifact tokens
+- Infinite creature ETB
+- Infinite creature LTB
+- Infinite creature sacrifice triggers
+- Infinite death triggers
+===endpanel
+===endaccordion
+
+===accordion
 ===panel: Tortured Existence + Phyrexian Altar + Imotekh the Stormlord
 [[symbol:b]]
 
@@ -5892,6 +6402,360 @@ Results:
 - Infinite death triggers
 - Infinite Treasure tokens
 - Infinite surveil
+===endpanel
+===endaccordion
+
+===accordion
+===panel: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Altar of Dementia
+[[symbol:c]]
+
+Cards Required:
+- [[The Ooze]]
+- [[Stridehangar Automaton]]
+- [[Pitiless Plunderer]]
+- [[Altar of Dementia]]
+
+Prerequisites:
+- All permanents on the battlefield.
+- You control a Thopter.
+- There is at least one card in a graveyard.
+- The Ooze does not have summoning sickness.
+
+Steps:
+1. Sacrifice a Thopter to Altar of Dementia.
+2. When the Thopter dies, Pitiless Plunderer triggers, creating a Treasure token.
+3. Stridehangar Automaton causes you to also create a 1/1 Thopter artifact creature token.
+4. Activate The Ooze by tapping it, exiling a card from a graveyard and creating a Mutagen artifact token.
+5. Stridehangar Automaton causes you to also create another 1/1 Thopter artifact creature token.
+6. Activate the Treasure by tapping and sacrificing it, adding [[symbol:1]] mana.
+7. Spend [[symbol:1]], tap and sacrifice the Mutagen to put a +1/+1 counter on a Thopter.
+8. Activate Altar of Dementia by sacrificing the countered Thopter, causing target player to mill cards equal to its power.
+9. When the countered Thopter dies, Pitiless Plunderer triggers, creating a Treasure token, and The Ooze triggers, creating a Mutagen token.
+10. Stridehangar Automaton causes you to create replacement Thopter artifact creature tokens as the artifact tokens are created.
+11. Sacrifice the Treasure for [[symbol:1]] and use it to activate and sacrifice the Mutagen, putting a +1/+1 counter on a replacement Thopter.
+12. Repeat from step 8.
+
+Results:
+- Infinite mill
+- Infinite self-mill
+- Infinite Treasure tokens
+- Infinite artifact ETB
+- Infinite artifact LTB
+- Infinite artifact sacrifice triggers
+- Infinite artifact tokens
+- Infinite creature ETB
+- Infinite creature LTB
+- Infinite creature sacrifice triggers
+- Infinite death triggers
+===endpanel
+===endaccordion
+
+===accordion
+===panel: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Arcbound Ravager
+[[symbol:c]]
+
+Cards Required:
+- [[The Ooze]]
+- [[Stridehangar Automaton]]
+- [[Pitiless Plunderer]]
+- [[Arcbound Ravager]]
+
+Prerequisites:
+- All permanents on the battlefield.
+- You control a Thopter.
+- There is at least one card in a graveyard.
+- The Ooze does not have summoning sickness.
+
+Steps:
+1. Sacrifice a Thopter to Arcbound Ravager.
+2. When the Thopter dies, Pitiless Plunderer triggers, creating a Treasure token.
+3. Stridehangar Automaton causes you to also create a 1/1 Thopter artifact creature token.
+4. Activate The Ooze by tapping it, exiling a card from a graveyard and creating a Mutagen artifact token.
+5. Stridehangar Automaton causes you to also create another 1/1 Thopter artifact creature token.
+6. Activate the Treasure by tapping and sacrificing it, adding [[symbol:1]] mana.
+7. Spend [[symbol:1]], tap and sacrifice the Mutagen to put a +1/+1 counter on a Thopter.
+8. Activate Arcbound Ravager by sacrificing the countered Thopter, putting a +1/+1 counter on Arcbound Ravager.
+9. When the countered Thopter dies, Pitiless Plunderer triggers, creating a Treasure token, and The Ooze triggers, creating a Mutagen token.
+10. Stridehangar Automaton causes you to create replacement Thopter artifact creature tokens as the artifact tokens are created.
+11. Sacrifice the Treasure for [[symbol:1]] and use it to activate and sacrifice the Mutagen, putting a +1/+1 counter on a replacement Thopter.
+12. Repeat from step 8.
+
+Results:
+- Infinite +1/+1 counters on Arcbound Ravager
+- Infinite Treasure tokens
+- Infinite artifact ETB
+- Infinite artifact LTB
+- Infinite artifact sacrifice triggers
+- Infinite artifact tokens
+- Infinite creature ETB
+- Infinite creature LTB
+- Infinite creature sacrifice triggers
+- Infinite death triggers
+===endpanel
+===endaccordion
+
+===accordion
+===panel: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Ashnod's Altar
+[[symbol:c]]
+
+Cards Required:
+- [[The Ooze]]
+- [[Stridehangar Automaton]]
+- [[Pitiless Plunderer]]
+- [[Ashnod's Altar]]
+
+Prerequisites:
+- All permanents on the battlefield.
+- You control a Thopter.
+- There is at least one card in a graveyard.
+- The Ooze does not have summoning sickness.
+
+Steps:
+1. Sacrifice a Thopter to Ashnod's Altar.
+2. When the Thopter dies, Pitiless Plunderer triggers, creating a Treasure token.
+3. Stridehangar Automaton causes you to also create a 1/1 Thopter artifact creature token.
+4. Activate The Ooze by tapping it, exiling a card from a graveyard and creating a Mutagen artifact token.
+5. Stridehangar Automaton causes you to also create another 1/1 Thopter artifact creature token.
+6. Activate the Treasure by tapping and sacrificing it, adding [[symbol:1]] mana.
+7. Spend [[symbol:1]], tap and sacrifice the Mutagen to put a +1/+1 counter on a Thopter.
+8. Activate Ashnod's Altar by sacrificing the countered Thopter, adding [[symbol:c]][[symbol:c]].
+9. When the countered Thopter dies, Pitiless Plunderer triggers, creating a Treasure token, and The Ooze triggers, creating a Mutagen token.
+10. Stridehangar Automaton causes you to create replacement Thopter artifact creature tokens as the artifact tokens are created.
+11. Sacrifice the Treasure for [[symbol:1]] and use it to activate and sacrifice the Mutagen, putting a +1/+1 counter on a replacement Thopter.
+12. Repeat from step 8.
+
+Results:
+- Infinite colorless mana
+- Infinite Treasure tokens
+- Infinite artifact ETB
+- Infinite artifact LTB
+- Infinite artifact sacrifice triggers
+- Infinite artifact tokens
+- Infinite creature ETB
+- Infinite creature LTB
+- Infinite creature sacrifice triggers
+- Infinite death triggers
+===endpanel
+===endaccordion
+
+===accordion
+===panel: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Blasting Station
+[[symbol:c]]
+
+Cards Required:
+- [[The Ooze]]
+- [[Stridehangar Automaton]]
+- [[Pitiless Plunderer]]
+- [[Blasting Station]]
+
+Prerequisites:
+- All permanents on the battlefield.
+- You control a Thopter.
+- There is at least one card in a graveyard.
+- The Ooze does not have summoning sickness.
+
+Steps:
+1. Sacrifice a Thopter to Blasting Station.
+2. When the Thopter dies, Pitiless Plunderer triggers, creating a Treasure token.
+3. Stridehangar Automaton causes you to also create a 1/1 Thopter artifact creature token.
+4. Activate The Ooze by tapping it, exiling a card from a graveyard and creating a Mutagen artifact token.
+5. Stridehangar Automaton causes you to also create another 1/1 Thopter artifact creature token.
+6. Activate the Treasure by tapping and sacrificing it, adding [[symbol:1]] mana.
+7. Spend [[symbol:1]], tap and sacrifice the Mutagen to put a +1/+1 counter on a Thopter.
+8. Activate Blasting Station by tapping it and sacrificing the countered Thopter, dealing 1 damage to any target.
+9. When the countered Thopter dies, Pitiless Plunderer triggers, creating a Treasure token, and The Ooze triggers, creating a Mutagen token.
+10. Stridehangar Automaton causes you to create replacement Thopter artifact creature tokens as the artifact tokens are created.
+11. Sacrifice the Treasure for [[symbol:1]] and use it to activate and sacrifice the Mutagen, putting a +1/+1 counter on a replacement Thopter.
+12. Repeat from step 8.
+
+Results:
+- Infinite damage
+- Infinite Treasure tokens
+- Infinite artifact ETB
+- Infinite artifact LTB
+- Infinite artifact sacrifice triggers
+- Infinite artifact tokens
+- Infinite creature ETB
+- Infinite creature LTB
+- Infinite creature sacrifice triggers
+- Infinite death triggers
+===endpanel
+===endaccordion
+
+===accordion
+===panel: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Grinding Station
+[[symbol:c]]
+
+Cards Required:
+- [[The Ooze]]
+- [[Stridehangar Automaton]]
+- [[Pitiless Plunderer]]
+- [[Grinding Station]]
+
+Prerequisites:
+- All permanents on the battlefield.
+- You control a Thopter.
+- There is at least one card in a graveyard.
+- The Ooze does not have summoning sickness.
+
+Steps:
+1. Sacrifice a Thopter to Grinding Station.
+2. When the Thopter dies, Pitiless Plunderer triggers, creating a Treasure token.
+3. Stridehangar Automaton causes you to also create a 1/1 Thopter artifact creature token.
+4. Activate The Ooze by tapping it, exiling a card from a graveyard and creating a Mutagen artifact token.
+5. Stridehangar Automaton causes you to also create another 1/1 Thopter artifact creature token.
+6. Activate the Treasure by tapping and sacrificing it, adding [[symbol:1]] mana.
+7. Spend [[symbol:1]], tap and sacrifice the Mutagen to put a +1/+1 counter on a Thopter.
+8. Activate Grinding Station by tapping it and sacrificing the countered Thopter, causing target player to mill three cards.
+9. When the countered Thopter dies, Pitiless Plunderer triggers, creating a Treasure token, and The Ooze triggers, creating a Mutagen token.
+10. Stridehangar Automaton causes you to create replacement Thopter artifact creature tokens as the artifact tokens are created.
+11. Sacrifice the Treasure for [[symbol:1]] and use it to activate and sacrifice the Mutagen, putting a +1/+1 counter on a replacement Thopter.
+12. Repeat from step 8.
+
+Results:
+- Infinite mill
+- Infinite self-mill
+- Infinite Treasure tokens
+- Infinite artifact ETB
+- Infinite artifact LTB
+- Infinite artifact sacrifice triggers
+- Infinite artifact tokens
+- Infinite creature ETB
+- Infinite creature LTB
+- Infinite creature sacrifice triggers
+- Infinite death triggers
+===endpanel
+===endaccordion
+
+===accordion
+===panel: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Krark-Clan Ironworks
+[[symbol:c]]
+
+Cards Required:
+- [[The Ooze]]
+- [[Stridehangar Automaton]]
+- [[Pitiless Plunderer]]
+- [[Krark-Clan Ironworks]]
+
+Prerequisites:
+- All permanents on the battlefield.
+- You control a Thopter.
+- There is at least one card in a graveyard.
+- The Ooze does not have summoning sickness.
+
+Steps:
+1. Sacrifice a Thopter to Krark-Clan Ironworks.
+2. When the Thopter dies, Pitiless Plunderer triggers, creating a Treasure token.
+3. Stridehangar Automaton causes you to also create a 1/1 Thopter artifact creature token.
+4. Activate The Ooze by tapping it, exiling a card from a graveyard and creating a Mutagen artifact token.
+5. Stridehangar Automaton causes you to also create another 1/1 Thopter artifact creature token.
+6. Activate the Treasure by tapping and sacrificing it, adding [[symbol:1]] mana.
+7. Spend [[symbol:1]], tap and sacrifice the Mutagen to put a +1/+1 counter on a Thopter.
+8. Activate Krark-Clan Ironworks by sacrificing the countered Thopter, adding [[symbol:c]][[symbol:c]].
+9. When the countered Thopter dies, Pitiless Plunderer triggers, creating a Treasure token, and The Ooze triggers, creating a Mutagen token.
+10. Stridehangar Automaton causes you to create replacement Thopter artifact creature tokens as the artifact tokens are created.
+11. Sacrifice the Treasure for [[symbol:1]] and use it to activate and sacrifice the Mutagen, putting a +1/+1 counter on a replacement Thopter.
+12. Repeat from step 8.
+
+Results:
+- Infinite colorless mana
+- Infinite Treasure tokens
+- Infinite artifact ETB
+- Infinite artifact LTB
+- Infinite artifact sacrifice triggers
+- Infinite artifact tokens
+- Infinite creature ETB
+- Infinite creature LTB
+- Infinite creature sacrifice triggers
+- Infinite death triggers
+===endpanel
+===endaccordion
+
+===accordion
+===panel: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Phyrexian Altar
+[[symbol:b]]
+
+Cards Required:
+- [[The Ooze]]
+- [[Stridehangar Automaton]]
+- [[Pitiless Plunderer]]
+- [[Phyrexian Altar]]
+
+Prerequisites:
+- All permanents on the battlefield.
+- You control a Thopter.
+- There is at least one card in a graveyard.
+- The Ooze does not have summoning sickness.
+
+Steps:
+1. Sacrifice a Thopter to Phyrexian Altar.
+2. When the Thopter dies, Pitiless Plunderer triggers, creating a Treasure token.
+3. Stridehangar Automaton causes you to also create a 1/1 Thopter artifact creature token.
+4. Activate The Ooze by tapping it, exiling a card from a graveyard and creating a Mutagen artifact token.
+5. Stridehangar Automaton causes you to also create another 1/1 Thopter artifact creature token.
+6. Activate the Treasure by tapping and sacrificing it, adding [[symbol:1]] mana.
+7. Spend [[symbol:1]], tap and sacrifice the Mutagen to put a +1/+1 counter on a Thopter.
+8. Activate Phyrexian Altar by sacrificing the countered Thopter, adding one mana of any color.
+9. When the countered Thopter dies, Pitiless Plunderer triggers, creating a Treasure token, and The Ooze triggers, creating a Mutagen token.
+10. Stridehangar Automaton causes you to create replacement Thopter artifact creature tokens as the artifact tokens are created.
+11. Sacrifice the Treasure for [[symbol:1]] and use it to activate and sacrifice the Mutagen, putting a +1/+1 counter on a replacement Thopter.
+12. Repeat from step 8.
+
+Results:
+- Infinite colored mana
+- Infinite Treasure tokens
+- Infinite artifact ETB
+- Infinite artifact LTB
+- Infinite artifact sacrifice triggers
+- Infinite artifact tokens
+- Infinite creature ETB
+- Infinite creature LTB
+- Infinite creature sacrifice triggers
+- Infinite death triggers
+===endpanel
+===endaccordion
+
+===accordion
+===panel: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Umbral Collar Zealot
+[[symbol:b]]
+
+Cards Required:
+- [[The Ooze]]
+- [[Stridehangar Automaton]]
+- [[Pitiless Plunderer]]
+- [[Umbral Collar Zealot]]
+
+Prerequisites:
+- All permanents on the battlefield.
+- You control a Thopter.
+- There is at least one card in a graveyard.
+- The Ooze does not have summoning sickness.
+
+Steps:
+1. Sacrifice a Thopter to Umbral Collar Zealot.
+2. When the Thopter dies, Pitiless Plunderer triggers, creating a Treasure token.
+3. Stridehangar Automaton causes you to also create a 1/1 Thopter artifact creature token.
+4. Activate The Ooze by tapping it, exiling a card from a graveyard and creating a Mutagen artifact token.
+5. Stridehangar Automaton causes you to also create another 1/1 Thopter artifact creature token.
+6. Activate the Treasure by tapping and sacrificing it, adding [[symbol:1]] mana.
+7. Spend [[symbol:1]], tap and sacrifice the Mutagen to put a +1/+1 counter on a Thopter.
+8. Activate Umbral Collar Zealot by sacrificing the countered Thopter.
+9. When the countered Thopter dies, Pitiless Plunderer triggers, creating a Treasure token, and The Ooze triggers, creating a Mutagen token.
+10. Stridehangar Automaton causes you to create replacement Thopter artifact creature tokens as the artifact tokens are created.
+11. Sacrifice the Treasure for [[symbol:1]] and use it to activate and sacrifice the Mutagen, putting a +1/+1 counter on a replacement Thopter.
+12. Repeat from step 8.
+
+Results:
+- Infinite surveil
+- Infinite Treasure tokens
+- Infinite artifact ETB
+- Infinite artifact LTB
+- Infinite artifact sacrifice triggers
+- Infinite artifact tokens
+- Infinite creature ETB
+- Infinite creature LTB
+- Infinite creature sacrifice triggers
+- Infinite death triggers
 ===endpanel
 ===endaccordion
 
@@ -7640,6 +8504,103 @@ Results:
 ===endaccordion
 
 ===accordion
+===panel: The Ooze + Clock of Omens + Stridehangar Automaton + Altar of the Brood — Mill opponents' libraries
+[[symbol:c]]
+
+Cards Required:
+- [[The Ooze]]
+- [[Clock of Omens]]
+- [[Stridehangar Automaton]]
+- [[Altar of the Brood]]
+
+Prerequisites:
+- All permanents on the battlefield.
+- The Ooze is untapped and does not have summoning sickness.
+- There is at least one card in a graveyard.
+
+Steps:
+1. Activate The Ooze by tapping it, exiling a card from a graveyard and creating a Mutagen artifact token.
+2. Stridehangar Automaton causes you to also create a 1/1 Thopter artifact creature token.
+3. The Mutagen and Thopter entering trigger Altar of the Brood, causing each opponent to mill cards.
+4. Activate Clock of Omens by tapping the Mutagen and Thopter, untapping The Ooze.
+5. Exile one of the newly milled cards with The Ooze, creating another Mutagen and another Thopter.
+6. Altar of the Brood triggers from the new permanents entering, replenishing graveyard fuel.
+7. Repeat until your opponents' libraries are empty.
+
+Results:
+- Mill opponents' libraries
+- Repeated graveyard exile
+- Create Mutagen tokens
+- Create Thopter tokens
+- Repeated artifact ETB triggers
+===endpanel
+===endaccordion
+
+===accordion
+===panel: The Ooze + Clock of Omens + Stridehangar Automaton + Grinding Station — Mill a library
+[[symbol:c]]
+
+Cards Required:
+- [[The Ooze]]
+- [[Clock of Omens]]
+- [[Stridehangar Automaton]]
+- [[Grinding Station]]
+
+Prerequisites:
+- All permanents on the battlefield and untapped.
+- The Ooze does not have summoning sickness.
+- There is at least one card in a graveyard.
+
+Steps:
+1. Activate The Ooze by tapping it, exiling a card from a graveyard and creating a Mutagen artifact token.
+2. Stridehangar Automaton causes you to also create a 1/1 Thopter artifact creature token.
+3. Activate Clock of Omens by tapping the Mutagen and Thopter, untapping The Ooze.
+4. Activate Grinding Station by tapping it and sacrificing the tapped Mutagen, causing target player to mill three cards.
+5. Activate The Ooze by tapping it, exiling one of the newly milled cards and creating another Mutagen.
+6. Stridehangar Automaton causes you to also create another Thopter.
+7. The artifact tokens entering trigger Grinding Station, untapping Grinding Station.
+8. Activate Clock of Omens by tapping the new Mutagen and Thopter, untapping The Ooze.
+9. Activate Grinding Station by tapping it and sacrificing the tapped Mutagen, causing target player to mill three cards.
+10. Repeat from step 5 until the chosen player's library is empty.
+
+Results:
+- Mill a library
+- Repeated graveyard exile
+- Repeated artifact ETB
+- Repeated artifact LTB
+- Repeated artifact sacrifice triggers
+- Create Thopter tokens
+===endpanel
+===endaccordion
+
+===accordion
+===panel: The Ooze + Clock of Omens + Stridehangar Automaton — Clear the graveyard
+[[symbol:c]]
+
+Cards Required:
+- [[The Ooze]]
+- [[Clock of Omens]]
+- [[Stridehangar Automaton]]
+
+Prerequisites:
+- All permanents on the battlefield.
+- There is at least one card in a graveyard.
+
+Steps:
+1. Activate The Ooze by tapping it, targeting and exiling a card from a graveyard and creating a Mutagen artifact token.
+2. Stridehangar Automaton causes you to also create a 1/1 Thopter artifact creature token.
+3. Activate Clock of Omens by tapping the Mutagen and Thopter, untapping The Ooze.
+4. Repeat for each card remaining in any graveyard.
+
+Results:
+- Clear the graveyard
+- Exile all cards from all graveyards
+- Create a Mutagen token for each card exiled
+- Create a Thopter token for each card exiled
+===endpanel
+===endaccordion
+
+===accordion
 ===panel: The Ooze + Stridehangar Automaton + Ashnod's Altar
 [[symbol:c]]
 
@@ -7696,6 +8657,360 @@ Steps:
 6. Repeat from step 3.
 
 Results:
+- Infinite artifact ETB
+- Infinite artifact LTB
+- Infinite artifact sacrifice triggers
+- Infinite artifact tokens
+- Infinite creature ETB
+- Infinite creature LTB
+- Infinite creature sacrifice triggers
+- Infinite death triggers
+===endpanel
+===endaccordion
+
+===accordion
+===panel: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Altar of Dementia
+[[symbol:c]]
+
+Cards Required:
+- [[The Ooze]]
+- [[Stridehangar Automaton]]
+- [[Pitiless Plunderer]]
+- [[Altar of Dementia]]
+
+Prerequisites:
+- All permanents on the battlefield.
+- You control a Thopter.
+- There is at least one card in a graveyard.
+- The Ooze does not have summoning sickness.
+
+Steps:
+1. Sacrifice a Thopter to Altar of Dementia.
+2. When the Thopter dies, Pitiless Plunderer triggers, creating a Treasure token.
+3. Stridehangar Automaton causes you to also create a 1/1 Thopter artifact creature token.
+4. Activate The Ooze by tapping it, exiling a card from a graveyard and creating a Mutagen artifact token.
+5. Stridehangar Automaton causes you to also create another 1/1 Thopter artifact creature token.
+6. Activate the Treasure by tapping and sacrificing it, adding [[symbol:1]] mana.
+7. Spend [[symbol:1]], tap and sacrifice the Mutagen to put a +1/+1 counter on a Thopter.
+8. Activate Altar of Dementia by sacrificing the countered Thopter, causing target player to mill cards equal to its power.
+9. When the countered Thopter dies, Pitiless Plunderer triggers, creating a Treasure token, and The Ooze triggers, creating a Mutagen token.
+10. Stridehangar Automaton causes you to create replacement Thopter artifact creature tokens as the artifact tokens are created.
+11. Sacrifice the Treasure for [[symbol:1]] and use it to activate and sacrifice the Mutagen, putting a +1/+1 counter on a replacement Thopter.
+12. Repeat from step 8.
+
+Results:
+- Infinite mill
+- Infinite self-mill
+- Infinite Treasure tokens
+- Infinite artifact ETB
+- Infinite artifact LTB
+- Infinite artifact sacrifice triggers
+- Infinite artifact tokens
+- Infinite creature ETB
+- Infinite creature LTB
+- Infinite creature sacrifice triggers
+- Infinite death triggers
+===endpanel
+===endaccordion
+
+===accordion
+===panel: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Arcbound Ravager
+[[symbol:c]]
+
+Cards Required:
+- [[The Ooze]]
+- [[Stridehangar Automaton]]
+- [[Pitiless Plunderer]]
+- [[Arcbound Ravager]]
+
+Prerequisites:
+- All permanents on the battlefield.
+- You control a Thopter.
+- There is at least one card in a graveyard.
+- The Ooze does not have summoning sickness.
+
+Steps:
+1. Sacrifice a Thopter to Arcbound Ravager.
+2. When the Thopter dies, Pitiless Plunderer triggers, creating a Treasure token.
+3. Stridehangar Automaton causes you to also create a 1/1 Thopter artifact creature token.
+4. Activate The Ooze by tapping it, exiling a card from a graveyard and creating a Mutagen artifact token.
+5. Stridehangar Automaton causes you to also create another 1/1 Thopter artifact creature token.
+6. Activate the Treasure by tapping and sacrificing it, adding [[symbol:1]] mana.
+7. Spend [[symbol:1]], tap and sacrifice the Mutagen to put a +1/+1 counter on a Thopter.
+8. Activate Arcbound Ravager by sacrificing the countered Thopter, putting a +1/+1 counter on Arcbound Ravager.
+9. When the countered Thopter dies, Pitiless Plunderer triggers, creating a Treasure token, and The Ooze triggers, creating a Mutagen token.
+10. Stridehangar Automaton causes you to create replacement Thopter artifact creature tokens as the artifact tokens are created.
+11. Sacrifice the Treasure for [[symbol:1]] and use it to activate and sacrifice the Mutagen, putting a +1/+1 counter on a replacement Thopter.
+12. Repeat from step 8.
+
+Results:
+- Infinite +1/+1 counters on Arcbound Ravager
+- Infinite Treasure tokens
+- Infinite artifact ETB
+- Infinite artifact LTB
+- Infinite artifact sacrifice triggers
+- Infinite artifact tokens
+- Infinite creature ETB
+- Infinite creature LTB
+- Infinite creature sacrifice triggers
+- Infinite death triggers
+===endpanel
+===endaccordion
+
+===accordion
+===panel: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Ashnod's Altar
+[[symbol:c]]
+
+Cards Required:
+- [[The Ooze]]
+- [[Stridehangar Automaton]]
+- [[Pitiless Plunderer]]
+- [[Ashnod's Altar]]
+
+Prerequisites:
+- All permanents on the battlefield.
+- You control a Thopter.
+- There is at least one card in a graveyard.
+- The Ooze does not have summoning sickness.
+
+Steps:
+1. Sacrifice a Thopter to Ashnod's Altar.
+2. When the Thopter dies, Pitiless Plunderer triggers, creating a Treasure token.
+3. Stridehangar Automaton causes you to also create a 1/1 Thopter artifact creature token.
+4. Activate The Ooze by tapping it, exiling a card from a graveyard and creating a Mutagen artifact token.
+5. Stridehangar Automaton causes you to also create another 1/1 Thopter artifact creature token.
+6. Activate the Treasure by tapping and sacrificing it, adding [[symbol:1]] mana.
+7. Spend [[symbol:1]], tap and sacrifice the Mutagen to put a +1/+1 counter on a Thopter.
+8. Activate Ashnod's Altar by sacrificing the countered Thopter, adding [[symbol:c]][[symbol:c]].
+9. When the countered Thopter dies, Pitiless Plunderer triggers, creating a Treasure token, and The Ooze triggers, creating a Mutagen token.
+10. Stridehangar Automaton causes you to create replacement Thopter artifact creature tokens as the artifact tokens are created.
+11. Sacrifice the Treasure for [[symbol:1]] and use it to activate and sacrifice the Mutagen, putting a +1/+1 counter on a replacement Thopter.
+12. Repeat from step 8.
+
+Results:
+- Infinite colorless mana
+- Infinite Treasure tokens
+- Infinite artifact ETB
+- Infinite artifact LTB
+- Infinite artifact sacrifice triggers
+- Infinite artifact tokens
+- Infinite creature ETB
+- Infinite creature LTB
+- Infinite creature sacrifice triggers
+- Infinite death triggers
+===endpanel
+===endaccordion
+
+===accordion
+===panel: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Blasting Station
+[[symbol:c]]
+
+Cards Required:
+- [[The Ooze]]
+- [[Stridehangar Automaton]]
+- [[Pitiless Plunderer]]
+- [[Blasting Station]]
+
+Prerequisites:
+- All permanents on the battlefield.
+- You control a Thopter.
+- There is at least one card in a graveyard.
+- The Ooze does not have summoning sickness.
+
+Steps:
+1. Sacrifice a Thopter to Blasting Station.
+2. When the Thopter dies, Pitiless Plunderer triggers, creating a Treasure token.
+3. Stridehangar Automaton causes you to also create a 1/1 Thopter artifact creature token.
+4. Activate The Ooze by tapping it, exiling a card from a graveyard and creating a Mutagen artifact token.
+5. Stridehangar Automaton causes you to also create another 1/1 Thopter artifact creature token.
+6. Activate the Treasure by tapping and sacrificing it, adding [[symbol:1]] mana.
+7. Spend [[symbol:1]], tap and sacrifice the Mutagen to put a +1/+1 counter on a Thopter.
+8. Activate Blasting Station by tapping it and sacrificing the countered Thopter, dealing 1 damage to any target.
+9. When the countered Thopter dies, Pitiless Plunderer triggers, creating a Treasure token, and The Ooze triggers, creating a Mutagen token.
+10. Stridehangar Automaton causes you to create replacement Thopter artifact creature tokens as the artifact tokens are created.
+11. Sacrifice the Treasure for [[symbol:1]] and use it to activate and sacrifice the Mutagen, putting a +1/+1 counter on a replacement Thopter.
+12. Repeat from step 8.
+
+Results:
+- Infinite damage
+- Infinite Treasure tokens
+- Infinite artifact ETB
+- Infinite artifact LTB
+- Infinite artifact sacrifice triggers
+- Infinite artifact tokens
+- Infinite creature ETB
+- Infinite creature LTB
+- Infinite creature sacrifice triggers
+- Infinite death triggers
+===endpanel
+===endaccordion
+
+===accordion
+===panel: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Grinding Station
+[[symbol:c]]
+
+Cards Required:
+- [[The Ooze]]
+- [[Stridehangar Automaton]]
+- [[Pitiless Plunderer]]
+- [[Grinding Station]]
+
+Prerequisites:
+- All permanents on the battlefield.
+- You control a Thopter.
+- There is at least one card in a graveyard.
+- The Ooze does not have summoning sickness.
+
+Steps:
+1. Sacrifice a Thopter to Grinding Station.
+2. When the Thopter dies, Pitiless Plunderer triggers, creating a Treasure token.
+3. Stridehangar Automaton causes you to also create a 1/1 Thopter artifact creature token.
+4. Activate The Ooze by tapping it, exiling a card from a graveyard and creating a Mutagen artifact token.
+5. Stridehangar Automaton causes you to also create another 1/1 Thopter artifact creature token.
+6. Activate the Treasure by tapping and sacrificing it, adding [[symbol:1]] mana.
+7. Spend [[symbol:1]], tap and sacrifice the Mutagen to put a +1/+1 counter on a Thopter.
+8. Activate Grinding Station by tapping it and sacrificing the countered Thopter, causing target player to mill three cards.
+9. When the countered Thopter dies, Pitiless Plunderer triggers, creating a Treasure token, and The Ooze triggers, creating a Mutagen token.
+10. Stridehangar Automaton causes you to create replacement Thopter artifact creature tokens as the artifact tokens are created.
+11. Sacrifice the Treasure for [[symbol:1]] and use it to activate and sacrifice the Mutagen, putting a +1/+1 counter on a replacement Thopter.
+12. Repeat from step 8.
+
+Results:
+- Infinite mill
+- Infinite self-mill
+- Infinite Treasure tokens
+- Infinite artifact ETB
+- Infinite artifact LTB
+- Infinite artifact sacrifice triggers
+- Infinite artifact tokens
+- Infinite creature ETB
+- Infinite creature LTB
+- Infinite creature sacrifice triggers
+- Infinite death triggers
+===endpanel
+===endaccordion
+
+===accordion
+===panel: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Krark-Clan Ironworks
+[[symbol:c]]
+
+Cards Required:
+- [[The Ooze]]
+- [[Stridehangar Automaton]]
+- [[Pitiless Plunderer]]
+- [[Krark-Clan Ironworks]]
+
+Prerequisites:
+- All permanents on the battlefield.
+- You control a Thopter.
+- There is at least one card in a graveyard.
+- The Ooze does not have summoning sickness.
+
+Steps:
+1. Sacrifice a Thopter to Krark-Clan Ironworks.
+2. When the Thopter dies, Pitiless Plunderer triggers, creating a Treasure token.
+3. Stridehangar Automaton causes you to also create a 1/1 Thopter artifact creature token.
+4. Activate The Ooze by tapping it, exiling a card from a graveyard and creating a Mutagen artifact token.
+5. Stridehangar Automaton causes you to also create another 1/1 Thopter artifact creature token.
+6. Activate the Treasure by tapping and sacrificing it, adding [[symbol:1]] mana.
+7. Spend [[symbol:1]], tap and sacrifice the Mutagen to put a +1/+1 counter on a Thopter.
+8. Activate Krark-Clan Ironworks by sacrificing the countered Thopter, adding [[symbol:c]][[symbol:c]].
+9. When the countered Thopter dies, Pitiless Plunderer triggers, creating a Treasure token, and The Ooze triggers, creating a Mutagen token.
+10. Stridehangar Automaton causes you to create replacement Thopter artifact creature tokens as the artifact tokens are created.
+11. Sacrifice the Treasure for [[symbol:1]] and use it to activate and sacrifice the Mutagen, putting a +1/+1 counter on a replacement Thopter.
+12. Repeat from step 8.
+
+Results:
+- Infinite colorless mana
+- Infinite Treasure tokens
+- Infinite artifact ETB
+- Infinite artifact LTB
+- Infinite artifact sacrifice triggers
+- Infinite artifact tokens
+- Infinite creature ETB
+- Infinite creature LTB
+- Infinite creature sacrifice triggers
+- Infinite death triggers
+===endpanel
+===endaccordion
+
+===accordion
+===panel: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Phyrexian Altar
+[[symbol:b]]
+
+Cards Required:
+- [[The Ooze]]
+- [[Stridehangar Automaton]]
+- [[Pitiless Plunderer]]
+- [[Phyrexian Altar]]
+
+Prerequisites:
+- All permanents on the battlefield.
+- You control a Thopter.
+- There is at least one card in a graveyard.
+- The Ooze does not have summoning sickness.
+
+Steps:
+1. Sacrifice a Thopter to Phyrexian Altar.
+2. When the Thopter dies, Pitiless Plunderer triggers, creating a Treasure token.
+3. Stridehangar Automaton causes you to also create a 1/1 Thopter artifact creature token.
+4. Activate The Ooze by tapping it, exiling a card from a graveyard and creating a Mutagen artifact token.
+5. Stridehangar Automaton causes you to also create another 1/1 Thopter artifact creature token.
+6. Activate the Treasure by tapping and sacrificing it, adding [[symbol:1]] mana.
+7. Spend [[symbol:1]], tap and sacrifice the Mutagen to put a +1/+1 counter on a Thopter.
+8. Activate Phyrexian Altar by sacrificing the countered Thopter, adding one mana of any color.
+9. When the countered Thopter dies, Pitiless Plunderer triggers, creating a Treasure token, and The Ooze triggers, creating a Mutagen token.
+10. Stridehangar Automaton causes you to create replacement Thopter artifact creature tokens as the artifact tokens are created.
+11. Sacrifice the Treasure for [[symbol:1]] and use it to activate and sacrifice the Mutagen, putting a +1/+1 counter on a replacement Thopter.
+12. Repeat from step 8.
+
+Results:
+- Infinite colored mana
+- Infinite Treasure tokens
+- Infinite artifact ETB
+- Infinite artifact LTB
+- Infinite artifact sacrifice triggers
+- Infinite artifact tokens
+- Infinite creature ETB
+- Infinite creature LTB
+- Infinite creature sacrifice triggers
+- Infinite death triggers
+===endpanel
+===endaccordion
+
+===accordion
+===panel: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Umbral Collar Zealot
+[[symbol:b]]
+
+Cards Required:
+- [[The Ooze]]
+- [[Stridehangar Automaton]]
+- [[Pitiless Plunderer]]
+- [[Umbral Collar Zealot]]
+
+Prerequisites:
+- All permanents on the battlefield.
+- You control a Thopter.
+- There is at least one card in a graveyard.
+- The Ooze does not have summoning sickness.
+
+Steps:
+1. Sacrifice a Thopter to Umbral Collar Zealot.
+2. When the Thopter dies, Pitiless Plunderer triggers, creating a Treasure token.
+3. Stridehangar Automaton causes you to also create a 1/1 Thopter artifact creature token.
+4. Activate The Ooze by tapping it, exiling a card from a graveyard and creating a Mutagen artifact token.
+5. Stridehangar Automaton causes you to also create another 1/1 Thopter artifact creature token.
+6. Activate the Treasure by tapping and sacrificing it, adding [[symbol:1]] mana.
+7. Spend [[symbol:1]], tap and sacrifice the Mutagen to put a +1/+1 counter on a Thopter.
+8. Activate Umbral Collar Zealot by sacrificing the countered Thopter.
+9. When the countered Thopter dies, Pitiless Plunderer triggers, creating a Treasure token, and The Ooze triggers, creating a Mutagen token.
+10. Stridehangar Automaton causes you to create replacement Thopter artifact creature tokens as the artifact tokens are created.
+11. Sacrifice the Treasure for [[symbol:1]] and use it to activate and sacrifice the Mutagen, putting a +1/+1 counter on a replacement Thopter.
+12. Repeat from step 8.
+
+Results:
+- Infinite surveil
+- Infinite Treasure tokens
 - Infinite artifact ETB
 - Infinite artifact LTB
 - Infinite artifact sacrifice triggers
@@ -7794,6 +9109,130 @@ Results:
 ===panel: The Ooze
 
 ===accordion
+===panel: The Ooze + Clock of Omens + Stridehangar Automaton + Altar of the Brood — Mill opponents' libraries
+[[symbol:c]]
+
+Cards Required:
+- [[The Ooze]]
+- [[Clock of Omens]]
+- [[Stridehangar Automaton]]
+- [[Altar of the Brood]]
+
+Prerequisites:
+- All permanents on the battlefield.
+- The Ooze is untapped and does not have summoning sickness.
+- There is at least one card in a graveyard.
+
+Steps:
+1. Activate The Ooze by tapping it, exiling a card from a graveyard and creating a Mutagen artifact token.
+2. Stridehangar Automaton causes you to also create a 1/1 Thopter artifact creature token.
+3. The Mutagen and Thopter entering trigger Altar of the Brood, causing each opponent to mill cards.
+4. Activate Clock of Omens by tapping the Mutagen and Thopter, untapping The Ooze.
+5. Exile one of the newly milled cards with The Ooze, creating another Mutagen and another Thopter.
+6. Altar of the Brood triggers from the new permanents entering, replenishing graveyard fuel.
+7. Repeat until your opponents' libraries are empty.
+
+Results:
+- Mill opponents' libraries
+- Repeated graveyard exile
+- Create Mutagen tokens
+- Create Thopter tokens
+- Repeated artifact ETB triggers
+===endpanel
+===endaccordion
+
+===accordion
+===panel: The Ooze + Clock of Omens + Stridehangar Automaton + Grinding Station — Mill a library
+[[symbol:c]]
+
+Cards Required:
+- [[The Ooze]]
+- [[Clock of Omens]]
+- [[Stridehangar Automaton]]
+- [[Grinding Station]]
+
+Prerequisites:
+- All permanents on the battlefield and untapped.
+- The Ooze does not have summoning sickness.
+- There is at least one card in a graveyard.
+
+Steps:
+1. Activate The Ooze by tapping it, exiling a card from a graveyard and creating a Mutagen artifact token.
+2. Stridehangar Automaton causes you to also create a 1/1 Thopter artifact creature token.
+3. Activate Clock of Omens by tapping the Mutagen and Thopter, untapping The Ooze.
+4. Activate Grinding Station by tapping it and sacrificing the tapped Mutagen, causing target player to mill three cards.
+5. Activate The Ooze by tapping it, exiling one of the newly milled cards and creating another Mutagen.
+6. Stridehangar Automaton causes you to also create another Thopter.
+7. The artifact tokens entering trigger Grinding Station, untapping Grinding Station.
+8. Activate Clock of Omens by tapping the new Mutagen and Thopter, untapping The Ooze.
+9. Activate Grinding Station by tapping it and sacrificing the tapped Mutagen, causing target player to mill three cards.
+10. Repeat from step 5 until the chosen player's library is empty.
+
+Results:
+- Mill a library
+- Repeated graveyard exile
+- Repeated artifact ETB
+- Repeated artifact LTB
+- Repeated artifact sacrifice triggers
+- Create Thopter tokens
+===endpanel
+===endaccordion
+
+===accordion
+===panel: The Ooze + Clock of Omens + Stridehangar Automaton — Clear the graveyard
+[[symbol:c]]
+
+Cards Required:
+- [[The Ooze]]
+- [[Clock of Omens]]
+- [[Stridehangar Automaton]]
+
+Prerequisites:
+- All permanents on the battlefield.
+- There is at least one card in a graveyard.
+
+Steps:
+1. Activate The Ooze by tapping it, targeting and exiling a card from a graveyard and creating a Mutagen artifact token.
+2. Stridehangar Automaton causes you to also create a 1/1 Thopter artifact creature token.
+3. Activate Clock of Omens by tapping the Mutagen and Thopter, untapping The Ooze.
+4. Repeat for each card remaining in any graveyard.
+
+Results:
+- Clear the graveyard
+- Exile all cards from all graveyards
+- Create a Mutagen token for each card exiled
+- Create a Thopter token for each card exiled
+===endpanel
+===endaccordion
+
+===accordion
+===panel: The Ooze + Clock of Omens — Clear the graveyard
+[[symbol:c]]
+
+Cards Required:
+- [[The Ooze]]
+- [[Clock of Omens]]
+
+Prerequisites:
+- All permanents on the battlefield and untapped.
+- You control another untapped artifact.
+- There is at least one card in a graveyard.
+
+Steps:
+1. Activate The Ooze by tapping it, exiling a card from a graveyard and creating a Mutagen artifact token.
+2. Activate Clock of Omens by tapping the Mutagen and another untapped artifact, untapping The Ooze.
+3. Activate The Ooze by tapping it, exiling another card from a graveyard and creating another Mutagen.
+4. Use two available untapped artifacts, including newly created Mutagens as needed, to activate Clock of Omens and untap The Ooze.
+5. Repeat until there are no cards remaining in the graveyards you wish to clear.
+
+Results:
+- Clear the graveyard
+- Exile all available cards from chosen graveyards
+- Create a Mutagen token for each card exiled
+===endpanel
+===endaccordion
+
+===accordion
 ===panel: The Ooze + Stridehangar Automaton + Ashnod's Altar
 [[symbol:c]]
 
@@ -7850,6 +9289,360 @@ Steps:
 6. Repeat from step 3.
 
 Results:
+- Infinite artifact ETB
+- Infinite artifact LTB
+- Infinite artifact sacrifice triggers
+- Infinite artifact tokens
+- Infinite creature ETB
+- Infinite creature LTB
+- Infinite creature sacrifice triggers
+- Infinite death triggers
+===endpanel
+===endaccordion
+
+===accordion
+===panel: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Altar of Dementia
+[[symbol:c]]
+
+Cards Required:
+- [[The Ooze]]
+- [[Stridehangar Automaton]]
+- [[Pitiless Plunderer]]
+- [[Altar of Dementia]]
+
+Prerequisites:
+- All permanents on the battlefield.
+- You control a Thopter.
+- There is at least one card in a graveyard.
+- The Ooze does not have summoning sickness.
+
+Steps:
+1. Sacrifice a Thopter to Altar of Dementia.
+2. When the Thopter dies, Pitiless Plunderer triggers, creating a Treasure token.
+3. Stridehangar Automaton causes you to also create a 1/1 Thopter artifact creature token.
+4. Activate The Ooze by tapping it, exiling a card from a graveyard and creating a Mutagen artifact token.
+5. Stridehangar Automaton causes you to also create another 1/1 Thopter artifact creature token.
+6. Activate the Treasure by tapping and sacrificing it, adding [[symbol:1]] mana.
+7. Spend [[symbol:1]], tap and sacrifice the Mutagen to put a +1/+1 counter on a Thopter.
+8. Activate Altar of Dementia by sacrificing the countered Thopter, causing target player to mill cards equal to its power.
+9. When the countered Thopter dies, Pitiless Plunderer triggers, creating a Treasure token, and The Ooze triggers, creating a Mutagen token.
+10. Stridehangar Automaton causes you to create replacement Thopter artifact creature tokens as the artifact tokens are created.
+11. Sacrifice the Treasure for [[symbol:1]] and use it to activate and sacrifice the Mutagen, putting a +1/+1 counter on a replacement Thopter.
+12. Repeat from step 8.
+
+Results:
+- Infinite mill
+- Infinite self-mill
+- Infinite Treasure tokens
+- Infinite artifact ETB
+- Infinite artifact LTB
+- Infinite artifact sacrifice triggers
+- Infinite artifact tokens
+- Infinite creature ETB
+- Infinite creature LTB
+- Infinite creature sacrifice triggers
+- Infinite death triggers
+===endpanel
+===endaccordion
+
+===accordion
+===panel: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Arcbound Ravager
+[[symbol:c]]
+
+Cards Required:
+- [[The Ooze]]
+- [[Stridehangar Automaton]]
+- [[Pitiless Plunderer]]
+- [[Arcbound Ravager]]
+
+Prerequisites:
+- All permanents on the battlefield.
+- You control a Thopter.
+- There is at least one card in a graveyard.
+- The Ooze does not have summoning sickness.
+
+Steps:
+1. Sacrifice a Thopter to Arcbound Ravager.
+2. When the Thopter dies, Pitiless Plunderer triggers, creating a Treasure token.
+3. Stridehangar Automaton causes you to also create a 1/1 Thopter artifact creature token.
+4. Activate The Ooze by tapping it, exiling a card from a graveyard and creating a Mutagen artifact token.
+5. Stridehangar Automaton causes you to also create another 1/1 Thopter artifact creature token.
+6. Activate the Treasure by tapping and sacrificing it, adding [[symbol:1]] mana.
+7. Spend [[symbol:1]], tap and sacrifice the Mutagen to put a +1/+1 counter on a Thopter.
+8. Activate Arcbound Ravager by sacrificing the countered Thopter, putting a +1/+1 counter on Arcbound Ravager.
+9. When the countered Thopter dies, Pitiless Plunderer triggers, creating a Treasure token, and The Ooze triggers, creating a Mutagen token.
+10. Stridehangar Automaton causes you to create replacement Thopter artifact creature tokens as the artifact tokens are created.
+11. Sacrifice the Treasure for [[symbol:1]] and use it to activate and sacrifice the Mutagen, putting a +1/+1 counter on a replacement Thopter.
+12. Repeat from step 8.
+
+Results:
+- Infinite +1/+1 counters on Arcbound Ravager
+- Infinite Treasure tokens
+- Infinite artifact ETB
+- Infinite artifact LTB
+- Infinite artifact sacrifice triggers
+- Infinite artifact tokens
+- Infinite creature ETB
+- Infinite creature LTB
+- Infinite creature sacrifice triggers
+- Infinite death triggers
+===endpanel
+===endaccordion
+
+===accordion
+===panel: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Ashnod's Altar
+[[symbol:c]]
+
+Cards Required:
+- [[The Ooze]]
+- [[Stridehangar Automaton]]
+- [[Pitiless Plunderer]]
+- [[Ashnod's Altar]]
+
+Prerequisites:
+- All permanents on the battlefield.
+- You control a Thopter.
+- There is at least one card in a graveyard.
+- The Ooze does not have summoning sickness.
+
+Steps:
+1. Sacrifice a Thopter to Ashnod's Altar.
+2. When the Thopter dies, Pitiless Plunderer triggers, creating a Treasure token.
+3. Stridehangar Automaton causes you to also create a 1/1 Thopter artifact creature token.
+4. Activate The Ooze by tapping it, exiling a card from a graveyard and creating a Mutagen artifact token.
+5. Stridehangar Automaton causes you to also create another 1/1 Thopter artifact creature token.
+6. Activate the Treasure by tapping and sacrificing it, adding [[symbol:1]] mana.
+7. Spend [[symbol:1]], tap and sacrifice the Mutagen to put a +1/+1 counter on a Thopter.
+8. Activate Ashnod's Altar by sacrificing the countered Thopter, adding [[symbol:c]][[symbol:c]].
+9. When the countered Thopter dies, Pitiless Plunderer triggers, creating a Treasure token, and The Ooze triggers, creating a Mutagen token.
+10. Stridehangar Automaton causes you to create replacement Thopter artifact creature tokens as the artifact tokens are created.
+11. Sacrifice the Treasure for [[symbol:1]] and use it to activate and sacrifice the Mutagen, putting a +1/+1 counter on a replacement Thopter.
+12. Repeat from step 8.
+
+Results:
+- Infinite colorless mana
+- Infinite Treasure tokens
+- Infinite artifact ETB
+- Infinite artifact LTB
+- Infinite artifact sacrifice triggers
+- Infinite artifact tokens
+- Infinite creature ETB
+- Infinite creature LTB
+- Infinite creature sacrifice triggers
+- Infinite death triggers
+===endpanel
+===endaccordion
+
+===accordion
+===panel: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Blasting Station
+[[symbol:c]]
+
+Cards Required:
+- [[The Ooze]]
+- [[Stridehangar Automaton]]
+- [[Pitiless Plunderer]]
+- [[Blasting Station]]
+
+Prerequisites:
+- All permanents on the battlefield.
+- You control a Thopter.
+- There is at least one card in a graveyard.
+- The Ooze does not have summoning sickness.
+
+Steps:
+1. Sacrifice a Thopter to Blasting Station.
+2. When the Thopter dies, Pitiless Plunderer triggers, creating a Treasure token.
+3. Stridehangar Automaton causes you to also create a 1/1 Thopter artifact creature token.
+4. Activate The Ooze by tapping it, exiling a card from a graveyard and creating a Mutagen artifact token.
+5. Stridehangar Automaton causes you to also create another 1/1 Thopter artifact creature token.
+6. Activate the Treasure by tapping and sacrificing it, adding [[symbol:1]] mana.
+7. Spend [[symbol:1]], tap and sacrifice the Mutagen to put a +1/+1 counter on a Thopter.
+8. Activate Blasting Station by tapping it and sacrificing the countered Thopter, dealing 1 damage to any target.
+9. When the countered Thopter dies, Pitiless Plunderer triggers, creating a Treasure token, and The Ooze triggers, creating a Mutagen token.
+10. Stridehangar Automaton causes you to create replacement Thopter artifact creature tokens as the artifact tokens are created.
+11. Sacrifice the Treasure for [[symbol:1]] and use it to activate and sacrifice the Mutagen, putting a +1/+1 counter on a replacement Thopter.
+12. Repeat from step 8.
+
+Results:
+- Infinite damage
+- Infinite Treasure tokens
+- Infinite artifact ETB
+- Infinite artifact LTB
+- Infinite artifact sacrifice triggers
+- Infinite artifact tokens
+- Infinite creature ETB
+- Infinite creature LTB
+- Infinite creature sacrifice triggers
+- Infinite death triggers
+===endpanel
+===endaccordion
+
+===accordion
+===panel: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Grinding Station
+[[symbol:c]]
+
+Cards Required:
+- [[The Ooze]]
+- [[Stridehangar Automaton]]
+- [[Pitiless Plunderer]]
+- [[Grinding Station]]
+
+Prerequisites:
+- All permanents on the battlefield.
+- You control a Thopter.
+- There is at least one card in a graveyard.
+- The Ooze does not have summoning sickness.
+
+Steps:
+1. Sacrifice a Thopter to Grinding Station.
+2. When the Thopter dies, Pitiless Plunderer triggers, creating a Treasure token.
+3. Stridehangar Automaton causes you to also create a 1/1 Thopter artifact creature token.
+4. Activate The Ooze by tapping it, exiling a card from a graveyard and creating a Mutagen artifact token.
+5. Stridehangar Automaton causes you to also create another 1/1 Thopter artifact creature token.
+6. Activate the Treasure by tapping and sacrificing it, adding [[symbol:1]] mana.
+7. Spend [[symbol:1]], tap and sacrifice the Mutagen to put a +1/+1 counter on a Thopter.
+8. Activate Grinding Station by tapping it and sacrificing the countered Thopter, causing target player to mill three cards.
+9. When the countered Thopter dies, Pitiless Plunderer triggers, creating a Treasure token, and The Ooze triggers, creating a Mutagen token.
+10. Stridehangar Automaton causes you to create replacement Thopter artifact creature tokens as the artifact tokens are created.
+11. Sacrifice the Treasure for [[symbol:1]] and use it to activate and sacrifice the Mutagen, putting a +1/+1 counter on a replacement Thopter.
+12. Repeat from step 8.
+
+Results:
+- Infinite mill
+- Infinite self-mill
+- Infinite Treasure tokens
+- Infinite artifact ETB
+- Infinite artifact LTB
+- Infinite artifact sacrifice triggers
+- Infinite artifact tokens
+- Infinite creature ETB
+- Infinite creature LTB
+- Infinite creature sacrifice triggers
+- Infinite death triggers
+===endpanel
+===endaccordion
+
+===accordion
+===panel: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Krark-Clan Ironworks
+[[symbol:c]]
+
+Cards Required:
+- [[The Ooze]]
+- [[Stridehangar Automaton]]
+- [[Pitiless Plunderer]]
+- [[Krark-Clan Ironworks]]
+
+Prerequisites:
+- All permanents on the battlefield.
+- You control a Thopter.
+- There is at least one card in a graveyard.
+- The Ooze does not have summoning sickness.
+
+Steps:
+1. Sacrifice a Thopter to Krark-Clan Ironworks.
+2. When the Thopter dies, Pitiless Plunderer triggers, creating a Treasure token.
+3. Stridehangar Automaton causes you to also create a 1/1 Thopter artifact creature token.
+4. Activate The Ooze by tapping it, exiling a card from a graveyard and creating a Mutagen artifact token.
+5. Stridehangar Automaton causes you to also create another 1/1 Thopter artifact creature token.
+6. Activate the Treasure by tapping and sacrificing it, adding [[symbol:1]] mana.
+7. Spend [[symbol:1]], tap and sacrifice the Mutagen to put a +1/+1 counter on a Thopter.
+8. Activate Krark-Clan Ironworks by sacrificing the countered Thopter, adding [[symbol:c]][[symbol:c]].
+9. When the countered Thopter dies, Pitiless Plunderer triggers, creating a Treasure token, and The Ooze triggers, creating a Mutagen token.
+10. Stridehangar Automaton causes you to create replacement Thopter artifact creature tokens as the artifact tokens are created.
+11. Sacrifice the Treasure for [[symbol:1]] and use it to activate and sacrifice the Mutagen, putting a +1/+1 counter on a replacement Thopter.
+12. Repeat from step 8.
+
+Results:
+- Infinite colorless mana
+- Infinite Treasure tokens
+- Infinite artifact ETB
+- Infinite artifact LTB
+- Infinite artifact sacrifice triggers
+- Infinite artifact tokens
+- Infinite creature ETB
+- Infinite creature LTB
+- Infinite creature sacrifice triggers
+- Infinite death triggers
+===endpanel
+===endaccordion
+
+===accordion
+===panel: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Phyrexian Altar
+[[symbol:b]]
+
+Cards Required:
+- [[The Ooze]]
+- [[Stridehangar Automaton]]
+- [[Pitiless Plunderer]]
+- [[Phyrexian Altar]]
+
+Prerequisites:
+- All permanents on the battlefield.
+- You control a Thopter.
+- There is at least one card in a graveyard.
+- The Ooze does not have summoning sickness.
+
+Steps:
+1. Sacrifice a Thopter to Phyrexian Altar.
+2. When the Thopter dies, Pitiless Plunderer triggers, creating a Treasure token.
+3. Stridehangar Automaton causes you to also create a 1/1 Thopter artifact creature token.
+4. Activate The Ooze by tapping it, exiling a card from a graveyard and creating a Mutagen artifact token.
+5. Stridehangar Automaton causes you to also create another 1/1 Thopter artifact creature token.
+6. Activate the Treasure by tapping and sacrificing it, adding [[symbol:1]] mana.
+7. Spend [[symbol:1]], tap and sacrifice the Mutagen to put a +1/+1 counter on a Thopter.
+8. Activate Phyrexian Altar by sacrificing the countered Thopter, adding one mana of any color.
+9. When the countered Thopter dies, Pitiless Plunderer triggers, creating a Treasure token, and The Ooze triggers, creating a Mutagen token.
+10. Stridehangar Automaton causes you to create replacement Thopter artifact creature tokens as the artifact tokens are created.
+11. Sacrifice the Treasure for [[symbol:1]] and use it to activate and sacrifice the Mutagen, putting a +1/+1 counter on a replacement Thopter.
+12. Repeat from step 8.
+
+Results:
+- Infinite colored mana
+- Infinite Treasure tokens
+- Infinite artifact ETB
+- Infinite artifact LTB
+- Infinite artifact sacrifice triggers
+- Infinite artifact tokens
+- Infinite creature ETB
+- Infinite creature LTB
+- Infinite creature sacrifice triggers
+- Infinite death triggers
+===endpanel
+===endaccordion
+
+===accordion
+===panel: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Umbral Collar Zealot
+[[symbol:b]]
+
+Cards Required:
+- [[The Ooze]]
+- [[Stridehangar Automaton]]
+- [[Pitiless Plunderer]]
+- [[Umbral Collar Zealot]]
+
+Prerequisites:
+- All permanents on the battlefield.
+- You control a Thopter.
+- There is at least one card in a graveyard.
+- The Ooze does not have summoning sickness.
+
+Steps:
+1. Sacrifice a Thopter to Umbral Collar Zealot.
+2. When the Thopter dies, Pitiless Plunderer triggers, creating a Treasure token.
+3. Stridehangar Automaton causes you to also create a 1/1 Thopter artifact creature token.
+4. Activate The Ooze by tapping it, exiling a card from a graveyard and creating a Mutagen artifact token.
+5. Stridehangar Automaton causes you to also create another 1/1 Thopter artifact creature token.
+6. Activate the Treasure by tapping and sacrificing it, adding [[symbol:1]] mana.
+7. Spend [[symbol:1]], tap and sacrifice the Mutagen to put a +1/+1 counter on a Thopter.
+8. Activate Umbral Collar Zealot by sacrificing the countered Thopter.
+9. When the countered Thopter dies, Pitiless Plunderer triggers, creating a Treasure token, and The Ooze triggers, creating a Mutagen token.
+10. Stridehangar Automaton causes you to create replacement Thopter artifact creature tokens as the artifact tokens are created.
+11. Sacrifice the Treasure for [[symbol:1]] and use it to activate and sacrifice the Mutagen, putting a +1/+1 counter on a replacement Thopter.
+12. Repeat from step 8.
+
+Results:
+- Infinite surveil
+- Infinite Treasure tokens
 - Infinite artifact ETB
 - Infinite artifact LTB
 - Infinite artifact sacrifice triggers
@@ -8273,6 +10066,50 @@ Results:
 - Infinite death triggers
 - Infinite Treasure tokens
 - Infinite surveil
+===endpanel
+===endaccordion
+
+===accordion
+===panel: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Umbral Collar Zealot
+[[symbol:b]]
+
+Cards Required:
+- [[The Ooze]]
+- [[Stridehangar Automaton]]
+- [[Pitiless Plunderer]]
+- [[Umbral Collar Zealot]]
+
+Prerequisites:
+- All permanents on the battlefield.
+- You control a Thopter.
+- There is at least one card in a graveyard.
+- The Ooze does not have summoning sickness.
+
+Steps:
+1. Sacrifice a Thopter to Umbral Collar Zealot.
+2. When the Thopter dies, Pitiless Plunderer triggers, creating a Treasure token.
+3. Stridehangar Automaton causes you to also create a 1/1 Thopter artifact creature token.
+4. Activate The Ooze by tapping it, exiling a card from a graveyard and creating a Mutagen artifact token.
+5. Stridehangar Automaton causes you to also create another 1/1 Thopter artifact creature token.
+6. Activate the Treasure by tapping and sacrificing it, adding [[symbol:1]] mana.
+7. Spend [[symbol:1]], tap and sacrifice the Mutagen to put a +1/+1 counter on a Thopter.
+8. Activate Umbral Collar Zealot by sacrificing the countered Thopter.
+9. When the countered Thopter dies, Pitiless Plunderer triggers, creating a Treasure token, and The Ooze triggers, creating a Mutagen token.
+10. Stridehangar Automaton causes you to create replacement Thopter artifact creature tokens as the artifact tokens are created.
+11. Sacrifice the Treasure for [[symbol:1]] and use it to activate and sacrifice the Mutagen, putting a +1/+1 counter on a replacement Thopter.
+12. Repeat from step 8.
+
+Results:
+- Infinite surveil
+- Infinite Treasure tokens
+- Infinite artifact ETB
+- Infinite artifact LTB
+- Infinite artifact sacrifice triggers
+- Infinite artifact tokens
+- Infinite creature ETB
+- Infinite creature LTB
+- Infinite creature sacrifice triggers
+- Infinite death triggers
 ===endpanel
 ===endaccordion
 
