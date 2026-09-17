@@ -259,7 +259,7 @@ Results:
 ===panel: Altar of the Brood
 
 ===accordion
-===panel: The Ooze + Clock of Omens + Stridehangar Automaton + Altar of the Brood — Mill opponents' libraries
+===panel: The Ooze + Clock of Omens + Stridehangar Automaton + Altar of the Brood: Mill opponents' libraries
 [[symbol:c]]
 
 Cards Required:
@@ -1483,7 +1483,7 @@ Results:
 ===endaccordion
 
 ===accordion
-===panel: The Ooze + Clock of Omens + Stridehangar Automaton + Altar of the Brood — Mill opponents' libraries
+===panel: The Ooze + Clock of Omens + Stridehangar Automaton + Altar of the Brood: Mill opponents' libraries
 [[symbol:c]]
 
 Cards Required:
@@ -1516,7 +1516,7 @@ Results:
 ===endaccordion
 
 ===accordion
-===panel: The Ooze + Clock of Omens + Stridehangar Automaton + Grinding Station — Mill a library
+===panel: The Ooze + Clock of Omens + Stridehangar Automaton + Grinding Station: Mill a library
 [[symbol:c]]
 
 Cards Required:
@@ -1553,7 +1553,7 @@ Results:
 ===endaccordion
 
 ===accordion
-===panel: The Ooze + Clock of Omens + Stridehangar Automaton — Clear the graveyard
+===panel: The Ooze + Clock of Omens + Stridehangar Automaton: Clear the graveyard
 [[symbol:c]]
 
 Cards Required:
@@ -1580,7 +1580,7 @@ Results:
 ===endaccordion
 
 ===accordion
-===panel: The Ooze + Clock of Omens — Clear the graveyard
+===panel: The Ooze + Clock of Omens: Clear the graveyard
 [[symbol:c]]
 
 Cards Required:
@@ -2460,7 +2460,7 @@ Results:
 ===endaccordion
 
 ===accordion
-===panel: The Ooze + Clock of Omens + Stridehangar Automaton + Grinding Station — Mill a library
+===panel: The Ooze + Clock of Omens + Stridehangar Automaton + Grinding Station: Mill a library
 [[symbol:c]]
 
 Cards Required:
@@ -8504,7 +8504,7 @@ Results:
 ===endaccordion
 
 ===accordion
-===panel: The Ooze + Clock of Omens + Stridehangar Automaton + Altar of the Brood — Mill opponents' libraries
+===panel: The Ooze + Clock of Omens + Stridehangar Automaton + Altar of the Brood: Mill opponents' libraries
 [[symbol:c]]
 
 Cards Required:
@@ -8537,7 +8537,7 @@ Results:
 ===endaccordion
 
 ===accordion
-===panel: The Ooze + Clock of Omens + Stridehangar Automaton + Grinding Station — Mill a library
+===panel: The Ooze + Clock of Omens + Stridehangar Automaton + Grinding Station: Mill a library
 [[symbol:c]]
 
 Cards Required:
@@ -8574,7 +8574,7 @@ Results:
 ===endaccordion
 
 ===accordion
-===panel: The Ooze + Clock of Omens + Stridehangar Automaton — Clear the graveyard
+===panel: The Ooze + Clock of Omens + Stridehangar Automaton: Clear the graveyard
 [[symbol:c]]
 
 Cards Required:
@@ -9109,7 +9109,7 @@ Results:
 ===panel: The Ooze
 
 ===accordion
-===panel: The Ooze + Clock of Omens + Stridehangar Automaton + Altar of the Brood — Mill opponents' libraries
+===panel: The Ooze + Clock of Omens + Stridehangar Automaton + Altar of the Brood: Mill opponents' libraries
 [[symbol:c]]
 
 Cards Required:
@@ -9142,7 +9142,7 @@ Results:
 ===endaccordion
 
 ===accordion
-===panel: The Ooze + Clock of Omens + Stridehangar Automaton + Grinding Station — Mill a library
+===panel: The Ooze + Clock of Omens + Stridehangar Automaton + Grinding Station: Mill a library
 [[symbol:c]]
 
 Cards Required:
@@ -9179,7 +9179,7 @@ Results:
 ===endaccordion
 
 ===accordion
-===panel: The Ooze + Clock of Omens + Stridehangar Automaton — Clear the graveyard
+===panel: The Ooze + Clock of Omens + Stridehangar Automaton: Clear the graveyard
 [[symbol:c]]
 
 Cards Required:
@@ -9206,7 +9206,7 @@ Results:
 ===endaccordion
 
 ===accordion
-===panel: The Ooze + Clock of Omens — Clear the graveyard
+===panel: The Ooze + Clock of Omens: Clear the graveyard
 [[symbol:c]]
 
 Cards Required:
