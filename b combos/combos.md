@@ -1,4 +1,9 @@
 ===accordion
+===panel: Core Combos
+
+The 77 core combos are listed below. Combo extensions are tracked separately and do not increase the core combo count.
+
+===accordion
 ===panel: Aetherflux Reservoir
 
 ===accordion
@@ -10755,6 +10760,1800 @@ Results:
 - Infinite lifeloss
 - Infinite Treasure tokens
 - Infinite lifegain triggers
+===endpanel
+===endaccordion
+
+===endpanel
+===endaccordion
+
+===endpanel
+===endaccordion
+
+===accordion
+===panel: Combo Extensions
+
+These are payoff extensions to the 77 core combos above. They are not counted as additional core combos because the underlying engine is already represented in the core list. An extension either converts an existing nonterminal infinite into a win/draw engine, or adds an additional payoff to an existing infinite.
+
+===accordion
+===panel: Altar of the Brood Extensions
+
+[[Altar of the Brood]] is a payoff extension for core combos that produce an arbitrarily large number of permanents entering the battlefield under your control. Each permanent entering triggers Altar of the Brood, converting those repeated ETBs into mill. The entries below are extensions to existing cores and are not counted as additional core combos.
+
+===accordion
+===panel: Metalwork Colossus + Warren Soultrader + Aetherflux Reservoir + Stridehangar Automaton + Altar of the Brood
+
+Base Core Combo:
+- [[Metalwork Colossus]]
+- [[Warren Soultrader]]
+- [[Aetherflux Reservoir]]
+- [[Stridehangar Automaton]]
+
+Extension:
+- [[Altar of the Brood]]
+
+Extension Logic:
+- The base core produces an arbitrarily large number of permanent ETBs under your control.
+- Each of those permanents entering triggers Altar of the Brood.
+- Repeat the established core loop to mill opponents' libraries.
+
+Extension Results:
+- Mill opponents' libraries
+- Repeated Altar of the Brood triggers
+- Retains the base core combo outputs
+===endpanel
+===endaccordion
+
+===accordion
+===panel: Metalwork Colossus + Warren Soultrader + Pitiless Plunderer + Aetherflux Reservoir + Altar of the Brood
+
+Base Core Combo:
+- [[Metalwork Colossus]]
+- [[Warren Soultrader]]
+- [[Pitiless Plunderer]]
+- [[Aetherflux Reservoir]]
+
+Extension:
+- [[Altar of the Brood]]
+
+Extension Logic:
+- The base core produces an arbitrarily large number of permanent ETBs under your control.
+- Each of those permanents entering triggers Altar of the Brood.
+- Repeat the established core loop to mill opponents' libraries.
+
+Extension Results:
+- Mill opponents' libraries
+- Repeated Altar of the Brood triggers
+- Retains the base core combo outputs
+===endpanel
+===endaccordion
+
+===accordion
+===panel: Pitiless Plunderer + Altar of Dementia + Stridehangar Automaton + Altar of the Brood
+
+Base Core Combo:
+- [[Pitiless Plunderer]]
+- [[Altar of Dementia]]
+- [[Stridehangar Automaton]]
+
+Extension:
+- [[Altar of the Brood]]
+
+Extension Logic:
+- The base core produces an arbitrarily large number of permanent ETBs under your control.
+- Each of those permanents entering triggers Altar of the Brood.
+- Repeat the established core loop to mill opponents' libraries.
+
+Extension Results:
+- Mill opponents' libraries
+- Repeated Altar of the Brood triggers
+- Retains the base core combo outputs
+===endpanel
+===endaccordion
+
+===accordion
+===panel: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Altar of Dementia + Altar of the Brood
+
+Base Core Combo:
+- [[The Ooze]]
+- [[Stridehangar Automaton]]
+- [[Pitiless Plunderer]]
+- [[Altar of Dementia]]
+
+Extension:
+- [[Altar of the Brood]]
+
+Extension Logic:
+- The base core produces an arbitrarily large number of permanent ETBs under your control.
+- Each of those permanents entering triggers Altar of the Brood.
+- Repeat the established core loop to mill opponents' libraries.
+
+Extension Results:
+- Mill opponents' libraries
+- Repeated Altar of the Brood triggers
+- Retains the base core combo outputs
+===endpanel
+===endaccordion
+
+===accordion
+===panel: Tortured Existence + Pitiless Plunderer + Imotekh the Stormlord + Altar of Dementia + Altar of the Brood
+
+Base Core Combo:
+- [[Tortured Existence]]
+- [[Pitiless Plunderer]]
+- [[Imotekh the Stormlord]]
+- [[Altar of Dementia]]
+
+Extension:
+- [[Altar of the Brood]]
+
+Extension Logic:
+- The base core produces an arbitrarily large number of permanent ETBs under your control.
+- Each of those permanents entering triggers Altar of the Brood.
+- Repeat the established core loop to mill opponents' libraries.
+
+Extension Results:
+- Mill opponents' libraries
+- Repeated Altar of the Brood triggers
+- Retains the base core combo outputs
+===endpanel
+===endaccordion
+
+===accordion
+===panel: Pitiless Plunderer + Stridehangar Automaton + Arcbound Ravager + Altar of the Brood
+
+Base Core Combo:
+- [[Pitiless Plunderer]]
+- [[Stridehangar Automaton]]
+- [[Arcbound Ravager]]
+
+Extension:
+- [[Altar of the Brood]]
+
+Extension Logic:
+- The base core produces an arbitrarily large number of permanent ETBs under your control.
+- Each of those permanents entering triggers Altar of the Brood.
+- Repeat the established core loop to mill opponents' libraries.
+
+Extension Results:
+- Mill opponents' libraries
+- Repeated Altar of the Brood triggers
+- Retains the base core combo outputs
+===endpanel
+===endaccordion
+
+===accordion
+===panel: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Arcbound Ravager + Altar of the Brood
+
+Base Core Combo:
+- [[The Ooze]]
+- [[Stridehangar Automaton]]
+- [[Pitiless Plunderer]]
+- [[Arcbound Ravager]]
+
+Extension:
+- [[Altar of the Brood]]
+
+Extension Logic:
+- The base core produces an arbitrarily large number of permanent ETBs under your control.
+- Each of those permanents entering triggers Altar of the Brood.
+- Repeat the established core loop to mill opponents' libraries.
+
+Extension Results:
+- Mill opponents' libraries
+- Repeated Altar of the Brood triggers
+- Retains the base core combo outputs
+===endpanel
+===endaccordion
+
+===accordion
+===panel: Dross Scorpion + Retrofitter Foundry + Ashnod's Altar + Altar of the Brood
+
+Base Core Combo:
+- [[Dross Scorpion]]
+- [[Retrofitter Foundry]]
+- [[Ashnod's Altar]]
+
+Extension:
+- [[Altar of the Brood]]
+
+Extension Logic:
+- The base core produces an arbitrarily large number of permanent ETBs under your control.
+- Each of those permanents entering triggers Altar of the Brood.
+- Repeat the established core loop to mill opponents' libraries.
+
+Extension Results:
+- Mill opponents' libraries
+- Repeated Altar of the Brood triggers
+- Retains the base core combo outputs
+===endpanel
+===endaccordion
+
+===accordion
+===panel: Glaring Fleshraker + Ashnod's Altar + Junk Diver + Workshop Assistant + Altar of the Brood
+
+Base Core Combo:
+- [[Glaring Fleshraker]]
+- [[Ashnod's Altar]]
+- [[Junk Diver]]
+- [[Workshop Assistant]]
+
+Extension:
+- [[Altar of the Brood]]
+
+Extension Logic:
+- The base core produces an arbitrarily large number of permanent ETBs under your control.
+- Each of those permanents entering triggers Altar of the Brood.
+- Repeat the established core loop to mill opponents' libraries.
+
+Extension Results:
+- Mill opponents' libraries
+- Repeated Altar of the Brood triggers
+- Retains the base core combo outputs
+===endpanel
+===endaccordion
+
+===accordion
+===panel: Glaring Fleshraker + Ashnod's Altar + Myr Retriever + Junk Diver + Altar of the Brood
+
+Base Core Combo:
+- [[Glaring Fleshraker]]
+- [[Ashnod's Altar]]
+- [[Myr Retriever]]
+- [[Junk Diver]]
+
+Extension:
+- [[Altar of the Brood]]
+
+Extension Logic:
+- The base core produces an arbitrarily large number of permanent ETBs under your control.
+- Each of those permanents entering triggers Altar of the Brood.
+- Repeat the established core loop to mill opponents' libraries.
+
+Extension Results:
+- Mill opponents' libraries
+- Repeated Altar of the Brood triggers
+- Retains the base core combo outputs
+===endpanel
+===endaccordion
+
+===accordion
+===panel: Glaring Fleshraker + Ashnod's Altar + Myr Retriever + Scrap Trawler + Altar of the Brood
+
+Base Core Combo:
+- [[Glaring Fleshraker]]
+- [[Ashnod's Altar]]
+- [[Myr Retriever]]
+- [[Scrap Trawler]]
+
+Extension:
+- [[Altar of the Brood]]
+
+Extension Logic:
+- The base core produces an arbitrarily large number of permanent ETBs under your control.
+- Each of those permanents entering triggers Altar of the Brood.
+- Repeat the established core loop to mill opponents' libraries.
+
+Extension Results:
+- Mill opponents' libraries
+- Repeated Altar of the Brood triggers
+- Retains the base core combo outputs
+===endpanel
+===endaccordion
+
+===accordion
+===panel: Glaring Fleshraker + Ashnod's Altar + Myr Retriever + Workshop Assistant + Altar of the Brood
+
+Base Core Combo:
+- [[Glaring Fleshraker]]
+- [[Ashnod's Altar]]
+- [[Myr Retriever]]
+- [[Workshop Assistant]]
+
+Extension:
+- [[Altar of the Brood]]
+
+Extension Logic:
+- The base core produces an arbitrarily large number of permanent ETBs under your control.
+- Each of those permanents entering triggers Altar of the Brood.
+- Repeat the established core loop to mill opponents' libraries.
+
+Extension Results:
+- Mill opponents' libraries
+- Repeated Altar of the Brood triggers
+- Retains the base core combo outputs
+===endpanel
+===endaccordion
+
+===accordion
+===panel: Glaring Fleshraker + Ashnod's Altar + Scrap Trawler + Workshop Assistant + Altar of the Brood
+
+Base Core Combo:
+- [[Glaring Fleshraker]]
+- [[Ashnod's Altar]]
+- [[Scrap Trawler]]
+- [[Workshop Assistant]]
+
+Extension:
+- [[Altar of the Brood]]
+
+Extension Logic:
+- The base core produces an arbitrarily large number of permanent ETBs under your control.
+- Each of those permanents entering triggers Altar of the Brood.
+- Repeat the established core loop to mill opponents' libraries.
+
+Extension Results:
+- Mill opponents' libraries
+- Repeated Altar of the Brood triggers
+- Retains the base core combo outputs
+===endpanel
+===endaccordion
+
+===accordion
+===panel: Imotekh the Stormlord + Junk Diver + Myr Retriever + Ashnod's Altar + Altar of the Brood
+
+Base Core Combo:
+- [[Imotekh the Stormlord]]
+- [[Junk Diver]]
+- [[Myr Retriever]]
+- [[Ashnod's Altar]]
+
+Extension:
+- [[Altar of the Brood]]
+
+Extension Logic:
+- The base core produces an arbitrarily large number of permanent ETBs under your control.
+- Each of those permanents entering triggers Altar of the Brood.
+- Repeat the established core loop to mill opponents' libraries.
+
+Extension Results:
+- Mill opponents' libraries
+- Repeated Altar of the Brood triggers
+- Retains the base core combo outputs
+===endpanel
+===endaccordion
+
+===accordion
+===panel: Imotekh the Stormlord + Junk Diver + Workshop Assistant + Ashnod's Altar + Altar of the Brood
+
+Base Core Combo:
+- [[Imotekh the Stormlord]]
+- [[Junk Diver]]
+- [[Workshop Assistant]]
+- [[Ashnod's Altar]]
+
+Extension:
+- [[Altar of the Brood]]
+
+Extension Logic:
+- The base core produces an arbitrarily large number of permanent ETBs under your control.
+- Each of those permanents entering triggers Altar of the Brood.
+- Repeat the established core loop to mill opponents' libraries.
+
+Extension Results:
+- Mill opponents' libraries
+- Repeated Altar of the Brood triggers
+- Retains the base core combo outputs
+===endpanel
+===endaccordion
+
+===accordion
+===panel: Imotekh the Stormlord + Myr Retriever + Workshop Assistant + Ashnod's Altar + Altar of the Brood
+
+Base Core Combo:
+- [[Imotekh the Stormlord]]
+- [[Myr Retriever]]
+- [[Workshop Assistant]]
+- [[Ashnod's Altar]]
+
+Extension:
+- [[Altar of the Brood]]
+
+Extension Logic:
+- The base core produces an arbitrarily large number of permanent ETBs under your control.
+- Each of those permanents entering triggers Altar of the Brood.
+- Repeat the established core loop to mill opponents' libraries.
+
+Extension Results:
+- Mill opponents' libraries
+- Repeated Altar of the Brood triggers
+- Retains the base core combo outputs
+===endpanel
+===endaccordion
+
+===accordion
+===panel: Imotekh the Stormlord + Nim Deathmantle + Ashnod's Altar + Altar of the Brood
+
+Base Core Combo:
+- [[Imotekh the Stormlord]]
+- [[Nim Deathmantle]]
+- [[Ashnod's Altar]]
+
+Extension:
+- [[Altar of the Brood]]
+
+Extension Logic:
+- The base core produces an arbitrarily large number of permanent ETBs under your control.
+- Each of those permanents entering triggers Altar of the Brood.
+- Repeat the established core loop to mill opponents' libraries.
+
+Extension Results:
+- Mill opponents' libraries
+- Repeated Altar of the Brood triggers
+- Retains the base core combo outputs
+===endpanel
+===endaccordion
+
+===accordion
+===panel: Imotekh the Stormlord + Scrap Trawler + Myr Retriever + Ashnod's Altar + Altar of the Brood
+
+Base Core Combo:
+- [[Imotekh the Stormlord]]
+- [[Scrap Trawler]]
+- [[Myr Retriever]]
+- [[Ashnod's Altar]]
+
+Extension:
+- [[Altar of the Brood]]
+
+Extension Logic:
+- The base core produces an arbitrarily large number of permanent ETBs under your control.
+- Each of those permanents entering triggers Altar of the Brood.
+- Repeat the established core loop to mill opponents' libraries.
+
+Extension Results:
+- Mill opponents' libraries
+- Repeated Altar of the Brood triggers
+- Retains the base core combo outputs
+===endpanel
+===endaccordion
+
+===accordion
+===panel: Myr Retriever + Ashnod's Altar + Ultron, Artificial Malevolence + Altar of the Brood
+
+Base Core Combo:
+- [[Myr Retriever]]
+- [[Ashnod's Altar]]
+- [[Ultron, Artificial Malevolence]]
+
+Extension:
+- [[Altar of the Brood]]
+
+Extension Logic:
+- The base core produces an arbitrarily large number of permanent ETBs under your control.
+- Each of those permanents entering triggers Altar of the Brood.
+- Repeat the established core loop to mill opponents' libraries.
+
+Extension Results:
+- Mill opponents' libraries
+- Repeated Altar of the Brood triggers
+- Retains the base core combo outputs
+===endpanel
+===endaccordion
+
+===accordion
+===panel: Nim Deathmantle + Ashnod's Altar + Altar of the Brood
+
+Base Core Combo:
+- [[Nim Deathmantle]]
+- [[Ashnod's Altar]]
+
+Extension:
+- [[Altar of the Brood]]
+
+Extension Logic:
+- The base core produces an arbitrarily large number of permanent ETBs under your control.
+- Each of those permanents entering triggers Altar of the Brood.
+- Repeat the established core loop to mill opponents' libraries.
+
+Extension Results:
+- Mill opponents' libraries
+- Repeated Altar of the Brood triggers
+- Retains the base core combo outputs
+===endpanel
+===endaccordion
+
+===accordion
+===panel: Nim Deathmantle + Ashnod's Altar + Marionette Apprentice + Altar of the Brood
+
+Base Core Combo:
+- [[Nim Deathmantle]]
+- [[Ashnod's Altar]]
+- [[Marionette Apprentice]]
+
+Extension:
+- [[Altar of the Brood]]
+
+Extension Logic:
+- The base core produces an arbitrarily large number of permanent ETBs under your control.
+- Each of those permanents entering triggers Altar of the Brood.
+- Repeat the established core loop to mill opponents' libraries.
+
+Extension Results:
+- Mill opponents' libraries
+- Repeated Altar of the Brood triggers
+- Retains the base core combo outputs
+===endpanel
+===endaccordion
+
+===accordion
+===panel: Nim Deathmantle + Ashnod's Altar + Orcish Bowmasters + Altar of the Brood
+
+Base Core Combo:
+- [[Nim Deathmantle]]
+- [[Ashnod's Altar]]
+- [[Orcish Bowmasters]]
+
+Extension:
+- [[Altar of the Brood]]
+
+Extension Logic:
+- The base core produces an arbitrarily large number of permanent ETBs under your control.
+- Each of those permanents entering triggers Altar of the Brood.
+- Repeat the established core loop to mill opponents' libraries.
+
+Extension Results:
+- Mill opponents' libraries
+- Repeated Altar of the Brood triggers
+- Retains the base core combo outputs
+===endpanel
+===endaccordion
+
+===accordion
+===panel: Pitiless Plunderer + Ashnod's Altar + Stridehangar Automaton + Altar of the Brood
+
+Base Core Combo:
+- [[Pitiless Plunderer]]
+- [[Ashnod's Altar]]
+- [[Stridehangar Automaton]]
+
+Extension:
+- [[Altar of the Brood]]
+
+Extension Logic:
+- The base core produces an arbitrarily large number of permanent ETBs under your control.
+- Each of those permanents entering triggers Altar of the Brood.
+- Repeat the established core loop to mill opponents' libraries.
+
+Extension Results:
+- Mill opponents' libraries
+- Repeated Altar of the Brood triggers
+- Retains the base core combo outputs
+===endpanel
+===endaccordion
+
+===accordion
+===panel: Scrap Trawler + Myr Retriever + Ashnod's Altar + Cloud Key + Altar of the Brood
+
+Base Core Combo:
+- [[Scrap Trawler]]
+- [[Myr Retriever]]
+- [[Ashnod's Altar]]
+- [[Cloud Key]]
+
+Extension:
+- [[Altar of the Brood]]
+
+Extension Logic:
+- The base core produces an arbitrarily large number of permanent ETBs under your control.
+- Each of those permanents entering triggers Altar of the Brood.
+- Repeat the established core loop to mill opponents' libraries.
+
+Extension Results:
+- Mill opponents' libraries
+- Repeated Altar of the Brood triggers
+- Retains the base core combo outputs
+===endpanel
+===endaccordion
+
+===accordion
+===panel: Scrap Trawler + Myr Retriever + Ashnod's Altar + Foundry Inspector + Altar of the Brood
+
+Base Core Combo:
+- [[Scrap Trawler]]
+- [[Myr Retriever]]
+- [[Ashnod's Altar]]
+- [[Foundry Inspector]]
+
+Extension:
+- [[Altar of the Brood]]
+
+Extension Logic:
+- The base core produces an arbitrarily large number of permanent ETBs under your control.
+- Each of those permanents entering triggers Altar of the Brood.
+- Repeat the established core loop to mill opponents' libraries.
+
+Extension Results:
+- Mill opponents' libraries
+- Repeated Altar of the Brood triggers
+- Retains the base core combo outputs
+===endpanel
+===endaccordion
+
+===accordion
+===panel: Scrap Trawler + Myr Retriever + Ashnod's Altar + Semblance Anvil + Altar of the Brood
+
+Base Core Combo:
+- [[Scrap Trawler]]
+- [[Myr Retriever]]
+- [[Ashnod's Altar]]
+- [[Semblance Anvil]]
+
+Extension:
+- [[Altar of the Brood]]
+
+Extension Logic:
+- The base core produces an arbitrarily large number of permanent ETBs under your control.
+- Each of those permanents entering triggers Altar of the Brood.
+- Repeat the established core loop to mill opponents' libraries.
+
+Extension Results:
+- Mill opponents' libraries
+- Repeated Altar of the Brood triggers
+- Retains the base core combo outputs
+===endpanel
+===endaccordion
+
+===accordion
+===panel: The Ooze + Stridehangar Automaton + Ashnod's Altar + Altar of the Brood
+
+Base Core Combo:
+- [[The Ooze]]
+- [[Stridehangar Automaton]]
+- [[Ashnod's Altar]]
+
+Extension:
+- [[Altar of the Brood]]
+
+Extension Logic:
+- The base core produces an arbitrarily large number of permanent ETBs under your control.
+- Each of those permanents entering triggers Altar of the Brood.
+- Repeat the established core loop to mill opponents' libraries.
+
+Extension Results:
+- Mill opponents' libraries
+- Repeated Altar of the Brood triggers
+- Retains the base core combo outputs
+===endpanel
+===endaccordion
+
+===accordion
+===panel: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Ashnod's Altar + Altar of the Brood
+
+Base Core Combo:
+- [[The Ooze]]
+- [[Stridehangar Automaton]]
+- [[Pitiless Plunderer]]
+- [[Ashnod's Altar]]
+
+Extension:
+- [[Altar of the Brood]]
+
+Extension Logic:
+- The base core produces an arbitrarily large number of permanent ETBs under your control.
+- Each of those permanents entering triggers Altar of the Brood.
+- Repeat the established core loop to mill opponents' libraries.
+
+Extension Results:
+- Mill opponents' libraries
+- Repeated Altar of the Brood triggers
+- Retains the base core combo outputs
+===endpanel
+===endaccordion
+
+===accordion
+===panel: Ultron the Annihilator + Nim Deathmantle + Ashnod's Altar + Altar of the Brood
+
+Base Core Combo:
+- [[Ultron the Annihilator]]
+- [[Nim Deathmantle]]
+- [[Ashnod's Altar]]
+
+Extension:
+- [[Altar of the Brood]]
+
+Extension Logic:
+- The base core produces an arbitrarily large number of permanent ETBs under your control.
+- Each of those permanents entering triggers Altar of the Brood.
+- Repeat the established core loop to mill opponents' libraries.
+
+Extension Results:
+- Mill opponents' libraries
+- Repeated Altar of the Brood triggers
+- Retains the base core combo outputs
+===endpanel
+===endaccordion
+
+===accordion
+===panel: Pitiless Plunderer + Blasting Station + Stridehangar Automaton + Altar of the Brood
+
+Base Core Combo:
+- [[Pitiless Plunderer]]
+- [[Blasting Station]]
+- [[Stridehangar Automaton]]
+
+Extension:
+- [[Altar of the Brood]]
+
+Extension Logic:
+- The base core produces an arbitrarily large number of permanent ETBs under your control.
+- Each of those permanents entering triggers Altar of the Brood.
+- Repeat the established core loop to mill opponents' libraries.
+
+Extension Results:
+- Mill opponents' libraries
+- Repeated Altar of the Brood triggers
+- Retains the base core combo outputs
+===endpanel
+===endaccordion
+
+===accordion
+===panel: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Blasting Station + Altar of the Brood
+
+Base Core Combo:
+- [[The Ooze]]
+- [[Stridehangar Automaton]]
+- [[Pitiless Plunderer]]
+- [[Blasting Station]]
+
+Extension:
+- [[Altar of the Brood]]
+
+Extension Logic:
+- The base core produces an arbitrarily large number of permanent ETBs under your control.
+- Each of those permanents entering triggers Altar of the Brood.
+- Repeat the established core loop to mill opponents' libraries.
+
+Extension Results:
+- Mill opponents' libraries
+- Repeated Altar of the Brood triggers
+- Retains the base core combo outputs
+===endpanel
+===endaccordion
+
+===accordion
+===panel: Tortured Existence + Pitiless Plunderer + Imotekh the Stormlord + Blasting Station + Altar of the Brood
+
+Base Core Combo:
+- [[Tortured Existence]]
+- [[Pitiless Plunderer]]
+- [[Imotekh the Stormlord]]
+- [[Blasting Station]]
+
+Extension:
+- [[Altar of the Brood]]
+
+Extension Logic:
+- The base core produces an arbitrarily large number of permanent ETBs under your control.
+- Each of those permanents entering triggers Altar of the Brood.
+- Repeat the established core loop to mill opponents' libraries.
+
+Extension Results:
+- Mill opponents' libraries
+- Repeated Altar of the Brood triggers
+- Retains the base core combo outputs
+===endpanel
+===endaccordion
+
+===accordion
+===panel: Imotekh the Stormlord + Clock of Omens + Tortured Existence + Altar of the Brood
+
+Base Core Combo:
+- [[Imotekh the Stormlord]]
+- [[Clock of Omens]]
+- [[Tortured Existence]]
+
+Extension:
+- [[Altar of the Brood]]
+
+Extension Logic:
+- The base core produces an arbitrarily large number of permanent ETBs under your control.
+- Each of those permanents entering triggers Altar of the Brood.
+- Repeat the established core loop to mill opponents' libraries.
+
+Extension Results:
+- Mill opponents' libraries
+- Repeated Altar of the Brood triggers
+- Retains the base core combo outputs
+===endpanel
+===endaccordion
+
+===accordion
+===panel: Retrofitter Foundry + Clock of Omens + Stridehangar Automaton + Altar of the Brood
+
+Base Core Combo:
+- [[Retrofitter Foundry]]
+- [[Clock of Omens]]
+- [[Stridehangar Automaton]]
+
+Extension:
+- [[Altar of the Brood]]
+
+Extension Logic:
+- The base core produces an arbitrarily large number of permanent ETBs under your control.
+- Each of those permanents entering triggers Altar of the Brood.
+- Repeat the established core loop to mill opponents' libraries.
+
+Extension Results:
+- Mill opponents' libraries
+- Repeated Altar of the Brood triggers
+- Retains the base core combo outputs
+===endpanel
+===endaccordion
+
+===accordion
+===panel: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Cloud Key + Altar of the Brood
+
+Base Core Combo:
+- [[Scrap Trawler]]
+- [[Myr Retriever]]
+- [[Krark-Clan Ironworks]]
+- [[Cloud Key]]
+
+Extension:
+- [[Altar of the Brood]]
+
+Extension Logic:
+- The base core produces an arbitrarily large number of permanent ETBs under your control.
+- Each of those permanents entering triggers Altar of the Brood.
+- Repeat the established core loop to mill opponents' libraries.
+
+Extension Results:
+- Mill opponents' libraries
+- Repeated Altar of the Brood triggers
+- Retains the base core combo outputs
+===endpanel
+===endaccordion
+
+===accordion
+===panel: Dross Scorpion + Retrofitter Foundry + Krark-Clan Ironworks + Altar of the Brood
+
+Base Core Combo:
+- [[Dross Scorpion]]
+- [[Retrofitter Foundry]]
+- [[Krark-Clan Ironworks]]
+
+Extension:
+- [[Altar of the Brood]]
+
+Extension Logic:
+- The base core produces an arbitrarily large number of permanent ETBs under your control.
+- Each of those permanents entering triggers Altar of the Brood.
+- Repeat the established core loop to mill opponents' libraries.
+
+Extension Results:
+- Mill opponents' libraries
+- Repeated Altar of the Brood triggers
+- Retains the base core combo outputs
+===endpanel
+===endaccordion
+
+===accordion
+===panel: Retrofitter Foundry + Dross Scorpion + Stridehangar Automaton + Altar of the Brood
+
+Base Core Combo:
+- [[Retrofitter Foundry]]
+- [[Dross Scorpion]]
+- [[Stridehangar Automaton]]
+
+Extension:
+- [[Altar of the Brood]]
+
+Extension Logic:
+- The base core produces an arbitrarily large number of permanent ETBs under your control.
+- Each of those permanents entering triggers Altar of the Brood.
+- Repeat the established core loop to mill opponents' libraries.
+
+Extension Results:
+- Mill opponents' libraries
+- Repeated Altar of the Brood triggers
+- Retains the base core combo outputs
+===endpanel
+===endaccordion
+
+===accordion
+===panel: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Foundry Inspector + Altar of the Brood
+
+Base Core Combo:
+- [[Scrap Trawler]]
+- [[Myr Retriever]]
+- [[Krark-Clan Ironworks]]
+- [[Foundry Inspector]]
+
+Extension:
+- [[Altar of the Brood]]
+
+Extension Logic:
+- The base core produces an arbitrarily large number of permanent ETBs under your control.
+- Each of those permanents entering triggers Altar of the Brood.
+- Repeat the established core loop to mill opponents' libraries.
+
+Extension Results:
+- Mill opponents' libraries
+- Repeated Altar of the Brood triggers
+- Retains the base core combo outputs
+===endpanel
+===endaccordion
+
+===accordion
+===panel: Glaring Fleshraker + Junk Diver + Workshop Assistant + Krark-Clan Ironworks + Altar of the Brood
+
+Base Core Combo:
+- [[Glaring Fleshraker]]
+- [[Junk Diver]]
+- [[Workshop Assistant]]
+- [[Krark-Clan Ironworks]]
+
+Extension:
+- [[Altar of the Brood]]
+
+Extension Logic:
+- The base core produces an arbitrarily large number of permanent ETBs under your control.
+- Each of those permanents entering triggers Altar of the Brood.
+- Repeat the established core loop to mill opponents' libraries.
+
+Extension Results:
+- Mill opponents' libraries
+- Repeated Altar of the Brood triggers
+- Retains the base core combo outputs
+===endpanel
+===endaccordion
+
+===accordion
+===panel: Glaring Fleshraker + Myr Retriever + Junk Diver + Krark-Clan Ironworks + Altar of the Brood
+
+Base Core Combo:
+- [[Glaring Fleshraker]]
+- [[Myr Retriever]]
+- [[Junk Diver]]
+- [[Krark-Clan Ironworks]]
+
+Extension:
+- [[Altar of the Brood]]
+
+Extension Logic:
+- The base core produces an arbitrarily large number of permanent ETBs under your control.
+- Each of those permanents entering triggers Altar of the Brood.
+- Repeat the established core loop to mill opponents' libraries.
+
+Extension Results:
+- Mill opponents' libraries
+- Repeated Altar of the Brood triggers
+- Retains the base core combo outputs
+===endpanel
+===endaccordion
+
+===accordion
+===panel: Glaring Fleshraker + Myr Retriever + Scrap Trawler + Krark-Clan Ironworks + Altar of the Brood
+
+Base Core Combo:
+- [[Glaring Fleshraker]]
+- [[Myr Retriever]]
+- [[Scrap Trawler]]
+- [[Krark-Clan Ironworks]]
+
+Extension:
+- [[Altar of the Brood]]
+
+Extension Logic:
+- The base core produces an arbitrarily large number of permanent ETBs under your control.
+- Each of those permanents entering triggers Altar of the Brood.
+- Repeat the established core loop to mill opponents' libraries.
+
+Extension Results:
+- Mill opponents' libraries
+- Repeated Altar of the Brood triggers
+- Retains the base core combo outputs
+===endpanel
+===endaccordion
+
+===accordion
+===panel: Glaring Fleshraker + Myr Retriever + Workshop Assistant + Krark-Clan Ironworks + Altar of the Brood
+
+Base Core Combo:
+- [[Glaring Fleshraker]]
+- [[Myr Retriever]]
+- [[Workshop Assistant]]
+- [[Krark-Clan Ironworks]]
+
+Extension:
+- [[Altar of the Brood]]
+
+Extension Logic:
+- The base core produces an arbitrarily large number of permanent ETBs under your control.
+- Each of those permanents entering triggers Altar of the Brood.
+- Repeat the established core loop to mill opponents' libraries.
+
+Extension Results:
+- Mill opponents' libraries
+- Repeated Altar of the Brood triggers
+- Retains the base core combo outputs
+===endpanel
+===endaccordion
+
+===accordion
+===panel: Pitiless Plunderer + Stridehangar Automaton + Grinding Station + Altar of the Brood
+
+Base Core Combo:
+- [[Pitiless Plunderer]]
+- [[Stridehangar Automaton]]
+- [[Grinding Station]]
+
+Extension:
+- [[Altar of the Brood]]
+
+Extension Logic:
+- The base core produces an arbitrarily large number of permanent ETBs under your control.
+- Each of those permanents entering triggers Altar of the Brood.
+- Repeat the established core loop to mill opponents' libraries.
+
+Extension Results:
+- Mill opponents' libraries
+- Repeated Altar of the Brood triggers
+- Retains the base core combo outputs
+===endpanel
+===endaccordion
+
+===accordion
+===panel: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Grinding Station + Altar of the Brood
+
+Base Core Combo:
+- [[The Ooze]]
+- [[Stridehangar Automaton]]
+- [[Pitiless Plunderer]]
+- [[Grinding Station]]
+
+Extension:
+- [[Altar of the Brood]]
+
+Extension Logic:
+- The base core produces an arbitrarily large number of permanent ETBs under your control.
+- Each of those permanents entering triggers Altar of the Brood.
+- Repeat the established core loop to mill opponents' libraries.
+
+Extension Results:
+- Mill opponents' libraries
+- Repeated Altar of the Brood triggers
+- Retains the base core combo outputs
+===endpanel
+===endaccordion
+
+===accordion
+===panel: Imotekh the Stormlord + Junk Diver + Myr Retriever + Krark-Clan Ironworks + Altar of the Brood
+
+Base Core Combo:
+- [[Imotekh the Stormlord]]
+- [[Junk Diver]]
+- [[Myr Retriever]]
+- [[Krark-Clan Ironworks]]
+
+Extension:
+- [[Altar of the Brood]]
+
+Extension Logic:
+- The base core produces an arbitrarily large number of permanent ETBs under your control.
+- Each of those permanents entering triggers Altar of the Brood.
+- Repeat the established core loop to mill opponents' libraries.
+
+Extension Results:
+- Mill opponents' libraries
+- Repeated Altar of the Brood triggers
+- Retains the base core combo outputs
+===endpanel
+===endaccordion
+
+===accordion
+===panel: Imotekh the Stormlord + Junk Diver + Workshop Assistant + Krark-Clan Ironworks + Altar of the Brood
+
+Base Core Combo:
+- [[Imotekh the Stormlord]]
+- [[Junk Diver]]
+- [[Workshop Assistant]]
+- [[Krark-Clan Ironworks]]
+
+Extension:
+- [[Altar of the Brood]]
+
+Extension Logic:
+- The base core produces an arbitrarily large number of permanent ETBs under your control.
+- Each of those permanents entering triggers Altar of the Brood.
+- Repeat the established core loop to mill opponents' libraries.
+
+Extension Results:
+- Mill opponents' libraries
+- Repeated Altar of the Brood triggers
+- Retains the base core combo outputs
+===endpanel
+===endaccordion
+
+===accordion
+===panel: Imotekh the Stormlord + Metalwork Colossus + Skirge Familiar + Altar of the Brood
+
+Base Core Combo:
+- [[Imotekh the Stormlord]]
+- [[Metalwork Colossus]]
+- [[Skirge Familiar]]
+
+Extension:
+- [[Altar of the Brood]]
+
+Extension Logic:
+- The base core produces an arbitrarily large number of permanent ETBs under your control.
+- Each of those permanents entering triggers Altar of the Brood.
+- Repeat the established core loop to mill opponents' libraries.
+
+Extension Results:
+- Mill opponents' libraries
+- Repeated Altar of the Brood triggers
+- Retains the base core combo outputs
+===endpanel
+===endaccordion
+
+===accordion
+===panel: Imotekh the Stormlord + Myr Retriever + Workshop Assistant + Krark-Clan Ironworks + Altar of the Brood
+
+Base Core Combo:
+- [[Imotekh the Stormlord]]
+- [[Myr Retriever]]
+- [[Workshop Assistant]]
+- [[Krark-Clan Ironworks]]
+
+Extension:
+- [[Altar of the Brood]]
+
+Extension Logic:
+- The base core produces an arbitrarily large number of permanent ETBs under your control.
+- Each of those permanents entering triggers Altar of the Brood.
+- Repeat the established core loop to mill opponents' libraries.
+
+Extension Results:
+- Mill opponents' libraries
+- Repeated Altar of the Brood triggers
+- Retains the base core combo outputs
+===endpanel
+===endaccordion
+
+===accordion
+===panel: Imotekh the Stormlord + Nim Deathmantle + Krark-Clan Ironworks + Altar of the Brood
+
+Base Core Combo:
+- [[Imotekh the Stormlord]]
+- [[Nim Deathmantle]]
+- [[Krark-Clan Ironworks]]
+
+Extension:
+- [[Altar of the Brood]]
+
+Extension Logic:
+- The base core produces an arbitrarily large number of permanent ETBs under your control.
+- Each of those permanents entering triggers Altar of the Brood.
+- Repeat the established core loop to mill opponents' libraries.
+
+Extension Results:
+- Mill opponents' libraries
+- Repeated Altar of the Brood triggers
+- Retains the base core combo outputs
+===endpanel
+===endaccordion
+
+===accordion
+===panel: Imotekh the Stormlord + Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Altar of the Brood
+
+Base Core Combo:
+- [[Imotekh the Stormlord]]
+- [[Scrap Trawler]]
+- [[Myr Retriever]]
+- [[Krark-Clan Ironworks]]
+
+Extension:
+- [[Altar of the Brood]]
+
+Extension Logic:
+- The base core produces an arbitrarily large number of permanent ETBs under your control.
+- Each of those permanents entering triggers Altar of the Brood.
+- Repeat the established core loop to mill opponents' libraries.
+
+Extension Results:
+- Mill opponents' libraries
+- Repeated Altar of the Brood triggers
+- Retains the base core combo outputs
+===endpanel
+===endaccordion
+
+===accordion
+===panel: Tortured Existence + Phyrexian Altar + Imotekh the Stormlord + Altar of the Brood
+
+Base Core Combo:
+- [[Tortured Existence]]
+- [[Phyrexian Altar]]
+- [[Imotekh the Stormlord]]
+
+Extension:
+- [[Altar of the Brood]]
+
+Extension Logic:
+- The base core produces an arbitrarily large number of permanent ETBs under your control.
+- Each of those permanents entering triggers Altar of the Brood.
+- Repeat the established core loop to mill opponents' libraries.
+
+Extension Results:
+- Mill opponents' libraries
+- Repeated Altar of the Brood triggers
+- Retains the base core combo outputs
+===endpanel
+===endaccordion
+
+===accordion
+===panel: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Sol Ring + Junk Diver + Altar of the Brood
+
+Base Core Combo:
+- [[Scrap Trawler]]
+- [[Myr Retriever]]
+- [[Krark-Clan Ironworks]]
+- [[Sol Ring]]
+- [[Junk Diver]]
+
+Extension:
+- [[Altar of the Brood]]
+
+Extension Logic:
+- The base core produces an arbitrarily large number of permanent ETBs under your control.
+- Each of those permanents entering triggers Altar of the Brood.
+- Repeat the established core loop to mill opponents' libraries.
+
+Extension Results:
+- Mill opponents' libraries
+- Repeated Altar of the Brood triggers
+- Retains the base core combo outputs
+===endpanel
+===endaccordion
+
+===accordion
+===panel: The Ooze + Stridehangar Automaton + Krark-Clan Ironworks + Altar of the Brood
+
+Base Core Combo:
+- [[The Ooze]]
+- [[Stridehangar Automaton]]
+- [[Krark-Clan Ironworks]]
+
+Extension:
+- [[Altar of the Brood]]
+
+Extension Logic:
+- The base core produces an arbitrarily large number of permanent ETBs under your control.
+- Each of those permanents entering triggers Altar of the Brood.
+- Repeat the established core loop to mill opponents' libraries.
+
+Extension Results:
+- Mill opponents' libraries
+- Repeated Altar of the Brood triggers
+- Retains the base core combo outputs
+===endpanel
+===endaccordion
+
+===accordion
+===panel: Myr Retriever + Krark-Clan Ironworks + Ultron, Artificial Malevolence + Altar of the Brood
+
+Base Core Combo:
+- [[Myr Retriever]]
+- [[Krark-Clan Ironworks]]
+- [[Ultron, Artificial Malevolence]]
+
+Extension:
+- [[Altar of the Brood]]
+
+Extension Logic:
+- The base core produces an arbitrarily large number of permanent ETBs under your control.
+- Each of those permanents entering triggers Altar of the Brood.
+- Repeat the established core loop to mill opponents' libraries.
+
+Extension Results:
+- Mill opponents' libraries
+- Repeated Altar of the Brood triggers
+- Retains the base core combo outputs
+===endpanel
+===endaccordion
+
+===accordion
+===panel: Pitiless Plunderer + Stridehangar Automaton + Krark-Clan Ironworks + Altar of the Brood
+
+Base Core Combo:
+- [[Pitiless Plunderer]]
+- [[Stridehangar Automaton]]
+- [[Krark-Clan Ironworks]]
+
+Extension:
+- [[Altar of the Brood]]
+
+Extension Logic:
+- The base core produces an arbitrarily large number of permanent ETBs under your control.
+- Each of those permanents entering triggers Altar of the Brood.
+- Repeat the established core loop to mill opponents' libraries.
+
+Extension Results:
+- Mill opponents' libraries
+- Repeated Altar of the Brood triggers
+- Retains the base core combo outputs
+===endpanel
+===endaccordion
+
+===accordion
+===panel: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Semblance Anvil + Altar of the Brood
+
+Base Core Combo:
+- [[Scrap Trawler]]
+- [[Myr Retriever]]
+- [[Krark-Clan Ironworks]]
+- [[Semblance Anvil]]
+
+Extension:
+- [[Altar of the Brood]]
+
+Extension Logic:
+- The base core produces an arbitrarily large number of permanent ETBs under your control.
+- Each of those permanents entering triggers Altar of the Brood.
+- Repeat the established core loop to mill opponents' libraries.
+
+Extension Results:
+- Mill opponents' libraries
+- Repeated Altar of the Brood triggers
+- Retains the base core combo outputs
+===endpanel
+===endaccordion
+
+===accordion
+===panel: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Krark-Clan Ironworks + Altar of the Brood
+
+Base Core Combo:
+- [[The Ooze]]
+- [[Stridehangar Automaton]]
+- [[Pitiless Plunderer]]
+- [[Krark-Clan Ironworks]]
+
+Extension:
+- [[Altar of the Brood]]
+
+Extension Logic:
+- The base core produces an arbitrarily large number of permanent ETBs under your control.
+- Each of those permanents entering triggers Altar of the Brood.
+- Repeat the established core loop to mill opponents' libraries.
+
+Extension Results:
+- Mill opponents' libraries
+- Repeated Altar of the Brood triggers
+- Retains the base core combo outputs
+===endpanel
+===endaccordion
+
+===accordion
+===panel: Ultron the Annihilator + Nim Deathmantle + Krark-Clan Ironworks + Altar of the Brood
+
+Base Core Combo:
+- [[Ultron the Annihilator]]
+- [[Nim Deathmantle]]
+- [[Krark-Clan Ironworks]]
+
+Extension:
+- [[Altar of the Brood]]
+
+Extension Logic:
+- The base core produces an arbitrarily large number of permanent ETBs under your control.
+- Each of those permanents entering triggers Altar of the Brood.
+- Repeat the established core loop to mill opponents' libraries.
+
+Extension Results:
+- Mill opponents' libraries
+- Repeated Altar of the Brood triggers
+- Retains the base core combo outputs
+===endpanel
+===endaccordion
+
+===accordion
+===panel: Scrap Trawler + Myr Retriever + Phyrexian Altar + Semblance Anvil + Altar of the Brood
+
+Base Core Combo:
+- [[Scrap Trawler]]
+- [[Myr Retriever]]
+- [[Phyrexian Altar]]
+- [[Semblance Anvil]]
+
+Extension:
+- [[Altar of the Brood]]
+
+Extension Logic:
+- The base core produces an arbitrarily large number of permanent ETBs under your control.
+- Each of those permanents entering triggers Altar of the Brood.
+- Repeat the established core loop to mill opponents' libraries.
+
+Extension Results:
+- Mill opponents' libraries
+- Repeated Altar of the Brood triggers
+- Retains the base core combo outputs
+===endpanel
+===endaccordion
+
+===accordion
+===panel: Ultron the Annihilator + Nim Deathmantle + Phyrexian Altar + Pitiless Plunderer + Altar of the Brood
+
+Base Core Combo:
+- [[Ultron the Annihilator]]
+- [[Nim Deathmantle]]
+- [[Phyrexian Altar]]
+- [[Pitiless Plunderer]]
+
+Extension:
+- [[Altar of the Brood]]
+
+Extension Logic:
+- The base core produces an arbitrarily large number of permanent ETBs under your control.
+- Each of those permanents entering triggers Altar of the Brood.
+- Repeat the established core loop to mill opponents' libraries.
+
+Extension Results:
+- Mill opponents' libraries
+- Repeated Altar of the Brood triggers
+- Retains the base core combo outputs
+===endpanel
+===endaccordion
+
+===accordion
+===panel: Pitiless Plunderer + Phyrexian Altar + Stridehangar Automaton + Altar of the Brood
+
+Base Core Combo:
+- [[Pitiless Plunderer]]
+- [[Phyrexian Altar]]
+- [[Stridehangar Automaton]]
+
+Extension:
+- [[Altar of the Brood]]
+
+Extension Logic:
+- The base core produces an arbitrarily large number of permanent ETBs under your control.
+- Each of those permanents entering triggers Altar of the Brood.
+- Repeat the established core loop to mill opponents' libraries.
+
+Extension Results:
+- Mill opponents' libraries
+- Repeated Altar of the Brood triggers
+- Retains the base core combo outputs
+===endpanel
+===endaccordion
+
+===accordion
+===panel: The Ooze + Stridehangar Automaton + Phyrexian Altar + Altar of the Brood
+
+Base Core Combo:
+- [[The Ooze]]
+- [[Stridehangar Automaton]]
+- [[Phyrexian Altar]]
+
+Extension:
+- [[Altar of the Brood]]
+
+Extension Logic:
+- The base core produces an arbitrarily large number of permanent ETBs under your control.
+- Each of those permanents entering triggers Altar of the Brood.
+- Repeat the established core loop to mill opponents' libraries.
+
+Extension Results:
+- Mill opponents' libraries
+- Repeated Altar of the Brood triggers
+- Retains the base core combo outputs
+===endpanel
+===endaccordion
+
+===accordion
+===panel: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Phyrexian Altar + Altar of the Brood
+
+Base Core Combo:
+- [[The Ooze]]
+- [[Stridehangar Automaton]]
+- [[Pitiless Plunderer]]
+- [[Phyrexian Altar]]
+
+Extension:
+- [[Altar of the Brood]]
+
+Extension Logic:
+- The base core produces an arbitrarily large number of permanent ETBs under your control.
+- Each of those permanents entering triggers Altar of the Brood.
+- Repeat the established core loop to mill opponents' libraries.
+
+Extension Results:
+- Mill opponents' libraries
+- Repeated Altar of the Brood triggers
+- Retains the base core combo outputs
+===endpanel
+===endaccordion
+
+===accordion
+===panel: Pitiless Plunderer + Umbral Collar Zealot + Stridehangar Automaton + Altar of the Brood
+
+Base Core Combo:
+- [[Pitiless Plunderer]]
+- [[Umbral Collar Zealot]]
+- [[Stridehangar Automaton]]
+
+Extension:
+- [[Altar of the Brood]]
+
+Extension Logic:
+- The base core produces an arbitrarily large number of permanent ETBs under your control.
+- Each of those permanents entering triggers Altar of the Brood.
+- Repeat the established core loop to mill opponents' libraries.
+
+Extension Results:
+- Mill opponents' libraries
+- Repeated Altar of the Brood triggers
+- Retains the base core combo outputs
+===endpanel
+===endaccordion
+
+===accordion
+===panel: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Umbral Collar Zealot + Altar of the Brood
+
+Base Core Combo:
+- [[The Ooze]]
+- [[Stridehangar Automaton]]
+- [[Pitiless Plunderer]]
+- [[Umbral Collar Zealot]]
+
+Extension:
+- [[Altar of the Brood]]
+
+Extension Logic:
+- The base core produces an arbitrarily large number of permanent ETBs under your control.
+- Each of those permanents entering triggers Altar of the Brood.
+- Repeat the established core loop to mill opponents' libraries.
+
+Extension Results:
+- Mill opponents' libraries
+- Repeated Altar of the Brood triggers
+- Retains the base core combo outputs
+===endpanel
+===endaccordion
+
+===accordion
+===panel: Warren Soultrader + Stridehangar Automaton + Sephiroth, Fabled SOLDIER // Sephiroth, One-Winged Angel + Altar of the Brood
+
+Base Core Combo:
+- [[Warren Soultrader]]
+- [[Stridehangar Automaton]]
+- [[Sephiroth, Fabled SOLDIER // Sephiroth, One-Winged Angel]]
+
+Extension:
+- [[Altar of the Brood]]
+
+Extension Logic:
+- The base core produces an arbitrarily large number of permanent ETBs under your control.
+- Each of those permanents entering triggers Altar of the Brood.
+- Repeat the established core loop to mill opponents' libraries.
+
+Extension Results:
+- Mill opponents' libraries
+- Repeated Altar of the Brood triggers
+- Retains the base core combo outputs
+===endpanel
+===endaccordion
+
+===accordion
+===panel: Warren Soultrader + Zulaport Cutthroat + Stridehangar Automaton + Altar of the Brood
+
+Base Core Combo:
+- [[Warren Soultrader]]
+- [[Zulaport Cutthroat]]
+- [[Stridehangar Automaton]]
+
+Extension:
+- [[Altar of the Brood]]
+
+Extension Logic:
+- The base core produces an arbitrarily large number of permanent ETBs under your control.
+- Each of those permanents entering triggers Altar of the Brood.
+- Repeat the established core loop to mill opponents' libraries.
+
+Extension Results:
+- Mill opponents' libraries
+- Repeated Altar of the Brood triggers
+- Retains the base core combo outputs
+===endpanel
+===endaccordion
+
+===endpanel
+===endaccordion
+
+===accordion
+===panel: Skullclamp Extensions
+
+[[Skullclamp]] extends core engines that can repeatedly sacrifice creatures while producing enough mana or Treasure to pay the recurring [[symbol:1]] equip cost. [[Stridehangar Automaton]] gives its Thopter tokens +1/+1, so those Thopters do not die from Skullclamp's -1 toughness alone; a sacrifice outlet is still required.
+
+===accordion
+===panel: Pitiless Plunderer + Stridehangar Automaton + Arcbound Ravager + Skullclamp
+
+Base Core Combo:
+- [[Pitiless Plunderer]]
+- [[Stridehangar Automaton]]
+- [[Arcbound Ravager]]
+
+Extension:
+- [[Skullclamp]]
+
+Prerequisites:
+- Base core combo is active.
+- You control an artifact creature that can begin the loop.
+- [[symbol:1]] available for the first Skullclamp equip.
+
+Steps:
+1. Equip Skullclamp to the Thopter for [[symbol:1]].
+2. Sacrifice the equipped Thopter to Arcbound Ravager.
+3. Skullclamp triggers, drawing two cards.
+4. Pitiless Plunderer creates a Treasure token.
+5. Stridehangar Automaton causes the Treasure creation to also create a replacement Thopter.
+6. Sacrifice the Treasure for [[symbol:1]].
+7. Use that mana to equip Skullclamp to the replacement Thopter.
+8. Repeat.
+
+Extension Results:
+- Draw library
+- Infinite draw triggers
+- Retains the base combo's death, sacrifice, artifact and creature event outputs
+===endpanel
+===endaccordion
+
+===accordion
+===panel: Pitiless Plunderer + Stridehangar Automaton + Phyrexian Altar + Skullclamp
+
+Base Core Combo:
+- [[Pitiless Plunderer]]
+- [[Stridehangar Automaton]]
+- [[Phyrexian Altar]]
+
+Extension:
+- [[Skullclamp]]
+
+Prerequisites:
+- Base core combo is active.
+- [[symbol:1]] available for the first Skullclamp equip.
+
+Extension Logic:
+- Equip the creature before sacrificing it to Phyrexian Altar.
+- Skullclamp draws two when the equipped creature dies.
+- Phyrexian Altar produces mana and Pitiless Plunderer produces a Treasure.
+- Stridehangar Automaton supplies the replacement Thopter.
+- The engine produces more than enough mana to continue paying Skullclamp's equip cost.
+
+Extension Results:
+- Draw library
+- Infinite draw triggers
+- Infinite colored mana and Treasure remain available from the base engine
+===endpanel
+===endaccordion
+
+===accordion
+===panel: Pitiless Plunderer + Stridehangar Automaton + Krark-Clan Ironworks + Skullclamp
+
+Base Core Combo:
+- [[Pitiless Plunderer]]
+- [[Stridehangar Automaton]]
+- [[Krark-Clan Ironworks]]
+
+Extension:
+- [[Skullclamp]]
+
+Prerequisites:
+- Base core combo is active.
+- [[symbol:1]] available for the first Skullclamp equip.
+
+Extension Logic:
+- Equip the Thopter before sacrificing it to Krark-Clan Ironworks.
+- Krark-Clan Ironworks produces [[symbol:c]][[symbol:c]] from the sacrifice.
+- Skullclamp draws two cards.
+- Pitiless Plunderer creates a Treasure and Stridehangar Automaton creates a replacement Thopter.
+- The loop is mana-positive after paying the recurring Skullclamp equip cost.
+
+Extension Results:
+- Draw library
+- Infinite draw triggers
+- Infinite colorless mana
+- Infinite Treasure tokens
+===endpanel
+===endaccordion
+
+===accordion
+===panel: Pitiless Plunderer + Umbral Collar Zealot + Stridehangar Automaton + Skullclamp
+
+Base Core Combo:
+- [[Pitiless Plunderer]]
+- [[Umbral Collar Zealot]]
+- [[Stridehangar Automaton]]
+
+Extension:
+- [[Skullclamp]]
+
+Prerequisites:
+- Base core combo is active.
+- [[symbol:1]] available for the first Skullclamp equip.
+
+Extension Logic:
+- Equip the creature before sacrificing it to Umbral Collar Zealot.
+- Skullclamp draws two cards when it dies.
+- Pitiless Plunderer creates the Treasure that pays the next equip cost.
+- Stridehangar Automaton creates the replacement Thopter.
+
+Extension Results:
+- Draw library
+- Infinite draw triggers
+- Infinite surveil from the base engine
+===endpanel
+===endaccordion
+
+===accordion
+===panel: The Ooze + Stridehangar Automaton + Ashnod's Altar + Skullclamp
+
+Base Core Combo:
+- [[The Ooze]]
+- [[Stridehangar Automaton]]
+- [[Ashnod's Altar]]
+
+Extension:
+- [[Skullclamp]]
+
+Extension Logic:
+- The base engine produces infinite colorless mana while repeatedly sacrificing creatures.
+- Once arbitrary mana is available, equip Skullclamp to creatures before sacrificing them to Ashnod's Altar.
+- The recurring [[symbol:1]] equip cost is covered by the base engine's mana production.
+
+Extension Results:
+- Draw library
+- Infinite draw triggers
+- Infinite colorless mana remains available
+===endpanel
+===endaccordion
+
+===accordion
+===panel: The Ooze + Stridehangar Automaton + Krark-Clan Ironworks + Skullclamp
+
+Base Core Combo:
+- [[The Ooze]]
+- [[Stridehangar Automaton]]
+- [[Krark-Clan Ironworks]]
+
+Extension:
+- [[Skullclamp]]
+
+Extension Logic:
+- The base engine produces infinite colorless mana while repeatedly sacrificing artifact creatures.
+- Equip Skullclamp before the creature is sacrificed to Krark-Clan Ironworks.
+- Infinite mana pays all recurring equip costs.
+
+Extension Results:
+- Draw library
+- Infinite draw triggers
+- Infinite colorless mana remains available
+===endpanel
+===endaccordion
+
+===accordion
+===panel: Infinite-Mana Creature Recursion + Skullclamp
+
+[[Skullclamp]] is also a general payoff extension for core artifact-creature recursion engines that simultaneously produce infinite mana and repeat creature deaths. Examples include qualifying [[Scrap Trawler]] / [[Myr Retriever]] / [[Krark-Clan Ironworks]] recursion loops and Imotekh engines that produce both arbitrary mana and renewable creature tokens.
+
+Extension Logic:
+- Establish arbitrary mana with the core loop first.
+- Use that mana to pay Skullclamp's recurring equip cost.
+- Equip a creature that the established engine can repeatedly sacrifice or replace.
+- Each equipped death draws two cards.
+
+Extension Results:
+- Draw library
+- Infinite draw triggers
+
+Notes:
+- Do not apply this extension to mana-neutral loops merely because they contain a sacrifice outlet.
+- [[Dross Scorpion]] + [[Retrofitter Foundry]] + [[Ashnod's Altar]] and the corresponding [[Krark-Clan Ironworks]] version are mana-neutral before Skullclamp and therefore do not independently support repeated Skullclamp equips.
+- [[The Ooze]] + [[Stridehangar Automaton]] + [[Phyrexian Altar]] also does not independently support the extension because its generated mana is consumed maintaining the core loop.
+===endpanel
+===endaccordion
+
 ===endpanel
 ===endaccordion
 
