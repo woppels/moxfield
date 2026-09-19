@@ -1,7 +1,7 @@
 ===accordion
 ===panel: Core Combos
 
-The 77 core combos are listed below. Combo extensions are tracked separately and do not increase the core combo count.
+The 86 core combos are listed below. Combo extensions are tracked separately and do not increase the core combo count.
 
 ===accordion
 ===panel: Aetherflux Reservoir
@@ -10770,15 +10770,337 @@ Results:
 ===endaccordion
 
 ===accordion
+===panel: Out of the Tombs
+
+The following nine normalized core architectures are added by [[Out of the Tombs]]. For all of them, the empty-library state is a prerequisite: each Skullclamp draw is replaced by Out of the Tombs returning a creature card from your graveyard to the battlefield. Generic recyclable creatures are prerequisites rather than separately counted core cards.
+
+===accordion
+===panel: Out of the Tombs + Skullclamp + Ashnod's Altar
+[[symbol:b]]
+
+Cards Required:
+- [[Out of the Tombs]]
+- [[Skullclamp]]
+- [[Ashnod's Altar]]
+
+Prerequisites:
+- All permanents on the battlefield.
+- Your library is empty.
+- You control two suitable nontoken creatures that can be sacrificed.
+- [[symbol:1]] available for the initial Skullclamp equip.
+
+Steps:
+1. Equip Skullclamp to one of the recyclable creatures.
+2. Sacrifice the other creature to Ashnod's Altar, adding [[symbol:c]][[symbol:c]].
+3. Sacrifice the equipped creature to Ashnod's Altar, adding [[symbol:c]][[symbol:c]] and triggering Skullclamp.
+4. Resolve Skullclamp's two draws one at a time. Because your library is empty, Out of the Tombs replaces each draw by returning one of the two creature cards from your graveyard to the battlefield.
+5. Spend [[symbol:1]] to equip Skullclamp to one of the returned creatures.
+6. Repeat.
+
+Results:
+- Infinite colorless mana
+- Infinite creature ETB
+- Infinite creature LTB
+- Infinite creature sacrifice triggers
+- Infinite death triggers
+- Infinite draw-replacement events
+===endpanel
+===endaccordion
+
+===accordion
+===panel: Out of the Tombs + Skullclamp + Phyrexian Altar
+[[symbol:b]]
+
+Cards Required:
+- [[Out of the Tombs]]
+- [[Skullclamp]]
+- [[Phyrexian Altar]]
+
+Prerequisites:
+- All permanents on the battlefield.
+- Your library is empty.
+- You control two suitable nontoken creatures that can be sacrificed.
+- [[symbol:1]] available for the initial Skullclamp equip.
+
+Steps:
+1. Equip Skullclamp to one recyclable creature.
+2. Sacrifice the other creature to Phyrexian Altar, adding one mana of any color.
+3. Sacrifice the equipped creature to Phyrexian Altar, adding one mana of any color and triggering Skullclamp.
+4. Out of the Tombs replaces Skullclamp's two draws, returning the two creature cards to the battlefield.
+5. Spend one mana to equip Skullclamp again.
+6. Repeat.
+
+Results:
+- Infinite colored mana
+- Infinite creature ETB
+- Infinite creature LTB
+- Infinite creature sacrifice triggers
+- Infinite death triggers
+- Infinite draw-replacement events
+===endpanel
+===endaccordion
+
+===accordion
+===panel: Out of the Tombs + Skullclamp + Krark-Clan Ironworks
+[[symbol:c]]
+
+Cards Required:
+- [[Out of the Tombs]]
+- [[Skullclamp]]
+- [[Krark-Clan Ironworks]]
+
+Prerequisites:
+- All permanents on the battlefield.
+- Your library is empty.
+- You control two suitable nontoken artifact creatures that can be sacrificed.
+- [[symbol:1]] available for the initial Skullclamp equip.
+
+Steps:
+1. Equip Skullclamp to one recyclable artifact creature.
+2. Sacrifice the other artifact creature to Krark-Clan Ironworks, adding [[symbol:c]][[symbol:c]].
+3. Sacrifice the equipped artifact creature to Krark-Clan Ironworks, adding [[symbol:c]][[symbol:c]] and triggering Skullclamp.
+4. Out of the Tombs replaces the two draws, returning both artifact creature cards to the battlefield.
+5. Spend [[symbol:1]] to equip Skullclamp again.
+6. Repeat.
+
+Results:
+- Infinite colorless mana
+- Infinite artifact ETB
+- Infinite artifact LTB
+- Infinite artifact sacrifice triggers
+- Infinite creature ETB
+- Infinite creature LTB
+- Infinite death triggers
+===endpanel
+===endaccordion
+
+===accordion
+===panel: Out of the Tombs + Skullclamp + Pitiless Plunderer + Altar of Dementia
+[[symbol:b]]
+
+Cards Required:
+- [[Out of the Tombs]]
+- [[Skullclamp]]
+- [[Pitiless Plunderer]]
+- [[Altar of Dementia]]
+
+Prerequisites:
+- All permanents on the battlefield.
+- Your library is empty.
+- You control two other suitable nontoken creatures.
+- [[symbol:1]] available for the initial Skullclamp equip.
+
+Steps:
+1. Equip Skullclamp to one recyclable creature.
+2. Sacrifice that creature to Altar of Dementia. Skullclamp and Pitiless Plunderer trigger.
+3. Before resolving Skullclamp, sacrifice the second recyclable creature to Altar of Dementia.
+4. Pitiless Plunderer creates Treasures from the creature deaths.
+5. Resolve Skullclamp; Out of the Tombs replaces its two draws and returns both creature cards.
+6. Use a Treasure to pay the next Skullclamp equip and repeat.
+
+Results:
+- Infinite mill
+- Infinite self-mill
+- Infinite creature ETB
+- Infinite creature LTB
+- Infinite creature sacrifice triggers
+- Infinite death triggers
+- Infinite Treasure creation
+===endpanel
+===endaccordion
+
+===accordion
+===panel: Out of the Tombs + Skullclamp + Pitiless Plunderer + Arcbound Ravager
+[[symbol:b]]
+
+Cards Required:
+- [[Out of the Tombs]]
+- [[Skullclamp]]
+- [[Pitiless Plunderer]]
+- [[Arcbound Ravager]]
+
+Prerequisites:
+- All permanents on the battlefield.
+- Your library is empty.
+- You control two other suitable nontoken artifact creatures.
+- [[symbol:1]] available for the initial Skullclamp equip.
+
+Steps:
+1. Equip Skullclamp to one recyclable artifact creature.
+2. Sacrifice it to Arcbound Ravager, triggering Skullclamp and Pitiless Plunderer.
+3. Before Skullclamp resolves, sacrifice the second recyclable artifact creature to Arcbound Ravager.
+4. Resolve the Pitiless Plunderer triggers, creating Treasures.
+5. Resolve Skullclamp; Out of the Tombs returns both artifact creature cards instead of drawing.
+6. Use a Treasure to equip Skullclamp again and repeat.
+
+Results:
+- Infinite +1/+1 counters on Arcbound Ravager
+- Infinite creature ETB
+- Infinite creature LTB
+- Infinite creature sacrifice triggers
+- Infinite death triggers
+- Infinite Treasure creation
+===endpanel
+===endaccordion
+
+===accordion
+===panel: Out of the Tombs + Skullclamp + Pitiless Plunderer + Umbral Collar Zealot
+[[symbol:b]]
+
+Cards Required:
+- [[Out of the Tombs]]
+- [[Skullclamp]]
+- [[Pitiless Plunderer]]
+- [[Umbral Collar Zealot]]
+
+Prerequisites:
+- All permanents on the battlefield.
+- Your library is empty.
+- You control two other suitable nontoken creatures.
+- [[symbol:1]] available for the initial Skullclamp equip.
+
+Steps:
+1. Equip Skullclamp to one recyclable creature.
+2. Sacrifice it to Umbral Collar Zealot, triggering Skullclamp and Pitiless Plunderer.
+3. Before Skullclamp resolves, sacrifice the second recyclable creature to Umbral Collar Zealot.
+4. Resolve the Pitiless Plunderer triggers, creating Treasures.
+5. Resolve Skullclamp; Out of the Tombs returns both creature cards instead of drawing.
+6. Use a Treasure to equip Skullclamp again and repeat.
+
+Results:
+- Infinite surveil
+- Infinite creature ETB
+- Infinite creature LTB
+- Infinite creature sacrifice triggers
+- Infinite death triggers
+- Infinite Treasure creation
+===endpanel
+===endaccordion
+
+===accordion
+===panel: Out of the Tombs + Skullclamp + Warren Soultrader + Zulaport Cutthroat
+[[symbol:b]]
+
+Cards Required:
+- [[Out of the Tombs]]
+- [[Skullclamp]]
+- [[Warren Soultrader]]
+- [[Zulaport Cutthroat]]
+
+Prerequisites:
+- All permanents on the battlefield.
+- Your library is empty.
+- You control two other suitable nontoken creatures.
+- Your life total is at least 3.
+- [[symbol:1]] available for the initial Skullclamp equip.
+
+Steps:
+1. Equip Skullclamp to one recyclable creature.
+2. Activate Warren Soultrader twice, paying 1 life and sacrificing each recyclable creature. Skullclamp triggers from the equipped creature dying.
+3. Zulaport Cutthroat triggers for both deaths, offsetting the life paid to Warren Soultrader and draining each opponent.
+4. Warren Soultrader creates two Treasures.
+5. Resolve Skullclamp; Out of the Tombs replaces both draws and returns the two creature cards.
+6. Use one Treasure to equip Skullclamp again and repeat.
+
+Results:
+- Infinite lifeloss to opponents
+- Infinite lifegain triggers
+- Infinite Treasure tokens
+- Infinite creature ETB
+- Infinite creature LTB
+- Infinite creature sacrifice triggers
+- Infinite death triggers
+===endpanel
+===endaccordion
+
+===accordion
+===panel: Out of the Tombs + Skullclamp + Warren Soultrader + Sephiroth, Fabled SOLDIER // Sephiroth, One-Winged Angel
+[[symbol:b]]
+
+Cards Required:
+- [[Out of the Tombs]]
+- [[Skullclamp]]
+- [[Warren Soultrader]]
+- [[Sephiroth, Fabled SOLDIER // Sephiroth, One-Winged Angel]]
+
+Prerequisites:
+- All permanents on the battlefield.
+- Your library is empty.
+- You control two other suitable nontoken creatures.
+- Your life total is at least 3.
+- [[symbol:1]] available for the initial Skullclamp equip.
+
+Steps:
+1. Equip Skullclamp to one recyclable creature.
+2. Activate Warren Soultrader twice, paying 1 life and sacrificing each recyclable creature. Skullclamp triggers from the equipped creature dying.
+3. Sephiroth's creature-death triggers offset the life paid to Warren Soultrader and cause an opponent to lose life.
+4. Warren Soultrader creates two Treasures.
+5. Resolve Skullclamp; Out of the Tombs replaces both draws and returns the two creature cards.
+6. Use one Treasure to equip Skullclamp again and repeat.
+
+Results:
+- Infinite lifeloss to opponents
+- Infinite lifegain triggers
+- Infinite Treasure tokens
+- Infinite creature ETB
+- Infinite creature LTB
+- Infinite creature sacrifice triggers
+- Infinite death triggers
+===endpanel
+===endaccordion
+
+===accordion
+===panel: Out of the Tombs + Skullclamp + Pitiless Plunderer + Blasting Station + Stitcher's Supplier
+[[symbol:b]]
+
+Cards Required:
+- [[Out of the Tombs]]
+- [[Skullclamp]]
+- [[Pitiless Plunderer]]
+- [[Blasting Station]]
+- [[Stitcher's Supplier]]
+
+Normalization Note:
+- Stitcher's Supplier is the representative Clamp-killable 1-toughness creature for this architecture. Interchangeable creatures that fill the same role are not counted as separate cores.
+
+Prerequisites:
+- All permanents on the battlefield.
+- Your library is empty.
+- You control another suitable nontoken creature in addition to Stitcher's Supplier.
+- Blasting Station is untapped.
+- [[symbol:1]] available for the initial Skullclamp equip.
+
+Steps:
+1. Equip Skullclamp to Stitcher's Supplier. Skullclamp's -1 toughness causes Supplier to die as a state-based action, triggering Skullclamp and Pitiless Plunderer.
+2. Before resolving Skullclamp, activate Blasting Station by tapping it and sacrificing the second recyclable creature, dealing 1 damage to any target.
+3. Resolve Pitiless Plunderer's triggers, creating Treasures.
+4. Resolve Skullclamp; Out of the Tombs replaces the two draws and returns Stitcher's Supplier and the second creature.
+5. The creatures entering trigger Blasting Station, untapping it.
+6. Use a Treasure to equip Skullclamp to Stitcher's Supplier again and repeat.
+
+Results:
+- Infinite damage
+- Infinite creature ETB
+- Infinite creature LTB
+- Infinite creature sacrifice triggers
+- Infinite death triggers
+- Infinite Treasure creation
+===endpanel
+===endaccordion
+
+===endpanel
+===endaccordion
+
+===accordion
 ===panel: Combo Extensions
 
-These extensions are tracked separately from the 77 core combos. An extension is included only when adding the listed card preserves the established core loop or consumes a resource the core can generate arbitrarily.
+These extensions are tracked separately from the 86 core combos. An extension is included only when adding the listed card preserves the established core loop or consumes a resource the core can generate arbitrarily.
 
 ===accordion
 ===panel: Validation Notes
 
 Validation standard:
-- Core loops were deduplicated to 77 unique combinations.
+- Core loops were deduplicated to 86 unique combinations.
 - Candidate extensions were derived from the current 99 rather than from the previous extension list.
 - Each family below was checked against the core output and recurring resource requirements.
 - Current Oracle text was independently verified for the payoff cards and the core engine cards used by these mappings.
@@ -26071,6 +26393,105 @@ Extension Logic:
 
 Extension Results:
 - Infinite surveil
+===endpanel
+===endaccordion
+
+===endpanel
+===endaccordion
+
+===accordion
+===panel: Out of the Tombs Extensions
+
+Validated extensions: 5
+
+These are payoff extensions rather than additional cores. When one of the established Sensei's Divining Top draw loops reaches an empty library, [[Out of the Tombs]] can replace subsequent draws by returning creature cards from the graveyard. The loop may be stopped before a draw for which no creature card can be returned.
+
+===accordion
+===panel: Sensei's Divining Top + Aetherflux Reservoir + Bolas's Citadel + Out of the Tombs
+Base Core Combo:
+- [[Sensei's Divining Top]]
+- [[Aetherflux Reservoir]]
+- [[Bolas's Citadel]]
+
+Extension:
+- [[Out of the Tombs]]
+
+Classification:
+- Graveyard deployment extension
+
+Extension Logic:
+- After the base core has drawn through the library, each further Top draw can be replaced by Out of the Tombs returning a creature card from the graveyard to the battlefield.
+
+Extension Results:
+- Reanimate any desired number of available creature cards from your graveyard while maintaining the Top loop
+===endpanel
+===endaccordion
+
+===accordion
+===panel: Sensei's Divining Top + Mystic Forge + Cloud Key + Out of the Tombs
+Base Core Combo:
+- [[Sensei's Divining Top]]
+- [[Mystic Forge]]
+- [[Cloud Key]]
+Extension:
+- [[Out of the Tombs]]
+Classification:
+- Graveyard deployment extension
+Extension Logic:
+- With the library empty, Out of the Tombs replaces each Top draw with a creature return; Top then moves to the library and is recast from the top for [[symbol:0]].
+Extension Results:
+- Reanimate any desired number of available creature cards from your graveyard
+===endpanel
+===endaccordion
+
+===accordion
+===panel: Sensei's Divining Top + Foundry Inspector + Mystic Forge + Out of the Tombs
+Base Core Combo:
+- [[Sensei's Divining Top]]
+- [[Foundry Inspector]]
+- [[Mystic Forge]]
+Extension:
+- [[Out of the Tombs]]
+Classification:
+- Graveyard deployment extension
+Extension Logic:
+- With the library empty, Out of the Tombs replaces each Top draw with a creature return while Foundry Inspector keeps Top free to recast through Mystic Forge.
+Extension Results:
+- Reanimate any desired number of available creature cards from your graveyard
+===endpanel
+===endaccordion
+
+===accordion
+===panel: Sensei's Divining Top + Glaring Fleshraker + Mystic Forge + Out of the Tombs
+Base Core Combo:
+- [[Sensei's Divining Top]]
+- [[Glaring Fleshraker]]
+- [[Mystic Forge]]
+Extension:
+- [[Out of the Tombs]]
+Classification:
+- Graveyard deployment extension
+Extension Logic:
+- With the library empty, Out of the Tombs replaces each Top draw with a creature return while the Fleshraker Spawn continues to fund Top's recast.
+Extension Results:
+- Reanimate any desired number of available creature cards from your graveyard
+===endpanel
+===endaccordion
+
+===accordion
+===panel: Sensei's Divining Top + Mystic Forge + Semblance Anvil + Out of the Tombs
+Base Core Combo:
+- [[Sensei's Divining Top]]
+- [[Mystic Forge]]
+- [[Semblance Anvil]]
+Extension:
+- [[Out of the Tombs]]
+Classification:
+- Graveyard deployment extension
+Extension Logic:
+- With the library empty, Out of the Tombs replaces each Top draw with a creature return while Semblance Anvil keeps Top free to recast through Mystic Forge.
+Extension Results:
+- Reanimate any desired number of available creature cards from your graveyard
 ===endpanel
 ===endaccordion
 
