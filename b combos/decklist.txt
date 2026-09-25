@@ -9,16 +9,17 @@
 1 Bloodstained Mire
 1 Bojuka Bog
 1 Bolas's Citadel
+1 Cabal Pit
 1 Cabal Ritual
 1 Chrome Mox
 1 City of Traitors
 1 Clock of Omens
 1 Cloud Key
-1 Crucible of Worlds
+1 Command Tower
 1 Culling the Weak
-1 Damnation
 1 Dark Ritual
 1 Deadly Rollick
+1 Demonic Consultation
 1 Demonic Tutor
 1 Diabolic Intent
 1 Doctor Doom, Unrivaled
@@ -28,6 +29,7 @@
 1 Foundry Inspector
 1 Glaring Fleshraker
 1 Grinding Station
+1 Ifnir Deadlands
 1 Imotekh the Stormlord
 1 Inventors' Fair
 1 Jet Medallion
@@ -64,12 +66,17 @@
 1 Shizo, Death's Storehouse
 1 Skirge Familiar
 1 Skullclamp
+1 Snow-Covered Swamp
 1 Snuff Out
 1 Sol Ring
+1 Spire of Industry
+1 Spymaster's Vault
 1 Stitcher's Supplier
 1 Stridehangar Automaton
-10 Swamp
+2 Swamp
+1 Tainted Pact
 1 Takenuma, Abandoned Mire
+1 The Black Gate
 1 The Mycosynth Gardens
 1 The One Ring
 1 The Ooze
@@ -78,6 +85,7 @@
 1 Toxic Deluge
 1 Ultron, Artificial Malevolence
 1 Umbral Collar Zealot
+1 Urborg
 1 Urborg, Tomb of Yawgmoth
 1 Urza's Saga
 1 Vampiric Tutor
@@ -88,8 +96,5 @@
 1 Warren Soultrader
 1 Workshop Assistant
 1 Zulaport Cutthroat
-
-SIDEBOARD:
-1 Demonic Consultation
 
 1 Ultron the Annihilator

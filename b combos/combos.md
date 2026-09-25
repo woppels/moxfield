@@ -1,7 +1,7 @@
 ===accordion
 ===panel: Core Combos
 
-The 86 core combos are listed below. Combo extensions are tracked separately and do not increase the core combo count.
+The 87 core combos are listed below. Combo extensions are tracked separately and do not increase the core combo count.
 
 ===accordion
 ===panel: Aetherflux Reservoir
@@ -1731,6 +1731,36 @@ Results:
 ===endaccordion
 
 ===accordion
+===panel: Tainted Pact
+
+===accordion
+===panel: Doctor Doom, Unrivaled + Tainted Pact
+[[symbol:1]][[symbol:b]]
+
+Cards Required:
+- [[Doctor Doom, Unrivaled]]
+- [[Tainted Pact]]
+
+Prerequisites:
+- Doctor Doom, Unrivaled on the battlefield without summoning sickness.
+- Tainted Pact in hand.
+- Your library contains no two cards with the same name.
+
+Steps:
+1. Cast Tainted Pact by paying [[symbol:1]][[symbol:b]].
+2. Resolve Tainted Pact, declining to put any exiled card into your hand, and exile your entire library.
+3. Activate Doctor Doom, Unrivaled by tapping it.
+4. Resolve Doctor Doom's ability with no cards in your library, causing you to win the game.
+
+Results:
+- Win the game
+===endpanel
+===endaccordion
+
+===endpanel
+===endaccordion
+
+===accordion
 ===panel: Doctor Doom, Unrivaled
 
 ===accordion
@@ -1748,6 +1778,30 @@ Prerequisites:
 Steps:
 1. Cast Demonic Consultation, naming a card that is not in your library.
 2. Resolve Demonic Consultation, exiling your library.
+3. Activate Doctor Doom, Unrivaled by tapping it.
+4. Resolve Doctor Doom's ability with no cards in your library, causing you to win the game.
+
+Results:
+- Win the game
+===endpanel
+===endaccordion
+
+===accordion
+===panel: Doctor Doom, Unrivaled + Tainted Pact
+[[symbol:1]][[symbol:b]]
+
+Cards Required:
+- [[Doctor Doom, Unrivaled]]
+- [[Tainted Pact]]
+
+Prerequisites:
+- Doctor Doom, Unrivaled on the battlefield without summoning sickness.
+- Tainted Pact in hand.
+- Your library contains no two cards with the same name.
+
+Steps:
+1. Cast Tainted Pact by paying [[symbol:1]][[symbol:b]].
+2. Resolve Tainted Pact, declining to put any exiled card into your hand, and exile your entire library.
 3. Activate Doctor Doom, Unrivaled by tapping it.
 4. Resolve Doctor Doom's ability with no cards in your library, causing you to win the game.
 
