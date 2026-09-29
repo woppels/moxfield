@@ -1,7 +1,7 @@
 ===accordion
 ===panel: Core Combos
 
-The 87 core combos are listed below. Combo extensions are tracked separately and do not increase the core combo count.
+The 89 core combos are listed below. Combo extensions are tracked separately and do not increase the core combo count.
 
 ===accordion
 ===panel: Aetherflux Reservoir
@@ -1422,6 +1422,163 @@ Results:
 ===endaccordion
 
 ===accordion
+===panel: Carrion Feeder
+
+===accordion
+===panel: Pitiless Plunderer + Stridehangar Automaton + Carrion Feeder
+[[symbol:b]]
+
+Cards Required:
+- [[Pitiless Plunderer]]
+- [[Stridehangar Automaton]]
+- [[Carrion Feeder]]
+
+Prerequisites:
+- All permanents on the battlefield.
+- You control another creature.
+
+Steps:
+1. Activate Carrion Feeder by sacrificing another creature, putting a +1/+1 counter on Carrion Feeder.
+2. When that creature dies, Pitiless Plunderer triggers, creating a Treasure token.
+3. Stridehangar Automaton triggers from the Treasure entering, creating a 1/1 Thopter artifact creature token.
+4. Sacrifice the Thopter to Carrion Feeder, putting another +1/+1 counter on Carrion Feeder.
+5. Pitiless Plunderer creates another Treasure and Stridehangar Automaton creates a replacement Thopter.
+6. Repeat from step 4.
+
+Results:
+- Infinite +1/+1 counters on Carrion Feeder
+- Infinite Treasure tokens
+- Infinite colored mana
+- Infinite artifact ETB
+- Infinite artifact tokens
+- Infinite creature ETB
+- Infinite creature LTB
+- Infinite creature sacrifice triggers
+- Infinite death triggers
+===endpanel
+===endaccordion
+
+===accordion
+===panel: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Carrion Feeder
+[[symbol:c]]
+
+Cards Required:
+- [[The Ooze]]
+- [[Stridehangar Automaton]]
+- [[Pitiless Plunderer]]
+- [[Carrion Feeder]]
+
+Prerequisites:
+- All permanents on the battlefield.
+- You control a Thopter.
+- There is at least one card in a graveyard.
+- The Ooze does not have summoning sickness.
+
+Steps:
+1. Sacrifice a Thopter to Carrion Feeder, putting a +1/+1 counter on Carrion Feeder.
+2. Pitiless Plunderer triggers, creating a Treasure token; Stridehangar Automaton creates a replacement Thopter.
+3. Activate The Ooze by tapping it, exiling a card from a graveyard and creating a Mutagen artifact token; Stridehangar Automaton creates another Thopter.
+4. Sacrifice the Treasure for [[symbol:1]] and spend it to activate and sacrifice the Mutagen, putting a +1/+1 counter on a Thopter.
+5. Sacrifice the countered Thopter to Carrion Feeder.
+6. Pitiless Plunderer and The Ooze trigger, creating a Treasure and a Mutagen; Stridehangar Automaton creates replacement Thopters for those artifact tokens.
+7. Sacrifice the Treasure for [[symbol:1]] and use it to activate and sacrifice the Mutagen, putting a +1/+1 counter on a replacement Thopter.
+8. Repeat from step 5.
+
+Results:
+- Infinite +1/+1 counters on Carrion Feeder
+- Infinite Treasure tokens
+- Infinite artifact ETB
+- Infinite artifact LTB
+- Infinite artifact sacrifice triggers
+- Infinite artifact tokens
+- Infinite creature ETB
+- Infinite creature LTB
+- Infinite creature sacrifice triggers
+- Infinite death triggers
+===endpanel
+===endaccordion
+
+===accordion
+===panel: Tortured Existence + Pitiless Plunderer + Imotekh the Stormlord + Carrion Feeder
+[[symbol:b]]
+
+Cards Required:
+- [[Tortured Existence]]
+- [[Pitiless Plunderer]]
+- [[Imotekh the Stormlord]]
+- [[Carrion Feeder]]
+
+Prerequisites:
+- All permanents on the battlefield.
+- You have at least one artifact creature card in hand.
+- You have at least one artifact creature card in your graveyard.
+- [[symbol:b]] available.
+
+Steps:
+1. Activate Tortured Existence by paying [[symbol:b]] and discarding an artifact creature card, returning another artifact creature card from your graveyard to your hand.
+2. Imotekh the Stormlord triggers, creating two 2/2 Necron Warrior artifact creature tokens.
+3. Sacrifice both Necron Warriors to Carrion Feeder, putting two +1/+1 counters on Carrion Feeder.
+4. Pitiless Plunderer triggers for both deaths, creating two Treasure tokens.
+5. Sacrifice one Treasure for [[symbol:b]] to pay for the next Tortured Existence activation. The second Treasure is surplus.
+6. Repeat.
+
+Results:
+- Infinite +1/+1 counters on Carrion Feeder
+- Infinite Treasure tokens
+- Infinite colored mana
+- Infinite artifact ETB
+- Infinite artifact LTB
+- Infinite artifact sacrifice triggers
+- Infinite artifact tokens
+- Infinite creature tokens
+- Infinite creature ETB
+- Infinite creature LTB
+- Infinite creature sacrifice triggers
+- Infinite death triggers
+- Infinite self-discard triggers
+===endpanel
+===endaccordion
+
+===accordion
+===panel: Out of the Tombs + Skullclamp + Pitiless Plunderer + Carrion Feeder
+[[symbol:b]]
+
+Cards Required:
+- [[Out of the Tombs]]
+- [[Skullclamp]]
+- [[Pitiless Plunderer]]
+- [[Carrion Feeder]]
+
+Prerequisites:
+- All permanents on the battlefield.
+- Your library is empty.
+- You control two other suitable nontoken creatures.
+- [[symbol:1]] available for the initial Skullclamp equip.
+
+Steps:
+1. Equip Skullclamp to one recyclable creature.
+2. Sacrifice it to Carrion Feeder, putting a +1/+1 counter on Carrion Feeder and triggering Skullclamp and Pitiless Plunderer.
+3. Before Skullclamp resolves, sacrifice the second recyclable creature to Carrion Feeder, putting another +1/+1 counter on Carrion Feeder.
+4. Resolve the Pitiless Plunderer triggers, creating two Treasures.
+5. Resolve Skullclamp; Out of the Tombs replaces the two draws and returns both creature cards to the battlefield.
+6. Use one Treasure to equip Skullclamp again. The second Treasure is surplus.
+7. Repeat.
+
+Results:
+- Infinite +1/+1 counters on Carrion Feeder
+- Infinite Treasure tokens
+- Infinite colored mana
+- Infinite creature ETB
+- Infinite creature LTB
+- Infinite creature sacrifice triggers
+- Infinite death triggers
+===endpanel
+===endaccordion
+
+===endpanel
+===endaccordion
+
+===accordion
 ===panel: Clock of Omens
 
 ===accordion
@@ -2775,39 +2932,6 @@ Results:
 ===endpanel
 ===endaccordion
 
-===accordion
-===panel: Imotekh the Stormlord + Metalwork Colossus + Skirge Familiar
-[[symbol:b]]
-
-
-Cards Required:
-- [[Imotekh the Stormlord]]
-- [[Metalwork Colossus]]
-- [[Skirge Familiar]]
-
-
-Prerequisites:
-- Metalwork Colossus in your graveyard.
-- Imotekh the Stormlord and Skirge Familiar on the battlefield.
-- You control at least two other artifacts.
-
-
-Steps:
-1. Activate Metalwork Colossus by sacrificing two artifacts, returning it from your graveyard to your hand.
-2. Imotekh triggers, creating two 2/2 Necron Warrior artifact creature tokens.
-3. Activate Skirge Familiar by discarding Metalwork Colossus, adding [[symbol:b]].
-4. Repeat.
-
-
-Results:
-- Infinite creature ETB
-- Infinite creature LTB
-- Infinite black mana
-- Infinite death triggers
-- Infinite creature sacrifice triggers
-- Infinite self-discard triggers
-===endpanel
-===endaccordion
 
 ===accordion
 ===panel: Imotekh the Stormlord + Myr Retriever + Workshop Assistant + Ashnod's Altar
@@ -3173,6 +3297,48 @@ Results:
 - Infinite creature sacrifice triggers
 - Infinite self-discard triggers
 - Infinite Treasure tokens
+===endpanel
+===endaccordion
+
+
+===accordion
+===panel: Tortured Existence + Pitiless Plunderer + Imotekh the Stormlord + Carrion Feeder
+[[symbol:b]]
+
+Cards Required:
+- [[Tortured Existence]]
+- [[Pitiless Plunderer]]
+- [[Imotekh the Stormlord]]
+- [[Carrion Feeder]]
+
+Prerequisites:
+- All permanents on the battlefield.
+- You have at least one artifact creature card in hand.
+- You have at least one artifact creature card in your graveyard.
+- [[symbol:b]] available.
+
+Steps:
+1. Activate Tortured Existence by paying [[symbol:b]] and discarding an artifact creature card, returning another artifact creature card from your graveyard to your hand.
+2. Imotekh the Stormlord triggers, creating two 2/2 Necron Warrior artifact creature tokens.
+3. Sacrifice both Necron Warriors to Carrion Feeder, putting two +1/+1 counters on Carrion Feeder.
+4. Pitiless Plunderer triggers for both deaths, creating two Treasure tokens.
+5. Sacrifice one Treasure for [[symbol:b]] to pay for the next Tortured Existence activation. The second Treasure is surplus.
+6. Repeat.
+
+Results:
+- Infinite +1/+1 counters on Carrion Feeder
+- Infinite Treasure tokens
+- Infinite colored mana
+- Infinite artifact ETB
+- Infinite artifact LTB
+- Infinite artifact sacrifice triggers
+- Infinite artifact tokens
+- Infinite creature tokens
+- Infinite creature ETB
+- Infinite creature LTB
+- Infinite creature sacrifice triggers
+- Infinite death triggers
+- Infinite self-discard triggers
 ===endpanel
 ===endaccordion
 
@@ -4372,39 +4538,6 @@ Results:
 ===accordion
 ===panel: Metalwork Colossus
 
-===accordion
-===panel: Imotekh the Stormlord + Metalwork Colossus + Skirge Familiar
-[[symbol:b]]
-
-
-Cards Required:
-- [[Imotekh the Stormlord]]
-- [[Metalwork Colossus]]
-- [[Skirge Familiar]]
-
-
-Prerequisites:
-- Metalwork Colossus in your graveyard.
-- Imotekh the Stormlord and Skirge Familiar on the battlefield.
-- You control at least two other artifacts.
-
-
-Steps:
-1. Activate Metalwork Colossus by sacrificing two artifacts, returning it from your graveyard to your hand.
-2. Imotekh triggers, creating two 2/2 Necron Warrior artifact creature tokens.
-3. Activate Skirge Familiar by discarding Metalwork Colossus, adding [[symbol:b]].
-4. Repeat.
-
-
-Results:
-- Infinite creature ETB
-- Infinite creature LTB
-- Infinite black mana
-- Infinite death triggers
-- Infinite creature sacrifice triggers
-- Infinite self-discard triggers
-===endpanel
-===endaccordion
 
 ===accordion
 ===panel: Metalwork Colossus + Warren Soultrader + Aetherflux Reservoir + Stridehangar Automaton
@@ -5527,37 +5660,6 @@ Results:
 ===endpanel
 ===endaccordion
 
-===accordion
-===panel: Sensei's Divining Top + Mystic Forge + Skirge Familiar
-[[symbol:b]]
-
-
-Cards Required:
-- [[Sensei's Divining Top]]
-- [[Mystic Forge]]
-- [[Skirge Familiar]]
-
-
-Prerequisites:
-- All permanents on the battlefield.
-
-
-Steps:
-1. Activate Sensei's Divining Top's second ability by tapping it, causing you to draw a card and put Sensei's Divining Top on top of your library.
-2. Activate Skirge Familiar by discarding a card, adding [[symbol:b]]
-3. Cast Sensei's Divining Top from the top of your library by paying [[symbol:1]].
-4. Repeat.
-
-
-Results:
-- Infinite draw triggers
-- Infinite looting
-- Infinite self-discard triggers
-- Near-infinite artifact ETB
-- Near-infinite artifact LTB
-- Near-infinite storm count
-===endpanel
-===endaccordion
 
 ===endpanel
 ===endaccordion
@@ -6961,6 +7063,155 @@ Results:
 ===endpanel
 ===endaccordion
 
+
+===accordion
+===panel: Pitiless Plunderer + Stridehangar Automaton + Carrion Feeder
+[[symbol:b]]
+
+Cards Required:
+- [[Pitiless Plunderer]]
+- [[Stridehangar Automaton]]
+- [[Carrion Feeder]]
+
+Prerequisites:
+- All permanents on the battlefield.
+- You control another creature.
+
+Steps:
+1. Activate Carrion Feeder by sacrificing another creature, putting a +1/+1 counter on Carrion Feeder.
+2. When that creature dies, Pitiless Plunderer triggers, creating a Treasure token.
+3. Stridehangar Automaton triggers from the Treasure entering, creating a 1/1 Thopter artifact creature token.
+4. Sacrifice the Thopter to Carrion Feeder, putting another +1/+1 counter on Carrion Feeder.
+5. Pitiless Plunderer creates another Treasure and Stridehangar Automaton creates a replacement Thopter.
+6. Repeat from step 4.
+
+Results:
+- Infinite +1/+1 counters on Carrion Feeder
+- Infinite Treasure tokens
+- Infinite colored mana
+- Infinite artifact ETB
+- Infinite artifact tokens
+- Infinite creature ETB
+- Infinite creature LTB
+- Infinite creature sacrifice triggers
+- Infinite death triggers
+===endpanel
+===endaccordion
+===accordion
+===panel: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Carrion Feeder
+[[symbol:c]]
+
+Cards Required:
+- [[The Ooze]]
+- [[Stridehangar Automaton]]
+- [[Pitiless Plunderer]]
+- [[Carrion Feeder]]
+
+Prerequisites:
+- All permanents on the battlefield.
+- You control a Thopter.
+- There is at least one card in a graveyard.
+- The Ooze does not have summoning sickness.
+
+Steps:
+1. Sacrifice a Thopter to Carrion Feeder, putting a +1/+1 counter on Carrion Feeder.
+2. Pitiless Plunderer triggers, creating a Treasure token; Stridehangar Automaton creates a replacement Thopter.
+3. Activate The Ooze by tapping it, exiling a card from a graveyard and creating a Mutagen artifact token; Stridehangar Automaton creates another Thopter.
+4. Sacrifice the Treasure for [[symbol:1]] and spend it to activate and sacrifice the Mutagen, putting a +1/+1 counter on a Thopter.
+5. Sacrifice the countered Thopter to Carrion Feeder.
+6. Pitiless Plunderer and The Ooze trigger, creating a Treasure and a Mutagen; Stridehangar Automaton creates replacement Thopters for those artifact tokens.
+7. Sacrifice the Treasure for [[symbol:1]] and use it to activate and sacrifice the Mutagen, putting a +1/+1 counter on a replacement Thopter.
+8. Repeat from step 5.
+
+Results:
+- Infinite +1/+1 counters on Carrion Feeder
+- Infinite Treasure tokens
+- Infinite artifact ETB
+- Infinite artifact LTB
+- Infinite artifact sacrifice triggers
+- Infinite artifact tokens
+- Infinite creature ETB
+- Infinite creature LTB
+- Infinite creature sacrifice triggers
+- Infinite death triggers
+===endpanel
+===endaccordion
+===accordion
+===panel: Tortured Existence + Pitiless Plunderer + Imotekh the Stormlord + Carrion Feeder
+[[symbol:b]]
+
+Cards Required:
+- [[Tortured Existence]]
+- [[Pitiless Plunderer]]
+- [[Imotekh the Stormlord]]
+- [[Carrion Feeder]]
+
+Prerequisites:
+- All permanents on the battlefield.
+- You have at least one artifact creature card in hand.
+- You have at least one artifact creature card in your graveyard.
+- [[symbol:b]] available.
+
+Steps:
+1. Activate Tortured Existence by paying [[symbol:b]] and discarding an artifact creature card, returning another artifact creature card from your graveyard to your hand.
+2. Imotekh the Stormlord triggers, creating two 2/2 Necron Warrior artifact creature tokens.
+3. Sacrifice both Necron Warriors to Carrion Feeder, putting two +1/+1 counters on Carrion Feeder.
+4. Pitiless Plunderer triggers for both deaths, creating two Treasure tokens.
+5. Sacrifice one Treasure for [[symbol:b]] to pay for the next Tortured Existence activation. The second Treasure is surplus.
+6. Repeat.
+
+Results:
+- Infinite +1/+1 counters on Carrion Feeder
+- Infinite Treasure tokens
+- Infinite colored mana
+- Infinite artifact ETB
+- Infinite artifact LTB
+- Infinite artifact sacrifice triggers
+- Infinite artifact tokens
+- Infinite creature tokens
+- Infinite creature ETB
+- Infinite creature LTB
+- Infinite creature sacrifice triggers
+- Infinite death triggers
+- Infinite self-discard triggers
+===endpanel
+===endaccordion
+===accordion
+===panel: Out of the Tombs + Skullclamp + Pitiless Plunderer + Carrion Feeder
+[[symbol:b]]
+
+Cards Required:
+- [[Out of the Tombs]]
+- [[Skullclamp]]
+- [[Pitiless Plunderer]]
+- [[Carrion Feeder]]
+
+Prerequisites:
+- All permanents on the battlefield.
+- Your library is empty.
+- You control two other suitable nontoken creatures.
+- [[symbol:1]] available for the initial Skullclamp equip.
+
+Steps:
+1. Equip Skullclamp to one recyclable creature.
+2. Sacrifice it to Carrion Feeder, putting a +1/+1 counter on Carrion Feeder and triggering Skullclamp and Pitiless Plunderer.
+3. Before Skullclamp resolves, sacrifice the second recyclable creature to Carrion Feeder, putting another +1/+1 counter on Carrion Feeder.
+4. Resolve the Pitiless Plunderer triggers, creating two Treasures.
+5. Resolve Skullclamp; Out of the Tombs replaces the two draws and returns both creature cards to the battlefield.
+6. Use one Treasure to equip Skullclamp again. The second Treasure is surplus.
+7. Repeat.
+
+Results:
+- Infinite +1/+1 counters on Carrion Feeder
+- Infinite Treasure tokens
+- Infinite colored mana
+- Infinite creature ETB
+- Infinite creature LTB
+- Infinite creature sacrifice triggers
+- Infinite death triggers
+===endpanel
+===endaccordion
+
 ===endpanel
 ===endaccordion
 
@@ -7956,37 +8207,6 @@ Results:
 ===endpanel
 ===endaccordion
 
-===accordion
-===panel: Sensei's Divining Top + Mystic Forge + Skirge Familiar
-[[symbol:b]]
-
-
-Cards Required:
-- [[Sensei's Divining Top]]
-- [[Mystic Forge]]
-- [[Skirge Familiar]]
-
-
-Prerequisites:
-- All permanents on the battlefield.
-
-
-Steps:
-1. Activate Sensei's Divining Top's second ability by tapping it, causing you to draw a card and put Sensei's Divining Top on top of your library.
-2. Activate Skirge Familiar by discarding a card, adding [[symbol:b]]
-3. Cast Sensei's Divining Top from the top of your library by paying [[symbol:1]].
-4. Repeat.
-
-
-Results:
-- Infinite draw triggers
-- Infinite looting
-- Infinite self-discard triggers
-- Near-infinite artifact ETB
-- Near-infinite artifact LTB
-- Near-infinite storm count
-===endpanel
-===endaccordion
 
 ===endpanel
 ===endaccordion
@@ -8037,77 +8257,6 @@ Results:
 ===endpanel
 ===endaccordion
 
-===accordion
-===panel: Skirge Familiar
-
-===accordion
-===panel: Imotekh the Stormlord + Metalwork Colossus + Skirge Familiar
-[[symbol:b]]
-
-
-Cards Required:
-- [[Imotekh the Stormlord]]
-- [[Metalwork Colossus]]
-- [[Skirge Familiar]]
-
-
-Prerequisites:
-- Metalwork Colossus in your graveyard.
-- Imotekh the Stormlord and Skirge Familiar on the battlefield.
-- You control at least two other artifacts.
-
-
-Steps:
-1. Activate Metalwork Colossus by sacrificing two artifacts, returning it from your graveyard to your hand.
-2. Imotekh triggers, creating two 2/2 Necron Warrior artifact creature tokens.
-3. Activate Skirge Familiar by discarding Metalwork Colossus, adding [[symbol:b]].
-4. Repeat.
-
-
-Results:
-- Infinite creature ETB
-- Infinite creature LTB
-- Infinite black mana
-- Infinite death triggers
-- Infinite creature sacrifice triggers
-- Infinite self-discard triggers
-===endpanel
-===endaccordion
-
-===accordion
-===panel: Sensei's Divining Top + Mystic Forge + Skirge Familiar
-[[symbol:b]]
-
-
-Cards Required:
-- [[Sensei's Divining Top]]
-- [[Mystic Forge]]
-- [[Skirge Familiar]]
-
-
-Prerequisites:
-- All permanents on the battlefield.
-
-
-Steps:
-1. Activate Sensei's Divining Top's second ability by tapping it, causing you to draw a card and put Sensei's Divining Top on top of your library.
-2. Activate Skirge Familiar by discarding a card, adding [[symbol:b]]
-3. Cast Sensei's Divining Top from the top of your library by paying [[symbol:1]].
-4. Repeat.
-
-
-Results:
-- Infinite draw triggers
-- Infinite looting
-- Infinite self-discard triggers
-- Near-infinite artifact ETB
-- Near-infinite artifact LTB
-- Near-infinite storm count
-===endpanel
-===endaccordion
-
-===endpanel
-===endaccordion
 
 ===accordion
 ===panel: Sol Ring
@@ -9206,6 +9355,80 @@ Results:
 ===endpanel
 ===endaccordion
 
+
+===accordion
+===panel: Pitiless Plunderer + Stridehangar Automaton + Carrion Feeder
+[[symbol:b]]
+
+Cards Required:
+- [[Pitiless Plunderer]]
+- [[Stridehangar Automaton]]
+- [[Carrion Feeder]]
+
+Prerequisites:
+- All permanents on the battlefield.
+- You control another creature.
+
+Steps:
+1. Activate Carrion Feeder by sacrificing another creature, putting a +1/+1 counter on Carrion Feeder.
+2. When that creature dies, Pitiless Plunderer triggers, creating a Treasure token.
+3. Stridehangar Automaton triggers from the Treasure entering, creating a 1/1 Thopter artifact creature token.
+4. Sacrifice the Thopter to Carrion Feeder, putting another +1/+1 counter on Carrion Feeder.
+5. Pitiless Plunderer creates another Treasure and Stridehangar Automaton creates a replacement Thopter.
+6. Repeat from step 4.
+
+Results:
+- Infinite +1/+1 counters on Carrion Feeder
+- Infinite Treasure tokens
+- Infinite colored mana
+- Infinite artifact ETB
+- Infinite artifact tokens
+- Infinite creature ETB
+- Infinite creature LTB
+- Infinite creature sacrifice triggers
+- Infinite death triggers
+===endpanel
+===endaccordion
+===accordion
+===panel: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Carrion Feeder
+[[symbol:c]]
+
+Cards Required:
+- [[The Ooze]]
+- [[Stridehangar Automaton]]
+- [[Pitiless Plunderer]]
+- [[Carrion Feeder]]
+
+Prerequisites:
+- All permanents on the battlefield.
+- You control a Thopter.
+- There is at least one card in a graveyard.
+- The Ooze does not have summoning sickness.
+
+Steps:
+1. Sacrifice a Thopter to Carrion Feeder, putting a +1/+1 counter on Carrion Feeder.
+2. Pitiless Plunderer triggers, creating a Treasure token; Stridehangar Automaton creates a replacement Thopter.
+3. Activate The Ooze by tapping it, exiling a card from a graveyard and creating a Mutagen artifact token; Stridehangar Automaton creates another Thopter.
+4. Sacrifice the Treasure for [[symbol:1]] and spend it to activate and sacrifice the Mutagen, putting a +1/+1 counter on a Thopter.
+5. Sacrifice the countered Thopter to Carrion Feeder.
+6. Pitiless Plunderer and The Ooze trigger, creating a Treasure and a Mutagen; Stridehangar Automaton creates replacement Thopters for those artifact tokens.
+7. Sacrifice the Treasure for [[symbol:1]] and use it to activate and sacrifice the Mutagen, putting a +1/+1 counter on a replacement Thopter.
+8. Repeat from step 5.
+
+Results:
+- Infinite +1/+1 counters on Carrion Feeder
+- Infinite Treasure tokens
+- Infinite artifact ETB
+- Infinite artifact LTB
+- Infinite artifact sacrifice triggers
+- Infinite artifact tokens
+- Infinite creature ETB
+- Infinite creature LTB
+- Infinite creature sacrifice triggers
+- Infinite death triggers
+===endpanel
+===endaccordion
+
 ===endpanel
 ===endaccordion
 
@@ -9767,6 +9990,47 @@ Results:
 ===endpanel
 ===endaccordion
 
+
+===accordion
+===panel: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Carrion Feeder
+[[symbol:c]]
+
+Cards Required:
+- [[The Ooze]]
+- [[Stridehangar Automaton]]
+- [[Pitiless Plunderer]]
+- [[Carrion Feeder]]
+
+Prerequisites:
+- All permanents on the battlefield.
+- You control a Thopter.
+- There is at least one card in a graveyard.
+- The Ooze does not have summoning sickness.
+
+Steps:
+1. Sacrifice a Thopter to Carrion Feeder, putting a +1/+1 counter on Carrion Feeder.
+2. Pitiless Plunderer triggers, creating a Treasure token; Stridehangar Automaton creates a replacement Thopter.
+3. Activate The Ooze by tapping it, exiling a card from a graveyard and creating a Mutagen artifact token; Stridehangar Automaton creates another Thopter.
+4. Sacrifice the Treasure for [[symbol:1]] and spend it to activate and sacrifice the Mutagen, putting a +1/+1 counter on a Thopter.
+5. Sacrifice the countered Thopter to Carrion Feeder.
+6. Pitiless Plunderer and The Ooze trigger, creating a Treasure and a Mutagen; Stridehangar Automaton creates replacement Thopters for those artifact tokens.
+7. Sacrifice the Treasure for [[symbol:1]] and use it to activate and sacrifice the Mutagen, putting a +1/+1 counter on a replacement Thopter.
+8. Repeat from step 5.
+
+Results:
+- Infinite +1/+1 counters on Carrion Feeder
+- Infinite Treasure tokens
+- Infinite artifact ETB
+- Infinite artifact LTB
+- Infinite artifact sacrifice triggers
+- Infinite artifact tokens
+- Infinite creature ETB
+- Infinite creature LTB
+- Infinite creature sacrifice triggers
+- Infinite death triggers
+===endpanel
+===endaccordion
+
 ===endpanel
 ===endaccordion
 
@@ -9935,6 +10199,48 @@ Results:
 - Infinite creature sacrifice triggers
 - Infinite self-discard triggers
 - Infinite Treasure tokens
+===endpanel
+===endaccordion
+
+
+===accordion
+===panel: Tortured Existence + Pitiless Plunderer + Imotekh the Stormlord + Carrion Feeder
+[[symbol:b]]
+
+Cards Required:
+- [[Tortured Existence]]
+- [[Pitiless Plunderer]]
+- [[Imotekh the Stormlord]]
+- [[Carrion Feeder]]
+
+Prerequisites:
+- All permanents on the battlefield.
+- You have at least one artifact creature card in hand.
+- You have at least one artifact creature card in your graveyard.
+- [[symbol:b]] available.
+
+Steps:
+1. Activate Tortured Existence by paying [[symbol:b]] and discarding an artifact creature card, returning another artifact creature card from your graveyard to your hand.
+2. Imotekh the Stormlord triggers, creating two 2/2 Necron Warrior artifact creature tokens.
+3. Sacrifice both Necron Warriors to Carrion Feeder, putting two +1/+1 counters on Carrion Feeder.
+4. Pitiless Plunderer triggers for both deaths, creating two Treasure tokens.
+5. Sacrifice one Treasure for [[symbol:b]] to pay for the next Tortured Existence activation. The second Treasure is surplus.
+6. Repeat.
+
+Results:
+- Infinite +1/+1 counters on Carrion Feeder
+- Infinite Treasure tokens
+- Infinite colored mana
+- Infinite artifact ETB
+- Infinite artifact LTB
+- Infinite artifact sacrifice triggers
+- Infinite artifact tokens
+- Infinite creature tokens
+- Infinite creature ETB
+- Infinite creature LTB
+- Infinite creature sacrifice triggers
+- Infinite death triggers
+- Infinite self-discard triggers
 ===endpanel
 ===endaccordion
 
@@ -10964,6 +11270,42 @@ Results:
 ===endaccordion
 
 ===accordion
+===panel: Out of the Tombs + Skullclamp + Pitiless Plunderer + Carrion Feeder
+[[symbol:b]]
+
+Cards Required:
+- [[Out of the Tombs]]
+- [[Skullclamp]]
+- [[Pitiless Plunderer]]
+- [[Carrion Feeder]]
+
+Prerequisites:
+- All permanents on the battlefield.
+- Your library is empty.
+- You control two other suitable nontoken creatures.
+- [[symbol:1]] available for the initial Skullclamp equip.
+
+Steps:
+1. Equip Skullclamp to one recyclable creature.
+2. Sacrifice it to Carrion Feeder, putting a +1/+1 counter on Carrion Feeder and triggering Skullclamp and Pitiless Plunderer.
+3. Before Skullclamp resolves, sacrifice the second recyclable creature to Carrion Feeder, putting another +1/+1 counter on Carrion Feeder.
+4. Resolve the Pitiless Plunderer triggers, creating two Treasures.
+5. Resolve Skullclamp; Out of the Tombs replaces the two draws and returns both creature cards to the battlefield.
+6. Use one Treasure to equip Skullclamp again. The second Treasure is surplus.
+7. Repeat.
+
+Results:
+- Infinite +1/+1 counters on Carrion Feeder
+- Infinite Treasure tokens
+- Infinite colored mana
+- Infinite creature ETB
+- Infinite creature LTB
+- Infinite creature sacrifice triggers
+- Infinite death triggers
+===endpanel
+===endaccordion
+
+===accordion
 ===panel: Out of the Tombs + Skullclamp + Pitiless Plunderer + Arcbound Ravager
 [[symbol:b]]
 
@@ -11148,13 +11490,13 @@ Results:
 ===accordion
 ===panel: Combo Extensions
 
-These extensions are tracked separately from the 86 core combos. An extension is included only when adding the listed card preserves the established core loop or consumes a resource the core can generate arbitrarily.
+These extensions are tracked separately from the 89 core combos. An extension is included only when adding the listed card preserves the established core loop or consumes a resource the core can generate arbitrarily.
 
 ===accordion
 ===panel: Validation Notes
 
 Validation standard:
-- Core loops were deduplicated to 86 unique combinations.
+- Core loops were deduplicated to 89 unique combinations.
 - Candidate extensions were derived from the current 99 rather than from the previous extension list.
 - Each family below was checked against the core output and recurring resource requirements.
 - Current Oracle text was independently verified for the payoff cards and the core engine cards used by these mappings.
@@ -11173,7 +11515,7 @@ Important exclusions:
 ===accordion
 ===panel: Altar of the Brood Extensions
 
-Validated extensions: 67
+Validated extensions: 69
 
 ===accordion
 ===panel: Metalwork Colossus + Warren Soultrader + Aetherflux Reservoir + Stridehangar Automaton + Altar of the Brood
@@ -11290,12 +11632,57 @@ Extension Results:
 ===endaccordion
 
 ===accordion
+===panel: Tortured Existence + Pitiless Plunderer + Imotekh the Stormlord + Carrion Feeder + Altar of the Brood
+
+Base Core Combo:
+- [[Tortured Existence]]
+- [[Pitiless Plunderer]]
+- [[Imotekh the Stormlord]]
+- [[Carrion Feeder]]
+
+Extension:
+- [[Altar of the Brood]]
+
+Classification:
+- Terminal payoff
+
+Extension Logic:
+- The base core creates permanents under your control an arbitrary number of times. Altar of the Brood triggers on each such permanent entering.
+
+Extension Results:
+- Mill each opponent’s library
+===endpanel
+===endaccordion
+
+===accordion
 ===panel: Pitiless Plunderer + Stridehangar Automaton + Arcbound Ravager + Altar of the Brood
 
 Base Core Combo:
 - [[Pitiless Plunderer]]
 - [[Stridehangar Automaton]]
 - [[Arcbound Ravager]]
+
+Extension:
+- [[Altar of the Brood]]
+
+Classification:
+- Terminal payoff
+
+Extension Logic:
+- The base core creates permanents under your control an arbitrary number of times. Altar of the Brood triggers on each such permanent entering.
+
+Extension Results:
+- Mill each opponent’s library
+===endpanel
+===endaccordion
+
+===accordion
+===panel: Pitiless Plunderer + Stridehangar Automaton + Carrion Feeder + Altar of the Brood
+
+Base Core Combo:
+- [[Pitiless Plunderer]]
+- [[Stridehangar Automaton]]
+- [[Carrion Feeder]]
 
 Extension:
 - [[Altar of the Brood]]
@@ -11319,6 +11706,29 @@ Base Core Combo:
 - [[Stridehangar Automaton]]
 - [[Pitiless Plunderer]]
 - [[Arcbound Ravager]]
+
+Extension:
+- [[Altar of the Brood]]
+
+Classification:
+- Terminal payoff
+
+Extension Logic:
+- The base core creates permanents under your control an arbitrary number of times. Altar of the Brood triggers on each such permanent entering.
+
+Extension Results:
+- Mill each opponent’s library
+===endpanel
+===endaccordion
+
+===accordion
+===panel: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Carrion Feeder + Altar of the Brood
+
+Base Core Combo:
+- [[The Ooze]]
+- [[Stridehangar Automaton]]
+- [[Pitiless Plunderer]]
+- [[Carrion Feeder]]
 
 Extension:
 - [[Altar of the Brood]]
@@ -12215,27 +12625,6 @@ Extension Results:
 ===endpanel
 ===endaccordion
 
-===accordion
-===panel: Imotekh the Stormlord + Metalwork Colossus + Skirge Familiar + Altar of the Brood
-
-Base Core Combo:
-- [[Imotekh the Stormlord]]
-- [[Metalwork Colossus]]
-- [[Skirge Familiar]]
-
-Extension:
-- [[Altar of the Brood]]
-
-Classification:
-- Terminal payoff
-
-Extension Logic:
-- The base core creates permanents under your control an arbitrary number of times. Altar of the Brood triggers on each such permanent entering.
-
-Extension Results:
-- Mill each opponent’s library
-===endpanel
-===endaccordion
 
 ===accordion
 ===panel: Imotekh the Stormlord + Myr Retriever + Workshop Assistant + Krark-Clan Ironworks + Altar of the Brood
@@ -12693,7 +13082,7 @@ Extension Results:
 ===accordion
 ===panel: Mirkwood Bats Extensions
 
-Validated extensions: 49
+Validated extensions: 52
 
 ===accordion
 ===panel: Pitiless Plunderer + Altar of Dementia + Stridehangar Automaton + Mirkwood Bats
@@ -12764,12 +13153,57 @@ Extension Results:
 ===endaccordion
 
 ===accordion
+===panel: Tortured Existence + Pitiless Plunderer + Imotekh the Stormlord + Carrion Feeder + Mirkwood Bats
+
+Base Core Combo:
+- [[Tortured Existence]]
+- [[Pitiless Plunderer]]
+- [[Imotekh the Stormlord]]
+- [[Carrion Feeder]]
+
+Extension:
+- [[Mirkwood Bats]]
+
+Classification:
+- Terminal payoff
+
+Extension Logic:
+- The base core creates and/or sacrifices tokens an arbitrary number of times. Mirkwood Bats triggers on each token creation or token sacrifice.
+
+Extension Results:
+- Infinite opponent life loss
+===endpanel
+===endaccordion
+
+===accordion
 ===panel: Pitiless Plunderer + Stridehangar Automaton + Arcbound Ravager + Mirkwood Bats
 
 Base Core Combo:
 - [[Pitiless Plunderer]]
 - [[Stridehangar Automaton]]
 - [[Arcbound Ravager]]
+
+Extension:
+- [[Mirkwood Bats]]
+
+Classification:
+- Terminal payoff
+
+Extension Logic:
+- The base core creates and/or sacrifices tokens an arbitrary number of times. Mirkwood Bats triggers on each token creation or token sacrifice.
+
+Extension Results:
+- Infinite opponent life loss
+===endpanel
+===endaccordion
+
+===accordion
+===panel: Pitiless Plunderer + Stridehangar Automaton + Carrion Feeder + Mirkwood Bats
+
+Base Core Combo:
+- [[Pitiless Plunderer]]
+- [[Stridehangar Automaton]]
+- [[Carrion Feeder]]
 
 Extension:
 - [[Mirkwood Bats]]
@@ -12793,6 +13227,29 @@ Base Core Combo:
 - [[Stridehangar Automaton]]
 - [[Pitiless Plunderer]]
 - [[Arcbound Ravager]]
+
+Extension:
+- [[Mirkwood Bats]]
+
+Classification:
+- Terminal payoff
+
+Extension Logic:
+- The base core creates and/or sacrifices tokens an arbitrary number of times. Mirkwood Bats triggers on each token creation or token sacrifice.
+
+Extension Results:
+- Infinite opponent life loss
+===endpanel
+===endaccordion
+
+===accordion
+===panel: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Carrion Feeder + Mirkwood Bats
+
+Base Core Combo:
+- [[The Ooze]]
+- [[Stridehangar Automaton]]
+- [[Pitiless Plunderer]]
+- [[Carrion Feeder]]
 
 Extension:
 - [[Mirkwood Bats]]
@@ -13807,7 +14264,7 @@ Extension Results:
 ===accordion
 ===panel: Marionette Apprentice Extensions
 
-Validated extensions: 65
+Validated extensions: 67
 
 ===accordion
 ===panel: Metalwork Colossus + Warren Soultrader + Aetherflux Reservoir + Stridehangar Automaton + Marionette Apprentice
@@ -13924,12 +14381,57 @@ Extension Results:
 ===endaccordion
 
 ===accordion
+===panel: Tortured Existence + Pitiless Plunderer + Imotekh the Stormlord + Carrion Feeder + Marionette Apprentice
+
+Base Core Combo:
+- [[Tortured Existence]]
+- [[Pitiless Plunderer]]
+- [[Imotekh the Stormlord]]
+- [[Carrion Feeder]]
+
+Extension:
+- [[Marionette Apprentice]]
+
+Classification:
+- Terminal payoff
+
+Extension Logic:
+- The base core puts another creature into your graveyard from the battlefield an arbitrary number of times. Each such death satisfies Marionette Apprentice’s trigger.
+
+Extension Results:
+- Infinite opponent life loss
+===endpanel
+===endaccordion
+
+===accordion
 ===panel: Pitiless Plunderer + Stridehangar Automaton + Arcbound Ravager + Marionette Apprentice
 
 Base Core Combo:
 - [[Pitiless Plunderer]]
 - [[Stridehangar Automaton]]
 - [[Arcbound Ravager]]
+
+Extension:
+- [[Marionette Apprentice]]
+
+Classification:
+- Terminal payoff
+
+Extension Logic:
+- The base core puts another creature into your graveyard from the battlefield an arbitrary number of times. Each such death satisfies Marionette Apprentice’s trigger.
+
+Extension Results:
+- Infinite opponent life loss
+===endpanel
+===endaccordion
+
+===accordion
+===panel: Pitiless Plunderer + Stridehangar Automaton + Carrion Feeder + Marionette Apprentice
+
+Base Core Combo:
+- [[Pitiless Plunderer]]
+- [[Stridehangar Automaton]]
+- [[Carrion Feeder]]
 
 Extension:
 - [[Marionette Apprentice]]
@@ -13953,6 +14455,29 @@ Base Core Combo:
 - [[Stridehangar Automaton]]
 - [[Pitiless Plunderer]]
 - [[Arcbound Ravager]]
+
+Extension:
+- [[Marionette Apprentice]]
+
+Classification:
+- Terminal payoff
+
+Extension Logic:
+- The base core puts another creature into your graveyard from the battlefield an arbitrary number of times. Each such death satisfies Marionette Apprentice’s trigger.
+
+Extension Results:
+- Infinite opponent life loss
+===endpanel
+===endaccordion
+
+===accordion
+===panel: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Carrion Feeder + Marionette Apprentice
+
+Base Core Combo:
+- [[The Ooze]]
+- [[Stridehangar Automaton]]
+- [[Pitiless Plunderer]]
+- [[Carrion Feeder]]
 
 Extension:
 - [[Marionette Apprentice]]
@@ -14805,27 +15330,6 @@ Extension Results:
 ===endpanel
 ===endaccordion
 
-===accordion
-===panel: Imotekh the Stormlord + Metalwork Colossus + Skirge Familiar + Marionette Apprentice
-
-Base Core Combo:
-- [[Imotekh the Stormlord]]
-- [[Metalwork Colossus]]
-- [[Skirge Familiar]]
-
-Extension:
-- [[Marionette Apprentice]]
-
-Classification:
-- Terminal payoff
-
-Extension Logic:
-- The base core puts another creature into your graveyard from the battlefield an arbitrary number of times. Each such death satisfies Marionette Apprentice’s trigger.
-
-Extension Results:
-- Infinite opponent life loss
-===endpanel
-===endaccordion
 
 ===accordion
 ===panel: Imotekh the Stormlord + Myr Retriever + Workshop Assistant + Krark-Clan Ironworks + Marionette Apprentice
@@ -15283,7 +15787,7 @@ Extension Results:
 ===accordion
 ===panel: Zulaport Cutthroat Extensions
 
-Validated extensions: 65
+Validated extensions: 67
 
 ===accordion
 ===panel: Metalwork Colossus + Warren Soultrader + Aetherflux Reservoir + Stridehangar Automaton + Zulaport Cutthroat
@@ -15400,12 +15904,57 @@ Extension Results:
 ===endaccordion
 
 ===accordion
+===panel: Tortured Existence + Pitiless Plunderer + Imotekh the Stormlord + Carrion Feeder + Zulaport Cutthroat
+
+Base Core Combo:
+- [[Tortured Existence]]
+- [[Pitiless Plunderer]]
+- [[Imotekh the Stormlord]]
+- [[Carrion Feeder]]
+
+Extension:
+- [[Zulaport Cutthroat]]
+
+Classification:
+- Terminal payoff
+
+Extension Logic:
+- The base core causes another creature you control to die an arbitrary number of times. Zulaport Cutthroat triggers for each death.
+
+Extension Results:
+- Infinite opponent life loss and lifegain
+===endpanel
+===endaccordion
+
+===accordion
 ===panel: Pitiless Plunderer + Stridehangar Automaton + Arcbound Ravager + Zulaport Cutthroat
 
 Base Core Combo:
 - [[Pitiless Plunderer]]
 - [[Stridehangar Automaton]]
 - [[Arcbound Ravager]]
+
+Extension:
+- [[Zulaport Cutthroat]]
+
+Classification:
+- Terminal payoff
+
+Extension Logic:
+- The base core causes another creature you control to die an arbitrary number of times. Zulaport Cutthroat triggers for each death.
+
+Extension Results:
+- Infinite opponent life loss and lifegain
+===endpanel
+===endaccordion
+
+===accordion
+===panel: Pitiless Plunderer + Stridehangar Automaton + Carrion Feeder + Zulaport Cutthroat
+
+Base Core Combo:
+- [[Pitiless Plunderer]]
+- [[Stridehangar Automaton]]
+- [[Carrion Feeder]]
 
 Extension:
 - [[Zulaport Cutthroat]]
@@ -15429,6 +15978,29 @@ Base Core Combo:
 - [[Stridehangar Automaton]]
 - [[Pitiless Plunderer]]
 - [[Arcbound Ravager]]
+
+Extension:
+- [[Zulaport Cutthroat]]
+
+Classification:
+- Terminal payoff
+
+Extension Logic:
+- The base core causes another creature you control to die an arbitrary number of times. Zulaport Cutthroat triggers for each death.
+
+Extension Results:
+- Infinite opponent life loss and lifegain
+===endpanel
+===endaccordion
+
+===accordion
+===panel: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Carrion Feeder + Zulaport Cutthroat
+
+Base Core Combo:
+- [[The Ooze]]
+- [[Stridehangar Automaton]]
+- [[Pitiless Plunderer]]
+- [[Carrion Feeder]]
 
 Extension:
 - [[Zulaport Cutthroat]]
@@ -16303,27 +16875,6 @@ Extension Results:
 ===endpanel
 ===endaccordion
 
-===accordion
-===panel: Imotekh the Stormlord + Metalwork Colossus + Skirge Familiar + Zulaport Cutthroat
-
-Base Core Combo:
-- [[Imotekh the Stormlord]]
-- [[Metalwork Colossus]]
-- [[Skirge Familiar]]
-
-Extension:
-- [[Zulaport Cutthroat]]
-
-Classification:
-- Terminal payoff
-
-Extension Logic:
-- The base core causes another creature you control to die an arbitrary number of times. Zulaport Cutthroat triggers for each death.
-
-Extension Results:
-- Infinite opponent life loss and lifegain
-===endpanel
-===endaccordion
 
 ===accordion
 ===panel: Imotekh the Stormlord + Myr Retriever + Workshop Assistant + Krark-Clan Ironworks + Zulaport Cutthroat
@@ -16759,7 +17310,7 @@ Extension Results:
 ===accordion
 ===panel: Sephiroth Extensions
 
-Validated extensions: 65
+Validated extensions: 67
 
 ===accordion
 ===panel: Metalwork Colossus + Warren Soultrader + Aetherflux Reservoir + Stridehangar Automaton + Sephiroth, Fabled SOLDIER // Sephiroth, One-Winged Angel
@@ -16876,12 +17427,57 @@ Extension Results:
 ===endaccordion
 
 ===accordion
+===panel: Tortured Existence + Pitiless Plunderer + Imotekh the Stormlord + Carrion Feeder + Sephiroth, Fabled SOLDIER // Sephiroth, One-Winged Angel
+
+Base Core Combo:
+- [[Tortured Existence]]
+- [[Pitiless Plunderer]]
+- [[Imotekh the Stormlord]]
+- [[Carrion Feeder]]
+
+Extension:
+- [[Sephiroth, Fabled SOLDIER // Sephiroth, One-Winged Angel]]
+
+Classification:
+- Terminal payoff
+
+Extension Logic:
+- The base core causes another creature to die an arbitrary number of times. Sephiroth drains on each death; after the fourth resolution it transforms and its emblem continues the death-payoff pattern.
+
+Extension Results:
+- Infinite targeted opponent life loss and lifegain
+===endpanel
+===endaccordion
+
+===accordion
 ===panel: Pitiless Plunderer + Stridehangar Automaton + Arcbound Ravager + Sephiroth, Fabled SOLDIER // Sephiroth, One-Winged Angel
 
 Base Core Combo:
 - [[Pitiless Plunderer]]
 - [[Stridehangar Automaton]]
 - [[Arcbound Ravager]]
+
+Extension:
+- [[Sephiroth, Fabled SOLDIER // Sephiroth, One-Winged Angel]]
+
+Classification:
+- Terminal payoff
+
+Extension Logic:
+- The base core causes another creature to die an arbitrary number of times. Sephiroth drains on each death; after the fourth resolution it transforms and its emblem continues the death-payoff pattern.
+
+Extension Results:
+- Infinite targeted opponent life loss and lifegain
+===endpanel
+===endaccordion
+
+===accordion
+===panel: Pitiless Plunderer + Stridehangar Automaton + Carrion Feeder + Sephiroth, Fabled SOLDIER // Sephiroth, One-Winged Angel
+
+Base Core Combo:
+- [[Pitiless Plunderer]]
+- [[Stridehangar Automaton]]
+- [[Carrion Feeder]]
 
 Extension:
 - [[Sephiroth, Fabled SOLDIER // Sephiroth, One-Winged Angel]]
@@ -16905,6 +17501,29 @@ Base Core Combo:
 - [[Stridehangar Automaton]]
 - [[Pitiless Plunderer]]
 - [[Arcbound Ravager]]
+
+Extension:
+- [[Sephiroth, Fabled SOLDIER // Sephiroth, One-Winged Angel]]
+
+Classification:
+- Terminal payoff
+
+Extension Logic:
+- The base core causes another creature to die an arbitrary number of times. Sephiroth drains on each death; after the fourth resolution it transforms and its emblem continues the death-payoff pattern.
+
+Extension Results:
+- Infinite targeted opponent life loss and lifegain
+===endpanel
+===endaccordion
+
+===accordion
+===panel: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Carrion Feeder + Sephiroth, Fabled SOLDIER // Sephiroth, One-Winged Angel
+
+Base Core Combo:
+- [[The Ooze]]
+- [[Stridehangar Automaton]]
+- [[Pitiless Plunderer]]
+- [[Carrion Feeder]]
 
 Extension:
 - [[Sephiroth, Fabled SOLDIER // Sephiroth, One-Winged Angel]]
@@ -17779,27 +18398,6 @@ Extension Results:
 ===endpanel
 ===endaccordion
 
-===accordion
-===panel: Imotekh the Stormlord + Metalwork Colossus + Skirge Familiar + Sephiroth, Fabled SOLDIER // Sephiroth, One-Winged Angel
-
-Base Core Combo:
-- [[Imotekh the Stormlord]]
-- [[Metalwork Colossus]]
-- [[Skirge Familiar]]
-
-Extension:
-- [[Sephiroth, Fabled SOLDIER // Sephiroth, One-Winged Angel]]
-
-Classification:
-- Terminal payoff
-
-Extension Logic:
-- The base core causes another creature to die an arbitrary number of times. Sephiroth drains on each death; after the fourth resolution it transforms and its emblem continues the death-payoff pattern.
-
-Extension Results:
-- Infinite targeted opponent life loss and lifegain
-===endpanel
-===endaccordion
 
 ===accordion
 ===panel: Imotekh the Stormlord + Myr Retriever + Workshop Assistant + Krark-Clan Ironworks + Sephiroth, Fabled SOLDIER // Sephiroth, One-Winged Angel
@@ -18235,7 +18833,7 @@ Extension Results:
 ===accordion
 ===panel: Ultron the Annihilator Extensions
 
-Validated extensions: 33
+Validated extensions: 36
 
 ===accordion
 ===panel: Pitiless Plunderer + Altar of Dementia + Stridehangar Automaton + Ultron the Annihilator
@@ -18306,12 +18904,57 @@ Extension Results:
 ===endaccordion
 
 ===accordion
+===panel: Tortured Existence + Pitiless Plunderer + Imotekh the Stormlord + Carrion Feeder + Ultron the Annihilator
+
+Base Core Combo:
+- [[Tortured Existence]]
+- [[Pitiless Plunderer]]
+- [[Imotekh the Stormlord]]
+- [[Carrion Feeder]]
+
+Extension:
+- [[Ultron the Annihilator]]
+
+Classification:
+- Commander payoff
+
+Extension Logic:
+- The base core puts artifacts into your graveyard from the battlefield an arbitrary number of times through artifact sacrifices. Ultron triggers for each qualifying artifact.
+
+Extension Results:
+- Infinite opponent life loss
+===endpanel
+===endaccordion
+
+===accordion
 ===panel: Pitiless Plunderer + Stridehangar Automaton + Arcbound Ravager + Ultron the Annihilator
 
 Base Core Combo:
 - [[Pitiless Plunderer]]
 - [[Stridehangar Automaton]]
 - [[Arcbound Ravager]]
+
+Extension:
+- [[Ultron the Annihilator]]
+
+Classification:
+- Commander payoff
+
+Extension Logic:
+- The base core puts artifacts into your graveyard from the battlefield an arbitrary number of times through artifact sacrifices. Ultron triggers for each qualifying artifact.
+
+Extension Results:
+- Infinite opponent life loss
+===endpanel
+===endaccordion
+
+===accordion
+===panel: Pitiless Plunderer + Stridehangar Automaton + Carrion Feeder + Ultron the Annihilator
+
+Base Core Combo:
+- [[Pitiless Plunderer]]
+- [[Stridehangar Automaton]]
+- [[Carrion Feeder]]
 
 Extension:
 - [[Ultron the Annihilator]]
@@ -18335,6 +18978,29 @@ Base Core Combo:
 - [[Stridehangar Automaton]]
 - [[Pitiless Plunderer]]
 - [[Arcbound Ravager]]
+
+Extension:
+- [[Ultron the Annihilator]]
+
+Classification:
+- Commander payoff
+
+Extension Logic:
+- The base core puts artifacts into your graveyard from the battlefield an arbitrary number of times through artifact sacrifices. Ultron triggers for each qualifying artifact.
+
+Extension Results:
+- Infinite opponent life loss
+===endpanel
+===endaccordion
+
+===accordion
+===panel: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Carrion Feeder + Ultron the Annihilator
+
+Base Core Combo:
+- [[The Ooze]]
+- [[Stridehangar Automaton]]
+- [[Pitiless Plunderer]]
+- [[Carrion Feeder]]
 
 Extension:
 - [[Ultron the Annihilator]]
@@ -19614,7 +20280,7 @@ Extension Results:
 ===accordion
 ===panel: Walking Ballista Extensions
 
-Validated extensions: 46
+Validated extensions: 47
 
 ===accordion
 ===panel: Pitiless Plunderer + Altar of Dementia + Stridehangar Automaton + Walking Ballista
@@ -19662,12 +20328,57 @@ Extension Results:
 ===endaccordion
 
 ===accordion
+===panel: Tortured Existence + Pitiless Plunderer + Imotekh the Stormlord + Carrion Feeder + Walking Ballista
+
+Base Core Combo:
+- [[Tortured Existence]]
+- [[Pitiless Plunderer]]
+- [[Imotekh the Stormlord]]
+- [[Carrion Feeder]]
+
+Extension:
+- [[Walking Ballista]]
+
+Classification:
+- Terminal payoff
+
+Extension Logic:
+- The base core produces arbitrary mana. Use that mana to cast Walking Ballista with arbitrarily many +1/+1 counters or to add counters after it resolves, then remove the counters for damage.
+
+Extension Results:
+- Infinite damage
+===endpanel
+===endaccordion
+
+===accordion
 ===panel: Pitiless Plunderer + Stridehangar Automaton + Arcbound Ravager + Walking Ballista
 
 Base Core Combo:
 - [[Pitiless Plunderer]]
 - [[Stridehangar Automaton]]
 - [[Arcbound Ravager]]
+
+Extension:
+- [[Walking Ballista]]
+
+Classification:
+- Terminal payoff
+
+Extension Logic:
+- The base core produces arbitrary mana. Use that mana to cast Walking Ballista with arbitrarily many +1/+1 counters or to add counters after it resolves, then remove the counters for damage.
+
+Extension Results:
+- Infinite damage
+===endpanel
+===endaccordion
+
+===accordion
+===panel: Pitiless Plunderer + Stridehangar Automaton + Carrion Feeder + Walking Ballista
+
+Base Core Combo:
+- [[Pitiless Plunderer]]
+- [[Stridehangar Automaton]]
+- [[Carrion Feeder]]
 
 Extension:
 - [[Walking Ballista]]
@@ -20299,27 +21010,6 @@ Extension Results:
 ===endpanel
 ===endaccordion
 
-===accordion
-===panel: Imotekh the Stormlord + Metalwork Colossus + Skirge Familiar + Walking Ballista
-
-Base Core Combo:
-- [[Imotekh the Stormlord]]
-- [[Metalwork Colossus]]
-- [[Skirge Familiar]]
-
-Extension:
-- [[Walking Ballista]]
-
-Classification:
-- Terminal payoff
-
-Extension Logic:
-- The base core produces arbitrary mana. Use that mana to cast Walking Ballista with arbitrarily many +1/+1 counters or to add counters after it resolves, then remove the counters for damage.
-
-Extension Results:
-- Infinite damage
-===endpanel
-===endaccordion
 
 ===accordion
 ===panel: Imotekh the Stormlord + Myr Retriever + Workshop Assistant + Krark-Clan Ironworks + Walking Ballista
@@ -21132,7 +21822,7 @@ Extension Results:
 ===accordion
 ===panel: Skullclamp Extensions
 
-Validated extensions: 46
+Validated extensions: 47
 
 ===accordion
 ===panel: Pitiless Plunderer + Altar of Dementia + Stridehangar Automaton + Skullclamp
@@ -21180,12 +21870,57 @@ Extension Results:
 ===endaccordion
 
 ===accordion
+===panel: Tortured Existence + Pitiless Plunderer + Imotekh the Stormlord + Carrion Feeder + Skullclamp
+
+Base Core Combo:
+- [[Tortured Existence]]
+- [[Pitiless Plunderer]]
+- [[Imotekh the Stormlord]]
+- [[Carrion Feeder]]
+
+Extension:
+- [[Skullclamp]]
+
+Classification:
+- Resource-to-card payoff
+
+Extension Logic:
+- The base core produces arbitrary mana and repeatable creature deaths. Establish arbitrary mana first, then pay Skullclamp’s recurring equip cost before repeatable deaths.
+
+Extension Results:
+- Draw library / arbitrarily many draw triggers
+===endpanel
+===endaccordion
+
+===accordion
 ===panel: Pitiless Plunderer + Stridehangar Automaton + Arcbound Ravager + Skullclamp
 
 Base Core Combo:
 - [[Pitiless Plunderer]]
 - [[Stridehangar Automaton]]
 - [[Arcbound Ravager]]
+
+Extension:
+- [[Skullclamp]]
+
+Classification:
+- Resource-to-card payoff
+
+Extension Logic:
+- The base core produces arbitrary mana and repeatable creature deaths. Establish arbitrary mana first, then pay Skullclamp’s recurring equip cost before repeatable deaths.
+
+Extension Results:
+- Draw library / arbitrarily many draw triggers
+===endpanel
+===endaccordion
+
+===accordion
+===panel: Pitiless Plunderer + Stridehangar Automaton + Carrion Feeder + Skullclamp
+
+Base Core Combo:
+- [[Pitiless Plunderer]]
+- [[Stridehangar Automaton]]
+- [[Carrion Feeder]]
 
 Extension:
 - [[Skullclamp]]
@@ -21817,27 +22552,6 @@ Extension Results:
 ===endpanel
 ===endaccordion
 
-===accordion
-===panel: Imotekh the Stormlord + Metalwork Colossus + Skirge Familiar + Skullclamp
-
-Base Core Combo:
-- [[Imotekh the Stormlord]]
-- [[Metalwork Colossus]]
-- [[Skirge Familiar]]
-
-Extension:
-- [[Skullclamp]]
-
-Classification:
-- Resource-to-card payoff
-
-Extension Logic:
-- The base core produces arbitrary mana and repeatable creature deaths. Establish arbitrary mana first, then pay Skullclamp’s recurring equip cost before repeatable deaths.
-
-Extension Results:
-- Draw library / arbitrarily many draw triggers
-===endpanel
-===endaccordion
 
 ===accordion
 ===panel: Imotekh the Stormlord + Myr Retriever + Workshop Assistant + Krark-Clan Ironworks + Skullclamp
@@ -22597,7 +23311,7 @@ Extension Results:
 ===accordion
 ===panel: Blasting Station Extensions
 
-Validated extensions: 27
+Validated extensions: 28
 
 ===accordion
 ===panel: Tortured Existence + Pitiless Plunderer + Imotekh the Stormlord + Altar of Dementia + Blasting Station
@@ -22607,6 +23321,29 @@ Base Core Combo:
 - [[Pitiless Plunderer]]
 - [[Imotekh the Stormlord]]
 - [[Altar of Dementia]]
+
+Extension:
+- [[Blasting Station]]
+
+Classification:
+- Terminal payoff
+
+Extension Logic:
+- The base core accumulates arbitrarily many creature tokens. Creature entries repeatedly untap Blasting Station, and surplus creatures can be sacrificed for damage.
+
+Extension Results:
+- Infinite damage
+===endpanel
+===endaccordion
+
+===accordion
+===panel: Tortured Existence + Pitiless Plunderer + Imotekh the Stormlord + Carrion Feeder + Blasting Station
+
+Base Core Combo:
+- [[Tortured Existence]]
+- [[Pitiless Plunderer]]
+- [[Imotekh the Stormlord]]
+- [[Carrion Feeder]]
 
 Extension:
 - [[Blasting Station]]
@@ -23218,7 +23955,7 @@ Extension Results:
 ===accordion
 ===panel: Grinding Station Extensions
 
-Validated extensions: 35
+Validated extensions: 38
 
 ===accordion
 ===panel: Pitiless Plunderer + Altar of Dementia + Stridehangar Automaton + Grinding Station
@@ -23289,12 +24026,57 @@ Extension Results:
 ===endaccordion
 
 ===accordion
+===panel: Tortured Existence + Pitiless Plunderer + Imotekh the Stormlord + Carrion Feeder + Grinding Station
+
+Base Core Combo:
+- [[Tortured Existence]]
+- [[Pitiless Plunderer]]
+- [[Imotekh the Stormlord]]
+- [[Carrion Feeder]]
+
+Extension:
+- [[Grinding Station]]
+
+Classification:
+- Terminal payoff
+
+Extension Logic:
+- The base core accumulates arbitrarily many artifact tokens (including Treasures or artifact creature tokens). Artifact entries untap Grinding Station and surplus artifacts can be sacrificed to mill.
+
+Extension Results:
+- Infinite mill
+===endpanel
+===endaccordion
+
+===accordion
 ===panel: Pitiless Plunderer + Stridehangar Automaton + Arcbound Ravager + Grinding Station
 
 Base Core Combo:
 - [[Pitiless Plunderer]]
 - [[Stridehangar Automaton]]
 - [[Arcbound Ravager]]
+
+Extension:
+- [[Grinding Station]]
+
+Classification:
+- Terminal payoff
+
+Extension Logic:
+- The base core accumulates arbitrarily many artifact tokens (including Treasures or artifact creature tokens). Artifact entries untap Grinding Station and surplus artifacts can be sacrificed to mill.
+
+Extension Results:
+- Infinite mill
+===endpanel
+===endaccordion
+
+===accordion
+===panel: Pitiless Plunderer + Stridehangar Automaton + Carrion Feeder + Grinding Station
+
+Base Core Combo:
+- [[Pitiless Plunderer]]
+- [[Stridehangar Automaton]]
+- [[Carrion Feeder]]
 
 Extension:
 - [[Grinding Station]]
@@ -23318,6 +24100,29 @@ Base Core Combo:
 - [[Stridehangar Automaton]]
 - [[Pitiless Plunderer]]
 - [[Arcbound Ravager]]
+
+Extension:
+- [[Grinding Station]]
+
+Classification:
+- Terminal payoff
+
+Extension Logic:
+- The base core accumulates arbitrarily many artifact tokens (including Treasures or artifact creature tokens). Artifact entries untap Grinding Station and surplus artifacts can be sacrificed to mill.
+
+Extension Results:
+- Infinite mill
+===endpanel
+===endaccordion
+
+===accordion
+===panel: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Carrion Feeder + Grinding Station
+
+Base Core Combo:
+- [[The Ooze]]
+- [[Stridehangar Automaton]]
+- [[Pitiless Plunderer]]
+- [[Carrion Feeder]]
 
 Extension:
 - [[Grinding Station]]
@@ -24014,7 +24819,7 @@ Extension Results:
 ===accordion
 ===panel: Pitiless Plunderer Extensions
 
-Validated extensions: 46
+Validated extensions: 45
 
 ===accordion
 ===panel: Metalwork Colossus + Warren Soultrader + Aetherflux Reservoir + Stridehangar Automaton + Pitiless Plunderer
@@ -24740,27 +25545,6 @@ Extension Results:
 ===endpanel
 ===endaccordion
 
-===accordion
-===panel: Imotekh the Stormlord + Metalwork Colossus + Skirge Familiar + Pitiless Plunderer
-
-Base Core Combo:
-- [[Imotekh the Stormlord]]
-- [[Metalwork Colossus]]
-- [[Skirge Familiar]]
-
-Extension:
-- [[Pitiless Plunderer]]
-
-Classification:
-- Resource extension
-
-Extension Logic:
-- The base core causes another creature you control to die an arbitrary number of times. Pitiless Plunderer adds a Treasure for each such death without consuming the loop’s existing resources.
-
-Extension Results:
-- Infinite Treasure tokens / colored mana
-===endpanel
-===endaccordion
 
 ===accordion
 ===panel: Imotekh the Stormlord + Myr Retriever + Workshop Assistant + Krark-Clan Ironworks + Pitiless Plunderer
@@ -25060,7 +25844,7 @@ Extension Results:
 ===accordion
 ===panel: Stridehangar Automaton Extensions
 
-Validated extensions: 17
+Validated extensions: 18
 
 ===accordion
 ===panel: Tortured Existence + Pitiless Plunderer + Imotekh the Stormlord + Altar of Dementia + Stridehangar Automaton
@@ -25070,6 +25854,29 @@ Base Core Combo:
 - [[Pitiless Plunderer]]
 - [[Imotekh the Stormlord]]
 - [[Altar of Dementia]]
+
+Extension:
+- [[Stridehangar Automaton]]
+
+Classification:
+- Resource extension
+
+Extension Logic:
+- The base core creates artifact tokens an arbitrary number of times. Stridehangar’s replacement effect adds a Thopter to each artifact-token creation event.
+
+Extension Results:
+- Infinite Thopter tokens and additional artifact/creature ETBs
+===endpanel
+===endaccordion
+
+===accordion
+===panel: Tortured Existence + Pitiless Plunderer + Imotekh the Stormlord + Carrion Feeder + Stridehangar Automaton
+
+Base Core Combo:
+- [[Tortured Existence]]
+- [[Pitiless Plunderer]]
+- [[Imotekh the Stormlord]]
+- [[Carrion Feeder]]
 
 Extension:
 - [[Stridehangar Automaton]]
@@ -25453,7 +26260,7 @@ Extension Results:
 ===accordion
 ===panel: Umbral Collar Zealot Extensions
 
-Validated extensions: 44
+Validated extensions: 47
 
 ===accordion
 ===panel: Pitiless Plunderer + Altar of Dementia + Stridehangar Automaton + Umbral Collar Zealot
@@ -25524,12 +26331,57 @@ Extension Results:
 ===endaccordion
 
 ===accordion
+===panel: Tortured Existence + Pitiless Plunderer + Imotekh the Stormlord + Carrion Feeder + Umbral Collar Zealot
+
+Base Core Combo:
+- [[Tortured Existence]]
+- [[Pitiless Plunderer]]
+- [[Imotekh the Stormlord]]
+- [[Carrion Feeder]]
+
+Extension:
+- [[Umbral Collar Zealot]]
+
+Classification:
+- Selection extension
+
+Extension Logic:
+- The base core accumulates arbitrarily many creature and/or artifact tokens. Those surplus tokens can be sacrificed to the Zealot after or alongside the core loop.
+
+Extension Results:
+- Infinite surveil
+===endpanel
+===endaccordion
+
+===accordion
 ===panel: Pitiless Plunderer + Stridehangar Automaton + Arcbound Ravager + Umbral Collar Zealot
 
 Base Core Combo:
 - [[Pitiless Plunderer]]
 - [[Stridehangar Automaton]]
 - [[Arcbound Ravager]]
+
+Extension:
+- [[Umbral Collar Zealot]]
+
+Classification:
+- Selection extension
+
+Extension Logic:
+- The base core accumulates arbitrarily many creature and/or artifact tokens. Those surplus tokens can be sacrificed to the Zealot after or alongside the core loop.
+
+Extension Results:
+- Infinite surveil
+===endpanel
+===endaccordion
+
+===accordion
+===panel: Pitiless Plunderer + Stridehangar Automaton + Carrion Feeder + Umbral Collar Zealot
+
+Base Core Combo:
+- [[Pitiless Plunderer]]
+- [[Stridehangar Automaton]]
+- [[Carrion Feeder]]
 
 Extension:
 - [[Umbral Collar Zealot]]
@@ -25553,6 +26405,29 @@ Base Core Combo:
 - [[Stridehangar Automaton]]
 - [[Pitiless Plunderer]]
 - [[Arcbound Ravager]]
+
+Extension:
+- [[Umbral Collar Zealot]]
+
+Classification:
+- Selection extension
+
+Extension Logic:
+- The base core accumulates arbitrarily many creature and/or artifact tokens. Those surplus tokens can be sacrificed to the Zealot after or alongside the core loop.
+
+Extension Results:
+- Infinite surveil
+===endpanel
+===endaccordion
+
+===accordion
+===panel: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Carrion Feeder + Umbral Collar Zealot
+
+Base Core Combo:
+- [[The Ooze]]
+- [[Stridehangar Automaton]]
+- [[Pitiless Plunderer]]
+- [[Carrion Feeder]]
 
 Extension:
 - [[Umbral Collar Zealot]]
