@@ -1,8 +1,8 @@
 ===accordion
 ===panel: Core Combos
 
-The 120 unique core combos for the Hall of Echoes build are listed below.
-Commander Spellbook-confirmed combos are merged with the manually maintained core network and deduplicated by required card set.
+The 102 unique core combos for the current Bracket 4 build are listed below.
+Each core is stored once and assigned a canonical combo ID.
 Combo extensions are tracked separately and do not increase the core combo count.
 
 ===accordion
@@ -1645,41 +1645,7 @@ Results:
 ===endaccordion
 
 ===accordion
-===panel: C049: Razorlash Transmogrant + Pitiless Plunderer + Phyrexian Altar
-
-[[symbol:b]]
-
-
-Cards Required:
-- [[Razorlash Transmogrant]]
-- [[Pitiless Plunderer]]
-- [[Phyrexian Altar]]
-
-Prerequisites:
-- Razorlash Transmogrant in your graveyard.
-- Pitiless Plunderer and Phyrexian Altar on the battlefield.
-- An opponent controls four or more nonbasic lands.
-- [[symbol:b]][[symbol:b]] available
-
-
-Steps:
-1. Activate Razorlash Transmogrant by paying [[symbol:b]][[symbol:b]], returning it from your graveyard to the battlefield.
-2. Activate Phyrexian Altar by sacrificing Razorlash Transmogrant, adding [[symbol:b]].
-3. When Razorlash Transmogrant dies, Pitiless Plunderer triggers, creating a Treasure token.
-4. Activate the Treasure by tapping and sacrificing it, adding [[symbol:b]].
-5. Repeat.
-
-
-Results:
-- Infinite creature LTB
-- Infinite creature ETB
-- Infinite creature sacrifice triggers
-- Infinite death triggers
-===endpanel
-===endaccordion
-
-===accordion
-===panel: C050: Pitiless Plunderer + Phyrexian Altar + Stridehangar Automaton
+===panel: C049: Pitiless Plunderer + Phyrexian Altar + Stridehangar Automaton
 
 [[symbol:b]]
 
@@ -1716,42 +1682,7 @@ Results:
 ===endaccordion
 
 ===accordion
-===panel: C051: The Ghoul, Gunslinger + Razorlash Transmogrant + Phyrexian Altar
-
-[[symbol:b]][[symbol:b]]
-
-Cards Required:
-- [[The Ghoul, Gunslinger]]
-- [[Razorlash Transmogrant]]
-- [[Phyrexian Altar]]
-
-Prerequisites:
-- The Ghoul, Gunslinger and Phyrexian Altar are on the battlefield.
-- Razorlash Transmogrant is in your graveyard.
-- An opponent controls four or more nonbasic lands.
-- [[symbol:b]][[symbol:b]] available to begin the loop.
-
-Steps:
-1. Activate Razorlash Transmogrant from your graveyard by paying [[symbol:b]][[symbol:b]], returning it to the battlefield.
-2. Activate Phyrexian Altar by sacrificing Razorlash Transmogrant, adding [[symbol:b]].
-3. When Razorlash Transmogrant dies, The Ghoul, Gunslinger triggers. Target yourself with the trigger, giving yourself two rad counters and creating a Treasure token.
-4. Activate the Treasure by tapping and sacrificing it, adding [[symbol:b]].
-5. You now have [[symbol:b]][[symbol:b]]. Repeat from step 1.
-
-Results:
-- Infinite artifact ETB
-- Infinite artifact LTB
-- Infinite artifact sacrifice triggers
-- Infinite creature ETB
-- Infinite creature LTB
-- Infinite creature sacrifice triggers
-- Infinite death triggers
-- Infinite radiation counters for yourself
-===endpanel
-===endaccordion
-
-===accordion
-===panel: C052: The Ooze + Stridehangar Automaton + Phyrexian Altar
+===panel: C050: The Ooze + Stridehangar Automaton + Phyrexian Altar
 
 [[symbol:b]]
 
@@ -1785,7 +1716,7 @@ Results:
 ===endaccordion
 
 ===accordion
-===panel: C053: Pitiless Plunderer + Umbral Collar Zealot + Stridehangar Automaton
+===panel: C051: Pitiless Plunderer + Umbral Collar Zealot + Stridehangar Automaton
 
 [[symbol:b]]
 
@@ -1824,7 +1755,7 @@ Results:
 ===endaccordion
 
 ===accordion
-===panel: C054: Warren Soultrader + Stridehangar Automaton + Sephiroth, Fabled SOLDIER
+===panel: C052: Warren Soultrader + Stridehangar Automaton + Sephiroth, Fabled SOLDIER
 
 [[symbol:b]]
 
@@ -1865,7 +1796,7 @@ Results:
 ===endaccordion
 
 ===accordion
-===panel: C055: Warren Soultrader + Zulaport Cutthroat + Stridehangar Automaton
+===panel: C053: Warren Soultrader + Zulaport Cutthroat + Stridehangar Automaton
 
 [[symbol:b]]
 
@@ -1906,7 +1837,7 @@ Results:
 ===endaccordion
 
 ===accordion
-===panel: C056: Metalwork Colossus + Warren Soultrader + Pitiless Plunderer + Aetherflux Reservoir
+===panel: C054: Metalwork Colossus + Warren Soultrader + Pitiless Plunderer + Aetherflux Reservoir
 
 [[symbol:b]]
 
@@ -1948,7 +1879,7 @@ Results:
 ===endaccordion
 
 ===accordion
-===panel: C057: Metalwork Colossus + Warren Soultrader + Aetherflux Reservoir + Stridehangar Automaton
+===panel: C055: Metalwork Colossus + Warren Soultrader + Aetherflux Reservoir + Stridehangar Automaton
 
 [[symbol:b]]
 
@@ -1987,88 +1918,7 @@ Results:
 ===endaccordion
 
 ===accordion
-===panel: C058: Hall of Echoes + Pitiless Plunderer + Razorlash Transmogrant + Altar of Dementia
-
-[[symbol:5]][[symbol:b]][[symbol:b]]
-
-Cards Required:
-- [[Hall of Echoes]]
-- [[Pitiless Plunderer]]
-- [[Razorlash Transmogrant]]
-- [[Altar of Dementia]]
-
-Prerequisites:
-- Hall of Echoes, [[Pitiless Plunderer]], and [[Altar of Dementia]] are on the battlefield.
-- Razorlash Transmogrant is in your graveyard.
-- An opponent controls four or more nonbasic lands.
-- [[symbol:5]][[symbol:b]][[symbol:b]] available to begin the loop.
-
-
-Steps:
-1. Activate Hall of Echoes by paying [[symbol:5]], causing it to become a copy of [[Pitiless Plunderer]] until end of turn.
-2. Activate Razorlash Transmogrant from your graveyard by paying [[symbol:b]][[symbol:b]], returning it to the battlefield.
-3. Activate Altar of Dementia by sacrificing Razorlash Transmogrant.
-4. Razorlash Transmogrant dies, triggering both Pitiless Plunderer and the Hall of Echoes copy, creating two Treasure tokens total.
-5. Activate the two Treasure tokens, adding [[symbol:b]][[symbol:b]].
-6. Repeat from step 2.
-
-Results:
-- Infinite artifact ETB
-- Infinite artifact LTB
-- Infinite artifact sacrifice triggers
-- Infinite creature ETB
-- Infinite creature LTB
-- Infinite creature sacrifice triggers
-- Infinite death triggers
-- Infinite Treasure creation
-- Infinite mill
-- Infinite self-mill
-===endpanel
-===endaccordion
-
-===accordion
-===panel: C059: Hall of Echoes + The Ghoul, Gunslinger + Razorlash Transmogrant + Altar of Dementia
-
-[[symbol:5]][[symbol:b]][[symbol:b]]
-
-Cards Required:
-- [[Hall of Echoes]]
-- [[The Ghoul, Gunslinger]]
-- [[Razorlash Transmogrant]]
-- [[Altar of Dementia]]
-
-Prerequisites:
-- Hall of Echoes, [[The Ghoul, Gunslinger]], and [[Altar of Dementia]] are on the battlefield.
-- Razorlash Transmogrant is in your graveyard.
-- An opponent controls four or more nonbasic lands.
-- [[symbol:5]][[symbol:b]][[symbol:b]] available to begin the loop.
-
-
-Steps:
-1. Activate Hall of Echoes by paying [[symbol:5]], causing it to become a copy of [[The Ghoul, Gunslinger]] until end of turn.
-2. Activate Razorlash Transmogrant from your graveyard by paying [[symbol:b]][[symbol:b]], returning it to the battlefield.
-3. Activate Altar of Dementia by sacrificing Razorlash Transmogrant.
-4. Razorlash Transmogrant dies, triggering both The Ghoul, Gunslinger and the Hall of Echoes copy. Target yourself with both triggers, giving yourself four rad counters total and creating two Treasure tokens.
-5. Activate the two Treasure tokens, adding [[symbol:b]][[symbol:b]].
-6. Repeat from step 2.
-
-Results:
-- Infinite artifact ETB
-- Infinite artifact LTB
-- Infinite artifact sacrifice triggers
-- Infinite creature ETB
-- Infinite creature LTB
-- Infinite creature sacrifice triggers
-- Infinite death triggers
-- Infinite Treasure creation
-- Infinite radiation counters for yourself
-- Infinite mill
-- Infinite self-mill
-===endpanel
-===endaccordion
-
-===accordion
-===panel: C060: Tortured Existence + Pitiless Plunderer + Imotekh the Stormlord + Altar of Dementia
+===panel: C056: Tortured Existence + Pitiless Plunderer + Imotekh the Stormlord + Altar of Dementia
 
 [[symbol:b]]
 
@@ -2116,7 +1966,7 @@ Results:
 ===endaccordion
 
 ===accordion
-===panel: C061: Out of the Tombs + Skullclamp + Pitiless Plunderer + Altar of Dementia
+===panel: C057: Out of the Tombs + Skullclamp + Pitiless Plunderer + Altar of Dementia
 
 [[symbol:b]]
 
@@ -2152,7 +2002,7 @@ Results:
 ===endaccordion
 
 ===accordion
-===panel: C062: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Altar of Dementia
+===panel: C058: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Altar of Dementia
 
 [[symbol:c]]
 
@@ -2198,7 +2048,7 @@ Results:
 ===endaccordion
 
 ===accordion
-===panel: C063: The Ooze + Clock of Omens + Stridehangar Automaton + Altar of the Brood
+===panel: C059: The Ooze + Clock of Omens + Stridehangar Automaton + Altar of the Brood
 
 [[symbol:c]]
 
@@ -2232,86 +2082,7 @@ Results:
 ===endaccordion
 
 ===accordion
-===panel: C064: Hall of Echoes + Pitiless Plunderer + Razorlash Transmogrant + Arcbound Ravager
-
-[[symbol:5]][[symbol:b]][[symbol:b]]
-
-Cards Required:
-- [[Hall of Echoes]]
-- [[Pitiless Plunderer]]
-- [[Razorlash Transmogrant]]
-- [[Arcbound Ravager]]
-
-Prerequisites:
-- Hall of Echoes, [[Pitiless Plunderer]], and [[Arcbound Ravager]] are on the battlefield.
-- Razorlash Transmogrant is in your graveyard.
-- An opponent controls four or more nonbasic lands.
-- [[symbol:5]][[symbol:b]][[symbol:b]] available to begin the loop.
-
-
-Steps:
-1. Activate Hall of Echoes by paying [[symbol:5]], causing it to become a copy of [[Pitiless Plunderer]] until end of turn.
-2. Activate Razorlash Transmogrant from your graveyard by paying [[symbol:b]][[symbol:b]], returning it to the battlefield.
-3. Activate Arcbound Ravager by sacrificing Razorlash Transmogrant.
-4. Razorlash Transmogrant dies, triggering both Pitiless Plunderer and the Hall of Echoes copy, creating two Treasure tokens total.
-5. Activate the two Treasure tokens, adding [[symbol:b]][[symbol:b]].
-6. Repeat from step 2.
-
-Results:
-- Infinite artifact ETB
-- Infinite artifact LTB
-- Infinite artifact sacrifice triggers
-- Infinite creature ETB
-- Infinite creature LTB
-- Infinite creature sacrifice triggers
-- Infinite death triggers
-- Infinite Treasure creation
-- Infinite +1/+1 counters on Arcbound Ravager
-===endpanel
-===endaccordion
-
-===accordion
-===panel: C065: Hall of Echoes + The Ghoul, Gunslinger + Razorlash Transmogrant + Arcbound Ravager
-
-[[symbol:5]][[symbol:b]][[symbol:b]]
-
-Cards Required:
-- [[Hall of Echoes]]
-- [[The Ghoul, Gunslinger]]
-- [[Razorlash Transmogrant]]
-- [[Arcbound Ravager]]
-
-Prerequisites:
-- Hall of Echoes, [[The Ghoul, Gunslinger]], and [[Arcbound Ravager]] are on the battlefield.
-- Razorlash Transmogrant is in your graveyard.
-- An opponent controls four or more nonbasic lands.
-- [[symbol:5]][[symbol:b]][[symbol:b]] available to begin the loop.
-
-
-Steps:
-1. Activate Hall of Echoes by paying [[symbol:5]], causing it to become a copy of [[The Ghoul, Gunslinger]] until end of turn.
-2. Activate Razorlash Transmogrant from your graveyard by paying [[symbol:b]][[symbol:b]], returning it to the battlefield.
-3. Activate Arcbound Ravager by sacrificing Razorlash Transmogrant.
-4. Razorlash Transmogrant dies, triggering both The Ghoul, Gunslinger and the Hall of Echoes copy. Target yourself with both triggers, giving yourself four rad counters total and creating two Treasure tokens.
-5. Activate the two Treasure tokens, adding [[symbol:b]][[symbol:b]].
-6. Repeat from step 2.
-
-Results:
-- Infinite artifact ETB
-- Infinite artifact LTB
-- Infinite artifact sacrifice triggers
-- Infinite creature ETB
-- Infinite creature LTB
-- Infinite creature sacrifice triggers
-- Infinite death triggers
-- Infinite Treasure creation
-- Infinite radiation counters for yourself
-- Infinite +1/+1 counters on Arcbound Ravager
-===endpanel
-===endaccordion
-
-===accordion
-===panel: C066: Out of the Tombs + Skullclamp + Pitiless Plunderer + Arcbound Ravager
+===panel: C060: Out of the Tombs + Skullclamp + Pitiless Plunderer + Arcbound Ravager
 
 [[symbol:b]]
 
@@ -2346,7 +2117,7 @@ Results:
 ===endaccordion
 
 ===accordion
-===panel: C067: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Arcbound Ravager
+===panel: C061: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Arcbound Ravager
 
 [[symbol:c]]
 
@@ -2391,7 +2162,7 @@ Results:
 ===endaccordion
 
 ===accordion
-===panel: C068: Scrap Trawler + Myr Retriever + Ashnod's Altar + Cloud Key
+===panel: C062: Scrap Trawler + Myr Retriever + Ashnod's Altar + Cloud Key
 
 [[symbol:c]]
 
@@ -2432,7 +2203,7 @@ Results:
 ===endaccordion
 
 ===accordion
-===panel: C069: Scrap Trawler + Myr Retriever + Ashnod's Altar + Foundry Inspector
+===panel: C063: Scrap Trawler + Myr Retriever + Ashnod's Altar + Foundry Inspector
 
 [[symbol:c]]
 
@@ -2473,7 +2244,7 @@ Results:
 ===endaccordion
 
 ===accordion
-===panel: C070: Glaring Fleshraker + Ashnod's Altar + Myr Retriever + Junk Diver
+===panel: C064: Glaring Fleshraker + Ashnod's Altar + Myr Retriever + Junk Diver
 
 [[symbol:c]]
 
@@ -2516,7 +2287,7 @@ Results:
 ===endaccordion
 
 ===accordion
-===panel: C071: Glaring Fleshraker + Ashnod's Altar + Junk Diver + Workshop Assistant
+===panel: C065: Glaring Fleshraker + Ashnod's Altar + Junk Diver + Workshop Assistant
 
 [[symbol:c]]
 
@@ -2559,7 +2330,7 @@ Results:
 ===endaccordion
 
 ===accordion
-===panel: C072: Glaring Fleshraker + Ashnod's Altar + Myr Retriever + Scrap Trawler
+===panel: C066: Glaring Fleshraker + Ashnod's Altar + Myr Retriever + Scrap Trawler
 
 [[symbol:c]]
 
@@ -2602,7 +2373,7 @@ Results:
 ===endaccordion
 
 ===accordion
-===panel: C073: Glaring Fleshraker + Ashnod's Altar + Myr Retriever + Workshop Assistant
+===panel: C067: Glaring Fleshraker + Ashnod's Altar + Myr Retriever + Workshop Assistant
 
 [[symbol:c]]
 
@@ -2645,7 +2416,7 @@ Results:
 ===endaccordion
 
 ===accordion
-===panel: C074: Glaring Fleshraker + Ashnod's Altar + Scrap Trawler + Workshop Assistant
+===panel: C068: Glaring Fleshraker + Ashnod's Altar + Scrap Trawler + Workshop Assistant
 
 [[symbol:c]]
 
@@ -2688,86 +2459,7 @@ Results:
 ===endaccordion
 
 ===accordion
-===panel: C075: Hall of Echoes + Pitiless Plunderer + Razorlash Transmogrant + Ashnod's Altar
-
-[[symbol:5]][[symbol:b]][[symbol:b]]
-
-Cards Required:
-- [[Hall of Echoes]]
-- [[Pitiless Plunderer]]
-- [[Razorlash Transmogrant]]
-- [[Ashnod's Altar]]
-
-Prerequisites:
-- Hall of Echoes, [[Pitiless Plunderer]], and [[Ashnod's Altar]] are on the battlefield.
-- Razorlash Transmogrant is in your graveyard.
-- An opponent controls four or more nonbasic lands.
-- [[symbol:5]][[symbol:b]][[symbol:b]] available to begin the loop.
-
-
-Steps:
-1. Activate Hall of Echoes by paying [[symbol:5]], causing it to become a copy of [[Pitiless Plunderer]] until end of turn.
-2. Activate Razorlash Transmogrant from your graveyard by paying [[symbol:b]][[symbol:b]], returning it to the battlefield.
-3. Activate Ashnod's Altar by sacrificing Razorlash Transmogrant, adding [[symbol:c]][[symbol:c]].
-4. Razorlash Transmogrant dies, triggering both Pitiless Plunderer and the Hall of Echoes copy, creating two Treasure tokens total.
-5. Activate the two Treasure tokens, adding [[symbol:b]][[symbol:b]].
-6. Repeat from step 2.
-
-Results:
-- Infinite artifact ETB
-- Infinite artifact LTB
-- Infinite artifact sacrifice triggers
-- Infinite creature ETB
-- Infinite creature LTB
-- Infinite creature sacrifice triggers
-- Infinite death triggers
-- Infinite Treasure creation
-- Infinite colorless mana
-===endpanel
-===endaccordion
-
-===accordion
-===panel: C076: Hall of Echoes + The Ghoul, Gunslinger + Razorlash Transmogrant + Ashnod's Altar
-
-[[symbol:5]][[symbol:b]][[symbol:b]]
-
-Cards Required:
-- [[Hall of Echoes]]
-- [[The Ghoul, Gunslinger]]
-- [[Razorlash Transmogrant]]
-- [[Ashnod's Altar]]
-
-Prerequisites:
-- Hall of Echoes, [[The Ghoul, Gunslinger]], and [[Ashnod's Altar]] are on the battlefield.
-- Razorlash Transmogrant is in your graveyard.
-- An opponent controls four or more nonbasic lands.
-- [[symbol:5]][[symbol:b]][[symbol:b]] available to begin the loop.
-
-
-Steps:
-1. Activate Hall of Echoes by paying [[symbol:5]], causing it to become a copy of [[The Ghoul, Gunslinger]] until end of turn.
-2. Activate Razorlash Transmogrant from your graveyard by paying [[symbol:b]][[symbol:b]], returning it to the battlefield.
-3. Activate Ashnod's Altar by sacrificing Razorlash Transmogrant, adding [[symbol:c]][[symbol:c]].
-4. Razorlash Transmogrant dies, triggering both The Ghoul, Gunslinger and the Hall of Echoes copy. Target yourself with both triggers, giving yourself four rad counters total and creating two Treasure tokens.
-5. Activate the two Treasure tokens, adding [[symbol:b]][[symbol:b]].
-6. Repeat from step 2.
-
-Results:
-- Infinite artifact ETB
-- Infinite artifact LTB
-- Infinite artifact sacrifice triggers
-- Infinite creature ETB
-- Infinite creature LTB
-- Infinite creature sacrifice triggers
-- Infinite death triggers
-- Infinite Treasure creation
-- Infinite radiation counters for yourself
-- Infinite colorless mana
-===endpanel
-===endaccordion
-
-===accordion
-===panel: C077: Imotekh the Stormlord + Junk Diver + Myr Retriever + Ashnod's Altar
+===panel: C069: Imotekh the Stormlord + Junk Diver + Myr Retriever + Ashnod's Altar
 
 [[symbol:b]]
 
@@ -2809,7 +2501,7 @@ Results:
 ===endaccordion
 
 ===accordion
-===panel: C078: Imotekh the Stormlord + Junk Diver + Workshop Assistant + Ashnod's Altar
+===panel: C070: Imotekh the Stormlord + Junk Diver + Workshop Assistant + Ashnod's Altar
 
 [[symbol:b]]
 
@@ -2851,7 +2543,7 @@ Results:
 ===endaccordion
 
 ===accordion
-===panel: C079: Imotekh the Stormlord + Scrap Trawler + Myr Retriever + Ashnod's Altar
+===panel: C071: Imotekh the Stormlord + Scrap Trawler + Myr Retriever + Ashnod's Altar
 
 [[symbol:b]]
 
@@ -2893,7 +2585,7 @@ Results:
 ===endaccordion
 
 ===accordion
-===panel: C080: Imotekh the Stormlord + Myr Retriever + Workshop Assistant + Ashnod's Altar
+===panel: C072: Imotekh the Stormlord + Myr Retriever + Workshop Assistant + Ashnod's Altar
 
 [[symbol:b]]
 
@@ -2935,7 +2627,7 @@ Results:
 ===endaccordion
 
 ===accordion
-===panel: C081: Scrap Trawler + Myr Retriever + Ashnod's Altar + Semblance Anvil
+===panel: C073: Scrap Trawler + Myr Retriever + Ashnod's Altar + Semblance Anvil
 
 [[symbol:c]]
 
@@ -2977,7 +2669,7 @@ Results:
 ===endaccordion
 
 ===accordion
-===panel: C082: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Ashnod's Altar
+===panel: C074: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Ashnod's Altar
 
 [[symbol:c]]
 
@@ -3022,88 +2714,7 @@ Results:
 ===endaccordion
 
 ===accordion
-===panel: C083: Hall of Echoes + Pitiless Plunderer + Razorlash Transmogrant + Blasting Station
-
-[[symbol:5]][[symbol:b]][[symbol:b]]
-
-Cards Required:
-- [[Hall of Echoes]]
-- [[Pitiless Plunderer]]
-- [[Razorlash Transmogrant]]
-- [[Blasting Station]]
-
-Prerequisites:
-- Hall of Echoes, [[Pitiless Plunderer]], and [[Blasting Station]] are on the battlefield.
-- Razorlash Transmogrant is in your graveyard.
-- An opponent controls four or more nonbasic lands.
-- [[symbol:5]][[symbol:b]][[symbol:b]] available to begin the loop.
-- Blasting Station is untapped.
-
-Steps:
-1. Activate Hall of Echoes by paying [[symbol:5]], causing it to become a copy of [[Pitiless Plunderer]] until end of turn.
-2. Activate Razorlash Transmogrant from your graveyard by paying [[symbol:b]][[symbol:b]], returning it to the battlefield.
-3. Activate Blasting Station by tapping it and sacrificing Razorlash Transmogrant, dealing 1 damage to any target.
-4. Razorlash Transmogrant dies, triggering both Pitiless Plunderer and the Hall of Echoes copy, creating two Treasure tokens total.
-5. Activate the two Treasure tokens, adding [[symbol:b]][[symbol:b]].
-6. When Razorlash Transmogrant returns to the battlefield, Blasting Station triggers, untapping Blasting Station.
-7. Repeat from step 2.
-
-Results:
-- Infinite artifact ETB
-- Infinite artifact LTB
-- Infinite artifact sacrifice triggers
-- Infinite creature ETB
-- Infinite creature LTB
-- Infinite creature sacrifice triggers
-- Infinite death triggers
-- Infinite Treasure creation
-- Infinite damage
-===endpanel
-===endaccordion
-
-===accordion
-===panel: C084: Hall of Echoes + The Ghoul, Gunslinger + Razorlash Transmogrant + Blasting Station
-
-[[symbol:5]][[symbol:b]][[symbol:b]]
-
-Cards Required:
-- [[Hall of Echoes]]
-- [[The Ghoul, Gunslinger]]
-- [[Razorlash Transmogrant]]
-- [[Blasting Station]]
-
-Prerequisites:
-- Hall of Echoes, [[The Ghoul, Gunslinger]], and [[Blasting Station]] are on the battlefield.
-- Razorlash Transmogrant is in your graveyard.
-- An opponent controls four or more nonbasic lands.
-- [[symbol:5]][[symbol:b]][[symbol:b]] available to begin the loop.
-- Blasting Station is untapped.
-
-Steps:
-1. Activate Hall of Echoes by paying [[symbol:5]], causing it to become a copy of [[The Ghoul, Gunslinger]] until end of turn.
-2. Activate Razorlash Transmogrant from your graveyard by paying [[symbol:b]][[symbol:b]], returning it to the battlefield.
-3. Activate Blasting Station by tapping it and sacrificing Razorlash Transmogrant, dealing 1 damage to any target.
-4. Razorlash Transmogrant dies, triggering both The Ghoul, Gunslinger and the Hall of Echoes copy. Target yourself with both triggers, giving yourself four rad counters total and creating two Treasure tokens.
-5. Activate the two Treasure tokens, adding [[symbol:b]][[symbol:b]].
-6. When Razorlash Transmogrant returns to the battlefield, Blasting Station triggers, untapping Blasting Station.
-7. Repeat from step 2.
-
-Results:
-- Infinite artifact ETB
-- Infinite artifact LTB
-- Infinite artifact sacrifice triggers
-- Infinite creature ETB
-- Infinite creature LTB
-- Infinite creature sacrifice triggers
-- Infinite death triggers
-- Infinite Treasure creation
-- Infinite radiation counters for yourself
-- Infinite damage
-===endpanel
-===endaccordion
-
-===accordion
-===panel: C085: Tortured Existence + Pitiless Plunderer + Imotekh the Stormlord + Blasting Station
+===panel: C075: Tortured Existence + Pitiless Plunderer + Imotekh the Stormlord + Blasting Station
 
 [[symbol:b]]
 
@@ -3151,7 +2762,7 @@ Results:
 ===endaccordion
 
 ===accordion
-===panel: C086: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Blasting Station
+===panel: C076: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Blasting Station
 
 [[symbol:c]]
 
@@ -3196,86 +2807,7 @@ Results:
 ===endaccordion
 
 ===accordion
-===panel: C087: Hall of Echoes + Pitiless Plunderer + Razorlash Transmogrant + Carrion Feeder
-
-[[symbol:5]][[symbol:b]][[symbol:b]]
-
-Cards Required:
-- [[Hall of Echoes]]
-- [[Pitiless Plunderer]]
-- [[Razorlash Transmogrant]]
-- [[Carrion Feeder]]
-
-Prerequisites:
-- Hall of Echoes, [[Pitiless Plunderer]], and [[Carrion Feeder]] are on the battlefield.
-- Razorlash Transmogrant is in your graveyard.
-- An opponent controls four or more nonbasic lands.
-- [[symbol:5]][[symbol:b]][[symbol:b]] available to begin the loop.
-
-
-Steps:
-1. Activate Hall of Echoes by paying [[symbol:5]], causing it to become a copy of [[Pitiless Plunderer]] until end of turn.
-2. Activate Razorlash Transmogrant from your graveyard by paying [[symbol:b]][[symbol:b]], returning it to the battlefield.
-3. Activate Carrion Feeder by sacrificing Razorlash Transmogrant.
-4. Razorlash Transmogrant dies, triggering both Pitiless Plunderer and the Hall of Echoes copy, creating two Treasure tokens total.
-5. Activate the two Treasure tokens, adding [[symbol:b]][[symbol:b]].
-6. Repeat from step 2.
-
-Results:
-- Infinite artifact ETB
-- Infinite artifact LTB
-- Infinite artifact sacrifice triggers
-- Infinite creature ETB
-- Infinite creature LTB
-- Infinite creature sacrifice triggers
-- Infinite death triggers
-- Infinite Treasure creation
-- Infinite +1/+1 counters on Carrion Feeder
-===endpanel
-===endaccordion
-
-===accordion
-===panel: C088: Hall of Echoes + The Ghoul, Gunslinger + Razorlash Transmogrant + Carrion Feeder
-
-[[symbol:5]][[symbol:b]][[symbol:b]]
-
-Cards Required:
-- [[Hall of Echoes]]
-- [[The Ghoul, Gunslinger]]
-- [[Razorlash Transmogrant]]
-- [[Carrion Feeder]]
-
-Prerequisites:
-- Hall of Echoes, [[The Ghoul, Gunslinger]], and [[Carrion Feeder]] are on the battlefield.
-- Razorlash Transmogrant is in your graveyard.
-- An opponent controls four or more nonbasic lands.
-- [[symbol:5]][[symbol:b]][[symbol:b]] available to begin the loop.
-
-
-Steps:
-1. Activate Hall of Echoes by paying [[symbol:5]], causing it to become a copy of [[The Ghoul, Gunslinger]] until end of turn.
-2. Activate Razorlash Transmogrant from your graveyard by paying [[symbol:b]][[symbol:b]], returning it to the battlefield.
-3. Activate Carrion Feeder by sacrificing Razorlash Transmogrant.
-4. Razorlash Transmogrant dies, triggering both The Ghoul, Gunslinger and the Hall of Echoes copy. Target yourself with both triggers, giving yourself four rad counters total and creating two Treasure tokens.
-5. Activate the two Treasure tokens, adding [[symbol:b]][[symbol:b]].
-6. Repeat from step 2.
-
-Results:
-- Infinite artifact ETB
-- Infinite artifact LTB
-- Infinite artifact sacrifice triggers
-- Infinite creature ETB
-- Infinite creature LTB
-- Infinite creature sacrifice triggers
-- Infinite death triggers
-- Infinite Treasure creation
-- Infinite radiation counters for yourself
-- Infinite +1/+1 counters on Carrion Feeder
-===endpanel
-===endaccordion
-
-===accordion
-===panel: C089: Tortured Existence + Pitiless Plunderer + Imotekh the Stormlord + Carrion Feeder
+===panel: C077: Tortured Existence + Pitiless Plunderer + Imotekh the Stormlord + Carrion Feeder
 
 [[symbol:b]]
 
@@ -3317,7 +2849,7 @@ Results:
 ===endaccordion
 
 ===accordion
-===panel: C090: Out of the Tombs + Skullclamp + Pitiless Plunderer + Carrion Feeder
+===panel: C078: Out of the Tombs + Skullclamp + Pitiless Plunderer + Carrion Feeder
 
 [[symbol:b]]
 
@@ -3354,7 +2886,7 @@ Results:
 ===endaccordion
 
 ===accordion
-===panel: C091: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Carrion Feeder
+===panel: C079: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Carrion Feeder
 
 [[symbol:c]]
 
@@ -3395,7 +2927,7 @@ Results:
 ===endaccordion
 
 ===accordion
-===panel: C092: The Ooze + Clock of Omens + Stridehangar Automaton + Grinding Station
+===panel: C080: The Ooze + Clock of Omens + Stridehangar Automaton + Grinding Station
 
 [[symbol:c]]
 
@@ -3433,7 +2965,7 @@ Results:
 ===endaccordion
 
 ===accordion
-===panel: C093: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Cloud Key
+===panel: C081: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Cloud Key
 
 [[symbol:c]]
 
@@ -3474,7 +3006,7 @@ Results:
 ===endaccordion
 
 ===accordion
-===panel: C094: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Foundry Inspector
+===panel: C082: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Foundry Inspector
 
 [[symbol:c]]
 
@@ -3515,7 +3047,7 @@ Results:
 ===endaccordion
 
 ===accordion
-===panel: C095: Glaring Fleshraker + Myr Retriever + Junk Diver + Krark-Clan Ironworks
+===panel: C083: Glaring Fleshraker + Myr Retriever + Junk Diver + Krark-Clan Ironworks
 
 [[symbol:c]]
 
@@ -3558,7 +3090,7 @@ Results:
 ===endaccordion
 
 ===accordion
-===panel: C096: Glaring Fleshraker + Junk Diver + Workshop Assistant + Krark-Clan Ironworks
+===panel: C084: Glaring Fleshraker + Junk Diver + Workshop Assistant + Krark-Clan Ironworks
 
 [[symbol:c]]
 
@@ -3601,7 +3133,7 @@ Results:
 ===endaccordion
 
 ===accordion
-===panel: C097: Glaring Fleshraker + Myr Retriever + Scrap Trawler + Krark-Clan Ironworks
+===panel: C085: Glaring Fleshraker + Myr Retriever + Scrap Trawler + Krark-Clan Ironworks
 
 [[symbol:c]]
 
@@ -3644,7 +3176,7 @@ Results:
 ===endaccordion
 
 ===accordion
-===panel: C098: Glaring Fleshraker + Myr Retriever + Workshop Assistant + Krark-Clan Ironworks
+===panel: C086: Glaring Fleshraker + Myr Retriever + Workshop Assistant + Krark-Clan Ironworks
 
 [[symbol:c]]
 
@@ -3687,90 +3219,7 @@ Results:
 ===endaccordion
 
 ===accordion
-===panel: C099: Hall of Echoes + Pitiless Plunderer + Razorlash Transmogrant + Grinding Station
-
-[[symbol:5]][[symbol:b]][[symbol:b]]
-
-Cards Required:
-- [[Hall of Echoes]]
-- [[Pitiless Plunderer]]
-- [[Razorlash Transmogrant]]
-- [[Grinding Station]]
-
-Prerequisites:
-- Hall of Echoes, [[Pitiless Plunderer]], and [[Grinding Station]] are on the battlefield.
-- Razorlash Transmogrant is in your graveyard.
-- An opponent controls four or more nonbasic lands.
-- [[symbol:5]][[symbol:b]][[symbol:b]] available to begin the loop.
-- Grinding Station is untapped.
-
-Steps:
-1. Activate Hall of Echoes by paying [[symbol:5]], causing it to become a copy of [[Pitiless Plunderer]] until end of turn.
-2. Activate Razorlash Transmogrant from your graveyard by paying [[symbol:b]][[symbol:b]], returning it to the battlefield.
-3. Activate Grinding Station by tapping it and sacrificing Razorlash Transmogrant, causing target player to mill three cards.
-4. Razorlash Transmogrant dies, triggering both Pitiless Plunderer and the Hall of Echoes copy, creating two Treasure tokens total.
-5. Activate the two Treasure tokens, adding [[symbol:b]][[symbol:b]].
-6. When Razorlash Transmogrant returns to the battlefield, Grinding Station triggers, untapping Grinding Station.
-7. Repeat from step 2.
-
-Results:
-- Infinite artifact ETB
-- Infinite artifact LTB
-- Infinite artifact sacrifice triggers
-- Infinite creature ETB
-- Infinite creature LTB
-- Infinite creature sacrifice triggers
-- Infinite death triggers
-- Infinite Treasure creation
-- Infinite mill
-- Infinite self-mill
-===endpanel
-===endaccordion
-
-===accordion
-===panel: C100: Hall of Echoes + The Ghoul, Gunslinger + Razorlash Transmogrant + Grinding Station
-
-[[symbol:5]][[symbol:b]][[symbol:b]]
-
-Cards Required:
-- [[Hall of Echoes]]
-- [[The Ghoul, Gunslinger]]
-- [[Razorlash Transmogrant]]
-- [[Grinding Station]]
-
-Prerequisites:
-- Hall of Echoes, [[The Ghoul, Gunslinger]], and [[Grinding Station]] are on the battlefield.
-- Razorlash Transmogrant is in your graveyard.
-- An opponent controls four or more nonbasic lands.
-- [[symbol:5]][[symbol:b]][[symbol:b]] available to begin the loop.
-- Grinding Station is untapped.
-
-Steps:
-1. Activate Hall of Echoes by paying [[symbol:5]], causing it to become a copy of [[The Ghoul, Gunslinger]] until end of turn.
-2. Activate Razorlash Transmogrant from your graveyard by paying [[symbol:b]][[symbol:b]], returning it to the battlefield.
-3. Activate Grinding Station by tapping it and sacrificing Razorlash Transmogrant, causing target player to mill three cards.
-4. Razorlash Transmogrant dies, triggering both The Ghoul, Gunslinger and the Hall of Echoes copy. Target yourself with both triggers, giving yourself four rad counters total and creating two Treasure tokens.
-5. Activate the two Treasure tokens, adding [[symbol:b]][[symbol:b]].
-6. When Razorlash Transmogrant returns to the battlefield, Grinding Station triggers, untapping Grinding Station.
-7. Repeat from step 2.
-
-Results:
-- Infinite artifact ETB
-- Infinite artifact LTB
-- Infinite artifact sacrifice triggers
-- Infinite creature ETB
-- Infinite creature LTB
-- Infinite creature sacrifice triggers
-- Infinite death triggers
-- Infinite Treasure creation
-- Infinite radiation counters for yourself
-- Infinite mill
-- Infinite self-mill
-===endpanel
-===endaccordion
-
-===accordion
-===panel: C101: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Grinding Station
+===panel: C087: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Grinding Station
 
 [[symbol:c]]
 
@@ -3816,165 +3265,7 @@ Results:
 ===endaccordion
 
 ===accordion
-===panel: C102: Hall of Echoes + Pitiless Plunderer + Razorlash Transmogrant + Krark-Clan Ironworks
-
-[[symbol:5]][[symbol:b]][[symbol:b]]
-
-Cards Required:
-- [[Hall of Echoes]]
-- [[Pitiless Plunderer]]
-- [[Razorlash Transmogrant]]
-- [[Krark-Clan Ironworks]]
-
-Prerequisites:
-- Hall of Echoes, [[Pitiless Plunderer]], and [[Krark-Clan Ironworks]] are on the battlefield.
-- Razorlash Transmogrant is in your graveyard.
-- An opponent controls four or more nonbasic lands.
-- [[symbol:5]][[symbol:b]][[symbol:b]] available to begin the loop.
-
-
-Steps:
-1. Activate Hall of Echoes by paying [[symbol:5]], causing it to become a copy of [[Pitiless Plunderer]] until end of turn.
-2. Activate Razorlash Transmogrant from your graveyard by paying [[symbol:b]][[symbol:b]], returning it to the battlefield.
-3. Activate Krark-Clan Ironworks by sacrificing Razorlash Transmogrant, adding [[symbol:c]][[symbol:c]].
-4. Razorlash Transmogrant dies, triggering both Pitiless Plunderer and the Hall of Echoes copy, creating two Treasure tokens total.
-5. Activate the two Treasure tokens, adding [[symbol:b]][[symbol:b]].
-6. Repeat from step 2.
-
-Results:
-- Infinite artifact ETB
-- Infinite artifact LTB
-- Infinite artifact sacrifice triggers
-- Infinite creature ETB
-- Infinite creature LTB
-- Infinite creature sacrifice triggers
-- Infinite death triggers
-- Infinite Treasure creation
-- Infinite colorless mana
-===endpanel
-===endaccordion
-
-===accordion
-===panel: C103: Hall of Echoes + The Ghoul, Gunslinger + Razorlash Transmogrant + Krark-Clan Ironworks
-
-[[symbol:5]][[symbol:b]][[symbol:b]]
-
-Cards Required:
-- [[Hall of Echoes]]
-- [[The Ghoul, Gunslinger]]
-- [[Razorlash Transmogrant]]
-- [[Krark-Clan Ironworks]]
-
-Prerequisites:
-- Hall of Echoes, [[The Ghoul, Gunslinger]], and [[Krark-Clan Ironworks]] are on the battlefield.
-- Razorlash Transmogrant is in your graveyard.
-- An opponent controls four or more nonbasic lands.
-- [[symbol:5]][[symbol:b]][[symbol:b]] available to begin the loop.
-
-
-Steps:
-1. Activate Hall of Echoes by paying [[symbol:5]], causing it to become a copy of [[The Ghoul, Gunslinger]] until end of turn.
-2. Activate Razorlash Transmogrant from your graveyard by paying [[symbol:b]][[symbol:b]], returning it to the battlefield.
-3. Activate Krark-Clan Ironworks by sacrificing Razorlash Transmogrant, adding [[symbol:c]][[symbol:c]].
-4. Razorlash Transmogrant dies, triggering both The Ghoul, Gunslinger and the Hall of Echoes copy. Target yourself with both triggers, giving yourself four rad counters total and creating two Treasure tokens.
-5. Activate the two Treasure tokens, adding [[symbol:b]][[symbol:b]].
-6. Repeat from step 2.
-
-Results:
-- Infinite artifact ETB
-- Infinite artifact LTB
-- Infinite artifact sacrifice triggers
-- Infinite creature ETB
-- Infinite creature LTB
-- Infinite creature sacrifice triggers
-- Infinite death triggers
-- Infinite Treasure creation
-- Infinite radiation counters for yourself
-- Infinite colorless mana
-===endpanel
-===endaccordion
-
-===accordion
-===panel: C104: Hall of Echoes + Pitiless Plunderer + Razorlash Transmogrant + Umbral Collar Zealot
-
-[[symbol:5]][[symbol:b]][[symbol:b]]
-
-Cards Required:
-- [[Hall of Echoes]]
-- [[Pitiless Plunderer]]
-- [[Razorlash Transmogrant]]
-- [[Umbral Collar Zealot]]
-
-Prerequisites:
-- Hall of Echoes, [[Pitiless Plunderer]], and [[Umbral Collar Zealot]] are on the battlefield.
-- Razorlash Transmogrant is in your graveyard.
-- An opponent controls four or more nonbasic lands.
-- [[symbol:5]][[symbol:b]][[symbol:b]] available to begin the loop.
-
-
-Steps:
-1. Activate Hall of Echoes by paying [[symbol:5]], causing it to become a copy of [[Pitiless Plunderer]] until end of turn.
-2. Activate Razorlash Transmogrant from your graveyard by paying [[symbol:b]][[symbol:b]], returning it to the battlefield.
-3. Activate Umbral Collar Zealot by sacrificing Razorlash Transmogrant.
-4. Razorlash Transmogrant dies, triggering both Pitiless Plunderer and the Hall of Echoes copy, creating two Treasure tokens total.
-5. Activate the two Treasure tokens, adding [[symbol:b]][[symbol:b]].
-6. Repeat from step 2.
-
-Results:
-- Infinite artifact ETB
-- Infinite artifact LTB
-- Infinite artifact sacrifice triggers
-- Infinite creature ETB
-- Infinite creature LTB
-- Infinite creature sacrifice triggers
-- Infinite death triggers
-- Infinite Treasure creation
-- Infinite surveil
-===endpanel
-===endaccordion
-
-===accordion
-===panel: C105: Hall of Echoes + The Ghoul, Gunslinger + Razorlash Transmogrant + Umbral Collar Zealot
-
-[[symbol:5]][[symbol:b]][[symbol:b]]
-
-Cards Required:
-- [[Hall of Echoes]]
-- [[The Ghoul, Gunslinger]]
-- [[Razorlash Transmogrant]]
-- [[Umbral Collar Zealot]]
-
-Prerequisites:
-- Hall of Echoes, [[The Ghoul, Gunslinger]], and [[Umbral Collar Zealot]] are on the battlefield.
-- Razorlash Transmogrant is in your graveyard.
-- An opponent controls four or more nonbasic lands.
-- [[symbol:5]][[symbol:b]][[symbol:b]] available to begin the loop.
-
-
-Steps:
-1. Activate Hall of Echoes by paying [[symbol:5]], causing it to become a copy of [[The Ghoul, Gunslinger]] until end of turn.
-2. Activate Razorlash Transmogrant from your graveyard by paying [[symbol:b]][[symbol:b]], returning it to the battlefield.
-3. Activate Umbral Collar Zealot by sacrificing Razorlash Transmogrant.
-4. Razorlash Transmogrant dies, triggering both The Ghoul, Gunslinger and the Hall of Echoes copy. Target yourself with both triggers, giving yourself four rad counters total and creating two Treasure tokens.
-5. Activate the two Treasure tokens, adding [[symbol:b]][[symbol:b]].
-6. Repeat from step 2.
-
-Results:
-- Infinite artifact ETB
-- Infinite artifact LTB
-- Infinite artifact sacrifice triggers
-- Infinite creature ETB
-- Infinite creature LTB
-- Infinite creature sacrifice triggers
-- Infinite death triggers
-- Infinite Treasure creation
-- Infinite radiation counters for yourself
-- Infinite surveil
-===endpanel
-===endaccordion
-
-===accordion
-===panel: C106: Imotekh the Stormlord + Junk Diver + Myr Retriever + Krark-Clan Ironworks
+===panel: C088: Imotekh the Stormlord + Junk Diver + Myr Retriever + Krark-Clan Ironworks
 
 [[symbol:b]]
 
@@ -4016,7 +3307,7 @@ Results:
 ===endaccordion
 
 ===accordion
-===panel: C107: Imotekh the Stormlord + Junk Diver + Workshop Assistant + Krark-Clan Ironworks
+===panel: C089: Imotekh the Stormlord + Junk Diver + Workshop Assistant + Krark-Clan Ironworks
 
 [[symbol:b]]
 
@@ -4058,7 +3349,7 @@ Results:
 ===endaccordion
 
 ===accordion
-===panel: C108: Imotekh the Stormlord + Scrap Trawler + Myr Retriever + Krark-Clan Ironworks
+===panel: C090: Imotekh the Stormlord + Scrap Trawler + Myr Retriever + Krark-Clan Ironworks
 
 [[symbol:b]]
 
@@ -4100,7 +3391,7 @@ Results:
 ===endaccordion
 
 ===accordion
-===panel: C109: Imotekh the Stormlord + Myr Retriever + Workshop Assistant + Krark-Clan Ironworks
+===panel: C091: Imotekh the Stormlord + Myr Retriever + Workshop Assistant + Krark-Clan Ironworks
 
 [[symbol:b]]
 
@@ -4142,7 +3433,7 @@ Results:
 ===endaccordion
 
 ===accordion
-===panel: C110: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Semblance Anvil
+===panel: C092: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Semblance Anvil
 
 [[symbol:c]]
 
@@ -4184,7 +3475,7 @@ Results:
 ===endaccordion
 
 ===accordion
-===panel: C111: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Krark-Clan Ironworks
+===panel: C093: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Krark-Clan Ironworks
 
 [[symbol:c]]
 
@@ -4229,7 +3520,7 @@ Results:
 ===endaccordion
 
 ===accordion
-===panel: C112: Scrap Trawler + Myr Retriever + Phyrexian Altar + Semblance Anvil
+===panel: C094: Scrap Trawler + Myr Retriever + Phyrexian Altar + Semblance Anvil
 
 [[symbol:c]]
 
@@ -4271,7 +3562,7 @@ Results:
 ===endaccordion
 
 ===accordion
-===panel: C113: Ultron the Annihilator + Nim Deathmantle + Phyrexian Altar + Pitiless Plunderer
+===panel: C095: Ultron the Annihilator + Nim Deathmantle + Phyrexian Altar + Pitiless Plunderer
 
 [[symbol:b]]
 
@@ -4312,7 +3603,7 @@ Results:
 ===endaccordion
 
 ===accordion
-===panel: C114: Out of the Tombs + Skullclamp + Pitiless Plunderer + Umbral Collar Zealot
+===panel: C096: Out of the Tombs + Skullclamp + Pitiless Plunderer + Umbral Collar Zealot
 
 [[symbol:b]]
 
@@ -4347,7 +3638,7 @@ Results:
 ===endaccordion
 
 ===accordion
-===panel: C115: Out of the Tombs + Skullclamp + Warren Soultrader + Sephiroth, Fabled SOLDIER
+===panel: C097: Out of the Tombs + Skullclamp + Warren Soultrader + Sephiroth, Fabled SOLDIER
 
 [[symbol:b]]
 
@@ -4384,7 +3675,7 @@ Results:
 ===endaccordion
 
 ===accordion
-===panel: C116: Out of the Tombs + Skullclamp + Warren Soultrader + Zulaport Cutthroat
+===panel: C098: Out of the Tombs + Skullclamp + Warren Soultrader + Zulaport Cutthroat
 
 [[symbol:b]]
 
@@ -4421,7 +3712,7 @@ Results:
 ===endaccordion
 
 ===accordion
-===panel: C117: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Phyrexian Altar
+===panel: C099: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Phyrexian Altar
 
 [[symbol:b]]
 
@@ -4466,7 +3757,7 @@ Results:
 ===endaccordion
 
 ===accordion
-===panel: C118: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Umbral Collar Zealot
+===panel: C100: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Umbral Collar Zealot
 
 [[symbol:b]]
 
@@ -4511,7 +3802,7 @@ Results:
 ===endaccordion
 
 ===accordion
-===panel: C119: Out of the Tombs + Skullclamp + Pitiless Plunderer + Blasting Station + Stitcher's Supplier
+===panel: C101: Out of the Tombs + Skullclamp + Pitiless Plunderer + Blasting Station + Stitcher's Supplier
 
 [[symbol:b]]
 
@@ -4551,7 +3842,7 @@ Results:
 ===endaccordion
 
 ===accordion
-===panel: C120: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Sol Ring + Junk Diver
+===panel: C102: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Sol Ring + Junk Diver
 
 [[symbol:c]]
 
@@ -4612,8 +3903,8 @@ Each card below lists the canonical core IDs in which it appears.
 
 - C004: Sensei's Divining Top + Aetherflux Reservoir + Bolas's Citadel
 - C005: Warren Soultrader + Aetherflux Reservoir + Gravecrawler
-- C056: Metalwork Colossus + Warren Soultrader + Pitiless Plunderer + Aetherflux Reservoir
-- C057: Metalwork Colossus + Warren Soultrader + Aetherflux Reservoir + Stridehangar Automaton
+- C054: Metalwork Colossus + Warren Soultrader + Pitiless Plunderer + Aetherflux Reservoir
+- C055: Metalwork Colossus + Warren Soultrader + Aetherflux Reservoir + Stridehangar Automaton
 ===endpanel
 ===endaccordion
 
@@ -4623,18 +3914,16 @@ Each card below lists the canonical core IDs in which it appears.
 - C006: Gravecrawler + Pitiless Plunderer + Altar of Dementia
 - C007: The Ghoul, Gunslinger + Gravecrawler + Altar of Dementia
 - C008: Pitiless Plunderer + Altar of Dementia + Stridehangar Automaton
-- C058: Hall of Echoes + Pitiless Plunderer + Razorlash Transmogrant + Altar of Dementia
-- C059: Hall of Echoes + The Ghoul, Gunslinger + Razorlash Transmogrant + Altar of Dementia
-- C060: Tortured Existence + Pitiless Plunderer + Imotekh the Stormlord + Altar of Dementia
-- C061: Out of the Tombs + Skullclamp + Pitiless Plunderer + Altar of Dementia
-- C062: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Altar of Dementia
+- C056: Tortured Existence + Pitiless Plunderer + Imotekh the Stormlord + Altar of Dementia
+- C057: Out of the Tombs + Skullclamp + Pitiless Plunderer + Altar of Dementia
+- C058: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Altar of Dementia
 ===endpanel
 ===endaccordion
 
 ===accordion
 ===panel: Altar of the Brood
 
-- C063: The Ooze + Clock of Omens + Stridehangar Automaton + Altar of the Brood
+- C059: The Ooze + Clock of Omens + Stridehangar Automaton + Altar of the Brood
 ===endpanel
 ===endaccordion
 
@@ -4642,10 +3931,8 @@ Each card below lists the canonical core IDs in which it appears.
 ===panel: Arcbound Ravager
 
 - C009: Pitiless Plunderer + Stridehangar Automaton + Arcbound Ravager
-- C064: Hall of Echoes + Pitiless Plunderer + Razorlash Transmogrant + Arcbound Ravager
-- C065: Hall of Echoes + The Ghoul, Gunslinger + Razorlash Transmogrant + Arcbound Ravager
-- C066: Out of the Tombs + Skullclamp + Pitiless Plunderer + Arcbound Ravager
-- C067: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Arcbound Ravager
+- C060: Out of the Tombs + Skullclamp + Pitiless Plunderer + Arcbound Ravager
+- C061: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Arcbound Ravager
 ===endpanel
 ===endaccordion
 
@@ -4664,21 +3951,19 @@ Each card below lists the canonical core IDs in which it appears.
 - C018: Out of the Tombs + Skullclamp + Ashnod's Altar
 - C019: Pitiless Plunderer + Ashnod's Altar + Stridehangar Automaton
 - C020: The Ooze + Stridehangar Automaton + Ashnod's Altar
-- C068: Scrap Trawler + Myr Retriever + Ashnod's Altar + Cloud Key
-- C069: Scrap Trawler + Myr Retriever + Ashnod's Altar + Foundry Inspector
-- C070: Glaring Fleshraker + Ashnod's Altar + Myr Retriever + Junk Diver
-- C071: Glaring Fleshraker + Ashnod's Altar + Junk Diver + Workshop Assistant
-- C072: Glaring Fleshraker + Ashnod's Altar + Myr Retriever + Scrap Trawler
-- C073: Glaring Fleshraker + Ashnod's Altar + Myr Retriever + Workshop Assistant
-- C074: Glaring Fleshraker + Ashnod's Altar + Scrap Trawler + Workshop Assistant
-- C075: Hall of Echoes + Pitiless Plunderer + Razorlash Transmogrant + Ashnod's Altar
-- C076: Hall of Echoes + The Ghoul, Gunslinger + Razorlash Transmogrant + Ashnod's Altar
-- C077: Imotekh the Stormlord + Junk Diver + Myr Retriever + Ashnod's Altar
-- C078: Imotekh the Stormlord + Junk Diver + Workshop Assistant + Ashnod's Altar
-- C079: Imotekh the Stormlord + Scrap Trawler + Myr Retriever + Ashnod's Altar
-- C080: Imotekh the Stormlord + Myr Retriever + Workshop Assistant + Ashnod's Altar
-- C081: Scrap Trawler + Myr Retriever + Ashnod's Altar + Semblance Anvil
-- C082: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Ashnod's Altar
+- C062: Scrap Trawler + Myr Retriever + Ashnod's Altar + Cloud Key
+- C063: Scrap Trawler + Myr Retriever + Ashnod's Altar + Foundry Inspector
+- C064: Glaring Fleshraker + Ashnod's Altar + Myr Retriever + Junk Diver
+- C065: Glaring Fleshraker + Ashnod's Altar + Junk Diver + Workshop Assistant
+- C066: Glaring Fleshraker + Ashnod's Altar + Myr Retriever + Scrap Trawler
+- C067: Glaring Fleshraker + Ashnod's Altar + Myr Retriever + Workshop Assistant
+- C068: Glaring Fleshraker + Ashnod's Altar + Scrap Trawler + Workshop Assistant
+- C069: Imotekh the Stormlord + Junk Diver + Myr Retriever + Ashnod's Altar
+- C070: Imotekh the Stormlord + Junk Diver + Workshop Assistant + Ashnod's Altar
+- C071: Imotekh the Stormlord + Scrap Trawler + Myr Retriever + Ashnod's Altar
+- C072: Imotekh the Stormlord + Myr Retriever + Workshop Assistant + Ashnod's Altar
+- C073: Scrap Trawler + Myr Retriever + Ashnod's Altar + Semblance Anvil
+- C074: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Ashnod's Altar
 ===endpanel
 ===endaccordion
 
@@ -4688,11 +3973,9 @@ Each card below lists the canonical core IDs in which it appears.
 - C021: Gravecrawler + Pitiless Plunderer + Blasting Station
 - C022: The Ghoul, Gunslinger + Gravecrawler + Blasting Station
 - C023: Pitiless Plunderer + Blasting Station + Stridehangar Automaton
-- C083: Hall of Echoes + Pitiless Plunderer + Razorlash Transmogrant + Blasting Station
-- C084: Hall of Echoes + The Ghoul, Gunslinger + Razorlash Transmogrant + Blasting Station
-- C085: Tortured Existence + Pitiless Plunderer + Imotekh the Stormlord + Blasting Station
-- C086: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Blasting Station
-- C119: Out of the Tombs + Skullclamp + Pitiless Plunderer + Blasting Station + Stitcher's Supplier
+- C075: Tortured Existence + Pitiless Plunderer + Imotekh the Stormlord + Blasting Station
+- C076: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Blasting Station
+- C101: Out of the Tombs + Skullclamp + Pitiless Plunderer + Blasting Station + Stitcher's Supplier
 ===endpanel
 ===endaccordion
 
@@ -4709,11 +3992,9 @@ Each card below lists the canonical core IDs in which it appears.
 - C024: Gravecrawler + Pitiless Plunderer + Carrion Feeder
 - C025: The Ghoul, Gunslinger + Gravecrawler + Carrion Feeder
 - C026: Pitiless Plunderer + Stridehangar Automaton + Carrion Feeder
-- C087: Hall of Echoes + Pitiless Plunderer + Razorlash Transmogrant + Carrion Feeder
-- C088: Hall of Echoes + The Ghoul, Gunslinger + Razorlash Transmogrant + Carrion Feeder
-- C089: Tortured Existence + Pitiless Plunderer + Imotekh the Stormlord + Carrion Feeder
-- C090: Out of the Tombs + Skullclamp + Pitiless Plunderer + Carrion Feeder
-- C091: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Carrion Feeder
+- C077: Tortured Existence + Pitiless Plunderer + Imotekh the Stormlord + Carrion Feeder
+- C078: Out of the Tombs + Skullclamp + Pitiless Plunderer + Carrion Feeder
+- C079: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Carrion Feeder
 ===endpanel
 ===endaccordion
 
@@ -4723,8 +4004,8 @@ Each card below lists the canonical core IDs in which it appears.
 - C027: Imotekh the Stormlord + Clock of Omens + Tortured Existence
 - C028: Retrofitter Foundry + Clock of Omens + Stridehangar Automaton
 - C029: The Ooze + Clock of Omens + Stridehangar Automaton
-- C063: The Ooze + Clock of Omens + Stridehangar Automaton + Altar of the Brood
-- C092: The Ooze + Clock of Omens + Stridehangar Automaton + Grinding Station
+- C059: The Ooze + Clock of Omens + Stridehangar Automaton + Altar of the Brood
+- C080: The Ooze + Clock of Omens + Stridehangar Automaton + Grinding Station
 ===endpanel
 ===endaccordion
 
@@ -4732,8 +4013,8 @@ Each card below lists the canonical core IDs in which it appears.
 ===panel: Cloud Key
 
 - C030: Sensei's Divining Top + Mystic Forge + Cloud Key
-- C068: Scrap Trawler + Myr Retriever + Ashnod's Altar + Cloud Key
-- C093: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Cloud Key
+- C062: Scrap Trawler + Myr Retriever + Ashnod's Altar + Cloud Key
+- C081: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Cloud Key
 ===endpanel
 ===endaccordion
 
@@ -4757,8 +4038,8 @@ Each card below lists the canonical core IDs in which it appears.
 ===panel: Foundry Inspector
 
 - C033: Sensei's Divining Top + Foundry Inspector + Mystic Forge
-- C069: Scrap Trawler + Myr Retriever + Ashnod's Altar + Foundry Inspector
-- C094: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Foundry Inspector
+- C063: Scrap Trawler + Myr Retriever + Ashnod's Altar + Foundry Inspector
+- C082: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Foundry Inspector
 ===endpanel
 ===endaccordion
 
@@ -4766,15 +4047,15 @@ Each card below lists the canonical core IDs in which it appears.
 ===panel: Glaring Fleshraker
 
 - C034: Sensei's Divining Top + Glaring Fleshraker + Mystic Forge
-- C070: Glaring Fleshraker + Ashnod's Altar + Myr Retriever + Junk Diver
-- C071: Glaring Fleshraker + Ashnod's Altar + Junk Diver + Workshop Assistant
-- C072: Glaring Fleshraker + Ashnod's Altar + Myr Retriever + Scrap Trawler
-- C073: Glaring Fleshraker + Ashnod's Altar + Myr Retriever + Workshop Assistant
-- C074: Glaring Fleshraker + Ashnod's Altar + Scrap Trawler + Workshop Assistant
-- C095: Glaring Fleshraker + Myr Retriever + Junk Diver + Krark-Clan Ironworks
-- C096: Glaring Fleshraker + Junk Diver + Workshop Assistant + Krark-Clan Ironworks
-- C097: Glaring Fleshraker + Myr Retriever + Scrap Trawler + Krark-Clan Ironworks
-- C098: Glaring Fleshraker + Myr Retriever + Workshop Assistant + Krark-Clan Ironworks
+- C064: Glaring Fleshraker + Ashnod's Altar + Myr Retriever + Junk Diver
+- C065: Glaring Fleshraker + Ashnod's Altar + Junk Diver + Workshop Assistant
+- C066: Glaring Fleshraker + Ashnod's Altar + Myr Retriever + Scrap Trawler
+- C067: Glaring Fleshraker + Ashnod's Altar + Myr Retriever + Workshop Assistant
+- C068: Glaring Fleshraker + Ashnod's Altar + Scrap Trawler + Workshop Assistant
+- C083: Glaring Fleshraker + Myr Retriever + Junk Diver + Krark-Clan Ironworks
+- C084: Glaring Fleshraker + Junk Diver + Workshop Assistant + Krark-Clan Ironworks
+- C085: Glaring Fleshraker + Myr Retriever + Scrap Trawler + Krark-Clan Ironworks
+- C086: Glaring Fleshraker + Myr Retriever + Workshop Assistant + Krark-Clan Ironworks
 ===endpanel
 ===endaccordion
 
@@ -4802,32 +4083,8 @@ Each card below lists the canonical core IDs in which it appears.
 ===panel: Grinding Station
 
 - C039: Pitiless Plunderer + Stridehangar Automaton + Grinding Station
-- C092: The Ooze + Clock of Omens + Stridehangar Automaton + Grinding Station
-- C099: Hall of Echoes + Pitiless Plunderer + Razorlash Transmogrant + Grinding Station
-- C100: Hall of Echoes + The Ghoul, Gunslinger + Razorlash Transmogrant + Grinding Station
-- C101: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Grinding Station
-===endpanel
-===endaccordion
-
-===accordion
-===panel: Hall of Echoes
-
-- C058: Hall of Echoes + Pitiless Plunderer + Razorlash Transmogrant + Altar of Dementia
-- C059: Hall of Echoes + The Ghoul, Gunslinger + Razorlash Transmogrant + Altar of Dementia
-- C064: Hall of Echoes + Pitiless Plunderer + Razorlash Transmogrant + Arcbound Ravager
-- C065: Hall of Echoes + The Ghoul, Gunslinger + Razorlash Transmogrant + Arcbound Ravager
-- C075: Hall of Echoes + Pitiless Plunderer + Razorlash Transmogrant + Ashnod's Altar
-- C076: Hall of Echoes + The Ghoul, Gunslinger + Razorlash Transmogrant + Ashnod's Altar
-- C083: Hall of Echoes + Pitiless Plunderer + Razorlash Transmogrant + Blasting Station
-- C084: Hall of Echoes + The Ghoul, Gunslinger + Razorlash Transmogrant + Blasting Station
-- C087: Hall of Echoes + Pitiless Plunderer + Razorlash Transmogrant + Carrion Feeder
-- C088: Hall of Echoes + The Ghoul, Gunslinger + Razorlash Transmogrant + Carrion Feeder
-- C099: Hall of Echoes + Pitiless Plunderer + Razorlash Transmogrant + Grinding Station
-- C100: Hall of Echoes + The Ghoul, Gunslinger + Razorlash Transmogrant + Grinding Station
-- C102: Hall of Echoes + Pitiless Plunderer + Razorlash Transmogrant + Krark-Clan Ironworks
-- C103: Hall of Echoes + The Ghoul, Gunslinger + Razorlash Transmogrant + Krark-Clan Ironworks
-- C104: Hall of Echoes + Pitiless Plunderer + Razorlash Transmogrant + Umbral Collar Zealot
-- C105: Hall of Echoes + The Ghoul, Gunslinger + Razorlash Transmogrant + Umbral Collar Zealot
+- C080: The Ooze + Clock of Omens + Stridehangar Automaton + Grinding Station
+- C087: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Grinding Station
 ===endpanel
 ===endaccordion
 
@@ -4838,32 +4095,32 @@ Each card below lists the canonical core IDs in which it appears.
 - C027: Imotekh the Stormlord + Clock of Omens + Tortured Existence
 - C040: Imotekh the Stormlord + Nim Deathmantle + Krark-Clan Ironworks
 - C041: Tortured Existence + Phyrexian Altar + Imotekh the Stormlord
-- C060: Tortured Existence + Pitiless Plunderer + Imotekh the Stormlord + Altar of Dementia
-- C077: Imotekh the Stormlord + Junk Diver + Myr Retriever + Ashnod's Altar
-- C078: Imotekh the Stormlord + Junk Diver + Workshop Assistant + Ashnod's Altar
-- C079: Imotekh the Stormlord + Scrap Trawler + Myr Retriever + Ashnod's Altar
-- C080: Imotekh the Stormlord + Myr Retriever + Workshop Assistant + Ashnod's Altar
-- C085: Tortured Existence + Pitiless Plunderer + Imotekh the Stormlord + Blasting Station
-- C089: Tortured Existence + Pitiless Plunderer + Imotekh the Stormlord + Carrion Feeder
-- C106: Imotekh the Stormlord + Junk Diver + Myr Retriever + Krark-Clan Ironworks
-- C107: Imotekh the Stormlord + Junk Diver + Workshop Assistant + Krark-Clan Ironworks
-- C108: Imotekh the Stormlord + Scrap Trawler + Myr Retriever + Krark-Clan Ironworks
-- C109: Imotekh the Stormlord + Myr Retriever + Workshop Assistant + Krark-Clan Ironworks
+- C056: Tortured Existence + Pitiless Plunderer + Imotekh the Stormlord + Altar of Dementia
+- C069: Imotekh the Stormlord + Junk Diver + Myr Retriever + Ashnod's Altar
+- C070: Imotekh the Stormlord + Junk Diver + Workshop Assistant + Ashnod's Altar
+- C071: Imotekh the Stormlord + Scrap Trawler + Myr Retriever + Ashnod's Altar
+- C072: Imotekh the Stormlord + Myr Retriever + Workshop Assistant + Ashnod's Altar
+- C075: Tortured Existence + Pitiless Plunderer + Imotekh the Stormlord + Blasting Station
+- C077: Tortured Existence + Pitiless Plunderer + Imotekh the Stormlord + Carrion Feeder
+- C088: Imotekh the Stormlord + Junk Diver + Myr Retriever + Krark-Clan Ironworks
+- C089: Imotekh the Stormlord + Junk Diver + Workshop Assistant + Krark-Clan Ironworks
+- C090: Imotekh the Stormlord + Scrap Trawler + Myr Retriever + Krark-Clan Ironworks
+- C091: Imotekh the Stormlord + Myr Retriever + Workshop Assistant + Krark-Clan Ironworks
 ===endpanel
 ===endaccordion
 
 ===accordion
 ===panel: Junk Diver
 
-- C070: Glaring Fleshraker + Ashnod's Altar + Myr Retriever + Junk Diver
-- C071: Glaring Fleshraker + Ashnod's Altar + Junk Diver + Workshop Assistant
-- C077: Imotekh the Stormlord + Junk Diver + Myr Retriever + Ashnod's Altar
-- C078: Imotekh the Stormlord + Junk Diver + Workshop Assistant + Ashnod's Altar
-- C095: Glaring Fleshraker + Myr Retriever + Junk Diver + Krark-Clan Ironworks
-- C096: Glaring Fleshraker + Junk Diver + Workshop Assistant + Krark-Clan Ironworks
-- C106: Imotekh the Stormlord + Junk Diver + Myr Retriever + Krark-Clan Ironworks
-- C107: Imotekh the Stormlord + Junk Diver + Workshop Assistant + Krark-Clan Ironworks
-- C120: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Sol Ring + Junk Diver
+- C064: Glaring Fleshraker + Ashnod's Altar + Myr Retriever + Junk Diver
+- C065: Glaring Fleshraker + Ashnod's Altar + Junk Diver + Workshop Assistant
+- C069: Imotekh the Stormlord + Junk Diver + Myr Retriever + Ashnod's Altar
+- C070: Imotekh the Stormlord + Junk Diver + Workshop Assistant + Ashnod's Altar
+- C083: Glaring Fleshraker + Myr Retriever + Junk Diver + Krark-Clan Ironworks
+- C084: Glaring Fleshraker + Junk Diver + Workshop Assistant + Krark-Clan Ironworks
+- C088: Imotekh the Stormlord + Junk Diver + Myr Retriever + Krark-Clan Ironworks
+- C089: Imotekh the Stormlord + Junk Diver + Workshop Assistant + Krark-Clan Ironworks
+- C102: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Sol Ring + Junk Diver
 ===endpanel
 ===endaccordion
 
@@ -4877,21 +4134,19 @@ Each card below lists the canonical core IDs in which it appears.
 - C044: Out of the Tombs + Skullclamp + Krark-Clan Ironworks
 - C045: Pitiless Plunderer + Stridehangar Automaton + Krark-Clan Ironworks
 - C046: The Ooze + Stridehangar Automaton + Krark-Clan Ironworks
-- C093: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Cloud Key
-- C094: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Foundry Inspector
-- C095: Glaring Fleshraker + Myr Retriever + Junk Diver + Krark-Clan Ironworks
-- C096: Glaring Fleshraker + Junk Diver + Workshop Assistant + Krark-Clan Ironworks
-- C097: Glaring Fleshraker + Myr Retriever + Scrap Trawler + Krark-Clan Ironworks
-- C098: Glaring Fleshraker + Myr Retriever + Workshop Assistant + Krark-Clan Ironworks
-- C102: Hall of Echoes + Pitiless Plunderer + Razorlash Transmogrant + Krark-Clan Ironworks
-- C103: Hall of Echoes + The Ghoul, Gunslinger + Razorlash Transmogrant + Krark-Clan Ironworks
-- C106: Imotekh the Stormlord + Junk Diver + Myr Retriever + Krark-Clan Ironworks
-- C107: Imotekh the Stormlord + Junk Diver + Workshop Assistant + Krark-Clan Ironworks
-- C108: Imotekh the Stormlord + Scrap Trawler + Myr Retriever + Krark-Clan Ironworks
-- C109: Imotekh the Stormlord + Myr Retriever + Workshop Assistant + Krark-Clan Ironworks
-- C110: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Semblance Anvil
-- C111: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Krark-Clan Ironworks
-- C120: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Sol Ring + Junk Diver
+- C081: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Cloud Key
+- C082: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Foundry Inspector
+- C083: Glaring Fleshraker + Myr Retriever + Junk Diver + Krark-Clan Ironworks
+- C084: Glaring Fleshraker + Junk Diver + Workshop Assistant + Krark-Clan Ironworks
+- C085: Glaring Fleshraker + Myr Retriever + Scrap Trawler + Krark-Clan Ironworks
+- C086: Glaring Fleshraker + Myr Retriever + Workshop Assistant + Krark-Clan Ironworks
+- C088: Imotekh the Stormlord + Junk Diver + Myr Retriever + Krark-Clan Ironworks
+- C089: Imotekh the Stormlord + Junk Diver + Workshop Assistant + Krark-Clan Ironworks
+- C090: Imotekh the Stormlord + Scrap Trawler + Myr Retriever + Krark-Clan Ironworks
+- C091: Imotekh the Stormlord + Myr Retriever + Workshop Assistant + Krark-Clan Ironworks
+- C092: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Semblance Anvil
+- C093: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Krark-Clan Ironworks
+- C102: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Sol Ring + Junk Diver
 ===endpanel
 ===endaccordion
 
@@ -4905,8 +4160,8 @@ Each card below lists the canonical core IDs in which it appears.
 ===accordion
 ===panel: Metalwork Colossus
 
-- C056: Metalwork Colossus + Warren Soultrader + Pitiless Plunderer + Aetherflux Reservoir
-- C057: Metalwork Colossus + Warren Soultrader + Aetherflux Reservoir + Stridehangar Automaton
+- C054: Metalwork Colossus + Warren Soultrader + Pitiless Plunderer + Aetherflux Reservoir
+- C055: Metalwork Colossus + Warren Soultrader + Aetherflux Reservoir + Stridehangar Automaton
 ===endpanel
 ===endaccordion
 
@@ -4915,26 +4170,26 @@ Each card below lists the canonical core IDs in which it appears.
 
 - C015: Myr Retriever + Ashnod's Altar + Ultron, Artificial Malevolence
 - C042: Myr Retriever + Krark-Clan Ironworks + Ultron, Artificial Malevolence
-- C068: Scrap Trawler + Myr Retriever + Ashnod's Altar + Cloud Key
-- C069: Scrap Trawler + Myr Retriever + Ashnod's Altar + Foundry Inspector
-- C070: Glaring Fleshraker + Ashnod's Altar + Myr Retriever + Junk Diver
-- C072: Glaring Fleshraker + Ashnod's Altar + Myr Retriever + Scrap Trawler
-- C073: Glaring Fleshraker + Ashnod's Altar + Myr Retriever + Workshop Assistant
-- C077: Imotekh the Stormlord + Junk Diver + Myr Retriever + Ashnod's Altar
-- C079: Imotekh the Stormlord + Scrap Trawler + Myr Retriever + Ashnod's Altar
-- C080: Imotekh the Stormlord + Myr Retriever + Workshop Assistant + Ashnod's Altar
-- C081: Scrap Trawler + Myr Retriever + Ashnod's Altar + Semblance Anvil
-- C093: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Cloud Key
-- C094: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Foundry Inspector
-- C095: Glaring Fleshraker + Myr Retriever + Junk Diver + Krark-Clan Ironworks
-- C097: Glaring Fleshraker + Myr Retriever + Scrap Trawler + Krark-Clan Ironworks
-- C098: Glaring Fleshraker + Myr Retriever + Workshop Assistant + Krark-Clan Ironworks
-- C106: Imotekh the Stormlord + Junk Diver + Myr Retriever + Krark-Clan Ironworks
-- C108: Imotekh the Stormlord + Scrap Trawler + Myr Retriever + Krark-Clan Ironworks
-- C109: Imotekh the Stormlord + Myr Retriever + Workshop Assistant + Krark-Clan Ironworks
-- C110: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Semblance Anvil
-- C112: Scrap Trawler + Myr Retriever + Phyrexian Altar + Semblance Anvil
-- C120: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Sol Ring + Junk Diver
+- C062: Scrap Trawler + Myr Retriever + Ashnod's Altar + Cloud Key
+- C063: Scrap Trawler + Myr Retriever + Ashnod's Altar + Foundry Inspector
+- C064: Glaring Fleshraker + Ashnod's Altar + Myr Retriever + Junk Diver
+- C066: Glaring Fleshraker + Ashnod's Altar + Myr Retriever + Scrap Trawler
+- C067: Glaring Fleshraker + Ashnod's Altar + Myr Retriever + Workshop Assistant
+- C069: Imotekh the Stormlord + Junk Diver + Myr Retriever + Ashnod's Altar
+- C071: Imotekh the Stormlord + Scrap Trawler + Myr Retriever + Ashnod's Altar
+- C072: Imotekh the Stormlord + Myr Retriever + Workshop Assistant + Ashnod's Altar
+- C073: Scrap Trawler + Myr Retriever + Ashnod's Altar + Semblance Anvil
+- C081: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Cloud Key
+- C082: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Foundry Inspector
+- C083: Glaring Fleshraker + Myr Retriever + Junk Diver + Krark-Clan Ironworks
+- C085: Glaring Fleshraker + Myr Retriever + Scrap Trawler + Krark-Clan Ironworks
+- C086: Glaring Fleshraker + Myr Retriever + Workshop Assistant + Krark-Clan Ironworks
+- C088: Imotekh the Stormlord + Junk Diver + Myr Retriever + Krark-Clan Ironworks
+- C090: Imotekh the Stormlord + Scrap Trawler + Myr Retriever + Krark-Clan Ironworks
+- C091: Imotekh the Stormlord + Myr Retriever + Workshop Assistant + Krark-Clan Ironworks
+- C092: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Semblance Anvil
+- C094: Scrap Trawler + Myr Retriever + Phyrexian Altar + Semblance Anvil
+- C102: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Sol Ring + Junk Diver
 ===endpanel
 ===endaccordion
 
@@ -4958,7 +4213,7 @@ Each card below lists the canonical core IDs in which it appears.
 - C017: Ultron the Annihilator + Nim Deathmantle + Ashnod's Altar
 - C040: Imotekh the Stormlord + Nim Deathmantle + Krark-Clan Ironworks
 - C043: Ultron the Annihilator + Nim Deathmantle + Krark-Clan Ironworks
-- C113: Ultron the Annihilator + Nim Deathmantle + Phyrexian Altar + Pitiless Plunderer
+- C095: Ultron the Annihilator + Nim Deathmantle + Phyrexian Altar + Pitiless Plunderer
 ===endpanel
 ===endaccordion
 
@@ -4975,13 +4230,13 @@ Each card below lists the canonical core IDs in which it appears.
 - C018: Out of the Tombs + Skullclamp + Ashnod's Altar
 - C044: Out of the Tombs + Skullclamp + Krark-Clan Ironworks
 - C048: Out of the Tombs + Skullclamp + Phyrexian Altar
-- C061: Out of the Tombs + Skullclamp + Pitiless Plunderer + Altar of Dementia
-- C066: Out of the Tombs + Skullclamp + Pitiless Plunderer + Arcbound Ravager
-- C090: Out of the Tombs + Skullclamp + Pitiless Plunderer + Carrion Feeder
-- C114: Out of the Tombs + Skullclamp + Pitiless Plunderer + Umbral Collar Zealot
-- C115: Out of the Tombs + Skullclamp + Warren Soultrader + Sephiroth, Fabled SOLDIER
-- C116: Out of the Tombs + Skullclamp + Warren Soultrader + Zulaport Cutthroat
-- C119: Out of the Tombs + Skullclamp + Pitiless Plunderer + Blasting Station + Stitcher's Supplier
+- C057: Out of the Tombs + Skullclamp + Pitiless Plunderer + Altar of Dementia
+- C060: Out of the Tombs + Skullclamp + Pitiless Plunderer + Arcbound Ravager
+- C078: Out of the Tombs + Skullclamp + Pitiless Plunderer + Carrion Feeder
+- C096: Out of the Tombs + Skullclamp + Pitiless Plunderer + Umbral Collar Zealot
+- C097: Out of the Tombs + Skullclamp + Warren Soultrader + Sephiroth, Fabled SOLDIER
+- C098: Out of the Tombs + Skullclamp + Warren Soultrader + Zulaport Cutthroat
+- C101: Out of the Tombs + Skullclamp + Pitiless Plunderer + Blasting Station + Stitcher's Supplier
 ===endpanel
 ===endaccordion
 
@@ -4991,13 +4246,11 @@ Each card below lists the canonical core IDs in which it appears.
 - C003: Gravecrawler + Phyrexian Altar
 - C041: Tortured Existence + Phyrexian Altar + Imotekh the Stormlord
 - C048: Out of the Tombs + Skullclamp + Phyrexian Altar
-- C049: Razorlash Transmogrant + Pitiless Plunderer + Phyrexian Altar
-- C050: Pitiless Plunderer + Phyrexian Altar + Stridehangar Automaton
-- C051: The Ghoul, Gunslinger + Razorlash Transmogrant + Phyrexian Altar
-- C052: The Ooze + Stridehangar Automaton + Phyrexian Altar
-- C112: Scrap Trawler + Myr Retriever + Phyrexian Altar + Semblance Anvil
-- C113: Ultron the Annihilator + Nim Deathmantle + Phyrexian Altar + Pitiless Plunderer
-- C117: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Phyrexian Altar
+- C049: Pitiless Plunderer + Phyrexian Altar + Stridehangar Automaton
+- C050: The Ooze + Stridehangar Automaton + Phyrexian Altar
+- C094: Scrap Trawler + Myr Retriever + Phyrexian Altar + Semblance Anvil
+- C095: Ultron the Annihilator + Nim Deathmantle + Phyrexian Altar + Pitiless Plunderer
+- C099: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Phyrexian Altar
 ===endpanel
 ===endaccordion
 
@@ -5016,60 +4269,27 @@ Each card below lists the canonical core IDs in which it appears.
 - C035: Gravecrawler + Pitiless Plunderer + Umbral Collar Zealot
 - C039: Pitiless Plunderer + Stridehangar Automaton + Grinding Station
 - C045: Pitiless Plunderer + Stridehangar Automaton + Krark-Clan Ironworks
-- C049: Razorlash Transmogrant + Pitiless Plunderer + Phyrexian Altar
-- C050: Pitiless Plunderer + Phyrexian Altar + Stridehangar Automaton
-- C053: Pitiless Plunderer + Umbral Collar Zealot + Stridehangar Automaton
-- C056: Metalwork Colossus + Warren Soultrader + Pitiless Plunderer + Aetherflux Reservoir
-- C058: Hall of Echoes + Pitiless Plunderer + Razorlash Transmogrant + Altar of Dementia
-- C060: Tortured Existence + Pitiless Plunderer + Imotekh the Stormlord + Altar of Dementia
-- C061: Out of the Tombs + Skullclamp + Pitiless Plunderer + Altar of Dementia
-- C062: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Altar of Dementia
-- C064: Hall of Echoes + Pitiless Plunderer + Razorlash Transmogrant + Arcbound Ravager
-- C066: Out of the Tombs + Skullclamp + Pitiless Plunderer + Arcbound Ravager
-- C067: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Arcbound Ravager
-- C075: Hall of Echoes + Pitiless Plunderer + Razorlash Transmogrant + Ashnod's Altar
-- C082: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Ashnod's Altar
-- C083: Hall of Echoes + Pitiless Plunderer + Razorlash Transmogrant + Blasting Station
-- C085: Tortured Existence + Pitiless Plunderer + Imotekh the Stormlord + Blasting Station
-- C086: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Blasting Station
-- C087: Hall of Echoes + Pitiless Plunderer + Razorlash Transmogrant + Carrion Feeder
-- C089: Tortured Existence + Pitiless Plunderer + Imotekh the Stormlord + Carrion Feeder
-- C090: Out of the Tombs + Skullclamp + Pitiless Plunderer + Carrion Feeder
-- C091: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Carrion Feeder
-- C099: Hall of Echoes + Pitiless Plunderer + Razorlash Transmogrant + Grinding Station
-- C101: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Grinding Station
-- C102: Hall of Echoes + Pitiless Plunderer + Razorlash Transmogrant + Krark-Clan Ironworks
-- C104: Hall of Echoes + Pitiless Plunderer + Razorlash Transmogrant + Umbral Collar Zealot
-- C111: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Krark-Clan Ironworks
-- C113: Ultron the Annihilator + Nim Deathmantle + Phyrexian Altar + Pitiless Plunderer
-- C114: Out of the Tombs + Skullclamp + Pitiless Plunderer + Umbral Collar Zealot
-- C117: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Phyrexian Altar
-- C118: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Umbral Collar Zealot
-- C119: Out of the Tombs + Skullclamp + Pitiless Plunderer + Blasting Station + Stitcher's Supplier
-===endpanel
-===endaccordion
-
-===accordion
-===panel: Razorlash Transmogrant
-
-- C049: Razorlash Transmogrant + Pitiless Plunderer + Phyrexian Altar
-- C051: The Ghoul, Gunslinger + Razorlash Transmogrant + Phyrexian Altar
-- C058: Hall of Echoes + Pitiless Plunderer + Razorlash Transmogrant + Altar of Dementia
-- C059: Hall of Echoes + The Ghoul, Gunslinger + Razorlash Transmogrant + Altar of Dementia
-- C064: Hall of Echoes + Pitiless Plunderer + Razorlash Transmogrant + Arcbound Ravager
-- C065: Hall of Echoes + The Ghoul, Gunslinger + Razorlash Transmogrant + Arcbound Ravager
-- C075: Hall of Echoes + Pitiless Plunderer + Razorlash Transmogrant + Ashnod's Altar
-- C076: Hall of Echoes + The Ghoul, Gunslinger + Razorlash Transmogrant + Ashnod's Altar
-- C083: Hall of Echoes + Pitiless Plunderer + Razorlash Transmogrant + Blasting Station
-- C084: Hall of Echoes + The Ghoul, Gunslinger + Razorlash Transmogrant + Blasting Station
-- C087: Hall of Echoes + Pitiless Plunderer + Razorlash Transmogrant + Carrion Feeder
-- C088: Hall of Echoes + The Ghoul, Gunslinger + Razorlash Transmogrant + Carrion Feeder
-- C099: Hall of Echoes + Pitiless Plunderer + Razorlash Transmogrant + Grinding Station
-- C100: Hall of Echoes + The Ghoul, Gunslinger + Razorlash Transmogrant + Grinding Station
-- C102: Hall of Echoes + Pitiless Plunderer + Razorlash Transmogrant + Krark-Clan Ironworks
-- C103: Hall of Echoes + The Ghoul, Gunslinger + Razorlash Transmogrant + Krark-Clan Ironworks
-- C104: Hall of Echoes + Pitiless Plunderer + Razorlash Transmogrant + Umbral Collar Zealot
-- C105: Hall of Echoes + The Ghoul, Gunslinger + Razorlash Transmogrant + Umbral Collar Zealot
+- C049: Pitiless Plunderer + Phyrexian Altar + Stridehangar Automaton
+- C051: Pitiless Plunderer + Umbral Collar Zealot + Stridehangar Automaton
+- C054: Metalwork Colossus + Warren Soultrader + Pitiless Plunderer + Aetherflux Reservoir
+- C056: Tortured Existence + Pitiless Plunderer + Imotekh the Stormlord + Altar of Dementia
+- C057: Out of the Tombs + Skullclamp + Pitiless Plunderer + Altar of Dementia
+- C058: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Altar of Dementia
+- C060: Out of the Tombs + Skullclamp + Pitiless Plunderer + Arcbound Ravager
+- C061: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Arcbound Ravager
+- C074: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Ashnod's Altar
+- C075: Tortured Existence + Pitiless Plunderer + Imotekh the Stormlord + Blasting Station
+- C076: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Blasting Station
+- C077: Tortured Existence + Pitiless Plunderer + Imotekh the Stormlord + Carrion Feeder
+- C078: Out of the Tombs + Skullclamp + Pitiless Plunderer + Carrion Feeder
+- C079: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Carrion Feeder
+- C087: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Grinding Station
+- C093: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Krark-Clan Ironworks
+- C095: Ultron the Annihilator + Nim Deathmantle + Phyrexian Altar + Pitiless Plunderer
+- C096: Out of the Tombs + Skullclamp + Pitiless Plunderer + Umbral Collar Zealot
+- C099: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Phyrexian Altar
+- C100: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Umbral Collar Zealot
+- C101: Out of the Tombs + Skullclamp + Pitiless Plunderer + Blasting Station + Stitcher's Supplier
 ===endpanel
 ===endaccordion
 
@@ -5086,19 +4306,19 @@ Each card below lists the canonical core IDs in which it appears.
 ===accordion
 ===panel: Scrap Trawler
 
-- C068: Scrap Trawler + Myr Retriever + Ashnod's Altar + Cloud Key
-- C069: Scrap Trawler + Myr Retriever + Ashnod's Altar + Foundry Inspector
-- C072: Glaring Fleshraker + Ashnod's Altar + Myr Retriever + Scrap Trawler
-- C074: Glaring Fleshraker + Ashnod's Altar + Scrap Trawler + Workshop Assistant
-- C079: Imotekh the Stormlord + Scrap Trawler + Myr Retriever + Ashnod's Altar
-- C081: Scrap Trawler + Myr Retriever + Ashnod's Altar + Semblance Anvil
-- C093: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Cloud Key
-- C094: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Foundry Inspector
-- C097: Glaring Fleshraker + Myr Retriever + Scrap Trawler + Krark-Clan Ironworks
-- C108: Imotekh the Stormlord + Scrap Trawler + Myr Retriever + Krark-Clan Ironworks
-- C110: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Semblance Anvil
-- C112: Scrap Trawler + Myr Retriever + Phyrexian Altar + Semblance Anvil
-- C120: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Sol Ring + Junk Diver
+- C062: Scrap Trawler + Myr Retriever + Ashnod's Altar + Cloud Key
+- C063: Scrap Trawler + Myr Retriever + Ashnod's Altar + Foundry Inspector
+- C066: Glaring Fleshraker + Ashnod's Altar + Myr Retriever + Scrap Trawler
+- C068: Glaring Fleshraker + Ashnod's Altar + Scrap Trawler + Workshop Assistant
+- C071: Imotekh the Stormlord + Scrap Trawler + Myr Retriever + Ashnod's Altar
+- C073: Scrap Trawler + Myr Retriever + Ashnod's Altar + Semblance Anvil
+- C081: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Cloud Key
+- C082: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Foundry Inspector
+- C085: Glaring Fleshraker + Myr Retriever + Scrap Trawler + Krark-Clan Ironworks
+- C090: Imotekh the Stormlord + Scrap Trawler + Myr Retriever + Krark-Clan Ironworks
+- C092: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Semblance Anvil
+- C094: Scrap Trawler + Myr Retriever + Phyrexian Altar + Semblance Anvil
+- C102: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Sol Ring + Junk Diver
 ===endpanel
 ===endaccordion
 
@@ -5106,9 +4326,9 @@ Each card below lists the canonical core IDs in which it appears.
 ===panel: Semblance Anvil
 
 - C047: Sensei's Divining Top + Mystic Forge + Semblance Anvil
-- C081: Scrap Trawler + Myr Retriever + Ashnod's Altar + Semblance Anvil
-- C110: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Semblance Anvil
-- C112: Scrap Trawler + Myr Retriever + Phyrexian Altar + Semblance Anvil
+- C073: Scrap Trawler + Myr Retriever + Ashnod's Altar + Semblance Anvil
+- C092: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Semblance Anvil
+- C094: Scrap Trawler + Myr Retriever + Phyrexian Altar + Semblance Anvil
 ===endpanel
 ===endaccordion
 
@@ -5124,11 +4344,11 @@ Each card below lists the canonical core IDs in which it appears.
 ===endaccordion
 
 ===accordion
-===panel: Sephiroth, Fabled SOLDIER
+===panel: Sephiroth, Fabled SOLDIER // Sephiroth, One-Winged Angel
 
 - C036: Warren Soultrader + Gravecrawler + Sephiroth, Fabled SOLDIER
-- C054: Warren Soultrader + Stridehangar Automaton + Sephiroth, Fabled SOLDIER
-- C115: Out of the Tombs + Skullclamp + Warren Soultrader + Sephiroth, Fabled SOLDIER
+- C052: Warren Soultrader + Stridehangar Automaton + Sephiroth, Fabled SOLDIER
+- C097: Out of the Tombs + Skullclamp + Warren Soultrader + Sephiroth, Fabled SOLDIER
 ===endpanel
 ===endaccordion
 
@@ -5138,27 +4358,27 @@ Each card below lists the canonical core IDs in which it appears.
 - C018: Out of the Tombs + Skullclamp + Ashnod's Altar
 - C044: Out of the Tombs + Skullclamp + Krark-Clan Ironworks
 - C048: Out of the Tombs + Skullclamp + Phyrexian Altar
-- C061: Out of the Tombs + Skullclamp + Pitiless Plunderer + Altar of Dementia
-- C066: Out of the Tombs + Skullclamp + Pitiless Plunderer + Arcbound Ravager
-- C090: Out of the Tombs + Skullclamp + Pitiless Plunderer + Carrion Feeder
-- C114: Out of the Tombs + Skullclamp + Pitiless Plunderer + Umbral Collar Zealot
-- C115: Out of the Tombs + Skullclamp + Warren Soultrader + Sephiroth, Fabled SOLDIER
-- C116: Out of the Tombs + Skullclamp + Warren Soultrader + Zulaport Cutthroat
-- C119: Out of the Tombs + Skullclamp + Pitiless Plunderer + Blasting Station + Stitcher's Supplier
+- C057: Out of the Tombs + Skullclamp + Pitiless Plunderer + Altar of Dementia
+- C060: Out of the Tombs + Skullclamp + Pitiless Plunderer + Arcbound Ravager
+- C078: Out of the Tombs + Skullclamp + Pitiless Plunderer + Carrion Feeder
+- C096: Out of the Tombs + Skullclamp + Pitiless Plunderer + Umbral Collar Zealot
+- C097: Out of the Tombs + Skullclamp + Warren Soultrader + Sephiroth, Fabled SOLDIER
+- C098: Out of the Tombs + Skullclamp + Warren Soultrader + Zulaport Cutthroat
+- C101: Out of the Tombs + Skullclamp + Pitiless Plunderer + Blasting Station + Stitcher's Supplier
 ===endpanel
 ===endaccordion
 
 ===accordion
 ===panel: Sol Ring
 
-- C120: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Sol Ring + Junk Diver
+- C102: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Sol Ring + Junk Diver
 ===endpanel
 ===endaccordion
 
 ===accordion
 ===panel: Stitcher's Supplier
 
-- C119: Out of the Tombs + Skullclamp + Pitiless Plunderer + Blasting Station + Stitcher's Supplier
+- C101: Out of the Tombs + Skullclamp + Pitiless Plunderer + Blasting Station + Stitcher's Supplier
 ===endpanel
 ===endaccordion
 
@@ -5177,23 +4397,23 @@ Each card below lists the canonical core IDs in which it appears.
 - C039: Pitiless Plunderer + Stridehangar Automaton + Grinding Station
 - C045: Pitiless Plunderer + Stridehangar Automaton + Krark-Clan Ironworks
 - C046: The Ooze + Stridehangar Automaton + Krark-Clan Ironworks
-- C050: Pitiless Plunderer + Phyrexian Altar + Stridehangar Automaton
-- C052: The Ooze + Stridehangar Automaton + Phyrexian Altar
-- C053: Pitiless Plunderer + Umbral Collar Zealot + Stridehangar Automaton
-- C054: Warren Soultrader + Stridehangar Automaton + Sephiroth, Fabled SOLDIER
-- C055: Warren Soultrader + Zulaport Cutthroat + Stridehangar Automaton
-- C057: Metalwork Colossus + Warren Soultrader + Aetherflux Reservoir + Stridehangar Automaton
-- C062: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Altar of Dementia
-- C063: The Ooze + Clock of Omens + Stridehangar Automaton + Altar of the Brood
-- C067: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Arcbound Ravager
-- C082: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Ashnod's Altar
-- C086: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Blasting Station
-- C091: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Carrion Feeder
-- C092: The Ooze + Clock of Omens + Stridehangar Automaton + Grinding Station
-- C101: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Grinding Station
-- C111: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Krark-Clan Ironworks
-- C117: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Phyrexian Altar
-- C118: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Umbral Collar Zealot
+- C049: Pitiless Plunderer + Phyrexian Altar + Stridehangar Automaton
+- C050: The Ooze + Stridehangar Automaton + Phyrexian Altar
+- C051: Pitiless Plunderer + Umbral Collar Zealot + Stridehangar Automaton
+- C052: Warren Soultrader + Stridehangar Automaton + Sephiroth, Fabled SOLDIER
+- C053: Warren Soultrader + Zulaport Cutthroat + Stridehangar Automaton
+- C055: Metalwork Colossus + Warren Soultrader + Aetherflux Reservoir + Stridehangar Automaton
+- C058: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Altar of Dementia
+- C059: The Ooze + Clock of Omens + Stridehangar Automaton + Altar of the Brood
+- C061: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Arcbound Ravager
+- C074: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Ashnod's Altar
+- C076: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Blasting Station
+- C079: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Carrion Feeder
+- C080: The Ooze + Clock of Omens + Stridehangar Automaton + Grinding Station
+- C087: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Grinding Station
+- C093: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Krark-Clan Ironworks
+- C099: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Phyrexian Altar
+- C100: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Umbral Collar Zealot
 ===endpanel
 ===endaccordion
 
@@ -5212,15 +4432,6 @@ Each card below lists the canonical core IDs in which it appears.
 - C022: The Ghoul, Gunslinger + Gravecrawler + Blasting Station
 - C025: The Ghoul, Gunslinger + Gravecrawler + Carrion Feeder
 - C037: The Ghoul, Gunslinger + Gravecrawler + Umbral Collar Zealot
-- C051: The Ghoul, Gunslinger + Razorlash Transmogrant + Phyrexian Altar
-- C059: Hall of Echoes + The Ghoul, Gunslinger + Razorlash Transmogrant + Altar of Dementia
-- C065: Hall of Echoes + The Ghoul, Gunslinger + Razorlash Transmogrant + Arcbound Ravager
-- C076: Hall of Echoes + The Ghoul, Gunslinger + Razorlash Transmogrant + Ashnod's Altar
-- C084: Hall of Echoes + The Ghoul, Gunslinger + Razorlash Transmogrant + Blasting Station
-- C088: Hall of Echoes + The Ghoul, Gunslinger + Razorlash Transmogrant + Carrion Feeder
-- C100: Hall of Echoes + The Ghoul, Gunslinger + Razorlash Transmogrant + Grinding Station
-- C103: Hall of Echoes + The Ghoul, Gunslinger + Razorlash Transmogrant + Krark-Clan Ironworks
-- C105: Hall of Echoes + The Ghoul, Gunslinger + Razorlash Transmogrant + Umbral Collar Zealot
 ===endpanel
 ===endaccordion
 
@@ -5230,18 +4441,18 @@ Each card below lists the canonical core IDs in which it appears.
 - C020: The Ooze + Stridehangar Automaton + Ashnod's Altar
 - C029: The Ooze + Clock of Omens + Stridehangar Automaton
 - C046: The Ooze + Stridehangar Automaton + Krark-Clan Ironworks
-- C052: The Ooze + Stridehangar Automaton + Phyrexian Altar
-- C062: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Altar of Dementia
-- C063: The Ooze + Clock of Omens + Stridehangar Automaton + Altar of the Brood
-- C067: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Arcbound Ravager
-- C082: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Ashnod's Altar
-- C086: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Blasting Station
-- C091: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Carrion Feeder
-- C092: The Ooze + Clock of Omens + Stridehangar Automaton + Grinding Station
-- C101: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Grinding Station
-- C111: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Krark-Clan Ironworks
-- C117: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Phyrexian Altar
-- C118: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Umbral Collar Zealot
+- C050: The Ooze + Stridehangar Automaton + Phyrexian Altar
+- C058: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Altar of Dementia
+- C059: The Ooze + Clock of Omens + Stridehangar Automaton + Altar of the Brood
+- C061: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Arcbound Ravager
+- C074: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Ashnod's Altar
+- C076: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Blasting Station
+- C079: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Carrion Feeder
+- C080: The Ooze + Clock of Omens + Stridehangar Automaton + Grinding Station
+- C087: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Grinding Station
+- C093: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Krark-Clan Ironworks
+- C099: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Phyrexian Altar
+- C100: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Umbral Collar Zealot
 ===endpanel
 ===endaccordion
 
@@ -5250,9 +4461,9 @@ Each card below lists the canonical core IDs in which it appears.
 
 - C027: Imotekh the Stormlord + Clock of Omens + Tortured Existence
 - C041: Tortured Existence + Phyrexian Altar + Imotekh the Stormlord
-- C060: Tortured Existence + Pitiless Plunderer + Imotekh the Stormlord + Altar of Dementia
-- C085: Tortured Existence + Pitiless Plunderer + Imotekh the Stormlord + Blasting Station
-- C089: Tortured Existence + Pitiless Plunderer + Imotekh the Stormlord + Carrion Feeder
+- C056: Tortured Existence + Pitiless Plunderer + Imotekh the Stormlord + Altar of Dementia
+- C075: Tortured Existence + Pitiless Plunderer + Imotekh the Stormlord + Blasting Station
+- C077: Tortured Existence + Pitiless Plunderer + Imotekh the Stormlord + Carrion Feeder
 ===endpanel
 ===endaccordion
 
@@ -5261,7 +4472,7 @@ Each card below lists the canonical core IDs in which it appears.
 
 - C017: Ultron the Annihilator + Nim Deathmantle + Ashnod's Altar
 - C043: Ultron the Annihilator + Nim Deathmantle + Krark-Clan Ironworks
-- C113: Ultron the Annihilator + Nim Deathmantle + Phyrexian Altar + Pitiless Plunderer
+- C095: Ultron the Annihilator + Nim Deathmantle + Phyrexian Altar + Pitiless Plunderer
 ===endpanel
 ===endaccordion
 
@@ -5278,11 +4489,9 @@ Each card below lists the canonical core IDs in which it appears.
 
 - C035: Gravecrawler + Pitiless Plunderer + Umbral Collar Zealot
 - C037: The Ghoul, Gunslinger + Gravecrawler + Umbral Collar Zealot
-- C053: Pitiless Plunderer + Umbral Collar Zealot + Stridehangar Automaton
-- C104: Hall of Echoes + Pitiless Plunderer + Razorlash Transmogrant + Umbral Collar Zealot
-- C105: Hall of Echoes + The Ghoul, Gunslinger + Razorlash Transmogrant + Umbral Collar Zealot
-- C114: Out of the Tombs + Skullclamp + Pitiless Plunderer + Umbral Collar Zealot
-- C118: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Umbral Collar Zealot
+- C051: Pitiless Plunderer + Umbral Collar Zealot + Stridehangar Automaton
+- C096: Out of the Tombs + Skullclamp + Pitiless Plunderer + Umbral Collar Zealot
+- C100: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Umbral Collar Zealot
 ===endpanel
 ===endaccordion
 
@@ -5292,27 +4501,27 @@ Each card below lists the canonical core IDs in which it appears.
 - C005: Warren Soultrader + Aetherflux Reservoir + Gravecrawler
 - C036: Warren Soultrader + Gravecrawler + Sephiroth, Fabled SOLDIER
 - C038: Warren Soultrader + Gravecrawler + Zulaport Cutthroat
-- C054: Warren Soultrader + Stridehangar Automaton + Sephiroth, Fabled SOLDIER
-- C055: Warren Soultrader + Zulaport Cutthroat + Stridehangar Automaton
-- C056: Metalwork Colossus + Warren Soultrader + Pitiless Plunderer + Aetherflux Reservoir
-- C057: Metalwork Colossus + Warren Soultrader + Aetherflux Reservoir + Stridehangar Automaton
-- C115: Out of the Tombs + Skullclamp + Warren Soultrader + Sephiroth, Fabled SOLDIER
-- C116: Out of the Tombs + Skullclamp + Warren Soultrader + Zulaport Cutthroat
+- C052: Warren Soultrader + Stridehangar Automaton + Sephiroth, Fabled SOLDIER
+- C053: Warren Soultrader + Zulaport Cutthroat + Stridehangar Automaton
+- C054: Metalwork Colossus + Warren Soultrader + Pitiless Plunderer + Aetherflux Reservoir
+- C055: Metalwork Colossus + Warren Soultrader + Aetherflux Reservoir + Stridehangar Automaton
+- C097: Out of the Tombs + Skullclamp + Warren Soultrader + Sephiroth, Fabled SOLDIER
+- C098: Out of the Tombs + Skullclamp + Warren Soultrader + Zulaport Cutthroat
 ===endpanel
 ===endaccordion
 
 ===accordion
 ===panel: Workshop Assistant
 
-- C071: Glaring Fleshraker + Ashnod's Altar + Junk Diver + Workshop Assistant
-- C073: Glaring Fleshraker + Ashnod's Altar + Myr Retriever + Workshop Assistant
-- C074: Glaring Fleshraker + Ashnod's Altar + Scrap Trawler + Workshop Assistant
-- C078: Imotekh the Stormlord + Junk Diver + Workshop Assistant + Ashnod's Altar
-- C080: Imotekh the Stormlord + Myr Retriever + Workshop Assistant + Ashnod's Altar
-- C096: Glaring Fleshraker + Junk Diver + Workshop Assistant + Krark-Clan Ironworks
-- C098: Glaring Fleshraker + Myr Retriever + Workshop Assistant + Krark-Clan Ironworks
-- C107: Imotekh the Stormlord + Junk Diver + Workshop Assistant + Krark-Clan Ironworks
-- C109: Imotekh the Stormlord + Myr Retriever + Workshop Assistant + Krark-Clan Ironworks
+- C065: Glaring Fleshraker + Ashnod's Altar + Junk Diver + Workshop Assistant
+- C067: Glaring Fleshraker + Ashnod's Altar + Myr Retriever + Workshop Assistant
+- C068: Glaring Fleshraker + Ashnod's Altar + Scrap Trawler + Workshop Assistant
+- C070: Imotekh the Stormlord + Junk Diver + Workshop Assistant + Ashnod's Altar
+- C072: Imotekh the Stormlord + Myr Retriever + Workshop Assistant + Ashnod's Altar
+- C084: Glaring Fleshraker + Junk Diver + Workshop Assistant + Krark-Clan Ironworks
+- C086: Glaring Fleshraker + Myr Retriever + Workshop Assistant + Krark-Clan Ironworks
+- C089: Imotekh the Stormlord + Junk Diver + Workshop Assistant + Krark-Clan Ironworks
+- C091: Imotekh the Stormlord + Myr Retriever + Workshop Assistant + Krark-Clan Ironworks
 ===endpanel
 ===endaccordion
 
@@ -5320,8 +4529,8 @@ Each card below lists the canonical core IDs in which it appears.
 ===panel: Zulaport Cutthroat
 
 - C038: Warren Soultrader + Gravecrawler + Zulaport Cutthroat
-- C055: Warren Soultrader + Zulaport Cutthroat + Stridehangar Automaton
-- C116: Out of the Tombs + Skullclamp + Warren Soultrader + Zulaport Cutthroat
+- C053: Warren Soultrader + Zulaport Cutthroat + Stridehangar Automaton
+- C098: Out of the Tombs + Skullclamp + Warren Soultrader + Zulaport Cutthroat
 ===endpanel
 ===endaccordion
 
