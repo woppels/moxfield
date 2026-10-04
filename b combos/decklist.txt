@@ -6,6 +6,7 @@
 1 Ashnod's Altar
 1 Beseech the Mirror
 1 Blasting Station
+1 Bloodline Recollector
 1 Bloodstained Mire
 1 Bolas's Citadel
 1 Cabal Pit
@@ -43,7 +44,6 @@
 1 Marsh Flats
 1 Metalwork Colossus
 1 Metalworker
-1 Mirkwood Bats
 1 Mox Opal
 1 Myr Retriever
 1 Mystic Forge
@@ -66,14 +66,15 @@
 1 Sephiroth, Fabled SOLDIER
 1 Shizo, Death's Storehouse
 1 Skullclamp
-1 Snow-Covered Swamp
 1 Snuff Out
 1 Sol Ring
 1 Spire of Industry
 1 Spymaster's Vault
 1 Stitcher's Supplier
 1 Stridehangar Automaton
-2 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
 1 Tainted Pact
 1 Takenuma, Abandoned Mire
 1 The Black Gate
