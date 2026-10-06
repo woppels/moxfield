@@ -1,7 +1,7 @@
 ===accordion
 ===panel: Core Combos
 
-The 102 unique core combos for the current Bracket 4 build are listed below.
+The 108 unique core combos for the current Bracket 4 build with Spine of Ish Sah are listed below.
 Each core is stored once and assigned a canonical combo ID.
 Combo extensions are tracked separately and do not increase the core combo count.
 
@@ -468,48 +468,7 @@ Results:
 ===endaccordion
 
 ===accordion
-===panel: C015: Myr Retriever + Ashnod's Altar + Ultron, Artificial Malevolence
-
-[[symbol:c]]
-
-
-Cards Required:
-- [[Myr Retriever]]
-- [[Ashnod's Altar]]
-- [[Ultron, Artificial Malevolence]]
-
-
-Prerequisites:
-- Myr Retriever in hand.
-- Ashnod's Altar and Ultron on the battlefield.
-- [[symbol:2]] available
-
-
-Steps:
-1. Cast Myr Retriever by paying [[symbol:2]].
-2. When Myr Retriever enters, Ultron triggers.
-3. Holding priority, activate Ashnod's Altar by sacrificing Myr Retriever, adding [[symbol:c]][[symbol:c]]
-4. When Myr Retriever dies, it triggers, returning an artifact card from your graveyard to your hand.
-5. Resolve the Ultron trigger, causing you to pay [[symbol:2]] to create a token copy of Myr Retriever.
-6. Activate Ashnod's Altar by sacrificing the Myr Retriever token, adding [[symbol:c]][[symbol:c]].
-7. When the Myr Retriever token dies, it triggers, returning the nontoken Myr Retriever from your graveyard to your hand.
-8. Repeat.
-
-
-Results:
-- Infinite creature ETB
-- Infinite creature LTB
-- Infinite death triggers
-- Infinite creature sacrifice triggers
-- Infinite storm count
-- Infinite artifact ETB
-- Infinite artifact LTB
-- Infinite artifact sacrifice triggers
-===endpanel
-===endaccordion
-
-===accordion
-===panel: C016: Nim Deathmantle + Ashnod's Altar + Orcish Bowmasters
+===panel: C015: Nim Deathmantle + Ashnod's Altar + Orcish Bowmasters
 
 [[symbol:b]]
 
@@ -544,7 +503,7 @@ Results:
 ===endaccordion
 
 ===accordion
-===panel: C017: Ultron the Annihilator + Nim Deathmantle + Ashnod's Altar
+===panel: C016: Ultron the Annihilator + Nim Deathmantle + Ashnod's Altar
 
 [[symbol:b]]
 
@@ -579,7 +538,7 @@ Results:
 ===endaccordion
 
 ===accordion
-===panel: C018: Out of the Tombs + Skullclamp + Ashnod's Altar
+===panel: C017: Out of the Tombs + Skullclamp + Ashnod's Altar
 
 [[symbol:b]]
 
@@ -613,7 +572,7 @@ Results:
 ===endaccordion
 
 ===accordion
-===panel: C019: Pitiless Plunderer + Ashnod's Altar + Stridehangar Automaton
+===panel: C018: Pitiless Plunderer + Ashnod's Altar + Stridehangar Automaton
 
 [[symbol:b]]
 
@@ -651,7 +610,7 @@ Results:
 ===endaccordion
 
 ===accordion
-===panel: C020: The Ooze + Stridehangar Automaton + Ashnod's Altar
+===panel: C019: The Ooze + Stridehangar Automaton + Ashnod's Altar
 
 [[symbol:c]]
 
@@ -687,7 +646,7 @@ Results:
 ===endaccordion
 
 ===accordion
-===panel: C021: Gravecrawler + Pitiless Plunderer + Blasting Station
+===panel: C020: Gravecrawler + Pitiless Plunderer + Blasting Station
 
 [[symbol:b]]
 +Cards Required:
@@ -718,7 +677,7 @@ Results:
 ===endaccordion
 
 ===accordion
-===panel: C022: The Ghoul, Gunslinger + Gravecrawler + Blasting Station
+===panel: C021: The Ghoul, Gunslinger + Gravecrawler + Blasting Station
 
 [[symbol:b]]
 
@@ -757,7 +716,7 @@ Results:
 ===endaccordion
 
 ===accordion
-===panel: C023: Pitiless Plunderer + Blasting Station + Stridehangar Automaton
+===panel: C022: Pitiless Plunderer + Blasting Station + Stridehangar Automaton
 
 [[symbol:b]]
 
@@ -797,7 +756,7 @@ Results:
 ===endaccordion
 
 ===accordion
-===panel: C024: Gravecrawler + Pitiless Plunderer + Carrion Feeder
+===panel: C023: Gravecrawler + Pitiless Plunderer + Carrion Feeder
 
 [[symbol:b]]
 +Cards Required:
@@ -827,7 +786,7 @@ Results:
 ===endaccordion
 
 ===accordion
-===panel: C025: The Ghoul, Gunslinger + Gravecrawler + Carrion Feeder
+===panel: C024: The Ghoul, Gunslinger + Gravecrawler + Carrion Feeder
 
 [[symbol:b]]
 
@@ -865,7 +824,7 @@ Results:
 ===endaccordion
 
 ===accordion
-===panel: C026: Pitiless Plunderer + Stridehangar Automaton + Carrion Feeder
+===panel: C025: Pitiless Plunderer + Stridehangar Automaton + Carrion Feeder
 
 [[symbol:b]]
 
@@ -900,7 +859,7 @@ Results:
 ===endaccordion
 
 ===accordion
-===panel: C027: Imotekh the Stormlord + Clock of Omens + Tortured Existence
+===panel: C026: Imotekh the Stormlord + Clock of Omens + Tortured Existence
 
 [[symbol:b]]
 
@@ -933,7 +892,7 @@ Results:
 ===endaccordion
 
 ===accordion
-===panel: C028: Retrofitter Foundry + Clock of Omens + Stridehangar Automaton
+===panel: C027: Retrofitter Foundry + Clock of Omens + Stridehangar Automaton
 
 [[symbol:c]]
 
@@ -965,7 +924,7 @@ Results:
 ===endaccordion
 
 ===accordion
-===panel: C029: The Ooze + Clock of Omens + Stridehangar Automaton
+===panel: C028: The Ooze + Clock of Omens + Stridehangar Automaton
 
 [[symbol:c]]
 
@@ -993,7 +952,7 @@ Results:
 ===endaccordion
 
 ===accordion
-===panel: C030: Sensei's Divining Top + Mystic Forge + Cloud Key
+===panel: C029: Sensei's Divining Top + Mystic Forge + Cloud Key
 
 [[symbol:c]]
 
@@ -1022,7 +981,7 @@ Results:
 ===endaccordion
 
 ===accordion
-===panel: C031: Dross Scorpion + Retrofitter Foundry + Krark-Clan Ironworks
+===panel: C030: Dross Scorpion + Retrofitter Foundry + Krark-Clan Ironworks
 
 [[symbol:c]]
 
@@ -1054,7 +1013,7 @@ Results:
 ===endaccordion
 
 ===accordion
-===panel: C032: Retrofitter Foundry + Dross Scorpion + Stridehangar Automaton
+===panel: C031: Retrofitter Foundry + Dross Scorpion + Stridehangar Automaton
 
 [[symbol:c]]
 
@@ -1087,7 +1046,7 @@ Results:
 ===endaccordion
 
 ===accordion
-===panel: C033: Sensei's Divining Top + Foundry Inspector + Mystic Forge
+===panel: C032: Sensei's Divining Top + Foundry Inspector + Mystic Forge
 
 [[symbol:c]]
 
@@ -1116,7 +1075,7 @@ Results:
 ===endaccordion
 
 ===accordion
-===panel: C034: Sensei's Divining Top + Glaring Fleshraker + Mystic Forge
+===panel: C033: Sensei's Divining Top + Glaring Fleshraker + Mystic Forge
 
 [[symbol:c]]
 
@@ -1154,7 +1113,7 @@ Results:
 ===endaccordion
 
 ===accordion
-===panel: C035: Gravecrawler + Pitiless Plunderer + Umbral Collar Zealot
+===panel: C034: Gravecrawler + Pitiless Plunderer + Umbral Collar Zealot
 
 [[symbol:b]]
 +Cards Required:
@@ -1184,7 +1143,7 @@ Results:
 ===endaccordion
 
 ===accordion
-===panel: C036: Warren Soultrader + Gravecrawler + Sephiroth, Fabled SOLDIER
+===panel: C035: Warren Soultrader + Gravecrawler + Sephiroth, Fabled SOLDIER
 
 [[symbol:b]]
 +Cards Required:
@@ -1213,7 +1172,7 @@ Results:
 ===endaccordion
 
 ===accordion
-===panel: C037: The Ghoul, Gunslinger + Gravecrawler + Umbral Collar Zealot
+===panel: C036: The Ghoul, Gunslinger + Gravecrawler + Umbral Collar Zealot
 
 [[symbol:b]]
 
@@ -1251,7 +1210,7 @@ Results:
 ===endaccordion
 
 ===accordion
-===panel: C038: Warren Soultrader + Gravecrawler + Zulaport Cutthroat
+===panel: C037: Warren Soultrader + Gravecrawler + Zulaport Cutthroat
 
 [[symbol:b]]
 +Cards Required:
@@ -1280,7 +1239,7 @@ Results:
 ===endaccordion
 
 ===accordion
-===panel: C039: Pitiless Plunderer + Stridehangar Automaton + Grinding Station
+===panel: C038: Pitiless Plunderer + Stridehangar Automaton + Grinding Station
 
 [[symbol:b]]
 
@@ -1321,7 +1280,7 @@ Results:
 ===endaccordion
 
 ===accordion
-===panel: C040: Imotekh the Stormlord + Nim Deathmantle + Krark-Clan Ironworks
+===panel: C039: Imotekh the Stormlord + Nim Deathmantle + Krark-Clan Ironworks
 
 [[symbol:b]]
 
@@ -1357,7 +1316,7 @@ Results:
 ===endaccordion
 
 ===accordion
-===panel: C041: Tortured Existence + Phyrexian Altar + Imotekh the Stormlord
+===panel: C040: Tortured Existence + Phyrexian Altar + Imotekh the Stormlord
 
 [[symbol:b]]
 
@@ -1397,48 +1356,7 @@ Results:
 ===endaccordion
 
 ===accordion
-===panel: C042: Myr Retriever + Krark-Clan Ironworks + Ultron, Artificial Malevolence
-
-[[symbol:c]]
-
-
-Cards Required:
-- [[Myr Retriever]]
-- [[Krark-Clan Ironworks]]
-- [[Ultron, Artificial Malevolence]]
-
-
-Prerequisites:
-- Myr Retriever in hand.
-- Krark-Clan Ironworks and Ultron on the battlefield.
-- [[symbol:2]] available
-
-
-Steps:
-1. Cast Myr Retriever by paying [[symbol:2]].
-2. When Myr Retriever enters, Ultron triggers.
-3. Holding priority, activate Krark-Clan Ironworks by sacrificing Myr Retriever, adding [[symbol:c]][[symbol:c]]
-4. When Myr Retriever dies, it triggers, returning an artifact card from your graveyard to your hand.
-5. Resolve the Ultron trigger, causing you to pay [[symbol:2]] to create a token copy of Myr Retriever.
-6. Activate Krark-Clan Ironworks by sacrificing the Myr Retriever token, adding [[symbol:c]][[symbol:c]].
-7. When the Myr Retriever token dies, it triggers, returning the nontoken Myr Retriever from your graveyard to your hand.
-8. Repeat.
-
-
-Results:
-- Infinite creature ETB
-- Infinite creature LTB
-- Infinite death triggers
-- Infinite creature sacrifice triggers
-- Infinite storm count
-- Infinite artifact ETB
-- Infinite artifact LTB
-- Infinite artifact sacrifice triggers
-===endpanel
-===endaccordion
-
-===accordion
-===panel: C043: Ultron the Annihilator + Nim Deathmantle + Krark-Clan Ironworks
+===panel: C041: Ultron the Annihilator + Nim Deathmantle + Krark-Clan Ironworks
 
 [[symbol:b]]
 
@@ -1473,7 +1391,7 @@ Results:
 ===endaccordion
 
 ===accordion
-===panel: C044: Out of the Tombs + Skullclamp + Krark-Clan Ironworks
+===panel: C042: Out of the Tombs + Skullclamp + Krark-Clan Ironworks
 
 [[symbol:c]]
 
@@ -1508,7 +1426,7 @@ Results:
 ===endaccordion
 
 ===accordion
-===panel: C045: Pitiless Plunderer + Stridehangar Automaton + Krark-Clan Ironworks
+===panel: C043: Pitiless Plunderer + Stridehangar Automaton + Krark-Clan Ironworks
 
 [[symbol:b]]
 
@@ -1546,7 +1464,7 @@ Results:
 ===endaccordion
 
 ===accordion
-===panel: C046: The Ooze + Stridehangar Automaton + Krark-Clan Ironworks
+===panel: C044: The Ooze + Stridehangar Automaton + Krark-Clan Ironworks
 
 [[symbol:c]]
 
@@ -1582,7 +1500,7 @@ Results:
 ===endaccordion
 
 ===accordion
-===panel: C047: Sensei's Divining Top + Mystic Forge + Semblance Anvil
+===panel: C045: Sensei's Divining Top + Mystic Forge + Semblance Anvil
 
 [[symbol:c]]
 
@@ -1611,7 +1529,7 @@ Results:
 ===endaccordion
 
 ===accordion
-===panel: C048: Out of the Tombs + Skullclamp + Phyrexian Altar
+===panel: C046: Out of the Tombs + Skullclamp + Phyrexian Altar
 
 [[symbol:b]]
 
@@ -1645,7 +1563,7 @@ Results:
 ===endaccordion
 
 ===accordion
-===panel: C049: Pitiless Plunderer + Phyrexian Altar + Stridehangar Automaton
+===panel: C047: Pitiless Plunderer + Phyrexian Altar + Stridehangar Automaton
 
 [[symbol:b]]
 
@@ -1682,7 +1600,7 @@ Results:
 ===endaccordion
 
 ===accordion
-===panel: C050: The Ooze + Stridehangar Automaton + Phyrexian Altar
+===panel: C048: The Ooze + Stridehangar Automaton + Phyrexian Altar
 
 [[symbol:b]]
 
@@ -1716,7 +1634,7 @@ Results:
 ===endaccordion
 
 ===accordion
-===panel: C051: Pitiless Plunderer + Umbral Collar Zealot + Stridehangar Automaton
+===panel: C049: Pitiless Plunderer + Umbral Collar Zealot + Stridehangar Automaton
 
 [[symbol:b]]
 
@@ -1755,7 +1673,7 @@ Results:
 ===endaccordion
 
 ===accordion
-===panel: C052: Warren Soultrader + Stridehangar Automaton + Sephiroth, Fabled SOLDIER
+===panel: C050: Warren Soultrader + Stridehangar Automaton + Sephiroth, Fabled SOLDIER
 
 [[symbol:b]]
 
@@ -1796,7 +1714,7 @@ Results:
 ===endaccordion
 
 ===accordion
-===panel: C053: Warren Soultrader + Zulaport Cutthroat + Stridehangar Automaton
+===panel: C051: Warren Soultrader + Zulaport Cutthroat + Stridehangar Automaton
 
 [[symbol:b]]
 
@@ -1837,7 +1755,7 @@ Results:
 ===endaccordion
 
 ===accordion
-===panel: C054: Metalwork Colossus + Warren Soultrader + Pitiless Plunderer + Aetherflux Reservoir
+===panel: C052: Metalwork Colossus + Warren Soultrader + Pitiless Plunderer + Aetherflux Reservoir
 
 [[symbol:b]]
 
@@ -1879,7 +1797,7 @@ Results:
 ===endaccordion
 
 ===accordion
-===panel: C055: Metalwork Colossus + Warren Soultrader + Aetherflux Reservoir + Stridehangar Automaton
+===panel: C053: Metalwork Colossus + Warren Soultrader + Aetherflux Reservoir + Stridehangar Automaton
 
 [[symbol:b]]
 
@@ -1918,7 +1836,7 @@ Results:
 ===endaccordion
 
 ===accordion
-===panel: C056: Tortured Existence + Pitiless Plunderer + Imotekh the Stormlord + Altar of Dementia
+===panel: C054: Tortured Existence + Pitiless Plunderer + Imotekh the Stormlord + Altar of Dementia
 
 [[symbol:b]]
 
@@ -1966,7 +1884,7 @@ Results:
 ===endaccordion
 
 ===accordion
-===panel: C057: Out of the Tombs + Skullclamp + Pitiless Plunderer + Altar of Dementia
+===panel: C055: Out of the Tombs + Skullclamp + Pitiless Plunderer + Altar of Dementia
 
 [[symbol:b]]
 
@@ -2002,7 +1920,7 @@ Results:
 ===endaccordion
 
 ===accordion
-===panel: C058: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Altar of Dementia
+===panel: C056: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Altar of Dementia
 
 [[symbol:c]]
 
@@ -2048,7 +1966,7 @@ Results:
 ===endaccordion
 
 ===accordion
-===panel: C059: The Ooze + Clock of Omens + Stridehangar Automaton + Altar of the Brood
+===panel: C057: The Ooze + Clock of Omens + Stridehangar Automaton + Altar of the Brood
 
 [[symbol:c]]
 
@@ -2082,7 +2000,7 @@ Results:
 ===endaccordion
 
 ===accordion
-===panel: C060: Out of the Tombs + Skullclamp + Pitiless Plunderer + Arcbound Ravager
+===panel: C058: Out of the Tombs + Skullclamp + Pitiless Plunderer + Arcbound Ravager
 
 [[symbol:b]]
 
@@ -2117,7 +2035,7 @@ Results:
 ===endaccordion
 
 ===accordion
-===panel: C061: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Arcbound Ravager
+===panel: C059: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Arcbound Ravager
 
 [[symbol:c]]
 
@@ -2162,7 +2080,7 @@ Results:
 ===endaccordion
 
 ===accordion
-===panel: C062: Scrap Trawler + Myr Retriever + Ashnod's Altar + Cloud Key
+===panel: C060: Scrap Trawler + Myr Retriever + Ashnod's Altar + Cloud Key
 
 [[symbol:c]]
 
@@ -2203,7 +2121,7 @@ Results:
 ===endaccordion
 
 ===accordion
-===panel: C063: Scrap Trawler + Myr Retriever + Ashnod's Altar + Foundry Inspector
+===panel: C061: Scrap Trawler + Myr Retriever + Ashnod's Altar + Foundry Inspector
 
 [[symbol:c]]
 
@@ -2244,7 +2162,7 @@ Results:
 ===endaccordion
 
 ===accordion
-===panel: C064: Glaring Fleshraker + Ashnod's Altar + Myr Retriever + Junk Diver
+===panel: C062: Glaring Fleshraker + Ashnod's Altar + Myr Retriever + Junk Diver
 
 [[symbol:c]]
 
@@ -2287,7 +2205,7 @@ Results:
 ===endaccordion
 
 ===accordion
-===panel: C065: Glaring Fleshraker + Ashnod's Altar + Junk Diver + Workshop Assistant
+===panel: C063: Glaring Fleshraker + Ashnod's Altar + Junk Diver + Workshop Assistant
 
 [[symbol:c]]
 
@@ -2330,7 +2248,7 @@ Results:
 ===endaccordion
 
 ===accordion
-===panel: C066: Glaring Fleshraker + Ashnod's Altar + Myr Retriever + Scrap Trawler
+===panel: C064: Glaring Fleshraker + Ashnod's Altar + Myr Retriever + Scrap Trawler
 
 [[symbol:c]]
 
@@ -2373,7 +2291,7 @@ Results:
 ===endaccordion
 
 ===accordion
-===panel: C067: Glaring Fleshraker + Ashnod's Altar + Myr Retriever + Workshop Assistant
+===panel: C065: Glaring Fleshraker + Ashnod's Altar + Myr Retriever + Workshop Assistant
 
 [[symbol:c]]
 
@@ -2416,7 +2334,7 @@ Results:
 ===endaccordion
 
 ===accordion
-===panel: C068: Glaring Fleshraker + Ashnod's Altar + Scrap Trawler + Workshop Assistant
+===panel: C066: Glaring Fleshraker + Ashnod's Altar + Scrap Trawler + Workshop Assistant
 
 [[symbol:c]]
 
@@ -2459,7 +2377,7 @@ Results:
 ===endaccordion
 
 ===accordion
-===panel: C069: Imotekh the Stormlord + Junk Diver + Myr Retriever + Ashnod's Altar
+===panel: C067: Imotekh the Stormlord + Junk Diver + Myr Retriever + Ashnod's Altar
 
 [[symbol:b]]
 
@@ -2501,7 +2419,7 @@ Results:
 ===endaccordion
 
 ===accordion
-===panel: C070: Imotekh the Stormlord + Junk Diver + Workshop Assistant + Ashnod's Altar
+===panel: C068: Imotekh the Stormlord + Junk Diver + Workshop Assistant + Ashnod's Altar
 
 [[symbol:b]]
 
@@ -2543,7 +2461,7 @@ Results:
 ===endaccordion
 
 ===accordion
-===panel: C071: Imotekh the Stormlord + Scrap Trawler + Myr Retriever + Ashnod's Altar
+===panel: C069: Imotekh the Stormlord + Scrap Trawler + Myr Retriever + Ashnod's Altar
 
 [[symbol:b]]
 
@@ -2585,7 +2503,7 @@ Results:
 ===endaccordion
 
 ===accordion
-===panel: C072: Imotekh the Stormlord + Myr Retriever + Workshop Assistant + Ashnod's Altar
+===panel: C070: Imotekh the Stormlord + Myr Retriever + Workshop Assistant + Ashnod's Altar
 
 [[symbol:b]]
 
@@ -2627,7 +2545,7 @@ Results:
 ===endaccordion
 
 ===accordion
-===panel: C073: Scrap Trawler + Myr Retriever + Ashnod's Altar + Semblance Anvil
+===panel: C071: Scrap Trawler + Myr Retriever + Ashnod's Altar + Semblance Anvil
 
 [[symbol:c]]
 
@@ -2669,7 +2587,7 @@ Results:
 ===endaccordion
 
 ===accordion
-===panel: C074: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Ashnod's Altar
+===panel: C072: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Ashnod's Altar
 
 [[symbol:c]]
 
@@ -2714,7 +2632,7 @@ Results:
 ===endaccordion
 
 ===accordion
-===panel: C075: Tortured Existence + Pitiless Plunderer + Imotekh the Stormlord + Blasting Station
+===panel: C073: Tortured Existence + Pitiless Plunderer + Imotekh the Stormlord + Blasting Station
 
 [[symbol:b]]
 
@@ -2762,7 +2680,7 @@ Results:
 ===endaccordion
 
 ===accordion
-===panel: C076: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Blasting Station
+===panel: C074: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Blasting Station
 
 [[symbol:c]]
 
@@ -2807,7 +2725,7 @@ Results:
 ===endaccordion
 
 ===accordion
-===panel: C077: Tortured Existence + Pitiless Plunderer + Imotekh the Stormlord + Carrion Feeder
+===panel: C075: Tortured Existence + Pitiless Plunderer + Imotekh the Stormlord + Carrion Feeder
 
 [[symbol:b]]
 
@@ -2849,7 +2767,7 @@ Results:
 ===endaccordion
 
 ===accordion
-===panel: C078: Out of the Tombs + Skullclamp + Pitiless Plunderer + Carrion Feeder
+===panel: C076: Out of the Tombs + Skullclamp + Pitiless Plunderer + Carrion Feeder
 
 [[symbol:b]]
 
@@ -2886,7 +2804,7 @@ Results:
 ===endaccordion
 
 ===accordion
-===panel: C079: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Carrion Feeder
+===panel: C077: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Carrion Feeder
 
 [[symbol:c]]
 
@@ -2927,7 +2845,7 @@ Results:
 ===endaccordion
 
 ===accordion
-===panel: C080: The Ooze + Clock of Omens + Stridehangar Automaton + Grinding Station
+===panel: C078: The Ooze + Clock of Omens + Stridehangar Automaton + Grinding Station
 
 [[symbol:c]]
 
@@ -2965,7 +2883,41 @@ Results:
 ===endaccordion
 
 ===accordion
-===panel: C081: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Cloud Key
+===panel: C079: Spine of Ish Sah + Imotekh the Stormlord + Krark-Clan Ironworks + Cloud Key
+
+Cards Required:
+- [[Spine of Ish Sah]]
+- [[Imotekh the Stormlord]]
+- [[Krark-Clan Ironworks]]
+- [[Cloud Key]]
+
+Prerequisites:
+- All permanents are on the battlefield.
+- Cloud Key has "Artifact" chosen.
+- Enough resources are available to begin the loop.
+
+Steps:
+1. Sacrifice Spine of Ish Sah to Krark-Clan Ironworks, adding [[symbol:c]][[symbol:c]].
+2. Spine returns itself from your graveyard to your hand.
+3. Spine leaving your graveyard triggers Imotekh, creating two Necron Warrior artifact creature tokens.
+4. Sacrifice both Necrons to Krark-Clan Ironworks, adding [[symbol:c]][[symbol:c]][[symbol:c]][[symbol:c]].
+5. Recast Spine for [[symbol:6]], destroying target permanent when it enters, then repeat.
+
+Results:
+- Repeated permanent destruction
+- Infinite artifact ETB
+- Infinite artifact LTB
+- Infinite artifact sacrifice triggers
+- Infinite creature tokens
+- Infinite creature ETB
+- Infinite creature LTB
+- Infinite creature sacrifice triggers
+- Infinite death triggers
+===endpanel
+===endaccordion
+
+===accordion
+===panel: C080: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Cloud Key
 
 [[symbol:c]]
 
@@ -3006,7 +2958,71 @@ Results:
 ===endaccordion
 
 ===accordion
-===panel: C082: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Foundry Inspector
+===panel: C081: Spine of Ish Sah + Sculpting Steel + Krark-Clan Ironworks + Cloud Key
+
+Cards Required:
+- [[Spine of Ish Sah]]
+- [[Sculpting Steel]]
+- [[Krark-Clan Ironworks]]
+- [[Cloud Key]]
+
+Prerequisites:
+- Spine of Ish Sah, Krark-Clan Ironworks, and the reducer are on the battlefield.
+- Sculpting Steel is in hand.
+- Cloud Key has "Artifact" chosen.
+
+Steps:
+1. Cast Sculpting Steel, having it enter as a copy of Spine of Ish Sah.
+2. The copied Spine trigger destroys target permanent.
+3. Sacrifice Sculpting Steel to Krark-Clan Ironworks, adding [[symbol:c]][[symbol:c]].
+4. The copied Spine death trigger returns Sculpting Steel from your graveyard to your hand.
+5. Recast Sculpting Steel using the loop resources and repeat.
+
+Results:
+- Repeated permanent destruction
+- Infinite artifact ETB
+- Infinite artifact LTB
+- Infinite artifact sacrifice triggers
+- Infinite storm count
+===endpanel
+===endaccordion
+
+===accordion
+===panel: C082: Spine of Ish Sah + Imotekh the Stormlord + Krark-Clan Ironworks + Foundry Inspector
+
+Cards Required:
+- [[Spine of Ish Sah]]
+- [[Imotekh the Stormlord]]
+- [[Krark-Clan Ironworks]]
+- [[Foundry Inspector]]
+
+Prerequisites:
+- All permanents are on the battlefield.
+- No additional prerequisites.
+- Enough resources are available to begin the loop.
+
+Steps:
+1. Sacrifice Spine of Ish Sah to Krark-Clan Ironworks, adding [[symbol:c]][[symbol:c]].
+2. Spine returns itself from your graveyard to your hand.
+3. Spine leaving your graveyard triggers Imotekh, creating two Necron Warrior artifact creature tokens.
+4. Sacrifice both Necrons to Krark-Clan Ironworks, adding [[symbol:c]][[symbol:c]][[symbol:c]][[symbol:c]].
+5. Recast Spine for [[symbol:6]], destroying target permanent when it enters, then repeat.
+
+Results:
+- Repeated permanent destruction
+- Infinite artifact ETB
+- Infinite artifact LTB
+- Infinite artifact sacrifice triggers
+- Infinite creature tokens
+- Infinite creature ETB
+- Infinite creature LTB
+- Infinite creature sacrifice triggers
+- Infinite death triggers
+===endpanel
+===endaccordion
+
+===accordion
+===panel: C083: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Foundry Inspector
 
 [[symbol:c]]
 
@@ -3047,7 +3063,73 @@ Results:
 ===endaccordion
 
 ===accordion
-===panel: C083: Glaring Fleshraker + Myr Retriever + Junk Diver + Krark-Clan Ironworks
+===panel: C084: Spine of Ish Sah + Sculpting Steel + Krark-Clan Ironworks + Foundry Inspector
+
+Cards Required:
+- [[Spine of Ish Sah]]
+- [[Sculpting Steel]]
+- [[Krark-Clan Ironworks]]
+- [[Foundry Inspector]]
+
+Prerequisites:
+- Spine of Ish Sah, Krark-Clan Ironworks, and the reducer are on the battlefield.
+- Sculpting Steel is in hand.
+- No additional prerequisites.
+
+Steps:
+1. Cast Sculpting Steel, having it enter as a copy of Spine of Ish Sah.
+2. The copied Spine trigger destroys target permanent.
+3. Sacrifice Sculpting Steel to Krark-Clan Ironworks, adding [[symbol:c]][[symbol:c]].
+4. The copied Spine death trigger returns Sculpting Steel from your graveyard to your hand.
+5. Recast Sculpting Steel using the loop resources and repeat.
+
+Results:
+- Repeated permanent destruction
+- Infinite artifact ETB
+- Infinite artifact LTB
+- Infinite artifact sacrifice triggers
+- Infinite storm count
+===endpanel
+===endaccordion
+
+===accordion
+===panel: C085: Spine of Ish Sah + Imotekh the Stormlord + Krark-Clan Ironworks + Glaring Fleshraker
+
+Cards Required:
+- [[Spine of Ish Sah]]
+- [[Imotekh the Stormlord]]
+- [[Krark-Clan Ironworks]]
+- [[Glaring Fleshraker]]
+
+Prerequisites:
+- All permanents are on the battlefield.
+- Enough resources are available to begin the loop.
+
+Steps:
+1. Sacrifice Spine to Krark-Clan Ironworks for [[symbol:c]][[symbol:c]].
+2. Spine returns to hand, triggering Imotekh and creating two Necron Warrior artifact creature tokens.
+3. Sacrifice the Necrons to Krark-Clan Ironworks for [[symbol:c]][[symbol:c]][[symbol:c]][[symbol:c]].
+4. Cast Spine; the colorless cast triggers Glaring Fleshraker to create an Eldrazi Spawn.
+5. The Spawn entry causes 1 damage to each opponent and Spine destroys target permanent.
+6. Use the Spawn and loop resources as needed and repeat.
+
+Results:
+- Infinite damage
+- Repeated permanent destruction
+- Infinite artifact ETB
+- Infinite artifact LTB
+- Infinite artifact sacrifice triggers
+- Infinite creature tokens
+- Infinite creature ETB
+- Infinite creature LTB
+- Infinite creature sacrifice triggers
+- Infinite death triggers
+- Infinite storm count
+===endpanel
+===endaccordion
+
+===accordion
+===panel: C086: Glaring Fleshraker + Myr Retriever + Junk Diver + Krark-Clan Ironworks
 
 [[symbol:c]]
 
@@ -3090,7 +3172,7 @@ Results:
 ===endaccordion
 
 ===accordion
-===panel: C084: Glaring Fleshraker + Junk Diver + Workshop Assistant + Krark-Clan Ironworks
+===panel: C087: Glaring Fleshraker + Junk Diver + Workshop Assistant + Krark-Clan Ironworks
 
 [[symbol:c]]
 
@@ -3133,7 +3215,7 @@ Results:
 ===endaccordion
 
 ===accordion
-===panel: C085: Glaring Fleshraker + Myr Retriever + Scrap Trawler + Krark-Clan Ironworks
+===panel: C088: Glaring Fleshraker + Myr Retriever + Scrap Trawler + Krark-Clan Ironworks
 
 [[symbol:c]]
 
@@ -3176,7 +3258,7 @@ Results:
 ===endaccordion
 
 ===accordion
-===panel: C086: Glaring Fleshraker + Myr Retriever + Workshop Assistant + Krark-Clan Ironworks
+===panel: C089: Glaring Fleshraker + Myr Retriever + Workshop Assistant + Krark-Clan Ironworks
 
 [[symbol:c]]
 
@@ -3219,7 +3301,39 @@ Results:
 ===endaccordion
 
 ===accordion
-===panel: C087: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Grinding Station
+===panel: C090: Spine of Ish Sah + Sculpting Steel + Krark-Clan Ironworks + Glaring Fleshraker
+
+Cards Required:
+- [[Spine of Ish Sah]]
+- [[Sculpting Steel]]
+- [[Krark-Clan Ironworks]]
+- [[Glaring Fleshraker]]
+
+Prerequisites:
+- Spine of Ish Sah, Krark-Clan Ironworks, and Glaring Fleshraker are on the battlefield.
+- Sculpting Steel is in hand.
+- Enough resources are available to begin the loop.
+
+Steps:
+1. Cast Sculpting Steel, having it enter as a copy of Spine of Ish Sah.
+2. Casting the colorless spell triggers Glaring Fleshraker, creating an Eldrazi Spawn; its entry causes Glaring Fleshraker to deal 1 damage to each opponent.
+3. The copied Spine trigger destroys target permanent.
+4. Sacrifice Sculpting Steel to Krark-Clan Ironworks, adding [[symbol:c]][[symbol:c]].
+5. Return Sculpting Steel to hand with the copied Spine trigger; use the Spawn and loop resources as needed and repeat.
+
+Results:
+- Infinite damage
+- Repeated permanent destruction
+- Infinite artifact ETB
+- Infinite artifact LTB
+- Infinite artifact sacrifice triggers
+- Infinite creature tokens
+- Infinite storm count
+===endpanel
+===endaccordion
+
+===accordion
+===panel: C091: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Grinding Station
 
 [[symbol:c]]
 
@@ -3265,7 +3379,7 @@ Results:
 ===endaccordion
 
 ===accordion
-===panel: C088: Imotekh the Stormlord + Junk Diver + Myr Retriever + Krark-Clan Ironworks
+===panel: C092: Imotekh the Stormlord + Junk Diver + Myr Retriever + Krark-Clan Ironworks
 
 [[symbol:b]]
 
@@ -3307,7 +3421,7 @@ Results:
 ===endaccordion
 
 ===accordion
-===panel: C089: Imotekh the Stormlord + Junk Diver + Workshop Assistant + Krark-Clan Ironworks
+===panel: C093: Imotekh the Stormlord + Junk Diver + Workshop Assistant + Krark-Clan Ironworks
 
 [[symbol:b]]
 
@@ -3349,7 +3463,7 @@ Results:
 ===endaccordion
 
 ===accordion
-===panel: C090: Imotekh the Stormlord + Scrap Trawler + Myr Retriever + Krark-Clan Ironworks
+===panel: C094: Imotekh the Stormlord + Scrap Trawler + Myr Retriever + Krark-Clan Ironworks
 
 [[symbol:b]]
 
@@ -3391,7 +3505,7 @@ Results:
 ===endaccordion
 
 ===accordion
-===panel: C091: Imotekh the Stormlord + Myr Retriever + Workshop Assistant + Krark-Clan Ironworks
+===panel: C095: Imotekh the Stormlord + Myr Retriever + Workshop Assistant + Krark-Clan Ironworks
 
 [[symbol:b]]
 
@@ -3433,7 +3547,42 @@ Results:
 ===endaccordion
 
 ===accordion
-===panel: C092: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Semblance Anvil
+===panel: C096: Spine of Ish Sah + Imotekh the Stormlord + Krark-Clan Ironworks + Semblance Anvil
+
+Cards Required:
+- [[Spine of Ish Sah]]
+- [[Imotekh the Stormlord]]
+- [[Krark-Clan Ironworks]]
+- [[Semblance Anvil]]
+
+Prerequisites:
+- All permanents are on the battlefield.
+- Semblance Anvil has an artifact card exiled with it.
+- Enough resources are available to begin the loop.
+
+Steps:
+1. Sacrifice Spine of Ish Sah to Krark-Clan Ironworks, adding [[symbol:c]][[symbol:c]].
+2. Spine returns itself from your graveyard to your hand.
+3. Spine leaving your graveyard triggers Imotekh, creating two Necron Warrior artifact creature tokens.
+4. Sacrifice both Necrons to Krark-Clan Ironworks, adding [[symbol:c]][[symbol:c]][[symbol:c]][[symbol:c]].
+5. Recast Spine for [[symbol:5]], destroying target permanent when it enters, then repeat.
+
+Results:
+- Repeated permanent destruction
+- Infinite artifact ETB
+- Infinite artifact LTB
+- Infinite artifact sacrifice triggers
+- Infinite creature tokens
+- Infinite creature ETB
+- Infinite creature LTB
+- Infinite creature sacrifice triggers
+- Infinite death triggers
+- Infinite colorless mana
+===endpanel
+===endaccordion
+
+===accordion
+===panel: C097: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Semblance Anvil
 
 [[symbol:c]]
 
@@ -3475,7 +3624,7 @@ Results:
 ===endaccordion
 
 ===accordion
-===panel: C093: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Krark-Clan Ironworks
+===panel: C098: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Krark-Clan Ironworks
 
 [[symbol:c]]
 
@@ -3520,7 +3669,38 @@ Results:
 ===endaccordion
 
 ===accordion
-===panel: C094: Scrap Trawler + Myr Retriever + Phyrexian Altar + Semblance Anvil
+===panel: C099: Spine of Ish Sah + Sculpting Steel + Krark-Clan Ironworks + Semblance Anvil
+
+Cards Required:
+- [[Spine of Ish Sah]]
+- [[Sculpting Steel]]
+- [[Krark-Clan Ironworks]]
+- [[Semblance Anvil]]
+
+Prerequisites:
+- Spine of Ish Sah, Krark-Clan Ironworks, and the reducer are on the battlefield.
+- Sculpting Steel is in hand.
+- Semblance Anvil has an artifact card exiled with it.
+
+Steps:
+1. Cast Sculpting Steel, having it enter as a copy of Spine of Ish Sah.
+2. The copied Spine trigger destroys target permanent.
+3. Sacrifice Sculpting Steel to Krark-Clan Ironworks, adding [[symbol:c]][[symbol:c]].
+4. The copied Spine death trigger returns Sculpting Steel from your graveyard to your hand.
+5. Recast Sculpting Steel using the loop resources and repeat.
+
+Results:
+- Repeated permanent destruction
+- Infinite artifact ETB
+- Infinite artifact LTB
+- Infinite artifact sacrifice triggers
+- Infinite storm count
+- Infinite colorless mana
+===endpanel
+===endaccordion
+
+===accordion
+===panel: C100: Scrap Trawler + Myr Retriever + Phyrexian Altar + Semblance Anvil
 
 [[symbol:c]]
 
@@ -3562,7 +3742,7 @@ Results:
 ===endaccordion
 
 ===accordion
-===panel: C095: Ultron the Annihilator + Nim Deathmantle + Phyrexian Altar + Pitiless Plunderer
+===panel: C101: Ultron the Annihilator + Nim Deathmantle + Phyrexian Altar + Pitiless Plunderer
 
 [[symbol:b]]
 
@@ -3603,7 +3783,7 @@ Results:
 ===endaccordion
 
 ===accordion
-===panel: C096: Out of the Tombs + Skullclamp + Pitiless Plunderer + Umbral Collar Zealot
+===panel: C102: Out of the Tombs + Skullclamp + Pitiless Plunderer + Umbral Collar Zealot
 
 [[symbol:b]]
 
@@ -3638,7 +3818,7 @@ Results:
 ===endaccordion
 
 ===accordion
-===panel: C097: Out of the Tombs + Skullclamp + Warren Soultrader + Sephiroth, Fabled SOLDIER
+===panel: C103: Out of the Tombs + Skullclamp + Warren Soultrader + Sephiroth, Fabled SOLDIER
 
 [[symbol:b]]
 
@@ -3675,7 +3855,7 @@ Results:
 ===endaccordion
 
 ===accordion
-===panel: C098: Out of the Tombs + Skullclamp + Warren Soultrader + Zulaport Cutthroat
+===panel: C104: Out of the Tombs + Skullclamp + Warren Soultrader + Zulaport Cutthroat
 
 [[symbol:b]]
 
@@ -3712,7 +3892,7 @@ Results:
 ===endaccordion
 
 ===accordion
-===panel: C099: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Phyrexian Altar
+===panel: C105: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Phyrexian Altar
 
 [[symbol:b]]
 
@@ -3757,7 +3937,7 @@ Results:
 ===endaccordion
 
 ===accordion
-===panel: C100: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Umbral Collar Zealot
+===panel: C106: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Umbral Collar Zealot
 
 [[symbol:b]]
 
@@ -3802,7 +3982,7 @@ Results:
 ===endaccordion
 
 ===accordion
-===panel: C101: Out of the Tombs + Skullclamp + Pitiless Plunderer + Blasting Station + Stitcher's Supplier
+===panel: C107: Out of the Tombs + Skullclamp + Pitiless Plunderer + Blasting Station + Stitcher's Supplier
 
 [[symbol:b]]
 
@@ -3842,7 +4022,7 @@ Results:
 ===endaccordion
 
 ===accordion
-===panel: C102: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Sol Ring + Junk Diver
+===panel: C108: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Sol Ring + Junk Diver
 
 [[symbol:c]]
 
@@ -3903,8 +4083,8 @@ Each card below lists the canonical core IDs in which it appears.
 
 - C004: Sensei's Divining Top + Aetherflux Reservoir + Bolas's Citadel
 - C005: Warren Soultrader + Aetherflux Reservoir + Gravecrawler
-- C054: Metalwork Colossus + Warren Soultrader + Pitiless Plunderer + Aetherflux Reservoir
-- C055: Metalwork Colossus + Warren Soultrader + Aetherflux Reservoir + Stridehangar Automaton
+- C052: Metalwork Colossus + Warren Soultrader + Pitiless Plunderer + Aetherflux Reservoir
+- C053: Metalwork Colossus + Warren Soultrader + Aetherflux Reservoir + Stridehangar Automaton
 ===endpanel
 ===endaccordion
 
@@ -3914,16 +4094,16 @@ Each card below lists the canonical core IDs in which it appears.
 - C006: Gravecrawler + Pitiless Plunderer + Altar of Dementia
 - C007: The Ghoul, Gunslinger + Gravecrawler + Altar of Dementia
 - C008: Pitiless Plunderer + Altar of Dementia + Stridehangar Automaton
-- C056: Tortured Existence + Pitiless Plunderer + Imotekh the Stormlord + Altar of Dementia
-- C057: Out of the Tombs + Skullclamp + Pitiless Plunderer + Altar of Dementia
-- C058: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Altar of Dementia
+- C054: Tortured Existence + Pitiless Plunderer + Imotekh the Stormlord + Altar of Dementia
+- C055: Out of the Tombs + Skullclamp + Pitiless Plunderer + Altar of Dementia
+- C056: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Altar of Dementia
 ===endpanel
 ===endaccordion
 
 ===accordion
 ===panel: Altar of the Brood
 
-- C059: The Ooze + Clock of Omens + Stridehangar Automaton + Altar of the Brood
+- C057: The Ooze + Clock of Omens + Stridehangar Automaton + Altar of the Brood
 ===endpanel
 ===endaccordion
 
@@ -3931,8 +4111,8 @@ Each card below lists the canonical core IDs in which it appears.
 ===panel: Arcbound Ravager
 
 - C009: Pitiless Plunderer + Stridehangar Automaton + Arcbound Ravager
-- C060: Out of the Tombs + Skullclamp + Pitiless Plunderer + Arcbound Ravager
-- C061: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Arcbound Ravager
+- C058: Out of the Tombs + Skullclamp + Pitiless Plunderer + Arcbound Ravager
+- C059: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Arcbound Ravager
 ===endpanel
 ===endaccordion
 
@@ -3945,37 +4125,36 @@ Each card below lists the canonical core IDs in which it appears.
 - C012: The Ghoul, Gunslinger + Gravecrawler + Ashnod's Altar
 - C013: Imotekh the Stormlord + Nim Deathmantle + Ashnod's Altar
 - C014: Nim Deathmantle + Ashnod's Altar + Marionette Apprentice
-- C015: Myr Retriever + Ashnod's Altar + Ultron, Artificial Malevolence
-- C016: Nim Deathmantle + Ashnod's Altar + Orcish Bowmasters
-- C017: Ultron the Annihilator + Nim Deathmantle + Ashnod's Altar
-- C018: Out of the Tombs + Skullclamp + Ashnod's Altar
-- C019: Pitiless Plunderer + Ashnod's Altar + Stridehangar Automaton
-- C020: The Ooze + Stridehangar Automaton + Ashnod's Altar
-- C062: Scrap Trawler + Myr Retriever + Ashnod's Altar + Cloud Key
-- C063: Scrap Trawler + Myr Retriever + Ashnod's Altar + Foundry Inspector
-- C064: Glaring Fleshraker + Ashnod's Altar + Myr Retriever + Junk Diver
-- C065: Glaring Fleshraker + Ashnod's Altar + Junk Diver + Workshop Assistant
-- C066: Glaring Fleshraker + Ashnod's Altar + Myr Retriever + Scrap Trawler
-- C067: Glaring Fleshraker + Ashnod's Altar + Myr Retriever + Workshop Assistant
-- C068: Glaring Fleshraker + Ashnod's Altar + Scrap Trawler + Workshop Assistant
-- C069: Imotekh the Stormlord + Junk Diver + Myr Retriever + Ashnod's Altar
-- C070: Imotekh the Stormlord + Junk Diver + Workshop Assistant + Ashnod's Altar
-- C071: Imotekh the Stormlord + Scrap Trawler + Myr Retriever + Ashnod's Altar
-- C072: Imotekh the Stormlord + Myr Retriever + Workshop Assistant + Ashnod's Altar
-- C073: Scrap Trawler + Myr Retriever + Ashnod's Altar + Semblance Anvil
-- C074: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Ashnod's Altar
+- C015: Nim Deathmantle + Ashnod's Altar + Orcish Bowmasters
+- C016: Ultron the Annihilator + Nim Deathmantle + Ashnod's Altar
+- C017: Out of the Tombs + Skullclamp + Ashnod's Altar
+- C018: Pitiless Plunderer + Ashnod's Altar + Stridehangar Automaton
+- C019: The Ooze + Stridehangar Automaton + Ashnod's Altar
+- C060: Scrap Trawler + Myr Retriever + Ashnod's Altar + Cloud Key
+- C061: Scrap Trawler + Myr Retriever + Ashnod's Altar + Foundry Inspector
+- C062: Glaring Fleshraker + Ashnod's Altar + Myr Retriever + Junk Diver
+- C063: Glaring Fleshraker + Ashnod's Altar + Junk Diver + Workshop Assistant
+- C064: Glaring Fleshraker + Ashnod's Altar + Myr Retriever + Scrap Trawler
+- C065: Glaring Fleshraker + Ashnod's Altar + Myr Retriever + Workshop Assistant
+- C066: Glaring Fleshraker + Ashnod's Altar + Scrap Trawler + Workshop Assistant
+- C067: Imotekh the Stormlord + Junk Diver + Myr Retriever + Ashnod's Altar
+- C068: Imotekh the Stormlord + Junk Diver + Workshop Assistant + Ashnod's Altar
+- C069: Imotekh the Stormlord + Scrap Trawler + Myr Retriever + Ashnod's Altar
+- C070: Imotekh the Stormlord + Myr Retriever + Workshop Assistant + Ashnod's Altar
+- C071: Scrap Trawler + Myr Retriever + Ashnod's Altar + Semblance Anvil
+- C072: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Ashnod's Altar
 ===endpanel
 ===endaccordion
 
 ===accordion
 ===panel: Blasting Station
 
-- C021: Gravecrawler + Pitiless Plunderer + Blasting Station
-- C022: The Ghoul, Gunslinger + Gravecrawler + Blasting Station
-- C023: Pitiless Plunderer + Blasting Station + Stridehangar Automaton
-- C075: Tortured Existence + Pitiless Plunderer + Imotekh the Stormlord + Blasting Station
-- C076: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Blasting Station
-- C101: Out of the Tombs + Skullclamp + Pitiless Plunderer + Blasting Station + Stitcher's Supplier
+- C020: Gravecrawler + Pitiless Plunderer + Blasting Station
+- C021: The Ghoul, Gunslinger + Gravecrawler + Blasting Station
+- C022: Pitiless Plunderer + Blasting Station + Stridehangar Automaton
+- C073: Tortured Existence + Pitiless Plunderer + Imotekh the Stormlord + Blasting Station
+- C074: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Blasting Station
+- C107: Out of the Tombs + Skullclamp + Pitiless Plunderer + Blasting Station + Stitcher's Supplier
 ===endpanel
 ===endaccordion
 
@@ -3989,32 +4168,34 @@ Each card below lists the canonical core IDs in which it appears.
 ===accordion
 ===panel: Carrion Feeder
 
-- C024: Gravecrawler + Pitiless Plunderer + Carrion Feeder
-- C025: The Ghoul, Gunslinger + Gravecrawler + Carrion Feeder
-- C026: Pitiless Plunderer + Stridehangar Automaton + Carrion Feeder
-- C077: Tortured Existence + Pitiless Plunderer + Imotekh the Stormlord + Carrion Feeder
-- C078: Out of the Tombs + Skullclamp + Pitiless Plunderer + Carrion Feeder
-- C079: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Carrion Feeder
+- C023: Gravecrawler + Pitiless Plunderer + Carrion Feeder
+- C024: The Ghoul, Gunslinger + Gravecrawler + Carrion Feeder
+- C025: Pitiless Plunderer + Stridehangar Automaton + Carrion Feeder
+- C075: Tortured Existence + Pitiless Plunderer + Imotekh the Stormlord + Carrion Feeder
+- C076: Out of the Tombs + Skullclamp + Pitiless Plunderer + Carrion Feeder
+- C077: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Carrion Feeder
 ===endpanel
 ===endaccordion
 
 ===accordion
 ===panel: Clock of Omens
 
-- C027: Imotekh the Stormlord + Clock of Omens + Tortured Existence
-- C028: Retrofitter Foundry + Clock of Omens + Stridehangar Automaton
-- C029: The Ooze + Clock of Omens + Stridehangar Automaton
-- C059: The Ooze + Clock of Omens + Stridehangar Automaton + Altar of the Brood
-- C080: The Ooze + Clock of Omens + Stridehangar Automaton + Grinding Station
+- C026: Imotekh the Stormlord + Clock of Omens + Tortured Existence
+- C027: Retrofitter Foundry + Clock of Omens + Stridehangar Automaton
+- C028: The Ooze + Clock of Omens + Stridehangar Automaton
+- C057: The Ooze + Clock of Omens + Stridehangar Automaton + Altar of the Brood
+- C078: The Ooze + Clock of Omens + Stridehangar Automaton + Grinding Station
 ===endpanel
 ===endaccordion
 
 ===accordion
 ===panel: Cloud Key
 
-- C030: Sensei's Divining Top + Mystic Forge + Cloud Key
-- C062: Scrap Trawler + Myr Retriever + Ashnod's Altar + Cloud Key
-- C081: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Cloud Key
+- C029: Sensei's Divining Top + Mystic Forge + Cloud Key
+- C060: Scrap Trawler + Myr Retriever + Ashnod's Altar + Cloud Key
+- C079: Spine of Ish Sah + Imotekh the Stormlord + Krark-Clan Ironworks + Cloud Key
+- C080: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Cloud Key
+- C081: Spine of Ish Sah + Sculpting Steel + Krark-Clan Ironworks + Cloud Key
 ===endpanel
 ===endaccordion
 
@@ -4029,33 +4210,37 @@ Each card below lists the canonical core IDs in which it appears.
 ===panel: Dross Scorpion
 
 - C010: Dross Scorpion + Retrofitter Foundry + Ashnod's Altar
-- C031: Dross Scorpion + Retrofitter Foundry + Krark-Clan Ironworks
-- C032: Retrofitter Foundry + Dross Scorpion + Stridehangar Automaton
+- C030: Dross Scorpion + Retrofitter Foundry + Krark-Clan Ironworks
+- C031: Retrofitter Foundry + Dross Scorpion + Stridehangar Automaton
 ===endpanel
 ===endaccordion
 
 ===accordion
 ===panel: Foundry Inspector
 
-- C033: Sensei's Divining Top + Foundry Inspector + Mystic Forge
-- C063: Scrap Trawler + Myr Retriever + Ashnod's Altar + Foundry Inspector
-- C082: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Foundry Inspector
+- C032: Sensei's Divining Top + Foundry Inspector + Mystic Forge
+- C061: Scrap Trawler + Myr Retriever + Ashnod's Altar + Foundry Inspector
+- C082: Spine of Ish Sah + Imotekh the Stormlord + Krark-Clan Ironworks + Foundry Inspector
+- C083: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Foundry Inspector
+- C084: Spine of Ish Sah + Sculpting Steel + Krark-Clan Ironworks + Foundry Inspector
 ===endpanel
 ===endaccordion
 
 ===accordion
 ===panel: Glaring Fleshraker
 
-- C034: Sensei's Divining Top + Glaring Fleshraker + Mystic Forge
-- C064: Glaring Fleshraker + Ashnod's Altar + Myr Retriever + Junk Diver
-- C065: Glaring Fleshraker + Ashnod's Altar + Junk Diver + Workshop Assistant
-- C066: Glaring Fleshraker + Ashnod's Altar + Myr Retriever + Scrap Trawler
-- C067: Glaring Fleshraker + Ashnod's Altar + Myr Retriever + Workshop Assistant
-- C068: Glaring Fleshraker + Ashnod's Altar + Scrap Trawler + Workshop Assistant
-- C083: Glaring Fleshraker + Myr Retriever + Junk Diver + Krark-Clan Ironworks
-- C084: Glaring Fleshraker + Junk Diver + Workshop Assistant + Krark-Clan Ironworks
-- C085: Glaring Fleshraker + Myr Retriever + Scrap Trawler + Krark-Clan Ironworks
-- C086: Glaring Fleshraker + Myr Retriever + Workshop Assistant + Krark-Clan Ironworks
+- C033: Sensei's Divining Top + Glaring Fleshraker + Mystic Forge
+- C062: Glaring Fleshraker + Ashnod's Altar + Myr Retriever + Junk Diver
+- C063: Glaring Fleshraker + Ashnod's Altar + Junk Diver + Workshop Assistant
+- C064: Glaring Fleshraker + Ashnod's Altar + Myr Retriever + Scrap Trawler
+- C065: Glaring Fleshraker + Ashnod's Altar + Myr Retriever + Workshop Assistant
+- C066: Glaring Fleshraker + Ashnod's Altar + Scrap Trawler + Workshop Assistant
+- C085: Spine of Ish Sah + Imotekh the Stormlord + Krark-Clan Ironworks + Glaring Fleshraker
+- C086: Glaring Fleshraker + Myr Retriever + Junk Diver + Krark-Clan Ironworks
+- C087: Glaring Fleshraker + Junk Diver + Workshop Assistant + Krark-Clan Ironworks
+- C088: Glaring Fleshraker + Myr Retriever + Scrap Trawler + Krark-Clan Ironworks
+- C089: Glaring Fleshraker + Myr Retriever + Workshop Assistant + Krark-Clan Ironworks
+- C090: Spine of Ish Sah + Sculpting Steel + Krark-Clan Ironworks + Glaring Fleshraker
 ===endpanel
 ===endaccordion
 
@@ -4068,23 +4253,23 @@ Each card below lists the canonical core IDs in which it appears.
 - C007: The Ghoul, Gunslinger + Gravecrawler + Altar of Dementia
 - C011: Gravecrawler + Pitiless Plunderer + Ashnod's Altar
 - C012: The Ghoul, Gunslinger + Gravecrawler + Ashnod's Altar
-- C021: Gravecrawler + Pitiless Plunderer + Blasting Station
-- C022: The Ghoul, Gunslinger + Gravecrawler + Blasting Station
-- C024: Gravecrawler + Pitiless Plunderer + Carrion Feeder
-- C025: The Ghoul, Gunslinger + Gravecrawler + Carrion Feeder
-- C035: Gravecrawler + Pitiless Plunderer + Umbral Collar Zealot
-- C036: Warren Soultrader + Gravecrawler + Sephiroth, Fabled SOLDIER
-- C037: The Ghoul, Gunslinger + Gravecrawler + Umbral Collar Zealot
-- C038: Warren Soultrader + Gravecrawler + Zulaport Cutthroat
+- C020: Gravecrawler + Pitiless Plunderer + Blasting Station
+- C021: The Ghoul, Gunslinger + Gravecrawler + Blasting Station
+- C023: Gravecrawler + Pitiless Plunderer + Carrion Feeder
+- C024: The Ghoul, Gunslinger + Gravecrawler + Carrion Feeder
+- C034: Gravecrawler + Pitiless Plunderer + Umbral Collar Zealot
+- C035: Warren Soultrader + Gravecrawler + Sephiroth, Fabled SOLDIER
+- C036: The Ghoul, Gunslinger + Gravecrawler + Umbral Collar Zealot
+- C037: Warren Soultrader + Gravecrawler + Zulaport Cutthroat
 ===endpanel
 ===endaccordion
 
 ===accordion
 ===panel: Grinding Station
 
-- C039: Pitiless Plunderer + Stridehangar Automaton + Grinding Station
-- C080: The Ooze + Clock of Omens + Stridehangar Automaton + Grinding Station
-- C087: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Grinding Station
+- C038: Pitiless Plunderer + Stridehangar Automaton + Grinding Station
+- C078: The Ooze + Clock of Omens + Stridehangar Automaton + Grinding Station
+- C091: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Grinding Station
 ===endpanel
 ===endaccordion
 
@@ -4092,61 +4277,72 @@ Each card below lists the canonical core IDs in which it appears.
 ===panel: Imotekh the Stormlord
 
 - C013: Imotekh the Stormlord + Nim Deathmantle + Ashnod's Altar
-- C027: Imotekh the Stormlord + Clock of Omens + Tortured Existence
-- C040: Imotekh the Stormlord + Nim Deathmantle + Krark-Clan Ironworks
-- C041: Tortured Existence + Phyrexian Altar + Imotekh the Stormlord
-- C056: Tortured Existence + Pitiless Plunderer + Imotekh the Stormlord + Altar of Dementia
-- C069: Imotekh the Stormlord + Junk Diver + Myr Retriever + Ashnod's Altar
-- C070: Imotekh the Stormlord + Junk Diver + Workshop Assistant + Ashnod's Altar
-- C071: Imotekh the Stormlord + Scrap Trawler + Myr Retriever + Ashnod's Altar
-- C072: Imotekh the Stormlord + Myr Retriever + Workshop Assistant + Ashnod's Altar
-- C075: Tortured Existence + Pitiless Plunderer + Imotekh the Stormlord + Blasting Station
-- C077: Tortured Existence + Pitiless Plunderer + Imotekh the Stormlord + Carrion Feeder
-- C088: Imotekh the Stormlord + Junk Diver + Myr Retriever + Krark-Clan Ironworks
-- C089: Imotekh the Stormlord + Junk Diver + Workshop Assistant + Krark-Clan Ironworks
-- C090: Imotekh the Stormlord + Scrap Trawler + Myr Retriever + Krark-Clan Ironworks
-- C091: Imotekh the Stormlord + Myr Retriever + Workshop Assistant + Krark-Clan Ironworks
+- C026: Imotekh the Stormlord + Clock of Omens + Tortured Existence
+- C039: Imotekh the Stormlord + Nim Deathmantle + Krark-Clan Ironworks
+- C040: Tortured Existence + Phyrexian Altar + Imotekh the Stormlord
+- C054: Tortured Existence + Pitiless Plunderer + Imotekh the Stormlord + Altar of Dementia
+- C067: Imotekh the Stormlord + Junk Diver + Myr Retriever + Ashnod's Altar
+- C068: Imotekh the Stormlord + Junk Diver + Workshop Assistant + Ashnod's Altar
+- C069: Imotekh the Stormlord + Scrap Trawler + Myr Retriever + Ashnod's Altar
+- C070: Imotekh the Stormlord + Myr Retriever + Workshop Assistant + Ashnod's Altar
+- C073: Tortured Existence + Pitiless Plunderer + Imotekh the Stormlord + Blasting Station
+- C075: Tortured Existence + Pitiless Plunderer + Imotekh the Stormlord + Carrion Feeder
+- C079: Spine of Ish Sah + Imotekh the Stormlord + Krark-Clan Ironworks + Cloud Key
+- C082: Spine of Ish Sah + Imotekh the Stormlord + Krark-Clan Ironworks + Foundry Inspector
+- C085: Spine of Ish Sah + Imotekh the Stormlord + Krark-Clan Ironworks + Glaring Fleshraker
+- C092: Imotekh the Stormlord + Junk Diver + Myr Retriever + Krark-Clan Ironworks
+- C093: Imotekh the Stormlord + Junk Diver + Workshop Assistant + Krark-Clan Ironworks
+- C094: Imotekh the Stormlord + Scrap Trawler + Myr Retriever + Krark-Clan Ironworks
+- C095: Imotekh the Stormlord + Myr Retriever + Workshop Assistant + Krark-Clan Ironworks
+- C096: Spine of Ish Sah + Imotekh the Stormlord + Krark-Clan Ironworks + Semblance Anvil
 ===endpanel
 ===endaccordion
 
 ===accordion
 ===panel: Junk Diver
 
-- C064: Glaring Fleshraker + Ashnod's Altar + Myr Retriever + Junk Diver
-- C065: Glaring Fleshraker + Ashnod's Altar + Junk Diver + Workshop Assistant
-- C069: Imotekh the Stormlord + Junk Diver + Myr Retriever + Ashnod's Altar
-- C070: Imotekh the Stormlord + Junk Diver + Workshop Assistant + Ashnod's Altar
-- C083: Glaring Fleshraker + Myr Retriever + Junk Diver + Krark-Clan Ironworks
-- C084: Glaring Fleshraker + Junk Diver + Workshop Assistant + Krark-Clan Ironworks
-- C088: Imotekh the Stormlord + Junk Diver + Myr Retriever + Krark-Clan Ironworks
-- C089: Imotekh the Stormlord + Junk Diver + Workshop Assistant + Krark-Clan Ironworks
-- C102: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Sol Ring + Junk Diver
+- C062: Glaring Fleshraker + Ashnod's Altar + Myr Retriever + Junk Diver
+- C063: Glaring Fleshraker + Ashnod's Altar + Junk Diver + Workshop Assistant
+- C067: Imotekh the Stormlord + Junk Diver + Myr Retriever + Ashnod's Altar
+- C068: Imotekh the Stormlord + Junk Diver + Workshop Assistant + Ashnod's Altar
+- C086: Glaring Fleshraker + Myr Retriever + Junk Diver + Krark-Clan Ironworks
+- C087: Glaring Fleshraker + Junk Diver + Workshop Assistant + Krark-Clan Ironworks
+- C092: Imotekh the Stormlord + Junk Diver + Myr Retriever + Krark-Clan Ironworks
+- C093: Imotekh the Stormlord + Junk Diver + Workshop Assistant + Krark-Clan Ironworks
+- C108: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Sol Ring + Junk Diver
 ===endpanel
 ===endaccordion
 
 ===accordion
 ===panel: Krark-Clan Ironworks
 
-- C031: Dross Scorpion + Retrofitter Foundry + Krark-Clan Ironworks
-- C040: Imotekh the Stormlord + Nim Deathmantle + Krark-Clan Ironworks
-- C042: Myr Retriever + Krark-Clan Ironworks + Ultron, Artificial Malevolence
-- C043: Ultron the Annihilator + Nim Deathmantle + Krark-Clan Ironworks
-- C044: Out of the Tombs + Skullclamp + Krark-Clan Ironworks
-- C045: Pitiless Plunderer + Stridehangar Automaton + Krark-Clan Ironworks
-- C046: The Ooze + Stridehangar Automaton + Krark-Clan Ironworks
-- C081: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Cloud Key
-- C082: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Foundry Inspector
-- C083: Glaring Fleshraker + Myr Retriever + Junk Diver + Krark-Clan Ironworks
-- C084: Glaring Fleshraker + Junk Diver + Workshop Assistant + Krark-Clan Ironworks
-- C085: Glaring Fleshraker + Myr Retriever + Scrap Trawler + Krark-Clan Ironworks
-- C086: Glaring Fleshraker + Myr Retriever + Workshop Assistant + Krark-Clan Ironworks
-- C088: Imotekh the Stormlord + Junk Diver + Myr Retriever + Krark-Clan Ironworks
-- C089: Imotekh the Stormlord + Junk Diver + Workshop Assistant + Krark-Clan Ironworks
-- C090: Imotekh the Stormlord + Scrap Trawler + Myr Retriever + Krark-Clan Ironworks
-- C091: Imotekh the Stormlord + Myr Retriever + Workshop Assistant + Krark-Clan Ironworks
-- C092: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Semblance Anvil
-- C093: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Krark-Clan Ironworks
-- C102: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Sol Ring + Junk Diver
+- C030: Dross Scorpion + Retrofitter Foundry + Krark-Clan Ironworks
+- C039: Imotekh the Stormlord + Nim Deathmantle + Krark-Clan Ironworks
+- C041: Ultron the Annihilator + Nim Deathmantle + Krark-Clan Ironworks
+- C042: Out of the Tombs + Skullclamp + Krark-Clan Ironworks
+- C043: Pitiless Plunderer + Stridehangar Automaton + Krark-Clan Ironworks
+- C044: The Ooze + Stridehangar Automaton + Krark-Clan Ironworks
+- C079: Spine of Ish Sah + Imotekh the Stormlord + Krark-Clan Ironworks + Cloud Key
+- C080: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Cloud Key
+- C081: Spine of Ish Sah + Sculpting Steel + Krark-Clan Ironworks + Cloud Key
+- C082: Spine of Ish Sah + Imotekh the Stormlord + Krark-Clan Ironworks + Foundry Inspector
+- C083: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Foundry Inspector
+- C084: Spine of Ish Sah + Sculpting Steel + Krark-Clan Ironworks + Foundry Inspector
+- C085: Spine of Ish Sah + Imotekh the Stormlord + Krark-Clan Ironworks + Glaring Fleshraker
+- C086: Glaring Fleshraker + Myr Retriever + Junk Diver + Krark-Clan Ironworks
+- C087: Glaring Fleshraker + Junk Diver + Workshop Assistant + Krark-Clan Ironworks
+- C088: Glaring Fleshraker + Myr Retriever + Scrap Trawler + Krark-Clan Ironworks
+- C089: Glaring Fleshraker + Myr Retriever + Workshop Assistant + Krark-Clan Ironworks
+- C090: Spine of Ish Sah + Sculpting Steel + Krark-Clan Ironworks + Glaring Fleshraker
+- C092: Imotekh the Stormlord + Junk Diver + Myr Retriever + Krark-Clan Ironworks
+- C093: Imotekh the Stormlord + Junk Diver + Workshop Assistant + Krark-Clan Ironworks
+- C094: Imotekh the Stormlord + Scrap Trawler + Myr Retriever + Krark-Clan Ironworks
+- C095: Imotekh the Stormlord + Myr Retriever + Workshop Assistant + Krark-Clan Ironworks
+- C096: Spine of Ish Sah + Imotekh the Stormlord + Krark-Clan Ironworks + Semblance Anvil
+- C097: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Semblance Anvil
+- C098: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Krark-Clan Ironworks
+- C099: Spine of Ish Sah + Sculpting Steel + Krark-Clan Ironworks + Semblance Anvil
+- C108: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Sol Ring + Junk Diver
 ===endpanel
 ===endaccordion
 
@@ -4160,46 +4356,44 @@ Each card below lists the canonical core IDs in which it appears.
 ===accordion
 ===panel: Metalwork Colossus
 
-- C054: Metalwork Colossus + Warren Soultrader + Pitiless Plunderer + Aetherflux Reservoir
-- C055: Metalwork Colossus + Warren Soultrader + Aetherflux Reservoir + Stridehangar Automaton
+- C052: Metalwork Colossus + Warren Soultrader + Pitiless Plunderer + Aetherflux Reservoir
+- C053: Metalwork Colossus + Warren Soultrader + Aetherflux Reservoir + Stridehangar Automaton
 ===endpanel
 ===endaccordion
 
 ===accordion
 ===panel: Myr Retriever
 
-- C015: Myr Retriever + Ashnod's Altar + Ultron, Artificial Malevolence
-- C042: Myr Retriever + Krark-Clan Ironworks + Ultron, Artificial Malevolence
-- C062: Scrap Trawler + Myr Retriever + Ashnod's Altar + Cloud Key
-- C063: Scrap Trawler + Myr Retriever + Ashnod's Altar + Foundry Inspector
-- C064: Glaring Fleshraker + Ashnod's Altar + Myr Retriever + Junk Diver
-- C066: Glaring Fleshraker + Ashnod's Altar + Myr Retriever + Scrap Trawler
-- C067: Glaring Fleshraker + Ashnod's Altar + Myr Retriever + Workshop Assistant
-- C069: Imotekh the Stormlord + Junk Diver + Myr Retriever + Ashnod's Altar
-- C071: Imotekh the Stormlord + Scrap Trawler + Myr Retriever + Ashnod's Altar
-- C072: Imotekh the Stormlord + Myr Retriever + Workshop Assistant + Ashnod's Altar
-- C073: Scrap Trawler + Myr Retriever + Ashnod's Altar + Semblance Anvil
-- C081: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Cloud Key
-- C082: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Foundry Inspector
-- C083: Glaring Fleshraker + Myr Retriever + Junk Diver + Krark-Clan Ironworks
-- C085: Glaring Fleshraker + Myr Retriever + Scrap Trawler + Krark-Clan Ironworks
-- C086: Glaring Fleshraker + Myr Retriever + Workshop Assistant + Krark-Clan Ironworks
-- C088: Imotekh the Stormlord + Junk Diver + Myr Retriever + Krark-Clan Ironworks
-- C090: Imotekh the Stormlord + Scrap Trawler + Myr Retriever + Krark-Clan Ironworks
-- C091: Imotekh the Stormlord + Myr Retriever + Workshop Assistant + Krark-Clan Ironworks
-- C092: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Semblance Anvil
-- C094: Scrap Trawler + Myr Retriever + Phyrexian Altar + Semblance Anvil
-- C102: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Sol Ring + Junk Diver
+- C060: Scrap Trawler + Myr Retriever + Ashnod's Altar + Cloud Key
+- C061: Scrap Trawler + Myr Retriever + Ashnod's Altar + Foundry Inspector
+- C062: Glaring Fleshraker + Ashnod's Altar + Myr Retriever + Junk Diver
+- C064: Glaring Fleshraker + Ashnod's Altar + Myr Retriever + Scrap Trawler
+- C065: Glaring Fleshraker + Ashnod's Altar + Myr Retriever + Workshop Assistant
+- C067: Imotekh the Stormlord + Junk Diver + Myr Retriever + Ashnod's Altar
+- C069: Imotekh the Stormlord + Scrap Trawler + Myr Retriever + Ashnod's Altar
+- C070: Imotekh the Stormlord + Myr Retriever + Workshop Assistant + Ashnod's Altar
+- C071: Scrap Trawler + Myr Retriever + Ashnod's Altar + Semblance Anvil
+- C080: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Cloud Key
+- C083: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Foundry Inspector
+- C086: Glaring Fleshraker + Myr Retriever + Junk Diver + Krark-Clan Ironworks
+- C088: Glaring Fleshraker + Myr Retriever + Scrap Trawler + Krark-Clan Ironworks
+- C089: Glaring Fleshraker + Myr Retriever + Workshop Assistant + Krark-Clan Ironworks
+- C092: Imotekh the Stormlord + Junk Diver + Myr Retriever + Krark-Clan Ironworks
+- C094: Imotekh the Stormlord + Scrap Trawler + Myr Retriever + Krark-Clan Ironworks
+- C095: Imotekh the Stormlord + Myr Retriever + Workshop Assistant + Krark-Clan Ironworks
+- C097: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Semblance Anvil
+- C100: Scrap Trawler + Myr Retriever + Phyrexian Altar + Semblance Anvil
+- C108: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Sol Ring + Junk Diver
 ===endpanel
 ===endaccordion
 
 ===accordion
 ===panel: Mystic Forge
 
-- C030: Sensei's Divining Top + Mystic Forge + Cloud Key
-- C033: Sensei's Divining Top + Foundry Inspector + Mystic Forge
-- C034: Sensei's Divining Top + Glaring Fleshraker + Mystic Forge
-- C047: Sensei's Divining Top + Mystic Forge + Semblance Anvil
+- C029: Sensei's Divining Top + Mystic Forge + Cloud Key
+- C032: Sensei's Divining Top + Foundry Inspector + Mystic Forge
+- C033: Sensei's Divining Top + Glaring Fleshraker + Mystic Forge
+- C045: Sensei's Divining Top + Mystic Forge + Semblance Anvil
 ===endpanel
 ===endaccordion
 
@@ -4209,34 +4403,34 @@ Each card below lists the canonical core IDs in which it appears.
 - C001: Nim Deathmantle + Ashnod's Altar
 - C013: Imotekh the Stormlord + Nim Deathmantle + Ashnod's Altar
 - C014: Nim Deathmantle + Ashnod's Altar + Marionette Apprentice
-- C016: Nim Deathmantle + Ashnod's Altar + Orcish Bowmasters
-- C017: Ultron the Annihilator + Nim Deathmantle + Ashnod's Altar
-- C040: Imotekh the Stormlord + Nim Deathmantle + Krark-Clan Ironworks
-- C043: Ultron the Annihilator + Nim Deathmantle + Krark-Clan Ironworks
-- C095: Ultron the Annihilator + Nim Deathmantle + Phyrexian Altar + Pitiless Plunderer
+- C015: Nim Deathmantle + Ashnod's Altar + Orcish Bowmasters
+- C016: Ultron the Annihilator + Nim Deathmantle + Ashnod's Altar
+- C039: Imotekh the Stormlord + Nim Deathmantle + Krark-Clan Ironworks
+- C041: Ultron the Annihilator + Nim Deathmantle + Krark-Clan Ironworks
+- C101: Ultron the Annihilator + Nim Deathmantle + Phyrexian Altar + Pitiless Plunderer
 ===endpanel
 ===endaccordion
 
 ===accordion
 ===panel: Orcish Bowmasters
 
-- C016: Nim Deathmantle + Ashnod's Altar + Orcish Bowmasters
+- C015: Nim Deathmantle + Ashnod's Altar + Orcish Bowmasters
 ===endpanel
 ===endaccordion
 
 ===accordion
 ===panel: Out of the Tombs
 
-- C018: Out of the Tombs + Skullclamp + Ashnod's Altar
-- C044: Out of the Tombs + Skullclamp + Krark-Clan Ironworks
-- C048: Out of the Tombs + Skullclamp + Phyrexian Altar
-- C057: Out of the Tombs + Skullclamp + Pitiless Plunderer + Altar of Dementia
-- C060: Out of the Tombs + Skullclamp + Pitiless Plunderer + Arcbound Ravager
-- C078: Out of the Tombs + Skullclamp + Pitiless Plunderer + Carrion Feeder
-- C096: Out of the Tombs + Skullclamp + Pitiless Plunderer + Umbral Collar Zealot
-- C097: Out of the Tombs + Skullclamp + Warren Soultrader + Sephiroth, Fabled SOLDIER
-- C098: Out of the Tombs + Skullclamp + Warren Soultrader + Zulaport Cutthroat
-- C101: Out of the Tombs + Skullclamp + Pitiless Plunderer + Blasting Station + Stitcher's Supplier
+- C017: Out of the Tombs + Skullclamp + Ashnod's Altar
+- C042: Out of the Tombs + Skullclamp + Krark-Clan Ironworks
+- C046: Out of the Tombs + Skullclamp + Phyrexian Altar
+- C055: Out of the Tombs + Skullclamp + Pitiless Plunderer + Altar of Dementia
+- C058: Out of the Tombs + Skullclamp + Pitiless Plunderer + Arcbound Ravager
+- C076: Out of the Tombs + Skullclamp + Pitiless Plunderer + Carrion Feeder
+- C102: Out of the Tombs + Skullclamp + Pitiless Plunderer + Umbral Collar Zealot
+- C103: Out of the Tombs + Skullclamp + Warren Soultrader + Sephiroth, Fabled SOLDIER
+- C104: Out of the Tombs + Skullclamp + Warren Soultrader + Zulaport Cutthroat
+- C107: Out of the Tombs + Skullclamp + Pitiless Plunderer + Blasting Station + Stitcher's Supplier
 ===endpanel
 ===endaccordion
 
@@ -4244,13 +4438,13 @@ Each card below lists the canonical core IDs in which it appears.
 ===panel: Phyrexian Altar
 
 - C003: Gravecrawler + Phyrexian Altar
-- C041: Tortured Existence + Phyrexian Altar + Imotekh the Stormlord
-- C048: Out of the Tombs + Skullclamp + Phyrexian Altar
-- C049: Pitiless Plunderer + Phyrexian Altar + Stridehangar Automaton
-- C050: The Ooze + Stridehangar Automaton + Phyrexian Altar
-- C094: Scrap Trawler + Myr Retriever + Phyrexian Altar + Semblance Anvil
-- C095: Ultron the Annihilator + Nim Deathmantle + Phyrexian Altar + Pitiless Plunderer
-- C099: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Phyrexian Altar
+- C040: Tortured Existence + Phyrexian Altar + Imotekh the Stormlord
+- C046: Out of the Tombs + Skullclamp + Phyrexian Altar
+- C047: Pitiless Plunderer + Phyrexian Altar + Stridehangar Automaton
+- C048: The Ooze + Stridehangar Automaton + Phyrexian Altar
+- C100: Scrap Trawler + Myr Retriever + Phyrexian Altar + Semblance Anvil
+- C101: Ultron the Annihilator + Nim Deathmantle + Phyrexian Altar + Pitiless Plunderer
+- C105: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Phyrexian Altar
 ===endpanel
 ===endaccordion
 
@@ -4261,35 +4455,35 @@ Each card below lists the canonical core IDs in which it appears.
 - C008: Pitiless Plunderer + Altar of Dementia + Stridehangar Automaton
 - C009: Pitiless Plunderer + Stridehangar Automaton + Arcbound Ravager
 - C011: Gravecrawler + Pitiless Plunderer + Ashnod's Altar
-- C019: Pitiless Plunderer + Ashnod's Altar + Stridehangar Automaton
-- C021: Gravecrawler + Pitiless Plunderer + Blasting Station
-- C023: Pitiless Plunderer + Blasting Station + Stridehangar Automaton
-- C024: Gravecrawler + Pitiless Plunderer + Carrion Feeder
-- C026: Pitiless Plunderer + Stridehangar Automaton + Carrion Feeder
-- C035: Gravecrawler + Pitiless Plunderer + Umbral Collar Zealot
-- C039: Pitiless Plunderer + Stridehangar Automaton + Grinding Station
-- C045: Pitiless Plunderer + Stridehangar Automaton + Krark-Clan Ironworks
-- C049: Pitiless Plunderer + Phyrexian Altar + Stridehangar Automaton
-- C051: Pitiless Plunderer + Umbral Collar Zealot + Stridehangar Automaton
-- C054: Metalwork Colossus + Warren Soultrader + Pitiless Plunderer + Aetherflux Reservoir
-- C056: Tortured Existence + Pitiless Plunderer + Imotekh the Stormlord + Altar of Dementia
-- C057: Out of the Tombs + Skullclamp + Pitiless Plunderer + Altar of Dementia
-- C058: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Altar of Dementia
-- C060: Out of the Tombs + Skullclamp + Pitiless Plunderer + Arcbound Ravager
-- C061: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Arcbound Ravager
-- C074: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Ashnod's Altar
-- C075: Tortured Existence + Pitiless Plunderer + Imotekh the Stormlord + Blasting Station
-- C076: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Blasting Station
-- C077: Tortured Existence + Pitiless Plunderer + Imotekh the Stormlord + Carrion Feeder
-- C078: Out of the Tombs + Skullclamp + Pitiless Plunderer + Carrion Feeder
-- C079: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Carrion Feeder
-- C087: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Grinding Station
-- C093: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Krark-Clan Ironworks
-- C095: Ultron the Annihilator + Nim Deathmantle + Phyrexian Altar + Pitiless Plunderer
-- C096: Out of the Tombs + Skullclamp + Pitiless Plunderer + Umbral Collar Zealot
-- C099: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Phyrexian Altar
-- C100: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Umbral Collar Zealot
-- C101: Out of the Tombs + Skullclamp + Pitiless Plunderer + Blasting Station + Stitcher's Supplier
+- C018: Pitiless Plunderer + Ashnod's Altar + Stridehangar Automaton
+- C020: Gravecrawler + Pitiless Plunderer + Blasting Station
+- C022: Pitiless Plunderer + Blasting Station + Stridehangar Automaton
+- C023: Gravecrawler + Pitiless Plunderer + Carrion Feeder
+- C025: Pitiless Plunderer + Stridehangar Automaton + Carrion Feeder
+- C034: Gravecrawler + Pitiless Plunderer + Umbral Collar Zealot
+- C038: Pitiless Plunderer + Stridehangar Automaton + Grinding Station
+- C043: Pitiless Plunderer + Stridehangar Automaton + Krark-Clan Ironworks
+- C047: Pitiless Plunderer + Phyrexian Altar + Stridehangar Automaton
+- C049: Pitiless Plunderer + Umbral Collar Zealot + Stridehangar Automaton
+- C052: Metalwork Colossus + Warren Soultrader + Pitiless Plunderer + Aetherflux Reservoir
+- C054: Tortured Existence + Pitiless Plunderer + Imotekh the Stormlord + Altar of Dementia
+- C055: Out of the Tombs + Skullclamp + Pitiless Plunderer + Altar of Dementia
+- C056: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Altar of Dementia
+- C058: Out of the Tombs + Skullclamp + Pitiless Plunderer + Arcbound Ravager
+- C059: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Arcbound Ravager
+- C072: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Ashnod's Altar
+- C073: Tortured Existence + Pitiless Plunderer + Imotekh the Stormlord + Blasting Station
+- C074: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Blasting Station
+- C075: Tortured Existence + Pitiless Plunderer + Imotekh the Stormlord + Carrion Feeder
+- C076: Out of the Tombs + Skullclamp + Pitiless Plunderer + Carrion Feeder
+- C077: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Carrion Feeder
+- C091: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Grinding Station
+- C098: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Krark-Clan Ironworks
+- C101: Ultron the Annihilator + Nim Deathmantle + Phyrexian Altar + Pitiless Plunderer
+- C102: Out of the Tombs + Skullclamp + Pitiless Plunderer + Umbral Collar Zealot
+- C105: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Phyrexian Altar
+- C106: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Umbral Collar Zealot
+- C107: Out of the Tombs + Skullclamp + Pitiless Plunderer + Blasting Station + Stitcher's Supplier
 ===endpanel
 ===endaccordion
 
@@ -4297,38 +4491,50 @@ Each card below lists the canonical core IDs in which it appears.
 ===panel: Retrofitter Foundry
 
 - C010: Dross Scorpion + Retrofitter Foundry + Ashnod's Altar
-- C028: Retrofitter Foundry + Clock of Omens + Stridehangar Automaton
-- C031: Dross Scorpion + Retrofitter Foundry + Krark-Clan Ironworks
-- C032: Retrofitter Foundry + Dross Scorpion + Stridehangar Automaton
+- C027: Retrofitter Foundry + Clock of Omens + Stridehangar Automaton
+- C030: Dross Scorpion + Retrofitter Foundry + Krark-Clan Ironworks
+- C031: Retrofitter Foundry + Dross Scorpion + Stridehangar Automaton
 ===endpanel
 ===endaccordion
 
 ===accordion
 ===panel: Scrap Trawler
 
-- C062: Scrap Trawler + Myr Retriever + Ashnod's Altar + Cloud Key
-- C063: Scrap Trawler + Myr Retriever + Ashnod's Altar + Foundry Inspector
-- C066: Glaring Fleshraker + Ashnod's Altar + Myr Retriever + Scrap Trawler
-- C068: Glaring Fleshraker + Ashnod's Altar + Scrap Trawler + Workshop Assistant
-- C071: Imotekh the Stormlord + Scrap Trawler + Myr Retriever + Ashnod's Altar
-- C073: Scrap Trawler + Myr Retriever + Ashnod's Altar + Semblance Anvil
-- C081: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Cloud Key
-- C082: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Foundry Inspector
-- C085: Glaring Fleshraker + Myr Retriever + Scrap Trawler + Krark-Clan Ironworks
-- C090: Imotekh the Stormlord + Scrap Trawler + Myr Retriever + Krark-Clan Ironworks
-- C092: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Semblance Anvil
-- C094: Scrap Trawler + Myr Retriever + Phyrexian Altar + Semblance Anvil
-- C102: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Sol Ring + Junk Diver
+- C060: Scrap Trawler + Myr Retriever + Ashnod's Altar + Cloud Key
+- C061: Scrap Trawler + Myr Retriever + Ashnod's Altar + Foundry Inspector
+- C064: Glaring Fleshraker + Ashnod's Altar + Myr Retriever + Scrap Trawler
+- C066: Glaring Fleshraker + Ashnod's Altar + Scrap Trawler + Workshop Assistant
+- C069: Imotekh the Stormlord + Scrap Trawler + Myr Retriever + Ashnod's Altar
+- C071: Scrap Trawler + Myr Retriever + Ashnod's Altar + Semblance Anvil
+- C080: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Cloud Key
+- C083: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Foundry Inspector
+- C088: Glaring Fleshraker + Myr Retriever + Scrap Trawler + Krark-Clan Ironworks
+- C094: Imotekh the Stormlord + Scrap Trawler + Myr Retriever + Krark-Clan Ironworks
+- C097: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Semblance Anvil
+- C100: Scrap Trawler + Myr Retriever + Phyrexian Altar + Semblance Anvil
+- C108: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Sol Ring + Junk Diver
+===endpanel
+===endaccordion
+
+===accordion
+===panel: Sculpting Steel
+
+- C081: Spine of Ish Sah + Sculpting Steel + Krark-Clan Ironworks + Cloud Key
+- C084: Spine of Ish Sah + Sculpting Steel + Krark-Clan Ironworks + Foundry Inspector
+- C090: Spine of Ish Sah + Sculpting Steel + Krark-Clan Ironworks + Glaring Fleshraker
+- C099: Spine of Ish Sah + Sculpting Steel + Krark-Clan Ironworks + Semblance Anvil
 ===endpanel
 ===endaccordion
 
 ===accordion
 ===panel: Semblance Anvil
 
-- C047: Sensei's Divining Top + Mystic Forge + Semblance Anvil
-- C073: Scrap Trawler + Myr Retriever + Ashnod's Altar + Semblance Anvil
-- C092: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Semblance Anvil
-- C094: Scrap Trawler + Myr Retriever + Phyrexian Altar + Semblance Anvil
+- C045: Sensei's Divining Top + Mystic Forge + Semblance Anvil
+- C071: Scrap Trawler + Myr Retriever + Ashnod's Altar + Semblance Anvil
+- C096: Spine of Ish Sah + Imotekh the Stormlord + Krark-Clan Ironworks + Semblance Anvil
+- C097: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Semblance Anvil
+- C099: Spine of Ish Sah + Sculpting Steel + Krark-Clan Ironworks + Semblance Anvil
+- C100: Scrap Trawler + Myr Retriever + Phyrexian Altar + Semblance Anvil
 ===endpanel
 ===endaccordion
 
@@ -4336,49 +4542,63 @@ Each card below lists the canonical core IDs in which it appears.
 ===panel: Sensei's Divining Top
 
 - C004: Sensei's Divining Top + Aetherflux Reservoir + Bolas's Citadel
-- C030: Sensei's Divining Top + Mystic Forge + Cloud Key
-- C033: Sensei's Divining Top + Foundry Inspector + Mystic Forge
-- C034: Sensei's Divining Top + Glaring Fleshraker + Mystic Forge
-- C047: Sensei's Divining Top + Mystic Forge + Semblance Anvil
+- C029: Sensei's Divining Top + Mystic Forge + Cloud Key
+- C032: Sensei's Divining Top + Foundry Inspector + Mystic Forge
+- C033: Sensei's Divining Top + Glaring Fleshraker + Mystic Forge
+- C045: Sensei's Divining Top + Mystic Forge + Semblance Anvil
 ===endpanel
 ===endaccordion
 
 ===accordion
 ===panel: Sephiroth, Fabled SOLDIER // Sephiroth, One-Winged Angel
 
-- C036: Warren Soultrader + Gravecrawler + Sephiroth, Fabled SOLDIER
-- C052: Warren Soultrader + Stridehangar Automaton + Sephiroth, Fabled SOLDIER
-- C097: Out of the Tombs + Skullclamp + Warren Soultrader + Sephiroth, Fabled SOLDIER
+- C035: Warren Soultrader + Gravecrawler + Sephiroth, Fabled SOLDIER
+- C050: Warren Soultrader + Stridehangar Automaton + Sephiroth, Fabled SOLDIER
+- C103: Out of the Tombs + Skullclamp + Warren Soultrader + Sephiroth, Fabled SOLDIER
 ===endpanel
 ===endaccordion
 
 ===accordion
 ===panel: Skullclamp
 
-- C018: Out of the Tombs + Skullclamp + Ashnod's Altar
-- C044: Out of the Tombs + Skullclamp + Krark-Clan Ironworks
-- C048: Out of the Tombs + Skullclamp + Phyrexian Altar
-- C057: Out of the Tombs + Skullclamp + Pitiless Plunderer + Altar of Dementia
-- C060: Out of the Tombs + Skullclamp + Pitiless Plunderer + Arcbound Ravager
-- C078: Out of the Tombs + Skullclamp + Pitiless Plunderer + Carrion Feeder
-- C096: Out of the Tombs + Skullclamp + Pitiless Plunderer + Umbral Collar Zealot
-- C097: Out of the Tombs + Skullclamp + Warren Soultrader + Sephiroth, Fabled SOLDIER
-- C098: Out of the Tombs + Skullclamp + Warren Soultrader + Zulaport Cutthroat
-- C101: Out of the Tombs + Skullclamp + Pitiless Plunderer + Blasting Station + Stitcher's Supplier
+- C017: Out of the Tombs + Skullclamp + Ashnod's Altar
+- C042: Out of the Tombs + Skullclamp + Krark-Clan Ironworks
+- C046: Out of the Tombs + Skullclamp + Phyrexian Altar
+- C055: Out of the Tombs + Skullclamp + Pitiless Plunderer + Altar of Dementia
+- C058: Out of the Tombs + Skullclamp + Pitiless Plunderer + Arcbound Ravager
+- C076: Out of the Tombs + Skullclamp + Pitiless Plunderer + Carrion Feeder
+- C102: Out of the Tombs + Skullclamp + Pitiless Plunderer + Umbral Collar Zealot
+- C103: Out of the Tombs + Skullclamp + Warren Soultrader + Sephiroth, Fabled SOLDIER
+- C104: Out of the Tombs + Skullclamp + Warren Soultrader + Zulaport Cutthroat
+- C107: Out of the Tombs + Skullclamp + Pitiless Plunderer + Blasting Station + Stitcher's Supplier
 ===endpanel
 ===endaccordion
 
 ===accordion
 ===panel: Sol Ring
 
-- C102: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Sol Ring + Junk Diver
+- C108: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Sol Ring + Junk Diver
+===endpanel
+===endaccordion
+
+===accordion
+===panel: Spine of Ish Sah
+
+- C079: Spine of Ish Sah + Imotekh the Stormlord + Krark-Clan Ironworks + Cloud Key
+- C081: Spine of Ish Sah + Sculpting Steel + Krark-Clan Ironworks + Cloud Key
+- C082: Spine of Ish Sah + Imotekh the Stormlord + Krark-Clan Ironworks + Foundry Inspector
+- C084: Spine of Ish Sah + Sculpting Steel + Krark-Clan Ironworks + Foundry Inspector
+- C085: Spine of Ish Sah + Imotekh the Stormlord + Krark-Clan Ironworks + Glaring Fleshraker
+- C090: Spine of Ish Sah + Sculpting Steel + Krark-Clan Ironworks + Glaring Fleshraker
+- C096: Spine of Ish Sah + Imotekh the Stormlord + Krark-Clan Ironworks + Semblance Anvil
+- C099: Spine of Ish Sah + Sculpting Steel + Krark-Clan Ironworks + Semblance Anvil
 ===endpanel
 ===endaccordion
 
 ===accordion
 ===panel: Stitcher's Supplier
 
-- C101: Out of the Tombs + Skullclamp + Pitiless Plunderer + Blasting Station + Stitcher's Supplier
+- C107: Out of the Tombs + Skullclamp + Pitiless Plunderer + Blasting Station + Stitcher's Supplier
 ===endpanel
 ===endaccordion
 
@@ -4387,33 +4607,33 @@ Each card below lists the canonical core IDs in which it appears.
 
 - C008: Pitiless Plunderer + Altar of Dementia + Stridehangar Automaton
 - C009: Pitiless Plunderer + Stridehangar Automaton + Arcbound Ravager
-- C019: Pitiless Plunderer + Ashnod's Altar + Stridehangar Automaton
-- C020: The Ooze + Stridehangar Automaton + Ashnod's Altar
-- C023: Pitiless Plunderer + Blasting Station + Stridehangar Automaton
-- C026: Pitiless Plunderer + Stridehangar Automaton + Carrion Feeder
-- C028: Retrofitter Foundry + Clock of Omens + Stridehangar Automaton
-- C029: The Ooze + Clock of Omens + Stridehangar Automaton
-- C032: Retrofitter Foundry + Dross Scorpion + Stridehangar Automaton
-- C039: Pitiless Plunderer + Stridehangar Automaton + Grinding Station
-- C045: Pitiless Plunderer + Stridehangar Automaton + Krark-Clan Ironworks
-- C046: The Ooze + Stridehangar Automaton + Krark-Clan Ironworks
-- C049: Pitiless Plunderer + Phyrexian Altar + Stridehangar Automaton
-- C050: The Ooze + Stridehangar Automaton + Phyrexian Altar
-- C051: Pitiless Plunderer + Umbral Collar Zealot + Stridehangar Automaton
-- C052: Warren Soultrader + Stridehangar Automaton + Sephiroth, Fabled SOLDIER
-- C053: Warren Soultrader + Zulaport Cutthroat + Stridehangar Automaton
-- C055: Metalwork Colossus + Warren Soultrader + Aetherflux Reservoir + Stridehangar Automaton
-- C058: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Altar of Dementia
-- C059: The Ooze + Clock of Omens + Stridehangar Automaton + Altar of the Brood
-- C061: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Arcbound Ravager
-- C074: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Ashnod's Altar
-- C076: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Blasting Station
-- C079: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Carrion Feeder
-- C080: The Ooze + Clock of Omens + Stridehangar Automaton + Grinding Station
-- C087: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Grinding Station
-- C093: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Krark-Clan Ironworks
-- C099: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Phyrexian Altar
-- C100: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Umbral Collar Zealot
+- C018: Pitiless Plunderer + Ashnod's Altar + Stridehangar Automaton
+- C019: The Ooze + Stridehangar Automaton + Ashnod's Altar
+- C022: Pitiless Plunderer + Blasting Station + Stridehangar Automaton
+- C025: Pitiless Plunderer + Stridehangar Automaton + Carrion Feeder
+- C027: Retrofitter Foundry + Clock of Omens + Stridehangar Automaton
+- C028: The Ooze + Clock of Omens + Stridehangar Automaton
+- C031: Retrofitter Foundry + Dross Scorpion + Stridehangar Automaton
+- C038: Pitiless Plunderer + Stridehangar Automaton + Grinding Station
+- C043: Pitiless Plunderer + Stridehangar Automaton + Krark-Clan Ironworks
+- C044: The Ooze + Stridehangar Automaton + Krark-Clan Ironworks
+- C047: Pitiless Plunderer + Phyrexian Altar + Stridehangar Automaton
+- C048: The Ooze + Stridehangar Automaton + Phyrexian Altar
+- C049: Pitiless Plunderer + Umbral Collar Zealot + Stridehangar Automaton
+- C050: Warren Soultrader + Stridehangar Automaton + Sephiroth, Fabled SOLDIER
+- C051: Warren Soultrader + Zulaport Cutthroat + Stridehangar Automaton
+- C053: Metalwork Colossus + Warren Soultrader + Aetherflux Reservoir + Stridehangar Automaton
+- C056: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Altar of Dementia
+- C057: The Ooze + Clock of Omens + Stridehangar Automaton + Altar of the Brood
+- C059: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Arcbound Ravager
+- C072: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Ashnod's Altar
+- C074: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Blasting Station
+- C077: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Carrion Feeder
+- C078: The Ooze + Clock of Omens + Stridehangar Automaton + Grinding Station
+- C091: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Grinding Station
+- C098: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Krark-Clan Ironworks
+- C105: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Phyrexian Altar
+- C106: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Umbral Collar Zealot
 ===endpanel
 ===endaccordion
 
@@ -4429,69 +4649,61 @@ Each card below lists the canonical core IDs in which it appears.
 
 - C007: The Ghoul, Gunslinger + Gravecrawler + Altar of Dementia
 - C012: The Ghoul, Gunslinger + Gravecrawler + Ashnod's Altar
-- C022: The Ghoul, Gunslinger + Gravecrawler + Blasting Station
-- C025: The Ghoul, Gunslinger + Gravecrawler + Carrion Feeder
-- C037: The Ghoul, Gunslinger + Gravecrawler + Umbral Collar Zealot
+- C021: The Ghoul, Gunslinger + Gravecrawler + Blasting Station
+- C024: The Ghoul, Gunslinger + Gravecrawler + Carrion Feeder
+- C036: The Ghoul, Gunslinger + Gravecrawler + Umbral Collar Zealot
 ===endpanel
 ===endaccordion
 
 ===accordion
 ===panel: The Ooze
 
-- C020: The Ooze + Stridehangar Automaton + Ashnod's Altar
-- C029: The Ooze + Clock of Omens + Stridehangar Automaton
-- C046: The Ooze + Stridehangar Automaton + Krark-Clan Ironworks
-- C050: The Ooze + Stridehangar Automaton + Phyrexian Altar
-- C058: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Altar of Dementia
-- C059: The Ooze + Clock of Omens + Stridehangar Automaton + Altar of the Brood
-- C061: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Arcbound Ravager
-- C074: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Ashnod's Altar
-- C076: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Blasting Station
-- C079: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Carrion Feeder
-- C080: The Ooze + Clock of Omens + Stridehangar Automaton + Grinding Station
-- C087: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Grinding Station
-- C093: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Krark-Clan Ironworks
-- C099: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Phyrexian Altar
-- C100: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Umbral Collar Zealot
+- C019: The Ooze + Stridehangar Automaton + Ashnod's Altar
+- C028: The Ooze + Clock of Omens + Stridehangar Automaton
+- C044: The Ooze + Stridehangar Automaton + Krark-Clan Ironworks
+- C048: The Ooze + Stridehangar Automaton + Phyrexian Altar
+- C056: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Altar of Dementia
+- C057: The Ooze + Clock of Omens + Stridehangar Automaton + Altar of the Brood
+- C059: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Arcbound Ravager
+- C072: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Ashnod's Altar
+- C074: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Blasting Station
+- C077: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Carrion Feeder
+- C078: The Ooze + Clock of Omens + Stridehangar Automaton + Grinding Station
+- C091: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Grinding Station
+- C098: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Krark-Clan Ironworks
+- C105: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Phyrexian Altar
+- C106: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Umbral Collar Zealot
 ===endpanel
 ===endaccordion
 
 ===accordion
 ===panel: Tortured Existence
 
-- C027: Imotekh the Stormlord + Clock of Omens + Tortured Existence
-- C041: Tortured Existence + Phyrexian Altar + Imotekh the Stormlord
-- C056: Tortured Existence + Pitiless Plunderer + Imotekh the Stormlord + Altar of Dementia
-- C075: Tortured Existence + Pitiless Plunderer + Imotekh the Stormlord + Blasting Station
-- C077: Tortured Existence + Pitiless Plunderer + Imotekh the Stormlord + Carrion Feeder
+- C026: Imotekh the Stormlord + Clock of Omens + Tortured Existence
+- C040: Tortured Existence + Phyrexian Altar + Imotekh the Stormlord
+- C054: Tortured Existence + Pitiless Plunderer + Imotekh the Stormlord + Altar of Dementia
+- C073: Tortured Existence + Pitiless Plunderer + Imotekh the Stormlord + Blasting Station
+- C075: Tortured Existence + Pitiless Plunderer + Imotekh the Stormlord + Carrion Feeder
 ===endpanel
 ===endaccordion
 
 ===accordion
 ===panel: Ultron the Annihilator
 
-- C017: Ultron the Annihilator + Nim Deathmantle + Ashnod's Altar
-- C043: Ultron the Annihilator + Nim Deathmantle + Krark-Clan Ironworks
-- C095: Ultron the Annihilator + Nim Deathmantle + Phyrexian Altar + Pitiless Plunderer
-===endpanel
-===endaccordion
-
-===accordion
-===panel: Ultron, Artificial Malevolence
-
-- C015: Myr Retriever + Ashnod's Altar + Ultron, Artificial Malevolence
-- C042: Myr Retriever + Krark-Clan Ironworks + Ultron, Artificial Malevolence
+- C016: Ultron the Annihilator + Nim Deathmantle + Ashnod's Altar
+- C041: Ultron the Annihilator + Nim Deathmantle + Krark-Clan Ironworks
+- C101: Ultron the Annihilator + Nim Deathmantle + Phyrexian Altar + Pitiless Plunderer
 ===endpanel
 ===endaccordion
 
 ===accordion
 ===panel: Umbral Collar Zealot
 
-- C035: Gravecrawler + Pitiless Plunderer + Umbral Collar Zealot
-- C037: The Ghoul, Gunslinger + Gravecrawler + Umbral Collar Zealot
-- C051: Pitiless Plunderer + Umbral Collar Zealot + Stridehangar Automaton
-- C096: Out of the Tombs + Skullclamp + Pitiless Plunderer + Umbral Collar Zealot
-- C100: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Umbral Collar Zealot
+- C034: Gravecrawler + Pitiless Plunderer + Umbral Collar Zealot
+- C036: The Ghoul, Gunslinger + Gravecrawler + Umbral Collar Zealot
+- C049: Pitiless Plunderer + Umbral Collar Zealot + Stridehangar Automaton
+- C102: Out of the Tombs + Skullclamp + Pitiless Plunderer + Umbral Collar Zealot
+- C106: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Umbral Collar Zealot
 ===endpanel
 ===endaccordion
 
@@ -4499,38 +4711,38 @@ Each card below lists the canonical core IDs in which it appears.
 ===panel: Warren Soultrader
 
 - C005: Warren Soultrader + Aetherflux Reservoir + Gravecrawler
-- C036: Warren Soultrader + Gravecrawler + Sephiroth, Fabled SOLDIER
-- C038: Warren Soultrader + Gravecrawler + Zulaport Cutthroat
-- C052: Warren Soultrader + Stridehangar Automaton + Sephiroth, Fabled SOLDIER
-- C053: Warren Soultrader + Zulaport Cutthroat + Stridehangar Automaton
-- C054: Metalwork Colossus + Warren Soultrader + Pitiless Plunderer + Aetherflux Reservoir
-- C055: Metalwork Colossus + Warren Soultrader + Aetherflux Reservoir + Stridehangar Automaton
-- C097: Out of the Tombs + Skullclamp + Warren Soultrader + Sephiroth, Fabled SOLDIER
-- C098: Out of the Tombs + Skullclamp + Warren Soultrader + Zulaport Cutthroat
+- C035: Warren Soultrader + Gravecrawler + Sephiroth, Fabled SOLDIER
+- C037: Warren Soultrader + Gravecrawler + Zulaport Cutthroat
+- C050: Warren Soultrader + Stridehangar Automaton + Sephiroth, Fabled SOLDIER
+- C051: Warren Soultrader + Zulaport Cutthroat + Stridehangar Automaton
+- C052: Metalwork Colossus + Warren Soultrader + Pitiless Plunderer + Aetherflux Reservoir
+- C053: Metalwork Colossus + Warren Soultrader + Aetherflux Reservoir + Stridehangar Automaton
+- C103: Out of the Tombs + Skullclamp + Warren Soultrader + Sephiroth, Fabled SOLDIER
+- C104: Out of the Tombs + Skullclamp + Warren Soultrader + Zulaport Cutthroat
 ===endpanel
 ===endaccordion
 
 ===accordion
 ===panel: Workshop Assistant
 
-- C065: Glaring Fleshraker + Ashnod's Altar + Junk Diver + Workshop Assistant
-- C067: Glaring Fleshraker + Ashnod's Altar + Myr Retriever + Workshop Assistant
-- C068: Glaring Fleshraker + Ashnod's Altar + Scrap Trawler + Workshop Assistant
-- C070: Imotekh the Stormlord + Junk Diver + Workshop Assistant + Ashnod's Altar
-- C072: Imotekh the Stormlord + Myr Retriever + Workshop Assistant + Ashnod's Altar
-- C084: Glaring Fleshraker + Junk Diver + Workshop Assistant + Krark-Clan Ironworks
-- C086: Glaring Fleshraker + Myr Retriever + Workshop Assistant + Krark-Clan Ironworks
-- C089: Imotekh the Stormlord + Junk Diver + Workshop Assistant + Krark-Clan Ironworks
-- C091: Imotekh the Stormlord + Myr Retriever + Workshop Assistant + Krark-Clan Ironworks
+- C063: Glaring Fleshraker + Ashnod's Altar + Junk Diver + Workshop Assistant
+- C065: Glaring Fleshraker + Ashnod's Altar + Myr Retriever + Workshop Assistant
+- C066: Glaring Fleshraker + Ashnod's Altar + Scrap Trawler + Workshop Assistant
+- C068: Imotekh the Stormlord + Junk Diver + Workshop Assistant + Ashnod's Altar
+- C070: Imotekh the Stormlord + Myr Retriever + Workshop Assistant + Ashnod's Altar
+- C087: Glaring Fleshraker + Junk Diver + Workshop Assistant + Krark-Clan Ironworks
+- C089: Glaring Fleshraker + Myr Retriever + Workshop Assistant + Krark-Clan Ironworks
+- C093: Imotekh the Stormlord + Junk Diver + Workshop Assistant + Krark-Clan Ironworks
+- C095: Imotekh the Stormlord + Myr Retriever + Workshop Assistant + Krark-Clan Ironworks
 ===endpanel
 ===endaccordion
 
 ===accordion
 ===panel: Zulaport Cutthroat
 
-- C038: Warren Soultrader + Gravecrawler + Zulaport Cutthroat
-- C053: Warren Soultrader + Zulaport Cutthroat + Stridehangar Automaton
-- C098: Out of the Tombs + Skullclamp + Warren Soultrader + Zulaport Cutthroat
+- C037: Warren Soultrader + Gravecrawler + Zulaport Cutthroat
+- C051: Warren Soultrader + Zulaport Cutthroat + Stridehangar Automaton
+- C104: Out of the Tombs + Skullclamp + Warren Soultrader + Zulaport Cutthroat
 ===endpanel
 ===endaccordion
 

@@ -68,6 +68,7 @@
 1 Skullclamp
 1 Snuff Out
 1 Sol Ring
+1 Spine of Ish Sah
 1 Spire of Industry
 1 Spymaster's Vault
 1 Stitcher's Supplier
@@ -84,7 +85,6 @@
 1 Tomb Fortress
 1 Tortured Existence
 1 Toxic Deluge
-1 Ultron, Artificial Malevolence
 1 Umbral Collar Zealot
 1 Urborg
 1 Urborg, Tomb of Yawgmoth
