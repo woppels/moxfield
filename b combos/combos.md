@@ -1,107 +1,51 @@
 ===accordion
 ===panel: Core Combos
 
-The 108 unique core combos for the current Bracket 4 build with Spine of Ish Sah are listed below.
-Each core is stored once and assigned a canonical combo ID.
-Combo extensions are tracked separately and do not increase the core combo count.
+**Ultron the Annihilator — 120 cataloged configurations**
+
+Combo entries are numbered C001–C120. See **Card Change History** for deck changes and **Audit Notes and Limitations** for counting conventions.
 
 ===accordion
-===panel: C001: Nim Deathmantle + Ashnod's Altar
-
-[[symbol:c]]
-
-
-Cards Required:
-- [[Nim Deathmantle]]
-- [[Ashnod's Altar]]
-
-
-Prerequisites:
-- All permanents on the battlefield.
-
-
-Steps:
-1. Activate Ashnod's Altar by sacrificing the persist or undying creature, adding [[symbol:c]][[symbol:c]].
-2. When the persist or undying creature dies, its persist or undying ability and Nim Deathmantle trigger.
-3. Resolve the Nim Deathmantle trigger, choosing not to pay.
-4. Resolve the creature's trigger, returning it from your graveyard to the battlefield with a +1/+1 or -1/-1 counter on it.
-5. Activate Ashnod's Altar by sacrificing the persist or undying creature, adding [[symbol:c]][[symbol:c]].
-6. When the persist or undying creature dies, Nim Deathmantle triggers, causing you to pay [[symbol:4]] to return the persist or undying creature from your graveyard to the battlefield.
-7. Repeat.
-
-
-Results:
-- Infinite creature LTB
-- Infinite creature ETB
-- Infinite creature sacrifice triggers
-- Infinite death triggers
-===endpanel
-===endaccordion
-
-===accordion
-===panel: C002: Doctor Doom, Unrivaled + Tainted Pact
-
-[[symbol:1]][[symbol:b]]
-
-Cards Required:
-- [[Doctor Doom, Unrivaled]]
-- [[Tainted Pact]]
-
-Prerequisites:
-- Doctor Doom, Unrivaled on the battlefield without summoning sickness.
-- Tainted Pact in hand.
-- Your library contains no two cards with the same name.
-
-Steps:
-1. Cast Tainted Pact by paying [[symbol:1]][[symbol:b]].
-2. Resolve Tainted Pact, declining to put any exiled card into your hand, and exile your entire library.
-3. Activate Doctor Doom, Unrivaled by tapping it.
-4. Resolve Doctor Doom's ability with no cards in your library, causing you to win the game.
-
-Results:
-- Win the game
-===endpanel
-===endaccordion
-
-===accordion
-===panel: C003: Gravecrawler + Phyrexian Altar
+===panel: C001: Gravecrawler + Phyrexian Altar
 
 [[symbol:b]]
-+Cards Required:
+
+Cards Required:
 - [[Gravecrawler]]
 - [[Phyrexian Altar]]
-+Prerequisites:
+
+Prerequisites:
 - Gravecrawler and Phyrexian Altar on the battlefield.
 - You control an additional Zombie.
-+Steps:
+
+Steps:
 1. Activate Phyrexian Altar by sacrificing Gravecrawler, adding [[symbol:b]].
 2. Cast Gravecrawler from your graveyard by paying [[symbol:b]].
 3. Repeat.
-+Results:
+
+Results:
 - Infinite death triggers
 - Infinite creature ETB
 - Infinite creature LTB
 - Infinite creature sacrifice triggers
 - Infinite storm count
+
 ===endpanel
 ===endaccordion
 
 ===accordion
-===panel: C004: Sensei's Divining Top + Aetherflux Reservoir + Bolas's Citadel
+===panel: C002: Sensei's Divining Top + Aetherflux Reservoir + Bolas's Citadel
 
 [[symbol:b]]
-
 
 Cards Required:
 - [[Sensei's Divining Top]]
 - [[Aetherflux Reservoir]]
 - [[Bolas's Citadel]]
 
-
 Prerequisites:
 - All permanents on the battlefield.
 - Your life total is at least 2.
-
 
 Steps:
 1. Activate Sensei's Divining Top by tapping it, drawing a card and then putting Sensei's Divining Top on top of your library.
@@ -111,7 +55,6 @@ Steps:
 5. Activate Aetherflux Reservoir by paying 50 life, dealing 50 damage to any target.
 6. Repeat.
 
-
 Results:
 - Infinite card draw
 - Infinite draw triggers
@@ -119,27 +62,32 @@ Results:
 - Near-infinite lifegain
 - Near-infinite lifegain triggers
 - Near-infinite storm count
+
 ===endpanel
 ===endaccordion
 
 ===accordion
-===panel: C005: Warren Soultrader + Aetherflux Reservoir + Gravecrawler
+===panel: C003: Warren Soultrader + Aetherflux Reservoir + Gravecrawler
 
 [[symbol:b]]
-+Cards Required:
+
+Cards Required:
 - [[Warren Soultrader]]
 - [[Aetherflux Reservoir]]
 - [[Gravecrawler]]
-+Prerequisites:
+
+Prerequisites:
 - All permanents on the battlefield.
 - Your life total is at least 2.
-+Steps:
+
+Steps:
 1. Activate Warren Soultrader by paying 1 life and sacrificing Gravecrawler, creating a Treasure token.
 2. Activate the Treasure by tapping and sacrificing it, adding [[symbol:b]].
 3. Cast Gravecrawler from your graveyard by paying [[symbol:b]].
 4. Aetherflux Reservoir triggers, causing you to gain 1 life for each spell you've cast this turn.
 5. Repeat.
-+Results:
+
+Results:
 - Infinite creature LTB
 - Infinite creature ETB
 - Infinite creature sacrifice triggers
@@ -148,30 +96,35 @@ Results:
 - Infinite lifegain triggers
 - Infinite lifegain
 - Infinite storm count
+
 ===endpanel
 ===endaccordion
 
 ===accordion
-===panel: C006: Gravecrawler + Pitiless Plunderer + Altar of Dementia
+===panel: C004: Gravecrawler + Pitiless Plunderer + Altar of Dementia
 
 [[symbol:b]]
-+Cards Required:
+
+Cards Required:
 - [[Gravecrawler]]
 - [[Pitiless Plunderer]]
 - [[Altar of Dementia]]
-+Prerequisites:
+
+Prerequisites:
 - Gravecrawler in your graveyard.
 - Pitiless Plunderer and Altar of Dementia on the battlefield.
 - You control an additional Zombie
 - You control another Zombie.
-+Steps:
+
+Steps:
 1. Activate Altar of Dementia by sacrificing Gravecrawler.
 2. When Gravecrawler dies, Pitiless Plunderer triggers, creating a Treasure token.
 3. Resolve the Altar of Dementia ability.
 4. Activate the Treasure token by tapping and sacrificing it, adding [[symbol:b]].
 5. Cast Gravecrawler from your graveyard by paying [[symbol:b]].
 6. Repeat.
-+Results:
+
+Results:
 - Infinite death triggers
 - Infinite creature ETB
 - Infinite creature LTB
@@ -179,14 +132,14 @@ Results:
 - Infinite creature sacrifice triggers
 - Infinite self-mill
 - Infinite storm count
+
 ===endpanel
 ===endaccordion
 
 ===accordion
-===panel: C007: The Ghoul, Gunslinger + Gravecrawler + Altar of Dementia
+===panel: C005: The Ghoul, Gunslinger + Gravecrawler + Altar of Dementia
 
 [[symbol:b]]
-
 
 Cards Required:
 - [[The Ghoul, Gunslinger]]
@@ -196,7 +149,6 @@ Cards Required:
 Prerequisites:
 - All permanents on the battlefield.
 
-
 Steps:
 1. Activate Altar of Dementia by sacrificing Gravecrawler.
 2. When Gravecrawler dies, The Ghoul triggers, causing you to get two rad counters and create a Treasure token.
@@ -204,7 +156,6 @@ Steps:
 4. Activate the Treasure by tapping and sacrificing it, adding [[symbol:b]].
 5. Cast Gravecrawler from your graveyard by paying [[symbol:b]].
 6. Repeat.
-
 
 Results:
 - Infinite artifact ETB
@@ -218,32 +169,29 @@ Results:
 - Infinite storm count
 - Infinite mill
 - Infinite self-mill
+
 ===endpanel
 ===endaccordion
 
 ===accordion
-===panel: C008: Pitiless Plunderer + Altar of Dementia + Stridehangar Automaton
+===panel: C006: Pitiless Plunderer + Altar of Dementia + Stridehangar Automaton
 
 [[symbol:b]]
-
 
 Cards Required:
 - [[Pitiless Plunderer]]
 - [[Altar of Dementia]]
 - [[Stridehangar Automaton]]
 
-
 Prerequisites:
 - All permanents on the battlefield.
 - You control another creature.
-
 
 Steps:
 1. Activate Altar of Dementia by sacrificing another creature.
 2. When the creature dies, Pitiless Plunderer triggers, creating a Treasure token and a 1/1 Thopter artifact creature token.
 3. Resolve the Altar of Dementia ability.
 4. Repeat.
-
 
 Results:
 - Infinite artifact ETB
@@ -258,32 +206,29 @@ Results:
 - Infinite mill
 - Infinite self-mill
 - Infinite Treasure tokens
+
 ===endpanel
 ===endaccordion
 
 ===accordion
-===panel: C009: Pitiless Plunderer + Stridehangar Automaton + Arcbound Ravager
+===panel: C007: Pitiless Plunderer + Stridehangar Automaton + Arcbound Ravager
 
 [[symbol:b]]
-
 
 Cards Required:
 - [[Pitiless Plunderer]]
 - [[Stridehangar Automaton]]
 - [[Arcbound Ravager]]
 
-
 Prerequisites:
 - All permanents on the battlefield.
 - You control another artifact creature.
-
 
 Steps:
 1. Activate Arcbound Ravager by sacrificing another artifact creature.
 2. When the creature dies, Pitiless Plunderer triggers, creating a Treasure token and a 1/1 Thopter artifact creature token.
 3. Resolve the Arcbound Ravager ability.
 4. Repeat.
-
 
 Results:
 - Infinite artifact ETB
@@ -297,25 +242,23 @@ Results:
 - Infinite death triggers
 - Infinite Treasure tokens
 - Infinite +1/+1 counters on a creature
+
 ===endpanel
 ===endaccordion
 
 ===accordion
-===panel: C010: Dross Scorpion + Retrofitter Foundry + Ashnod's Altar
+===panel: C008: Dross Scorpion + Retrofitter Foundry + Ashnod's Altar
 
 [[symbol:c]]
-
 
 Cards Required:
 - [[Dross Scorpion]]
 - [[Retrofitter Foundry]]
 - [[Ashnod's Altar]]
 
-
 Prerequisites:
 - All permanents on the battlefield.
 - [[symbol:2]] available
-
 
 Steps:
 1. Activate Retrofitter Foundry's second ability by paying [[symbol:2]] and tapping it, creating a 1/1 Servo artifact creature token.
@@ -323,47 +266,51 @@ Steps:
 3. When the Servo dies, Dross Scorpion triggers, untapping Retrofitter Foundry.
 4. Repeat.
 
-
 Results:
 - Infinite creature LTB
 - Infinite creature ETB
 - Infinite creature sacrifice triggers
 - Infinite death triggers
+
 ===endpanel
 ===endaccordion
 
 ===accordion
-===panel: C011: Gravecrawler + Pitiless Plunderer + Ashnod's Altar
+===panel: C009: Gravecrawler + Pitiless Plunderer + Ashnod's Altar
 
 [[symbol:b]]
-+Cards Required:
+
+Cards Required:
 - [[Gravecrawler]]
 - [[Pitiless Plunderer]]
 - [[Ashnod's Altar]]
-+Prerequisites:
+
+Prerequisites:
 - All permanents on the battlefield.
 - You control an additional Zombie.
-+Steps:
+
+Steps:
 1. Activate Ashnod's Altar by sacrificing Gravecrawler, adding [[symbol:c]][[symbol:c]].
 2. When Gravecrawler dies, Pitiless Plunderer triggers, creating a Treasure token.
 3. Activate the Treasure token by tapping and sacrificing it, adding [[symbol:b]].
 4. Cast Gravecrawler from your graveyard by paying [[symbol:b]].
 5. Repeat.
-+Results:
+
+Results:
 - Infinite colorless mana
 - Infinite death triggers
 - Infinite creature ETB
 - Infinite creature LTB
 - Infinite creature sacrifice triggers
 - Infinite storm count
+
 ===endpanel
 ===endaccordion
 
 ===accordion
-===panel: C012: The Ghoul, Gunslinger + Gravecrawler + Ashnod's Altar
+===panel: C010: The Ghoul, Gunslinger + Gravecrawler + Ashnod's Altar
 
 [[symbol:b]]
-
 
 Cards Required:
 - [[The Ghoul, Gunslinger]]
@@ -373,14 +320,12 @@ Cards Required:
 Prerequisites:
 - All permanents on the battlefield.
 
-
 Steps:
 1. Activate Ashnod's Altar by sacrificing Gravecrawler.
 2. When Gravecrawler dies, The Ghoul triggers, causing you to get two rad counters and create a Treasure token.
 3. Activate the Treasure by tapping and sacrificing it, adding [[symbol:b]].
 4. Cast Gravecrawler from your graveyard by paying [[symbol:b]].
 5. Repeat.
-
 
 Results:
 - Infinite artifact ETB
@@ -393,26 +338,24 @@ Results:
 - Infinite creature sacrifice triggers
 - Infinite storm count
 - Infinite colorless mana
+
 ===endpanel
 ===endaccordion
 
 ===accordion
-===panel: C013: Imotekh the Stormlord + Nim Deathmantle + Ashnod's Altar
+===panel: C011: Imotekh the Stormlord + Nim Deathmantle + Ashnod's Altar
 
 [[symbol:b]]
-
 
 Cards Required:
 - [[Imotekh the Stormlord]]
 - [[Nim Deathmantle]]
 - [[Ashnod's Altar]]
 
-
 Prerequisites:
 - All permanents on the battlefield.
 - You control at least one nontoken artifact creature.
 - [[symbol:2]] available
-
 
 Steps:
 1. Activate Ashnod's Altar by sacrificing a nontoken artifact creature, adding [[symbol:c]][[symbol:c]].
@@ -421,7 +364,6 @@ Steps:
 4. Activate Ashnod's Altar by sacrificing a Necron Warrior, adding [[symbol:c]][[symbol:c]].
 5. Repeat.
 
-
 Results:
 - Infinite colorless mana
 - Infinite creature tokens
@@ -429,25 +371,23 @@ Results:
 - Infinite creature ETB
 - Infinite creature LTB
 - Infinite creature sacrifice triggers
+
 ===endpanel
 ===endaccordion
 
 ===accordion
-===panel: C014: Nim Deathmantle + Ashnod's Altar + Marionette Apprentice
+===panel: C012: Nim Deathmantle + Ashnod's Altar + Marionette Apprentice
 
 [[symbol:b]]
-
 
 Cards Required:
 - [[Nim Deathmantle]]
 - [[Ashnod's Altar]]
 - [[Marionette Apprentice]]
 
-
 Prerequisites:
 - All permanents on the battlefield.
 - [[symbol:2]] available
-
 
 Steps:
 1. Activate Ashnod's Altar by sacrificing Marionette Apprentice, adding [[symbol:c]][[symbol:c]].
@@ -457,33 +397,32 @@ Steps:
 5. When the creature token dies, Marionette Apprentice triggers, causing each opponent to lose 1 life.
 6. Repeat.
 
-
 Results:
 - Infinite creature LTB
 - Infinite creature ETB
 - Infinite creature sacrifice triggers
 - Infinite death triggers
 - Infinite lifeloss
+
+**Choice required:** Choose the Servo-token mode of Marionette Apprentice's fabricate ability, not the +1/+1-counter mode.
+
 ===endpanel
 ===endaccordion
 
 ===accordion
-===panel: C015: Nim Deathmantle + Ashnod's Altar + Orcish Bowmasters
+===panel: C013: Nim Deathmantle + Ashnod's Altar + Orcish Bowmasters
 
 [[symbol:b]]
-
 
 Cards Required:
 - [[Nim Deathmantle]]
 - [[Ashnod's Altar]]
 - [[Orcish Bowmasters]]
 
-
 Prerequisites:
 - All permanents on the battlefield.
 - You do not control an Army.
 - [[symbol:2]] available
-
 
 Steps:
 1. Activate Ashnod's Altar by sacrificing Orcish Bowmasters, adding [[symbol:c]][[symbol:c]].
@@ -492,18 +431,18 @@ Steps:
 4. Activate Ashnod's Altar by sacrificing a creature token, adding [[symbol:c]][[symbol:c]].
 5. Repeat.
 
-
 Results:
 - Infinite damage
 - Infinite death triggers
 - Infinite creature ETB
 - Infinite creature LTB
 - Infinite creature sacrifice triggers
+
 ===endpanel
 ===endaccordion
 
 ===accordion
-===panel: C016: Ultron the Annihilator + Nim Deathmantle + Ashnod's Altar
+===panel: C014: Ultron the Annihilator + Nim Deathmantle + Ashnod's Altar
 
 [[symbol:b]]
 
@@ -534,11 +473,12 @@ Results:
 - Infinite artifact LTB
 - Infinite artifact sacrifice triggers
 - Infinite creature tokens
+
 ===endpanel
 ===endaccordion
 
 ===accordion
-===panel: C017: Out of the Tombs + Skullclamp + Ashnod's Altar
+===panel: C015: Out of the Tombs + Skullclamp + Ashnod's Altar
 
 [[symbol:b]]
 
@@ -568,31 +508,28 @@ Results:
 - Infinite creature sacrifice triggers
 - Infinite death triggers
 - Infinite draw-replacement events
+
 ===endpanel
 ===endaccordion
 
 ===accordion
-===panel: C018: Pitiless Plunderer + Ashnod's Altar + Stridehangar Automaton
+===panel: C016: Pitiless Plunderer + Ashnod's Altar + Stridehangar Automaton
 
 [[symbol:b]]
-
 
 Cards Required:
 - [[Pitiless Plunderer]]
 - [[Ashnod's Altar]]
 - [[Stridehangar Automaton]]
 
-
 Prerequisites:
 - All permanents on the battlefield.
 - You control another creature.
-
 
 Steps:
 1. Activate Ashnod's Altar by sacrificing another creature, adding [[symbol:c]][[symbol:c]].
 2. When the creature dies, Pitiless Plunderer triggers, creating a Treasure token and a 1/1 Thopter artifact creature token.
 3. Repeat.
-
 
 Results:
 - Infinite artifact ETB
@@ -606,11 +543,12 @@ Results:
 - Infinite death triggers
 - Infinite colorless mana
 - Infinite Treasure tokens
+
 ===endpanel
 ===endaccordion
 
 ===accordion
-===panel: C019: The Ooze + Stridehangar Automaton + Ashnod's Altar
+===panel: C017: The Ooze + Stridehangar Automaton + Ashnod's Altar
 
 [[symbol:c]]
 
@@ -642,23 +580,27 @@ Results:
 - Infinite creature LTB
 - Infinite creature sacrifice triggers
 - Infinite death triggers
+
 ===endpanel
 ===endaccordion
 
 ===accordion
-===panel: C020: Gravecrawler + Pitiless Plunderer + Blasting Station
+===panel: C018: Gravecrawler + Pitiless Plunderer + Blasting Station
 
 [[symbol:b]]
-+Cards Required:
+
+Cards Required:
 - [[Gravecrawler]]
 - [[Pitiless Plunderer]]
 - [[Blasting Station]]
-+Prerequisites:
+
+Prerequisites:
 - Gravecrawler in your graveyard.
 - Pitiless Plunderer and Blasting Station on the battlefield.
 - You control an additional Zombie
 - You control another Zombie.
-+Steps:
+
+Steps:
 1. Activate Blasting Station by tapping it and sacrificing Gravecrawler.
 2. When Gravecrawler dies, Pitiless Plunderer triggers, creating a Treasure token.
 3. Resolve the Blasting Station ability.
@@ -666,21 +608,22 @@ Results:
 5. Cast Gravecrawler from your graveyard by paying [[symbol:b]].
 6. When Gravecrawler enters, Blasting Station triggers, untapping Blasting Station
 7. Repeat.
-+Results:
+
+Results:
 - Infinite damage
 - Infinite death triggers
 - Infinite creature ETB
 - Infinite creature LTB
 - Infinite creature sacrifice triggers
 - Infinite storm count
+
 ===endpanel
 ===endaccordion
 
 ===accordion
-===panel: C021: The Ghoul, Gunslinger + Gravecrawler + Blasting Station
+===panel: C019: The Ghoul, Gunslinger + Gravecrawler + Blasting Station
 
 [[symbol:b]]
-
 
 Cards Required:
 - [[The Ghoul, Gunslinger]]
@@ -690,7 +633,6 @@ Cards Required:
 Prerequisites:
 - All permanents on the battlefield.
 
-
 Steps:
 1. Activate Blasting Station by tapping it and sacrificing Gravecrawler.
 2. When Gravecrawler dies, The Ghoul triggers, causing you to get two rad counters and create a Treasure token.
@@ -699,7 +641,6 @@ Steps:
 5. Cast Gravecrawler from your graveyard by paying [[symbol:b]].
 6. When Gravecrawler enters, Blasting Station triggers, untapping Blasting Station.
 7. Repeat.
-
 
 Results:
 - Infinite artifact ETB
@@ -712,25 +653,23 @@ Results:
 - Infinite creature sacrifice triggers
 - Infinite storm count
 - Infinite damage
+
 ===endpanel
 ===endaccordion
 
 ===accordion
-===panel: C022: Pitiless Plunderer + Blasting Station + Stridehangar Automaton
+===panel: C020: Pitiless Plunderer + Blasting Station + Stridehangar Automaton
 
 [[symbol:b]]
-
 
 Cards Required:
 - [[Pitiless Plunderer]]
 - [[Blasting Station]]
 - [[Stridehangar Automaton]]
 
-
 Prerequisites:
 - All permanents on the battlefield.
 - You control another creature.
-
 
 Steps:
 1. Activate Blasting Station by sacrificing another creature.
@@ -738,7 +677,6 @@ Steps:
 3. When the Thopter enters the battlefield, Blasting Station triggers, untapping Blasting Station.
 4. Resolve the Blasting Station ability from step 1.
 5. Repeat.
-
 
 Results:
 - Infinite artifact ETB
@@ -752,44 +690,49 @@ Results:
 - Infinite death triggers
 - Infinite damage
 - Infinite Treasure tokens
+
 ===endpanel
 ===endaccordion
 
 ===accordion
-===panel: C023: Gravecrawler + Pitiless Plunderer + Carrion Feeder
+===panel: C021: Gravecrawler + Pitiless Plunderer + Carrion Feeder
 
 [[symbol:b]]
-+Cards Required:
+
+Cards Required:
 - [[Gravecrawler]]
 - [[Pitiless Plunderer]]
 - [[Carrion Feeder]]
-+Prerequisites:
+
+Prerequisites:
 - Gravecrawler in your graveyard.
 - Pitiless Plunderer and Carrion Feeder on the battlefield.
 - You control an additional Zombie
 - You control another Zombie.
-+Steps:
+
+Steps:
 1. Activate Carrion Feeder by sacrificing Gravecrawler.
 2. When Gravecrawler dies, Pitiless Plunderer triggers, creating a Treasure token.
 3. Resolve the Carrion Feeder ability.
 4. Activate the Treasure token by tapping and sacrificing it, adding [[symbol:b]].
 5. Cast Gravecrawler from your graveyard by paying [[symbol:b]].
 6. Repeat.
-+Results:
+
+Results:
 - Infinite +1/+1 counters on a creature
 - Infinite death triggers
 - Infinite creature ETB
 - Infinite creature LTB
 - Infinite creature sacrifice triggers
 - Infinite storm count
+
 ===endpanel
 ===endaccordion
 
 ===accordion
-===panel: C024: The Ghoul, Gunslinger + Gravecrawler + Carrion Feeder
+===panel: C022: The Ghoul, Gunslinger + Gravecrawler + Carrion Feeder
 
 [[symbol:b]]
-
 
 Cards Required:
 - [[The Ghoul, Gunslinger]]
@@ -799,7 +742,6 @@ Cards Required:
 Prerequisites:
 - All permanents on the battlefield.
 
-
 Steps:
 1. Activate Carrion Feeder by sacrificing Gravecrawler.
 2. When Gravecrawler dies, The Ghoul triggers, causing you to get two rad counters and create a Treasure token.
@@ -807,7 +749,6 @@ Steps:
 4. Activate the Treasure by tapping and sacrificing it, adding [[symbol:b]].
 5. Cast Gravecrawler from your graveyard by paying [[symbol:b]].
 6. Repeat.
-
 
 Results:
 - Infinite artifact ETB
@@ -820,11 +761,12 @@ Results:
 - Infinite creature sacrifice triggers
 - Infinite storm count
 - Infinite +1/+1 counters on a creature
+
 ===endpanel
 ===endaccordion
 
 ===accordion
-===panel: C025: Pitiless Plunderer + Stridehangar Automaton + Carrion Feeder
+===panel: C023: Pitiless Plunderer + Stridehangar Automaton + Carrion Feeder
 
 [[symbol:b]]
 
@@ -855,27 +797,25 @@ Results:
 - Infinite creature LTB
 - Infinite creature sacrifice triggers
 - Infinite death triggers
+
 ===endpanel
 ===endaccordion
 
 ===accordion
-===panel: C026: Imotekh the Stormlord + Clock of Omens + Tortured Existence
+===panel: C024: Imotekh the Stormlord + Clock of Omens + Tortured Existence
 
 [[symbol:b]]
-
 
 Cards Required:
 - [[Imotekh the Stormlord]]
 - [[Clock of Omens]]
 - [[Tortured Existence]]
 
-
 Prerequisites:
 - All permanents on the battlefield.
 - You control an artifact that can tap to produce at least [[symbol:b]]
-- You have at least one artifact creature card in hand
-- You have at least one artifact creature card in your graveyard.
-
+- You have an artifact creature card in hand
+- You have a SECOND artifact creature card in your graveyard.
 
 Steps:
 1. Activate a mana-producing artifact you control by tapping it, adding [[symbol:b]].
@@ -884,35 +824,31 @@ Steps:
 4. Activate Clock of Omens by tapping the Necron Warriors, untapping the mana-producing artifact.
 5. Repeat.
 
-
 Results:
 - Infinite creature ETB
 - Infinite tapped creature tokens
+
 ===endpanel
 ===endaccordion
 
 ===accordion
-===panel: C027: Retrofitter Foundry + Clock of Omens + Stridehangar Automaton
+===panel: C025: Retrofitter Foundry + Clock of Omens + Stridehangar Automaton
 
 [[symbol:c]]
-
 
 Cards Required:
 - [[Retrofitter Foundry]]
 - [[Clock of Omens]]
 - [[Stridehangar Automaton]]
 
-
 Prerequisites:
 - All permanents on the battlefield.
 - You control a Thopter.
-
 
 Steps:
 1. Activate Retrofitter Foundry's fourth ability by tapping it and sacrificing a Thopter, creating a 4/4 Construct and a 1/1 Thopter artifact creature token.
 2. Activate Clock of Omens by tapping the Construct and Thopter, untapping Retrofitter Foundry.
 3. Repeat.
-
 
 Results:
 - Infinite creature ETB
@@ -920,11 +856,12 @@ Results:
 - Infinite creature LTB
 - Infinite creature sacrifice triggers
 - Infinite death triggers
+
 ===endpanel
 ===endaccordion
 
 ===accordion
-===panel: C028: The Ooze + Clock of Omens + Stridehangar Automaton
+===panel: C026: The Ooze + Clock of Omens + Stridehangar Automaton
 
 [[symbol:c]]
 
@@ -948,54 +885,53 @@ Results:
 - Exile all cards from all graveyards
 - Create a Mutagen token for each card exiled
 - Create a Thopter token for each card exiled
+
+**Classification:** Finite/library- or graveyard-bounded engine rather than mathematically unbounded repetition.
+
 ===endpanel
 ===endaccordion
 
 ===accordion
-===panel: C029: Sensei's Divining Top + Mystic Forge + Cloud Key
+===panel: C027: Sensei's Divining Top + Mystic Forge + Cloud Key
 
 [[symbol:c]]
-
 
 Cards Required:
 - [[Sensei's Divining Top]]
 - [[Mystic Forge]]
 - [[Cloud Key]]
 
-
 Prerequisites:
 - All permanents on the battlefield (Cloud Key with "Artifact" chosen).
-
 
 Steps:
 1. Activate Sensei's Divining Top by tapping it, causing you to draw a card and put Sensei's Divining Top on top of your library.
 2. Cast Sensei's Divining Top from the top of your library by paying [[symbol:0]].
 3. Repeat
 
-
 Results:
 - Infinite card draw
 - Near-infinite storm count
 - Infinite draw triggers
+
+**Classification:** Repeatable until you exhaust available library cards or move into a win; do not literally draw infinitely from a finite library without draw replacement.
+
 ===endpanel
 ===endaccordion
 
 ===accordion
-===panel: C030: Dross Scorpion + Retrofitter Foundry + Krark-Clan Ironworks
+===panel: C028: Dross Scorpion + Retrofitter Foundry + Krark-Clan Ironworks
 
 [[symbol:c]]
-
 
 Cards Required:
 - [[Dross Scorpion]]
 - [[Retrofitter Foundry]]
 - [[Krark-Clan Ironworks]]
 
-
 Prerequisites:
 - All permanents on the battlefield.
 - [[symbol:2]] available
-
 
 Steps:
 1. Activate Retrofitter Foundry's second ability by paying [[symbol:2]] and tapping it, creating a 1/1 Servo artifact creature token.
@@ -1003,31 +939,28 @@ Steps:
 3. When the Servo dies, Dross Scorpion triggers, untapping Retrofitter Foundry.
 4. Repeat.
 
-
 Results:
 - Infinite creature LTB
 - Infinite creature ETB
 - Infinite creature sacrifice triggers
 - Infinite death triggers
+
 ===endpanel
 ===endaccordion
 
 ===accordion
-===panel: C031: Retrofitter Foundry + Dross Scorpion + Stridehangar Automaton
+===panel: C029: Retrofitter Foundry + Dross Scorpion + Stridehangar Automaton
 
 [[symbol:c]]
-
 
 Cards Required:
 - [[Retrofitter Foundry]]
 - [[Dross Scorpion]]
 - [[Stridehangar Automaton]]
 
-
 Prerequisites:
 - All permanents on the battlefield.
 - You control a Thopter.
-
 
 Steps:
 1. Activate Retrofitter Foundry's fourth ability by tapping it and sacrificing a Thopter.
@@ -1035,61 +968,57 @@ Steps:
 3. Resolve the Retrofitter Foundry ability, creating a 4/4 Construct and a 1/1 Thopter artifact creature token.
 4. Repeat.
 
-
 Results:
 - Infinite creature LTB
 - Infinite creature ETB
 - Infinite creature sacrifice triggers
 - Infinite death triggers
 - Infinite creature tokens
+
 ===endpanel
 ===endaccordion
 
 ===accordion
-===panel: C032: Sensei's Divining Top + Foundry Inspector + Mystic Forge
+===panel: C030: Sensei's Divining Top + Foundry Inspector + Mystic Forge
 
 [[symbol:c]]
-
 
 Cards Required:
 - [[Sensei's Divining Top]]
 - [[Foundry Inspector]]
 - [[Mystic Forge]]
 
-
 Prerequisites:
 - All permanents on the battlefield.
-
 
 Steps:
 1. Activate Sensei's Divining Top by tapping it, causing you to draw a card and put Sensei's Divining Top on top of your library.
 2. Cast Sensei's Divining Top from the top of your library by paying [[symbol:0]].
 3. Repeat
 
-
 Results:
 - Infinite card draw
 - Near-infinite storm count
 - Infinite draw triggers
+
+**Classification:** Repeatable until you exhaust available library cards or move into a win; do not literally draw infinitely from a finite library without draw replacement.
+
 ===endpanel
 ===endaccordion
 
 ===accordion
-===panel: C033: Sensei's Divining Top + Glaring Fleshraker + Mystic Forge
+===panel: C031: Sensei's Divining Top + Glaring Fleshraker + Mystic Forge
 
 [[symbol:c]]
-
 
 Cards Required:
 - [[Sensei's Divining Top]]
 - [[Glaring Fleshraker]]
 - [[Mystic Forge]]
 
-
 Prerequisites:
 - All permanents on the battlefield.
 - [[symbol:1]] available
-
 
 Steps:
 1. Activate Sensei's Divining Top by tapping it, causing you to draw a card and put Sensei's Divining Top on top of your library.
@@ -1098,7 +1027,6 @@ Steps:
 4. When the Eldrazi Spawn enters, Glaring Fleshraker's second ability triggers, dealing 1 damage to each opponent.
 5. Activate the Eldrazi Spawn by sacrificing it, adding [[symbol:c]].
 6. Repeat
-
 
 Results:
 - Infinite card draw
@@ -1109,58 +1037,70 @@ Results:
 - Near-infinite creature LTB
 - Near-infinite death triggers
 - Near-infinite creature sacrifice triggers
+
+**Classification:** Repeatable until you exhaust available library cards or move into a win; do not literally draw infinitely from a finite library without draw replacement.
+
 ===endpanel
 ===endaccordion
 
 ===accordion
-===panel: C034: Gravecrawler + Pitiless Plunderer + Umbral Collar Zealot
+===panel: C032: Gravecrawler + Pitiless Plunderer + Umbral Collar Zealot
 
 [[symbol:b]]
-+Cards Required:
+
+Cards Required:
 - [[Gravecrawler]]
 - [[Pitiless Plunderer]]
 - [[Umbral Collar Zealot]]
-+Prerequisites:
+
+Prerequisites:
 - Gravecrawler in your graveyard.
 - Pitiless Plunderer and Umbral Collar Zealot on the battlefield.
 - You control an additional Zombie
 - You control another Zombie.
-+Steps:
+
+Steps:
 1. Activate Umbral Collar Zealot by sacrificing Gravecrawler.
 2. When Gravecrawler dies, Pitiless Plunderer triggers, creating a Treasure token.
 3. Resolve the Umbral Collar Zealot ability.
 4. Activate the Treasure token by tapping and sacrificing it, adding [[symbol:b]].
 5. Cast Gravecrawler from your graveyard by paying [[symbol:b]].
 6. Repeat.
-+Results:
+
+Results:
 - Infinite creature LTB
 - Infinite creature ETB
 - Infinite creature sacrifice triggers
 - Infinite death triggers
 - Infinite storm count
 - Infinite surveil
+
 ===endpanel
 ===endaccordion
 
 ===accordion
-===panel: C035: Warren Soultrader + Gravecrawler + Sephiroth, Fabled SOLDIER
+===panel: C033: Warren Soultrader + Gravecrawler + Sephiroth, Fabled SOLDIER
 
 [[symbol:b]]
-+Cards Required:
+
+Cards Required:
 - [[Warren Soultrader]]
 - [[Gravecrawler]]
 - [[Sephiroth, Fabled SOLDIER // Sephiroth, One-Winged Angel]]
-+Prerequisites:
+
+Prerequisites:
 - All permanents on the battlefield.
 - Your life total is at least 2.
-+Steps:
+
+Steps:
 1. Activate Warren Soultrader by paying 1 life and sacrificing Gravecrawler.
 2. When Gravecrawler dies, Sephiroth, Fabled SOLDIER // Sephiroth, One-Winged Angel triggers, causing you to gain 1 life and target opponent to lose 1 life.
 3. Resolve the Warren Soultrader ability, creating a Treasure token.
 4. Activate the Treasure by tapping and sacrificing it, adding [[symbol:b]].
 5. Cast Gravecrawler from your graveyard by paying [[symbol:b]].
 6. Repeat.
-+Results:
+
+Results:
 - Infinite creature LTB
 - Infinite creature ETB
 - Infinite creature sacrifice triggers
@@ -1168,14 +1108,14 @@ Results:
 - Infinite lifegain triggers
 - Infinite storm count
 - Infinite lifeloss
+
 ===endpanel
 ===endaccordion
 
 ===accordion
-===panel: C036: The Ghoul, Gunslinger + Gravecrawler + Umbral Collar Zealot
+===panel: C034: The Ghoul, Gunslinger + Gravecrawler + Umbral Collar Zealot
 
 [[symbol:b]]
-
 
 Cards Required:
 - [[The Ghoul, Gunslinger]]
@@ -1185,7 +1125,6 @@ Cards Required:
 Prerequisites:
 - All permanents on the battlefield.
 
-
 Steps:
 1. Activate Umbral Collar Zealot by sacrificing Gravecrawler.
 2. When Gravecrawler dies, The Ghoul triggers, causing you to get two rad counters and create a Treasure token.
@@ -1193,7 +1132,6 @@ Steps:
 4. Activate the Treasure by tapping and sacrificing it, adding [[symbol:b]].
 5. Cast Gravecrawler from your graveyard by paying [[symbol:b]].
 6. Repeat.
-
 
 Results:
 - Infinite artifact ETB
@@ -1206,28 +1144,33 @@ Results:
 - Infinite creature sacrifice triggers
 - Infinite storm count
 - Infinite surveil
+
 ===endpanel
 ===endaccordion
 
 ===accordion
-===panel: C037: Warren Soultrader + Gravecrawler + Zulaport Cutthroat
+===panel: C035: Warren Soultrader + Gravecrawler + Zulaport Cutthroat
 
 [[symbol:b]]
-+Cards Required:
+
+Cards Required:
 - [[Warren Soultrader]]
 - [[Gravecrawler]]
 - [[Zulaport Cutthroat]]
-+Prerequisites:
+
+Prerequisites:
 - All permanents on the battlefield.
 - Your life total is at least 2.
-+Steps:
+
+Steps:
 1. Activate Warren Soultrader by paying 1 life and sacrificing Gravecrawler.
 2. When Gravecrawler dies, Zulaport Cutthroat triggers, causing you to gain 1 life and target opponent to lose 1 life.
 3. Resolve the Warren Soultrader ability, creating a Treasure token.
 4. Activate the Treasure by tapping and sacrificing it, adding [[symbol:b]].
 5. Cast Gravecrawler from your graveyard by paying [[symbol:b]].
 6. Repeat.
-+Results:
+
+Results:
 - Infinite creature ETB
 - Infinite creature LTB
 - Infinite creature sacrifice triggers
@@ -1235,25 +1178,23 @@ Results:
 - Infinite lifegain triggers
 - Infinite lifeloss
 - Infinite storm count
+
 ===endpanel
 ===endaccordion
 
 ===accordion
-===panel: C038: Pitiless Plunderer + Stridehangar Automaton + Grinding Station
+===panel: C036: Pitiless Plunderer + Stridehangar Automaton + Grinding Station
 
 [[symbol:b]]
-
 
 Cards Required:
 - [[Pitiless Plunderer]]
 - [[Stridehangar Automaton]]
 - [[Grinding Station]]
 
-
 Prerequisites:
 - All permanents on the battlefield.
 - You control another artifact creature.
-
 
 Steps:
 1. Activate Grinding Station by tapping it and sacrificing another artifact creature.
@@ -1261,7 +1202,6 @@ Steps:
 3. When the Treasure and Thopter enter the battlefield, Grinding Station triggers twice, untapping Grinding Station.
 4. Resolve the Grinding Station ability from step 1.
 5. Repeat.
-
 
 Results:
 - Infinite artifact ETB
@@ -1276,26 +1216,24 @@ Results:
 - Infinite mill
 - Infinite self-mill
 - Infinite Treasure tokens
+
 ===endpanel
 ===endaccordion
 
 ===accordion
-===panel: C039: Imotekh the Stormlord + Nim Deathmantle + Krark-Clan Ironworks
+===panel: C037: Imotekh the Stormlord + Nim Deathmantle + Krark-Clan Ironworks
 
 [[symbol:b]]
-
 
 Cards Required:
 - [[Imotekh the Stormlord]]
 - [[Nim Deathmantle]]
 - [[Krark-Clan Ironworks]]
 
-
 Prerequisites:
 - All permanents on the battlefield.
 - You control at least one nontoken artifact creature.
 - [[symbol:2]] available
-
 
 Steps:
 1. Activate Krark-Clan Ironworks by sacrificing a nontoken artifact creature, adding [[symbol:c]][[symbol:c]].
@@ -1304,7 +1242,6 @@ Steps:
 4. Activate Krark-Clan Ironworks by sacrificing a Necron Warrior, adding [[symbol:c]][[symbol:c]].
 5. Repeat.
 
-
 Results:
 - Infinite colorless mana
 - Infinite creature tokens
@@ -1312,33 +1249,30 @@ Results:
 - Infinite creature ETB
 - Infinite creature LTB
 - Infinite creature sacrifice triggers
+
 ===endpanel
 ===endaccordion
 
 ===accordion
-===panel: C040: Tortured Existence + Phyrexian Altar + Imotekh the Stormlord
+===panel: C038: Tortured Existence + Phyrexian Altar + Imotekh the Stormlord
 
 [[symbol:b]]
-
 
 Cards Required:
 - [[Tortured Existence]]
 - [[Phyrexian Altar]]
 - [[Imotekh the Stormlord]]
 
-
 Prerequisites:
 - All permanents on the battlefield.
-- You have an artifact creature card in your graveyard, and a creature card in your hand.
+- You have two artifact creature cards, one in your graveyard and one in your hand; alternate them so EACH return from the graveyard triggers Imotekh.
 - [[symbol:b]] available
-
 
 Steps:
 1. Activate Tortured Existence by paying [[symbol:b]] and discarding a creature card, returning another creature card from your graveyard to your hand.
 2. If the returned card was an artifact creature card, Imotekh the Stormlord triggers, creating two artifact creature tokens.
 3. Activate Phyrexian Altar by sacrificing a creature token, adding [[symbol:b]].
 4. Repeat.
-
 
 Results:
 - Infinite artifact ETB
@@ -1352,11 +1286,12 @@ Results:
 - Infinite death triggers
 - Infinite creature sacrifice triggers
 - Infinite self-discard triggers
+
 ===endpanel
 ===endaccordion
 
 ===accordion
-===panel: C041: Ultron the Annihilator + Nim Deathmantle + Krark-Clan Ironworks
+===panel: C039: Ultron the Annihilator + Nim Deathmantle + Krark-Clan Ironworks
 
 [[symbol:b]]
 
@@ -1387,11 +1322,12 @@ Results:
 - Infinite artifact LTB
 - Infinite artifact sacrifice triggers
 - Infinite creature tokens
+
 ===endpanel
 ===endaccordion
 
 ===accordion
-===panel: C042: Out of the Tombs + Skullclamp + Krark-Clan Ironworks
+===panel: C040: Out of the Tombs + Skullclamp + Krark-Clan Ironworks
 
 [[symbol:c]]
 
@@ -1422,31 +1358,28 @@ Results:
 - Infinite creature ETB
 - Infinite creature LTB
 - Infinite death triggers
+
 ===endpanel
 ===endaccordion
 
 ===accordion
-===panel: C043: Pitiless Plunderer + Stridehangar Automaton + Krark-Clan Ironworks
+===panel: C041: Pitiless Plunderer + Stridehangar Automaton + Krark-Clan Ironworks
 
 [[symbol:b]]
-
 
 Cards Required:
 - [[Pitiless Plunderer]]
 - [[Stridehangar Automaton]]
 - [[Krark-Clan Ironworks]]
 
-
 Prerequisites:
 - All permanents on the battlefield.
 - You control another artifact creature.
-
 
 Steps:
 1. Activate Krark-Clan Ironworks by sacrificing another artifact creature, adding [[symbol:c]][[symbol:c]].
 2. When the creature dies, Pitiless Plunderer triggers, creating a Treasure token and a 1/1 Thopter artifact creature token.
 3. Repeat.
-
 
 Results:
 - Infinite artifact ETB
@@ -1460,11 +1393,12 @@ Results:
 - Infinite death triggers
 - Infinite colorless mana
 - Infinite Treasure tokens
+
 ===endpanel
 ===endaccordion
 
 ===accordion
-===panel: C044: The Ooze + Stridehangar Automaton + Krark-Clan Ironworks
+===panel: C042: The Ooze + Stridehangar Automaton + Krark-Clan Ironworks
 
 [[symbol:c]]
 
@@ -1496,40 +1430,40 @@ Results:
 - Infinite creature LTB
 - Infinite creature sacrifice triggers
 - Infinite death triggers
+
 ===endpanel
 ===endaccordion
 
 ===accordion
-===panel: C045: Sensei's Divining Top + Mystic Forge + Semblance Anvil
+===panel: C043: Sensei's Divining Top + Mystic Forge + Semblance Anvil
 
 [[symbol:c]]
-
 
 Cards Required:
 - [[Sensei's Divining Top]]
 - [[Mystic Forge]]
 - [[Semblance Anvil]]
 
-
 Prerequisites:
 - All permanents on the battlefield (Semblance Anvil with an artifact card exiled).
-
 
 Steps:
 1. Activate Sensei's Divining Top by tapping it, causing you to draw a card and put Sensei's Divining Top on top of your library.
 2. Cast Sensei's Divining Top from the top of your library by paying [[symbol:0]].
 3. Repeat
 
-
 Results:
 - Infinite card draw
 - Infinite draw triggers
 - Near-infinite storm count
+
+**Classification:** Repeatable until you exhaust available library cards or move into a win; do not literally draw infinitely from a finite library without draw replacement.
+
 ===endpanel
 ===endaccordion
 
 ===accordion
-===panel: C046: Out of the Tombs + Skullclamp + Phyrexian Altar
+===panel: C044: Out of the Tombs + Skullclamp + Phyrexian Altar
 
 [[symbol:b]]
 
@@ -1559,31 +1493,28 @@ Results:
 - Infinite creature sacrifice triggers
 - Infinite death triggers
 - Infinite draw-replacement events
+
 ===endpanel
 ===endaccordion
 
 ===accordion
-===panel: C047: Pitiless Plunderer + Phyrexian Altar + Stridehangar Automaton
+===panel: C045: Pitiless Plunderer + Phyrexian Altar + Stridehangar Automaton
 
 [[symbol:b]]
-
 
 Cards Required:
 - [[Pitiless Plunderer]]
 - [[Phyrexian Altar]]
 - [[Stridehangar Automaton]]
 
-
 Prerequisites:
 - All permanents on the battlefield.
 - You control another creature.
-
 
 Steps:
 1. Activate Phyrexian Altar by sacrificing another creature, adding one mana of any color.
 2. When the creature dies, Pitiless Plunderer triggers, creating a Treasure token and a 1/1 Thopter artifact creature token.
 3. Repeat.
-
 
 Results:
 - Infinite artifact ETB
@@ -1596,11 +1527,12 @@ Results:
 - Infinite creature sacrifice triggers
 - Infinite death triggers
 - Infinite Treasure tokens
+
 ===endpanel
 ===endaccordion
 
 ===accordion
-===panel: C048: The Ooze + Stridehangar Automaton + Phyrexian Altar
+===panel: C046: The Ooze + Stridehangar Automaton + Phyrexian Altar
 
 [[symbol:b]]
 
@@ -1630,32 +1562,31 @@ Results:
 - Infinite creature LTB
 - Infinite creature sacrifice triggers
 - Infinite death triggers
+
+**Timing reminder:** Mutagen activation is sorcery-speed; execute the Mutagen portions of this loop during your main phase with an empty stack.
+
 ===endpanel
 ===endaccordion
 
 ===accordion
-===panel: C049: Pitiless Plunderer + Umbral Collar Zealot + Stridehangar Automaton
+===panel: C047: Pitiless Plunderer + Umbral Collar Zealot + Stridehangar Automaton
 
 [[symbol:b]]
-
 
 Cards Required:
 - [[Pitiless Plunderer]]
 - [[Umbral Collar Zealot]]
 - [[Stridehangar Automaton]]
 
-
 Prerequisites:
 - All permanents on the battlefield.
 - You control another creature.
-
 
 Steps:
 1. Activate Umbral Collar Zealot by sacrificing another creature.
 2. When the creature dies, Pitiless Plunderer triggers, creating a Treasure token and a 1/1 Thopter artifact creature token.
 3. Resolve the Umbral Collar Zealot ability.
 4. Repeat.
-
 
 Results:
 - Infinite artifact ETB
@@ -1669,26 +1600,24 @@ Results:
 - Infinite death triggers
 - Infinite Treasure tokens
 - Infinite surveil
+
 ===endpanel
 ===endaccordion
 
 ===accordion
-===panel: C050: Warren Soultrader + Stridehangar Automaton + Sephiroth, Fabled SOLDIER
+===panel: C048: Warren Soultrader + Stridehangar Automaton + Sephiroth, Fabled SOLDIER
 
 [[symbol:b]]
-
 
 Cards Required:
 - [[Warren Soultrader]]
 - [[Stridehangar Automaton]]
 - [[Sephiroth, Fabled SOLDIER // Sephiroth, One-Winged Angel]]
 
-
 Prerequisites:
 - All permanents on the battlefield.
 - You control at least one additional creature
 - Your life total is at least 2.
-
 
 Steps:
 1. Activate Warren Soultrader by paying 1 life and sacrificing another creature.
@@ -1696,7 +1625,6 @@ Steps:
 3. Resolve the Warren Soultrader ability, creating a Treasure token and a 1/1 Thopter artifact creature token.
 4. Repeat.
 
-
 Results:
 - Infinite artifact ETB
 - Infinite artifact LTB
@@ -1710,26 +1638,24 @@ Results:
 - Infinite lifegain triggers
 - Infinite Treasure tokens
 - Infinite lifeloss
+
 ===endpanel
 ===endaccordion
 
 ===accordion
-===panel: C051: Warren Soultrader + Zulaport Cutthroat + Stridehangar Automaton
+===panel: C049: Warren Soultrader + Zulaport Cutthroat + Stridehangar Automaton
 
 [[symbol:b]]
-
 
 Cards Required:
 - [[Warren Soultrader]]
 - [[Zulaport Cutthroat]]
 - [[Stridehangar Automaton]]
 
-
 Prerequisites:
 - All permanents on the battlefield.
 - You control at least one additional creature
 - Your life total is at least 2.
-
 
 Steps:
 1. Activate Warren Soultrader by paying 1 life and sacrificing another creature.
@@ -1737,7 +1663,6 @@ Steps:
 3. Resolve the Warren Soultrader ability, creating a Treasure token and a 1/1 Thopter artifact creature token.
 4. Repeat.
 
-
 Results:
 - Infinite artifact ETB
 - Infinite artifact LTB
@@ -1751,14 +1676,14 @@ Results:
 - Infinite lifeloss
 - Infinite Treasure tokens
 - Infinite lifegain triggers
+
 ===endpanel
 ===endaccordion
 
 ===accordion
-===panel: C052: Metalwork Colossus + Warren Soultrader + Pitiless Plunderer + Aetherflux Reservoir
+===panel: C050: Metalwork Colossus + Warren Soultrader + Pitiless Plunderer + Aetherflux Reservoir
 
 [[symbol:b]]
-
 
 Cards Required:
 - [[Metalwork Colossus]]
@@ -1766,12 +1691,10 @@ Cards Required:
 - [[Pitiless Plunderer]]
 - [[Aetherflux Reservoir]]
 
-
 Prerequisites:
 - Metalwork Colossus in hand.
 - All other permanents on the battlefield.
 - The total mana value of noncreature artifacts you control is at least 10.
-
 
 Steps:
 1. Cast Metalwork Colossus by paying [[symbol:0]].
@@ -1783,7 +1706,6 @@ Steps:
 7. Repeat.
 8. Once you have infinite life, you may activate Aetherflux Reservoir infinitely to deal infinite damage to any target(s).
 
-
 Results:
 - Infinite creature LTB
 - Infinite creature ETB
@@ -1793,14 +1715,14 @@ Results:
 - Infinite lifegain triggers
 - Infinite lifegain
 - Infinite storm count
+
 ===endpanel
 ===endaccordion
 
 ===accordion
-===panel: C053: Metalwork Colossus + Warren Soultrader + Aetherflux Reservoir + Stridehangar Automaton
+===panel: C051: Metalwork Colossus + Warren Soultrader + Aetherflux Reservoir + Stridehangar Automaton
 
 [[symbol:b]]
-
 
 Cards Required:
 - [[Metalwork Colossus]]
@@ -1808,12 +1730,10 @@ Cards Required:
 - [[Aetherflux Reservoir]]
 - [[Stridehangar Automaton]]
 
-
 Prerequisites:
 - Metalwork Colossus in hand.
 - All other permanents on the battlefield.
 - The total mana value of noncreature artifacts you control is at least 10.
-
 
 Steps:
 1. Cast Metalwork Colossus by paying [[symbol:0]].
@@ -1822,7 +1742,6 @@ Steps:
 4. Activate Metalwork Colossus by sacrificing the Treasure and Thopter, returning Metalwork Colossus from your graveyard to your hand.
 5. Repeat.
 
-
 Results:
 - Infinite creature LTB
 - Infinite creature ETB
@@ -1832,14 +1751,14 @@ Results:
 - Infinite lifegain triggers
 - Infinite lifegain
 - Infinite storm count
+
 ===endpanel
 ===endaccordion
 
 ===accordion
-===panel: C054: Tortured Existence + Pitiless Plunderer + Imotekh the Stormlord + Altar of Dementia
+===panel: C052: Tortured Existence + Pitiless Plunderer + Imotekh the Stormlord + Altar of Dementia
 
 [[symbol:b]]
-
 
 Cards Required:
 - [[Tortured Existence]]
@@ -1847,13 +1766,11 @@ Cards Required:
 - [[Imotekh the Stormlord]]
 - [[Altar of Dementia]]
 
-
 Prerequisites:
 - All permanents on the battlefield.
-- You have at least one artifact creature card in hand
-- You have at least one artifact creature card in your graveyard.
+- You have an artifact creature card in hand
+- You have a SECOND artifact creature card in your graveyard.
 - [[symbol:b]] available
-
 
 Steps:
 1. Activate Tortured Existence by paying [[symbol:b]] and discarding an artifact creature card, returning another artifact creature card from your graveyard to your hand.
@@ -1863,7 +1780,6 @@ Steps:
 5. Resolve the Altar of Dementia ability, causing target player to mill cards equal to the Necron Warrior's power.
 6. Activate the Treasure by tapping and sacrificing it, adding [[symbol:b]].
 7. Repeat.
-
 
 Results:
 - Infinite artifact ETB
@@ -1880,11 +1796,12 @@ Results:
 - Infinite self-discard triggers
 - Infinite self-mill
 - Infinite Treasure tokens
+
 ===endpanel
 ===endaccordion
 
 ===accordion
-===panel: C055: Out of the Tombs + Skullclamp + Pitiless Plunderer + Altar of Dementia
+===panel: C053: Out of the Tombs + Skullclamp + Pitiless Plunderer + Altar of Dementia
 
 [[symbol:b]]
 
@@ -1916,11 +1833,12 @@ Results:
 - Infinite creature sacrifice triggers
 - Infinite death triggers
 - Infinite Treasure creation
+
 ===endpanel
 ===endaccordion
 
 ===accordion
-===panel: C056: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Altar of Dementia
+===panel: C054: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Altar of Dementia
 
 [[symbol:c]]
 
@@ -1934,7 +1852,7 @@ Prerequisites:
 - All permanents on the battlefield.
 - You control a Thopter.
 - There is at least one card in a graveyard.
-- The Ooze does not have summoning sickness.
+- The Ooze is an untapped noncreature artifact (so it does not have summoning sickness).
 
 Steps:
 1. Sacrifice a Thopter to Altar of Dementia.
@@ -1962,11 +1880,14 @@ Results:
 - Infinite creature LTB
 - Infinite creature sacrifice triggers
 - Infinite death triggers
+
+**Timing reminder:** Mutagen activation is sorcery-speed; execute the Mutagen portions of this loop during your main phase with an empty stack.
+
 ===endpanel
 ===endaccordion
 
 ===accordion
-===panel: C057: The Ooze + Clock of Omens + Stridehangar Automaton + Altar of the Brood
+===panel: C055: The Ooze + Clock of Omens + Stridehangar Automaton + Altar of the Brood
 
 [[symbol:c]]
 
@@ -1996,11 +1917,14 @@ Results:
 - Create Mutagen tokens
 - Create Thopter tokens
 - Repeated artifact ETB triggers
+
+**Classification:** Finite/library- or graveyard-bounded engine rather than mathematically unbounded repetition.
+
 ===endpanel
 ===endaccordion
 
 ===accordion
-===panel: C058: Out of the Tombs + Skullclamp + Pitiless Plunderer + Arcbound Ravager
+===panel: C056: Out of the Tombs + Skullclamp + Pitiless Plunderer + Arcbound Ravager
 
 [[symbol:b]]
 
@@ -2031,11 +1955,12 @@ Results:
 - Infinite creature sacrifice triggers
 - Infinite death triggers
 - Infinite Treasure creation
+
 ===endpanel
 ===endaccordion
 
 ===accordion
-===panel: C059: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Arcbound Ravager
+===panel: C057: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Arcbound Ravager
 
 [[symbol:c]]
 
@@ -2049,7 +1974,7 @@ Prerequisites:
 - All permanents on the battlefield.
 - You control a Thopter.
 - There is at least one card in a graveyard.
-- The Ooze does not have summoning sickness.
+- The Ooze is an untapped noncreature artifact (so it does not have summoning sickness).
 
 Steps:
 1. Sacrifice a Thopter to Arcbound Ravager.
@@ -2076,14 +2001,16 @@ Results:
 - Infinite creature LTB
 - Infinite creature sacrifice triggers
 - Infinite death triggers
+
+**Timing reminder:** Mutagen activation is sorcery-speed; execute the Mutagen portions of this loop during your main phase with an empty stack.
+
 ===endpanel
 ===endaccordion
 
 ===accordion
-===panel: C060: Scrap Trawler + Myr Retriever + Ashnod's Altar + Cloud Key
+===panel: C058: Scrap Trawler + Myr Retriever + Ashnod's Altar + Cloud Key
 
 [[symbol:c]]
-
 
 Cards Required:
 - [[Scrap Trawler]]
@@ -2091,11 +2018,9 @@ Cards Required:
 - [[Ashnod's Altar]]
 - [[Cloud Key]]
 
-
 Prerequisites:
 - Scrap Trawler in your graveyard.
 - All other permanents on the battlefield (Cloud Key with "Artifact" or "Creature" chosen).
-
 
 Steps:
 1. Activate Ashnod's Altar by sacrificing Myr Retriever, adding [[symbol:c]][[symbol:c]].
@@ -2106,7 +2031,6 @@ Steps:
 6. Cast Myr Retriever by paying its mana cost, which is reduced by Cloud Key.
 7. Repeat.
 
-
 Results:
 - Infinite artifact ETB
 - Infinite artifact LTB
@@ -2117,14 +2041,14 @@ Results:
 - Infinite death triggers
 - Infinite creature sacrifice triggers
 - Infinite storm count
+
 ===endpanel
 ===endaccordion
 
 ===accordion
-===panel: C061: Scrap Trawler + Myr Retriever + Ashnod's Altar + Foundry Inspector
+===panel: C059: Scrap Trawler + Myr Retriever + Ashnod's Altar + Foundry Inspector
 
 [[symbol:c]]
-
 
 Cards Required:
 - [[Scrap Trawler]]
@@ -2132,11 +2056,9 @@ Cards Required:
 - [[Ashnod's Altar]]
 - [[Foundry Inspector]]
 
-
 Prerequisites:
 - Scrap Trawler in your graveyard.
 - All other permanents on the battlefield.
-
 
 Steps:
 1. Activate Ashnod's Altar by sacrificing Myr Retriever, adding [[symbol:c]][[symbol:c]].
@@ -2147,7 +2069,6 @@ Steps:
 6. Cast Myr Retriever by paying its mana cost, which is reduced by Foundry Inspector.
 7. Repeat.
 
-
 Results:
 - Infinite artifact ETB
 - Infinite artifact LTB
@@ -2158,21 +2079,20 @@ Results:
 - Infinite death triggers
 - Infinite creature sacrifice triggers
 - Infinite storm count
+
 ===endpanel
 ===endaccordion
 
 ===accordion
-===panel: C062: Glaring Fleshraker + Ashnod's Altar + Myr Retriever + Junk Diver
+===panel: C060: Glaring Fleshraker + Ashnod's Altar + Myr Retriever + Junk Diver
 
 [[symbol:c]]
-
 
 Cards Required:
 - [[Glaring Fleshraker]]
 - [[Ashnod's Altar]]
 - [[Myr Retriever]]
 - [[Junk Diver]]
-
 
 Prerequisites:
 - Glaring Fleshraker and Ashnod's Altar on the battlefield.
@@ -2180,7 +2100,6 @@ Prerequisites:
 - One of the artifact creatures must be in your hand while the other is in your graveyard
 - You have enough mana to cast the artifact card in your hand.
 
-
 Steps:
 1. Cast the artifact creature card in your hand by paying its mana cost.
 2. Glaring Fleshraker's first ability triggers, creating a 0/1 Eldrazi Spawn creature token.
@@ -2191,7 +2110,6 @@ Steps:
 7. If needed, activate the Eldrazi Spawn by sacrificing it, adding [[symbol:c]].
 8. Repeat.
 
-
 Results:
 - Infinite creature LTB
 - Infinite creature ETB
@@ -2201,21 +2119,20 @@ Results:
 - Infinite storm count
 - Infinite colorless mana
 - Infinite creature tokens
+
 ===endpanel
 ===endaccordion
 
 ===accordion
-===panel: C063: Glaring Fleshraker + Ashnod's Altar + Junk Diver + Workshop Assistant
+===panel: C061: Glaring Fleshraker + Ashnod's Altar + Junk Diver + Workshop Assistant
 
 [[symbol:c]]
-
 
 Cards Required:
 - [[Glaring Fleshraker]]
 - [[Ashnod's Altar]]
 - [[Junk Diver]]
 - [[Workshop Assistant]]
-
 
 Prerequisites:
 - Glaring Fleshraker and Ashnod's Altar on the battlefield.
@@ -2223,7 +2140,6 @@ Prerequisites:
 - One of the artifact creatures must be in your hand while the other is in your graveyard
 - You have enough mana to cast the artifact card in your hand.
 
-
 Steps:
 1. Cast the artifact creature card in your hand by paying its mana cost.
 2. Glaring Fleshraker's first ability triggers, creating a 0/1 Eldrazi Spawn creature token.
@@ -2234,7 +2150,6 @@ Steps:
 7. If needed, activate the Eldrazi Spawn by sacrificing it, adding [[symbol:c]].
 8. Repeat.
 
-
 Results:
 - Infinite creature LTB
 - Infinite creature ETB
@@ -2244,21 +2159,20 @@ Results:
 - Infinite storm count
 - Infinite colorless mana
 - Infinite creature tokens
+
 ===endpanel
 ===endaccordion
 
 ===accordion
-===panel: C064: Glaring Fleshraker + Ashnod's Altar + Myr Retriever + Scrap Trawler
+===panel: C062: Glaring Fleshraker + Ashnod's Altar + Myr Retriever + Scrap Trawler
 
 [[symbol:c]]
-
 
 Cards Required:
 - [[Glaring Fleshraker]]
 - [[Ashnod's Altar]]
 - [[Myr Retriever]]
 - [[Scrap Trawler]]
-
 
 Prerequisites:
 - Glaring Fleshraker and Ashnod's Altar on the battlefield.
@@ -2266,7 +2180,6 @@ Prerequisites:
 - One of the artifact creatures must be in your hand while the other is in your graveyard
 - You have enough mana to cast the artifact card in your hand.
 
-
 Steps:
 1. Cast the artifact creature card in your hand by paying its mana cost.
 2. Glaring Fleshraker's first ability triggers, creating a 0/1 Eldrazi Spawn creature token.
@@ -2277,7 +2190,6 @@ Steps:
 7. If needed, activate the Eldrazi Spawn by sacrificing it, adding [[symbol:c]].
 8. Repeat.
 
-
 Results:
 - Infinite creature LTB
 - Infinite creature ETB
@@ -2287,21 +2199,20 @@ Results:
 - Infinite storm count
 - Infinite colorless mana
 - Infinite creature tokens
+
 ===endpanel
 ===endaccordion
 
 ===accordion
-===panel: C065: Glaring Fleshraker + Ashnod's Altar + Myr Retriever + Workshop Assistant
+===panel: C063: Glaring Fleshraker + Ashnod's Altar + Myr Retriever + Workshop Assistant
 
 [[symbol:c]]
-
 
 Cards Required:
 - [[Glaring Fleshraker]]
 - [[Ashnod's Altar]]
 - [[Myr Retriever]]
 - [[Workshop Assistant]]
-
 
 Prerequisites:
 - Glaring Fleshraker and Ashnod's Altar on the battlefield.
@@ -2309,7 +2220,6 @@ Prerequisites:
 - One of the artifact creatures must be in your hand while the other is in your graveyard
 - You have enough mana to cast the artifact card in your hand.
 
-
 Steps:
 1. Cast the artifact creature card in your hand by paying its mana cost.
 2. Glaring Fleshraker's first ability triggers, creating a 0/1 Eldrazi Spawn creature token.
@@ -2320,7 +2230,6 @@ Steps:
 7. If needed, activate the Eldrazi Spawn by sacrificing it, adding [[symbol:c]].
 8. Repeat.
 
-
 Results:
 - Infinite creature LTB
 - Infinite creature ETB
@@ -2330,14 +2239,14 @@ Results:
 - Infinite storm count
 - Infinite colorless mana
 - Infinite creature tokens
+
 ===endpanel
 ===endaccordion
 
 ===accordion
-===panel: C066: Glaring Fleshraker + Ashnod's Altar + Scrap Trawler + Workshop Assistant
+===panel: C064: Glaring Fleshraker + Ashnod's Altar + Scrap Trawler + Workshop Assistant
 
 [[symbol:c]]
-
 
 Cards Required:
 - [[Glaring Fleshraker]]
@@ -2345,13 +2254,11 @@ Cards Required:
 - [[Scrap Trawler]]
 - [[Workshop Assistant]]
 
-
 Prerequisites:
 - Glaring Fleshraker and Ashnod's Altar on the battlefield.
 - Scrap Trawler and Workshop Assistant in hand or in your graveyard.
 - One of the artifact creatures must be in your hand while the other is in your graveyard
 - You have enough mana to cast the artifact card in your hand.
-
 
 Steps:
 1. Cast the artifact creature card in your hand by paying its mana cost.
@@ -2363,7 +2270,6 @@ Steps:
 7. If needed, activate the Eldrazi Spawn by sacrificing it, adding [[symbol:c]].
 8. Repeat.
 
-
 Results:
 - Infinite creature LTB
 - Infinite creature ETB
@@ -2373,14 +2279,14 @@ Results:
 - Infinite storm count
 - Infinite colorless mana
 - Infinite creature tokens
+
 ===endpanel
 ===endaccordion
 
 ===accordion
-===panel: C067: Imotekh the Stormlord + Junk Diver + Myr Retriever + Ashnod's Altar
+===panel: C065: Imotekh the Stormlord + Junk Diver + Myr Retriever + Ashnod's Altar
 
 [[symbol:b]]
-
 
 Cards Required:
 - [[Imotekh the Stormlord]]
@@ -2388,11 +2294,9 @@ Cards Required:
 - [[Myr Retriever]]
 - [[Ashnod's Altar]]
 
-
 Prerequisites:
 - Junk Diver in your graveyard.
 - All other permanents on the battlefield.
-
 
 Steps:
 1. Activate Ashnod's Altar by sacrificing Myr Retriever, adding [[symbol:c]][[symbol:c]].
@@ -2406,7 +2310,6 @@ Steps:
 9. Cast Myr Retriever by paying [[symbol:2]].
 10. Repeat.
 
-
 Results:
 - Infinite colorless mana
 - Infinite creature tokens
@@ -2415,14 +2318,14 @@ Results:
 - Infinite creature LTB
 - Infinite creature sacrifice triggers
 - Infinite storm count
+
 ===endpanel
 ===endaccordion
 
 ===accordion
-===panel: C068: Imotekh the Stormlord + Junk Diver + Workshop Assistant + Ashnod's Altar
+===panel: C066: Imotekh the Stormlord + Junk Diver + Workshop Assistant + Ashnod's Altar
 
 [[symbol:b]]
-
 
 Cards Required:
 - [[Imotekh the Stormlord]]
@@ -2430,11 +2333,9 @@ Cards Required:
 - [[Workshop Assistant]]
 - [[Ashnod's Altar]]
 
-
 Prerequisites:
 - Junk Diver in your graveyard.
 - All other permanents on the battlefield.
-
 
 Steps:
 1. Activate Ashnod's Altar by sacrificing Workshop Assistant, adding [[symbol:c]][[symbol:c]].
@@ -2448,7 +2349,6 @@ Steps:
 9. Cast Workshop Assistant by paying [[symbol:3]].
 10. Repeat.
 
-
 Results:
 - Infinite colorless mana
 - Infinite creature tokens
@@ -2457,14 +2357,14 @@ Results:
 - Infinite creature LTB
 - Infinite creature sacrifice triggers
 - Infinite storm count
+
 ===endpanel
 ===endaccordion
 
 ===accordion
-===panel: C069: Imotekh the Stormlord + Scrap Trawler + Myr Retriever + Ashnod's Altar
+===panel: C067: Imotekh the Stormlord + Scrap Trawler + Myr Retriever + Ashnod's Altar
 
 [[symbol:b]]
-
 
 Cards Required:
 - [[Imotekh the Stormlord]]
@@ -2472,11 +2372,9 @@ Cards Required:
 - [[Myr Retriever]]
 - [[Ashnod's Altar]]
 
-
 Prerequisites:
 - Scrap Trawler in your graveyard.
 - All other permanents on the battlefield.
-
 
 Steps:
 1. Activate Ashnod's Altar by sacrificing Myr Retriever, adding [[symbol:c]][[symbol:c]].
@@ -2490,7 +2388,6 @@ Steps:
 9. Cast Myr Retriever by paying [[symbol:2]].
 10. Repeat.
 
-
 Results:
 - Infinite colorless mana
 - Infinite creature tokens
@@ -2499,14 +2396,14 @@ Results:
 - Infinite creature LTB
 - Infinite creature sacrifice triggers
 - Infinite storm count
+
 ===endpanel
 ===endaccordion
 
 ===accordion
-===panel: C070: Imotekh the Stormlord + Myr Retriever + Workshop Assistant + Ashnod's Altar
+===panel: C068: Imotekh the Stormlord + Myr Retriever + Workshop Assistant + Ashnod's Altar
 
 [[symbol:b]]
-
 
 Cards Required:
 - [[Imotekh the Stormlord]]
@@ -2514,11 +2411,9 @@ Cards Required:
 - [[Workshop Assistant]]
 - [[Ashnod's Altar]]
 
-
 Prerequisites:
 - Myr Retriever in your graveyard.
 - All other permanents on the battlefield.
-
 
 Steps:
 1. Activate Ashnod's Altar by sacrificing Workshop Assistant, adding [[symbol:c]][[symbol:c]].
@@ -2532,7 +2427,6 @@ Steps:
 9. Cast Workshop Assistant by paying [[symbol:3]].
 10. Repeat.
 
-
 Results:
 - Infinite colorless mana
 - Infinite creature tokens
@@ -2541,14 +2435,14 @@ Results:
 - Infinite creature LTB
 - Infinite creature sacrifice triggers
 - Infinite storm count
+
 ===endpanel
 ===endaccordion
 
 ===accordion
-===panel: C071: Scrap Trawler + Myr Retriever + Ashnod's Altar + Semblance Anvil
+===panel: C069: Scrap Trawler + Myr Retriever + Ashnod's Altar + Semblance Anvil
 
 [[symbol:c]]
-
 
 Cards Required:
 - [[Scrap Trawler]]
@@ -2556,12 +2450,10 @@ Cards Required:
 - [[Ashnod's Altar]]
 - [[Semblance Anvil]]
 
-
 Prerequisites:
 - Scrap Trawler in your graveyard.
 - All other permanents on the battlefield.
 - There is an artifact or creature card exiled with Semblance Anvil.
-
 
 Steps:
 1. Activate Ashnod's Altar by sacrificing Myr Retriever, adding [[symbol:c]][[symbol:c]].
@@ -2571,7 +2463,6 @@ Steps:
 5. When Scrap Trawler dies, it triggers, returning Myr Retriever from your graveyard to your hand.
 6. Cast Myr Retriever by paying its mana cost, which is reduced by Semblance Anvil.
 7. Repeat.
-
 
 Results:
 - Infinite artifact ETB
@@ -2583,11 +2474,12 @@ Results:
 - Infinite death triggers
 - Infinite creature sacrifice triggers
 - Infinite storm count
+
 ===endpanel
 ===endaccordion
 
 ===accordion
-===panel: C072: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Ashnod's Altar
+===panel: C070: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Ashnod's Altar
 
 [[symbol:c]]
 
@@ -2601,7 +2493,7 @@ Prerequisites:
 - All permanents on the battlefield.
 - You control a Thopter.
 - There is at least one card in a graveyard.
-- The Ooze does not have summoning sickness.
+- The Ooze is an untapped noncreature artifact (so it does not have summoning sickness).
 
 Steps:
 1. Sacrifice a Thopter to Ashnod's Altar.
@@ -2628,14 +2520,16 @@ Results:
 - Infinite creature LTB
 - Infinite creature sacrifice triggers
 - Infinite death triggers
+
+**Timing reminder:** Mutagen activation is sorcery-speed; execute the Mutagen portions of this loop during your main phase with an empty stack.
+
 ===endpanel
 ===endaccordion
 
 ===accordion
-===panel: C073: Tortured Existence + Pitiless Plunderer + Imotekh the Stormlord + Blasting Station
+===panel: C071: Tortured Existence + Pitiless Plunderer + Imotekh the Stormlord + Blasting Station
 
 [[symbol:b]]
-
 
 Cards Required:
 - [[Tortured Existence]]
@@ -2643,13 +2537,11 @@ Cards Required:
 - [[Imotekh the Stormlord]]
 - [[Blasting Station]]
 
-
 Prerequisites:
 - All permanents on the battlefield.
-- You have at least one artifact creature card in hand
-- You have at least one artifact creature card in your graveyard.
+- You have an artifact creature card in hand
+- You have a SECOND artifact creature card in your graveyard.
 - [[symbol:b]] available
-
 
 Steps:
 1. Activate Tortured Existence by paying [[symbol:b]] and discarding an artifact creature card, returning another artifact creature card from your graveyard to your hand.
@@ -2660,7 +2552,6 @@ Steps:
 6. Resolve the Blasting Station ability, dealing 1 damage to any target.
 7. Activate the Treasure by tapping and sacrificing it, adding [[symbol:b]].
 8. Repeat.
-
 
 Results:
 - Infinite artifact ETB
@@ -2676,11 +2567,12 @@ Results:
 - Infinite creature sacrifice triggers
 - Infinite self-discard triggers
 - Infinite Treasure tokens
+
 ===endpanel
 ===endaccordion
 
 ===accordion
-===panel: C074: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Blasting Station
+===panel: C072: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Blasting Station
 
 [[symbol:c]]
 
@@ -2694,7 +2586,7 @@ Prerequisites:
 - All permanents on the battlefield.
 - You control a Thopter.
 - There is at least one card in a graveyard.
-- The Ooze does not have summoning sickness.
+- The Ooze is an untapped noncreature artifact (so it does not have summoning sickness).
 
 Steps:
 1. Sacrifice a Thopter to Blasting Station.
@@ -2721,11 +2613,14 @@ Results:
 - Infinite creature LTB
 - Infinite creature sacrifice triggers
 - Infinite death triggers
+
+**Timing reminder:** Mutagen activation is sorcery-speed; execute the Mutagen portions of this loop during your main phase with an empty stack.
+
 ===endpanel
 ===endaccordion
 
 ===accordion
-===panel: C075: Tortured Existence + Pitiless Plunderer + Imotekh the Stormlord + Carrion Feeder
+===panel: C073: Tortured Existence + Pitiless Plunderer + Imotekh the Stormlord + Carrion Feeder
 
 [[symbol:b]]
 
@@ -2737,8 +2632,8 @@ Cards Required:
 
 Prerequisites:
 - All permanents on the battlefield.
-- You have at least one artifact creature card in hand.
-- You have at least one artifact creature card in your graveyard.
+- You have an artifact creature card in hand.
+- You have a SECOND artifact creature card in your graveyard.
 - [[symbol:b]] available.
 
 Steps:
@@ -2763,11 +2658,12 @@ Results:
 - Infinite creature sacrifice triggers
 - Infinite death triggers
 - Infinite self-discard triggers
+
 ===endpanel
 ===endaccordion
 
 ===accordion
-===panel: C076: Out of the Tombs + Skullclamp + Pitiless Plunderer + Carrion Feeder
+===panel: C074: Out of the Tombs + Skullclamp + Pitiless Plunderer + Carrion Feeder
 
 [[symbol:b]]
 
@@ -2800,11 +2696,12 @@ Results:
 - Infinite creature LTB
 - Infinite creature sacrifice triggers
 - Infinite death triggers
+
 ===endpanel
 ===endaccordion
 
 ===accordion
-===panel: C077: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Carrion Feeder
+===panel: C075: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Carrion Feeder
 
 [[symbol:c]]
 
@@ -2818,7 +2715,7 @@ Prerequisites:
 - All permanents on the battlefield.
 - You control a Thopter.
 - There is at least one card in a graveyard.
-- The Ooze does not have summoning sickness.
+- The Ooze is an untapped noncreature artifact (so it does not have summoning sickness).
 
 Steps:
 1. Sacrifice a Thopter to Carrion Feeder, putting a +1/+1 counter on Carrion Feeder.
@@ -2841,11 +2738,14 @@ Results:
 - Infinite creature LTB
 - Infinite creature sacrifice triggers
 - Infinite death triggers
+
+**Timing reminder:** Mutagen activation is sorcery-speed; execute the Mutagen portions of this loop during your main phase with an empty stack.
+
 ===endpanel
 ===endaccordion
 
 ===accordion
-===panel: C078: The Ooze + Clock of Omens + Stridehangar Automaton + Grinding Station
+===panel: C076: The Ooze + Clock of Omens + Stridehangar Automaton + Grinding Station
 
 [[symbol:c]]
 
@@ -2857,7 +2757,7 @@ Cards Required:
 
 Prerequisites:
 - All permanents on the battlefield and untapped.
-- The Ooze does not have summoning sickness.
+- The Ooze is an untapped noncreature artifact (so it does not have summoning sickness).
 - There is at least one card in a graveyard.
 
 Steps:
@@ -2879,11 +2779,16 @@ Results:
 - Repeated artifact LTB
 - Repeated artifact sacrifice triggers
 - Create Thopter tokens
+
+**Classification:** Finite/library- or graveyard-bounded engine rather than mathematically unbounded repetition.
+
 ===endpanel
 ===endaccordion
 
 ===accordion
-===panel: C079: Spine of Ish Sah + Imotekh the Stormlord + Krark-Clan Ironworks + Cloud Key
+===panel: C077: Spine of Ish Sah + Imotekh the Stormlord + Krark-Clan Ironworks + Cloud Key
+
+[[symbol:c]]
 
 Cards Required:
 - [[Spine of Ish Sah]]
@@ -2913,14 +2818,14 @@ Results:
 - Infinite creature LTB
 - Infinite creature sacrifice triggers
 - Infinite death triggers
+
 ===endpanel
 ===endaccordion
 
 ===accordion
-===panel: C080: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Cloud Key
+===panel: C078: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Cloud Key
 
 [[symbol:c]]
-
 
 Cards Required:
 - [[Scrap Trawler]]
@@ -2928,11 +2833,9 @@ Cards Required:
 - [[Krark-Clan Ironworks]]
 - [[Cloud Key]]
 
-
 Prerequisites:
 - Scrap Trawler in your graveyard.
 - All other permanents on the battlefield (Cloud Key with "Artifact" or "Creature" chosen).
-
 
 Steps:
 1. Activate Krark-Clan Ironworks by sacrificing Myr Retriever, adding [[symbol:c]][[symbol:c]].
@@ -2943,7 +2846,6 @@ Steps:
 6. Cast Myr Retriever by paying its mana cost, which is reduced by Cloud Key.
 7. Repeat.
 
-
 Results:
 - Infinite artifact ETB
 - Infinite artifact LTB
@@ -2954,11 +2856,14 @@ Results:
 - Infinite death triggers
 - Infinite creature sacrifice triggers
 - Infinite storm count
+
 ===endpanel
 ===endaccordion
 
 ===accordion
-===panel: C081: Spine of Ish Sah + Sculpting Steel + Krark-Clan Ironworks + Cloud Key
+===panel: C079: Spine of Ish Sah + Sculpting Steel + Krark-Clan Ironworks + Cloud Key
+
+[[symbol:c]]
 
 Cards Required:
 - [[Spine of Ish Sah]]
@@ -2984,11 +2889,14 @@ Results:
 - Infinite artifact LTB
 - Infinite artifact sacrifice triggers
 - Infinite storm count
+
 ===endpanel
 ===endaccordion
 
 ===accordion
-===panel: C082: Spine of Ish Sah + Imotekh the Stormlord + Krark-Clan Ironworks + Foundry Inspector
+===panel: C080: Spine of Ish Sah + Imotekh the Stormlord + Krark-Clan Ironworks + Foundry Inspector
+
+[[symbol:c]]
 
 Cards Required:
 - [[Spine of Ish Sah]]
@@ -3018,14 +2926,14 @@ Results:
 - Infinite creature LTB
 - Infinite creature sacrifice triggers
 - Infinite death triggers
+
 ===endpanel
 ===endaccordion
 
 ===accordion
-===panel: C083: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Foundry Inspector
+===panel: C081: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Foundry Inspector
 
 [[symbol:c]]
-
 
 Cards Required:
 - [[Scrap Trawler]]
@@ -3033,11 +2941,9 @@ Cards Required:
 - [[Krark-Clan Ironworks]]
 - [[Foundry Inspector]]
 
-
 Prerequisites:
 - Scrap Trawler in your graveyard.
 - All other permanents on the battlefield.
-
 
 Steps:
 1. Activate Krark-Clan Ironworks by sacrificing Myr Retriever, adding [[symbol:c]][[symbol:c]].
@@ -3047,7 +2953,6 @@ Steps:
 5. When Scrap Trawler dies, it triggers, returning Myr Retriever from your graveyard to your hand.
 6. Cast Myr Retriever by paying its mana cost, which is reduced by Foundry Inspector.
 7. Repeat.
-
 
 Results:
 - Infinite artifact ETB
@@ -3059,11 +2964,14 @@ Results:
 - Infinite death triggers
 - Infinite creature sacrifice triggers
 - Infinite storm count
+
 ===endpanel
 ===endaccordion
 
 ===accordion
-===panel: C084: Spine of Ish Sah + Sculpting Steel + Krark-Clan Ironworks + Foundry Inspector
+===panel: C082: Spine of Ish Sah + Sculpting Steel + Krark-Clan Ironworks + Foundry Inspector
+
+[[symbol:c]]
 
 Cards Required:
 - [[Spine of Ish Sah]]
@@ -3089,11 +2997,14 @@ Results:
 - Infinite artifact LTB
 - Infinite artifact sacrifice triggers
 - Infinite storm count
+
 ===endpanel
 ===endaccordion
 
 ===accordion
-===panel: C085: Spine of Ish Sah + Imotekh the Stormlord + Krark-Clan Ironworks + Glaring Fleshraker
+===panel: C083: Spine of Ish Sah + Imotekh the Stormlord + Krark-Clan Ironworks + Glaring Fleshraker
+
+[[symbol:c]]
 
 Cards Required:
 - [[Spine of Ish Sah]]
@@ -3125,21 +3036,20 @@ Results:
 - Infinite creature sacrifice triggers
 - Infinite death triggers
 - Infinite storm count
+
 ===endpanel
 ===endaccordion
 
 ===accordion
-===panel: C086: Glaring Fleshraker + Myr Retriever + Junk Diver + Krark-Clan Ironworks
+===panel: C084: Glaring Fleshraker + Myr Retriever + Junk Diver + Krark-Clan Ironworks
 
 [[symbol:c]]
-
 
 Cards Required:
 - [[Glaring Fleshraker]]
 - [[Myr Retriever]]
 - [[Junk Diver]]
 - [[Krark-Clan Ironworks]]
-
 
 Prerequisites:
 - Glaring Fleshraker and Krark-Clan Ironworks on the battlefield.
@@ -3147,7 +3057,6 @@ Prerequisites:
 - One of the artifact creatures must be in your hand while the other is in your graveyard
 - You have enough mana to cast the artifact card in your hand.
 
-
 Steps:
 1. Cast the artifact creature card in your hand by paying its mana cost.
 2. Glaring Fleshraker's first ability triggers, creating a 0/1 Eldrazi Spawn creature token.
@@ -3158,7 +3067,6 @@ Steps:
 7. If needed, activate the Eldrazi Spawn by sacrificing it, adding [[symbol:c]].
 8. Repeat.
 
-
 Results:
 - Infinite creature LTB
 - Infinite creature ETB
@@ -3168,14 +3076,14 @@ Results:
 - Infinite damage
 - Infinite storm count
 - Infinite creature tokens
+
 ===endpanel
 ===endaccordion
 
 ===accordion
-===panel: C087: Glaring Fleshraker + Junk Diver + Workshop Assistant + Krark-Clan Ironworks
+===panel: C085: Glaring Fleshraker + Junk Diver + Workshop Assistant + Krark-Clan Ironworks
 
 [[symbol:c]]
-
 
 Cards Required:
 - [[Glaring Fleshraker]]
@@ -3183,13 +3091,11 @@ Cards Required:
 - [[Workshop Assistant]]
 - [[Krark-Clan Ironworks]]
 
-
 Prerequisites:
 - Glaring Fleshraker and Krark-Clan Ironworks on the battlefield.
 - Junk Diver and Workshop Assistant in hand or in your graveyard.
 - One of the artifact creatures must be in your hand while the other is in your graveyard
 - You have enough mana to cast the artifact card in your hand.
-
 
 Steps:
 1. Cast the artifact creature card in your hand by paying its mana cost.
@@ -3201,7 +3107,6 @@ Steps:
 7. If needed, activate the Eldrazi Spawn by sacrificing it, adding [[symbol:c]].
 8. Repeat.
 
-
 Results:
 - Infinite creature LTB
 - Infinite creature ETB
@@ -3211,14 +3116,14 @@ Results:
 - Infinite storm count
 - Infinite colorless mana
 - Infinite creature tokens
+
 ===endpanel
 ===endaccordion
 
 ===accordion
-===panel: C088: Glaring Fleshraker + Myr Retriever + Scrap Trawler + Krark-Clan Ironworks
+===panel: C086: Glaring Fleshraker + Myr Retriever + Scrap Trawler + Krark-Clan Ironworks
 
 [[symbol:c]]
-
 
 Cards Required:
 - [[Glaring Fleshraker]]
@@ -3226,13 +3131,11 @@ Cards Required:
 - [[Scrap Trawler]]
 - [[Krark-Clan Ironworks]]
 
-
 Prerequisites:
 - Glaring Fleshraker and Krark-Clan Ironworks on the battlefield.
 - Myr Retriever and Scrap Trawler in hand or in your graveyard.
 - One of the artifact creatures must be in your hand while the other is in your graveyard
 - You have enough mana to cast the artifact card in your hand.
-
 
 Steps:
 1. Cast the artifact creature card in your hand by paying its mana cost.
@@ -3244,7 +3147,6 @@ Steps:
 7. If needed, activate the Eldrazi Spawn by sacrificing it, adding [[symbol:c]].
 8. Repeat.
 
-
 Results:
 - Infinite creature LTB
 - Infinite creature ETB
@@ -3254,14 +3156,14 @@ Results:
 - Infinite damage
 - Infinite storm count
 - Infinite creature tokens
+
 ===endpanel
 ===endaccordion
 
 ===accordion
-===panel: C089: Glaring Fleshraker + Myr Retriever + Workshop Assistant + Krark-Clan Ironworks
+===panel: C087: Glaring Fleshraker + Myr Retriever + Workshop Assistant + Krark-Clan Ironworks
 
 [[symbol:c]]
-
 
 Cards Required:
 - [[Glaring Fleshraker]]
@@ -3269,13 +3171,11 @@ Cards Required:
 - [[Workshop Assistant]]
 - [[Krark-Clan Ironworks]]
 
-
 Prerequisites:
 - Glaring Fleshraker and Krark-Clan Ironworks on the battlefield.
 - Myr Retriever and Workshop Assistant in hand or in your graveyard.
 - One of the artifact creatures must be in your hand while the other is in your graveyard
 - You have enough mana to cast the artifact card in your hand.
-
 
 Steps:
 1. Cast the artifact creature card in your hand by paying its mana cost.
@@ -3287,7 +3187,6 @@ Steps:
 7. If needed, activate the Eldrazi Spawn by sacrificing it, adding [[symbol:c]].
 8. Repeat.
 
-
 Results:
 - Infinite creature LTB
 - Infinite creature ETB
@@ -3297,11 +3196,14 @@ Results:
 - Infinite damage
 - Infinite storm count
 - Infinite creature tokens
+
 ===endpanel
 ===endaccordion
 
 ===accordion
-===panel: C090: Spine of Ish Sah + Sculpting Steel + Krark-Clan Ironworks + Glaring Fleshraker
+===panel: C088: Spine of Ish Sah + Sculpting Steel + Krark-Clan Ironworks + Glaring Fleshraker
+
+[[symbol:c]]
 
 Cards Required:
 - [[Spine of Ish Sah]]
@@ -3329,11 +3231,12 @@ Results:
 - Infinite artifact sacrifice triggers
 - Infinite creature tokens
 - Infinite storm count
+
 ===endpanel
 ===endaccordion
 
 ===accordion
-===panel: C091: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Grinding Station
+===panel: C089: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Grinding Station
 
 [[symbol:c]]
 
@@ -3347,7 +3250,7 @@ Prerequisites:
 - All permanents on the battlefield.
 - You control a Thopter.
 - There is at least one card in a graveyard.
-- The Ooze does not have summoning sickness.
+- The Ooze is an untapped noncreature artifact (so it does not have summoning sickness).
 
 Steps:
 1. Sacrifice a Thopter to Grinding Station.
@@ -3375,14 +3278,16 @@ Results:
 - Infinite creature LTB
 - Infinite creature sacrifice triggers
 - Infinite death triggers
+
+**Timing reminder:** Mutagen activation is sorcery-speed; execute the Mutagen portions of this loop during your main phase with an empty stack.
+
 ===endpanel
 ===endaccordion
 
 ===accordion
-===panel: C092: Imotekh the Stormlord + Junk Diver + Myr Retriever + Krark-Clan Ironworks
+===panel: C090: Imotekh the Stormlord + Junk Diver + Myr Retriever + Krark-Clan Ironworks
 
 [[symbol:b]]
-
 
 Cards Required:
 - [[Imotekh the Stormlord]]
@@ -3390,11 +3295,9 @@ Cards Required:
 - [[Myr Retriever]]
 - [[Krark-Clan Ironworks]]
 
-
 Prerequisites:
 - Junk Diver in your graveyard.
 - All other permanents on the battlefield.
-
 
 Steps:
 1. Activate Krark-Clan Ironworks by sacrificing Myr Retriever, adding [[symbol:c]][[symbol:c]].
@@ -3408,7 +3311,6 @@ Steps:
 9. Cast Myr Retriever by paying [[symbol:2]].
 10. Repeat.
 
-
 Results:
 - Infinite colorless mana
 - Infinite creature tokens
@@ -3417,14 +3319,14 @@ Results:
 - Infinite creature LTB
 - Infinite creature sacrifice triggers
 - Infinite storm count
+
 ===endpanel
 ===endaccordion
 
 ===accordion
-===panel: C093: Imotekh the Stormlord + Junk Diver + Workshop Assistant + Krark-Clan Ironworks
+===panel: C091: Imotekh the Stormlord + Junk Diver + Workshop Assistant + Krark-Clan Ironworks
 
 [[symbol:b]]
-
 
 Cards Required:
 - [[Imotekh the Stormlord]]
@@ -3432,11 +3334,9 @@ Cards Required:
 - [[Workshop Assistant]]
 - [[Krark-Clan Ironworks]]
 
-
 Prerequisites:
 - Junk Diver in your graveyard.
 - All other permanents on the battlefield.
-
 
 Steps:
 1. Activate Krark-Clan Ironworks by sacrificing Workshop Assistant, adding [[symbol:c]][[symbol:c]].
@@ -3450,7 +3350,6 @@ Steps:
 9. Cast Workshop Assistant by paying [[symbol:3]].
 10. Repeat.
 
-
 Results:
 - Infinite colorless mana
 - Infinite creature tokens
@@ -3459,14 +3358,14 @@ Results:
 - Infinite creature LTB
 - Infinite creature sacrifice triggers
 - Infinite storm count
+
 ===endpanel
 ===endaccordion
 
 ===accordion
-===panel: C094: Imotekh the Stormlord + Scrap Trawler + Myr Retriever + Krark-Clan Ironworks
+===panel: C092: Imotekh the Stormlord + Scrap Trawler + Myr Retriever + Krark-Clan Ironworks
 
 [[symbol:b]]
-
 
 Cards Required:
 - [[Imotekh the Stormlord]]
@@ -3474,11 +3373,9 @@ Cards Required:
 - [[Myr Retriever]]
 - [[Krark-Clan Ironworks]]
 
-
 Prerequisites:
 - Scrap Trawler in your graveyard.
 - All other permanents on the battlefield.
-
 
 Steps:
 1. Activate Krark-Clan Ironworks by sacrificing Myr Retriever, adding [[symbol:c]][[symbol:c]].
@@ -3492,7 +3389,6 @@ Steps:
 9. Cast Myr Retriever by paying [[symbol:2]].
 10. Repeat.
 
-
 Results:
 - Infinite colorless mana
 - Infinite creature tokens
@@ -3501,14 +3397,14 @@ Results:
 - Infinite creature LTB
 - Infinite creature sacrifice triggers
 - Infinite storm count
+
 ===endpanel
 ===endaccordion
 
 ===accordion
-===panel: C095: Imotekh the Stormlord + Myr Retriever + Workshop Assistant + Krark-Clan Ironworks
+===panel: C093: Imotekh the Stormlord + Myr Retriever + Workshop Assistant + Krark-Clan Ironworks
 
 [[symbol:b]]
-
 
 Cards Required:
 - [[Imotekh the Stormlord]]
@@ -3516,11 +3412,9 @@ Cards Required:
 - [[Workshop Assistant]]
 - [[Krark-Clan Ironworks]]
 
-
 Prerequisites:
 - Myr Retriever in your graveyard.
 - All other permanents on the battlefield.
-
 
 Steps:
 1. Activate Krark-Clan Ironworks by sacrificing Workshop Assistant, adding [[symbol:c]][[symbol:c]].
@@ -3534,7 +3428,6 @@ Steps:
 9. Cast Workshop Assistant by paying [[symbol:3]].
 10. Repeat.
 
-
 Results:
 - Infinite colorless mana
 - Infinite creature tokens
@@ -3543,11 +3436,14 @@ Results:
 - Infinite creature LTB
 - Infinite creature sacrifice triggers
 - Infinite storm count
+
 ===endpanel
 ===endaccordion
 
 ===accordion
-===panel: C096: Spine of Ish Sah + Imotekh the Stormlord + Krark-Clan Ironworks + Semblance Anvil
+===panel: C094: Spine of Ish Sah + Imotekh the Stormlord + Krark-Clan Ironworks + Semblance Anvil
+
+[[symbol:c]]
 
 Cards Required:
 - [[Spine of Ish Sah]]
@@ -3578,14 +3474,14 @@ Results:
 - Infinite creature sacrifice triggers
 - Infinite death triggers
 - Infinite colorless mana
+
 ===endpanel
 ===endaccordion
 
 ===accordion
-===panel: C097: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Semblance Anvil
+===panel: C095: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Semblance Anvil
 
 [[symbol:c]]
-
 
 Cards Required:
 - [[Scrap Trawler]]
@@ -3593,12 +3489,10 @@ Cards Required:
 - [[Krark-Clan Ironworks]]
 - [[Semblance Anvil]]
 
-
 Prerequisites:
 - Scrap Trawler in your graveyard.
 - All other permanents on the battlefield.
 - There is an artifact card exiled with Semblance Anvil.
-
 
 Steps:
 1. Activate Krark-Clan Ironworks by sacrificing Myr Retriever, adding [[symbol:c]][[symbol:c]].
@@ -3608,7 +3502,6 @@ Steps:
 5. When Scrap Trawler dies, it triggers, returning Myr Retriever from your graveyard to your hand.
 6. Cast Myr Retriever by paying its mana cost, which is reduced by Semblance Anvil.
 7. Repeat.
-
 
 Results:
 - Infinite artifact ETB
@@ -3620,11 +3513,12 @@ Results:
 - Infinite death triggers
 - Infinite creature sacrifice triggers
 - Infinite storm count
+
 ===endpanel
 ===endaccordion
 
 ===accordion
-===panel: C098: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Krark-Clan Ironworks
+===panel: C096: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Krark-Clan Ironworks
 
 [[symbol:c]]
 
@@ -3638,7 +3532,7 @@ Prerequisites:
 - All permanents on the battlefield.
 - You control a Thopter.
 - There is at least one card in a graveyard.
-- The Ooze does not have summoning sickness.
+- The Ooze is an untapped noncreature artifact (so it does not have summoning sickness).
 
 Steps:
 1. Sacrifice a Thopter to Krark-Clan Ironworks.
@@ -3665,11 +3559,16 @@ Results:
 - Infinite creature LTB
 - Infinite creature sacrifice triggers
 - Infinite death triggers
+
+**Timing reminder:** Mutagen activation is sorcery-speed; execute the Mutagen portions of this loop during your main phase with an empty stack.
+
 ===endpanel
 ===endaccordion
 
 ===accordion
-===panel: C099: Spine of Ish Sah + Sculpting Steel + Krark-Clan Ironworks + Semblance Anvil
+===panel: C097: Spine of Ish Sah + Sculpting Steel + Krark-Clan Ironworks + Semblance Anvil
+
+[[symbol:c]]
 
 Cards Required:
 - [[Spine of Ish Sah]]
@@ -3696,14 +3595,14 @@ Results:
 - Infinite artifact sacrifice triggers
 - Infinite storm count
 - Infinite colorless mana
+
 ===endpanel
 ===endaccordion
 
 ===accordion
-===panel: C100: Scrap Trawler + Myr Retriever + Phyrexian Altar + Semblance Anvil
+===panel: C098: Scrap Trawler + Myr Retriever + Phyrexian Altar + Semblance Anvil
 
 [[symbol:c]]
-
 
 Cards Required:
 - [[Scrap Trawler]]
@@ -3711,12 +3610,10 @@ Cards Required:
 - [[Phyrexian Altar]]
 - [[Semblance Anvil]]
 
-
 Prerequisites:
 - Scrap Trawler in your graveyard.
 - All other permanents on the battlefield.
 - There is an artifact or creature card exiled with Semblance Anvil.
-
 
 Steps:
 1. Activate Phyrexian Altar by sacrificing Myr Retriever, adding one mana of any color.
@@ -3726,7 +3623,6 @@ Steps:
 5. When Scrap Trawler dies, it triggers, returning Myr Retriever from your graveyard to your hand.
 6. Cast Myr Retriever by paying its mana cost, which is reduced by Semblance Anvil.
 7. Repeat.
-
 
 Results:
 - Infinite artifact ETB
@@ -3738,11 +3634,12 @@ Results:
 - Infinite creature sacrifice triggers
 - Infinite storm count
 - Infinite colored mana
+
 ===endpanel
 ===endaccordion
 
 ===accordion
-===panel: C101: Ultron the Annihilator + Nim Deathmantle + Phyrexian Altar + Pitiless Plunderer
+===panel: C099: Ultron the Annihilator + Nim Deathmantle + Phyrexian Altar + Pitiless Plunderer
 
 [[symbol:b]]
 
@@ -3779,11 +3676,12 @@ Results:
 - Infinite artifact sacrifice triggers
 - Infinite creature tokens
 - Infinite Treasure tokens
+
 ===endpanel
 ===endaccordion
 
 ===accordion
-===panel: C102: Out of the Tombs + Skullclamp + Pitiless Plunderer + Umbral Collar Zealot
+===panel: C100: Out of the Tombs + Skullclamp + Pitiless Plunderer + Umbral Collar Zealot
 
 [[symbol:b]]
 
@@ -3814,11 +3712,12 @@ Results:
 - Infinite creature sacrifice triggers
 - Infinite death triggers
 - Infinite Treasure creation
+
 ===endpanel
 ===endaccordion
 
 ===accordion
-===panel: C103: Out of the Tombs + Skullclamp + Warren Soultrader + Sephiroth, Fabled SOLDIER
+===panel: C101: Out of the Tombs + Skullclamp + Warren Soultrader + Sephiroth, Fabled SOLDIER
 
 [[symbol:b]]
 
@@ -3851,11 +3750,12 @@ Results:
 - Infinite creature LTB
 - Infinite creature sacrifice triggers
 - Infinite death triggers
+
 ===endpanel
 ===endaccordion
 
 ===accordion
-===panel: C104: Out of the Tombs + Skullclamp + Warren Soultrader + Zulaport Cutthroat
+===panel: C102: Out of the Tombs + Skullclamp + Warren Soultrader + Zulaport Cutthroat
 
 [[symbol:b]]
 
@@ -3888,11 +3788,12 @@ Results:
 - Infinite creature LTB
 - Infinite creature sacrifice triggers
 - Infinite death triggers
+
 ===endpanel
 ===endaccordion
 
 ===accordion
-===panel: C105: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Phyrexian Altar
+===panel: C103: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Phyrexian Altar
 
 [[symbol:b]]
 
@@ -3906,7 +3807,7 @@ Prerequisites:
 - All permanents on the battlefield.
 - You control a Thopter.
 - There is at least one card in a graveyard.
-- The Ooze does not have summoning sickness.
+- The Ooze is an untapped noncreature artifact (so it does not have summoning sickness).
 
 Steps:
 1. Sacrifice a Thopter to Phyrexian Altar.
@@ -3933,11 +3834,14 @@ Results:
 - Infinite creature LTB
 - Infinite creature sacrifice triggers
 - Infinite death triggers
+
+**Timing reminder:** Mutagen activation is sorcery-speed; execute the Mutagen portions of this loop during your main phase with an empty stack.
+
 ===endpanel
 ===endaccordion
 
 ===accordion
-===panel: C106: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Umbral Collar Zealot
+===panel: C104: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Umbral Collar Zealot
 
 [[symbol:b]]
 
@@ -3951,7 +3855,7 @@ Prerequisites:
 - All permanents on the battlefield.
 - You control a Thopter.
 - There is at least one card in a graveyard.
-- The Ooze does not have summoning sickness.
+- The Ooze is an untapped noncreature artifact (so it does not have summoning sickness).
 
 Steps:
 1. Sacrifice a Thopter to Umbral Collar Zealot.
@@ -3978,11 +3882,14 @@ Results:
 - Infinite creature LTB
 - Infinite creature sacrifice triggers
 - Infinite death triggers
+
+**Timing reminder:** Mutagen activation is sorcery-speed; execute the Mutagen portions of this loop during your main phase with an empty stack.
+
 ===endpanel
 ===endaccordion
 
 ===accordion
-===panel: C107: Out of the Tombs + Skullclamp + Pitiless Plunderer + Blasting Station + Stitcher's Supplier
+===panel: C105: Out of the Tombs + Skullclamp + Pitiless Plunderer + Blasting Station + Stitcher's Supplier
 
 [[symbol:b]]
 
@@ -4018,14 +3925,14 @@ Results:
 - Infinite creature sacrifice triggers
 - Infinite death triggers
 - Infinite Treasure creation
+
 ===endpanel
 ===endaccordion
 
 ===accordion
-===panel: C108: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Sol Ring + Junk Diver
+===panel: C106: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Sol Ring + Junk Diver
 
 [[symbol:c]]
-
 
 Cards Required:
 - [[Scrap Trawler]]
@@ -4034,39 +3941,487 @@ Cards Required:
 - [[Sol Ring]]
 - [[Junk Diver]]
 
-
 Prerequisites:
-- Sol Ring and Junk Diver in your graveyard.
-- All other permanents on the battlefield.
-
+- Scrap Trawler, Myr Retriever, and Krark-Clan Ironworks are on the battlefield.
+- Sol Ring and Junk Diver are in your graveyard.
+- No effect prevents casting artifacts or returning artifact cards from the graveyard to hand.
+- The starting two colorless mana from sacrificing Myr Retriever can pay for the first Sol Ring.
 
 Steps:
-1. Activate Krark-Clan Ironworks by sacrificing Myr Retriever, adding [[symbol:c]][[symbol:c]].
-2. Myr Retriever dies, triggering itself and Scrap Trawler.
-3. Resolve the Myr Retriever trigger, returning Junk Diver from your graveyard to your hand.
-4. Resolve the Scrap Trawler trigger, returning Sol Ring from your hand to your graveyard.
-5. Cast Sol Ring by paying [[symbol:1]].
-6. Activate Sol Ring by tapping it, adding [[symbol:c]][[symbol:c]].
-7. Activate Krark-Clan Ironworks by sacrificing Sol Ring, adding [[symbol:c]][[symbol:c]].
-8. Scrap Trawler triggers, choose not to return an artifact to your hand.
-9. Cast Junk Diver by paying [[symbol:3]].
-10. Activate Krark-Clan Ironworks by sacrificing Junk Diver, adding [[symbol:c]][[symbol:c]].
-11. Junk Diver dies, triggering itself and Scrap Trawler.
-12. Resolve the Junk Diver trigger, returning Myr Retriever from your graveyard to your hand.
-13. Resolve the Scrap Trawler trigger, returning Sol Ring from your graveyard to your hand.
-14. Repeat steps 5-8 one additional time.
-15. Cast Myr Retriever by paying [[symbol:2]].
-16. Repeat from step 1.
-
+1. Sacrifice Myr Retriever to Krark-Clan Ironworks, adding [[symbol:c]][[symbol:c]]. Myr Retriever and Scrap Trawler trigger.
+2. Return Junk Diver from your graveyard to your hand with Myr Retriever's trigger. Return Sol Ring (mana value 1) from your graveyard to your hand with Scrap Trawler's trigger (Myr Retriever has mana value 2).
+3. Cast Sol Ring for [[symbol:1]], tap it for [[symbol:c]][[symbol:c]], then sacrifice it to Krark-Clan Ironworks for [[symbol:c]][[symbol:c]]. Ignore the Scrap Trawler trigger from Sol Ring unless you have a suitable mana-value-0 artifact target.
+4. Cast Junk Diver for [[symbol:3]] and sacrifice it to Krark-Clan Ironworks for [[symbol:c]][[symbol:c]]. Its death triggers Junk Diver and Scrap Trawler.
+5. Return Myr Retriever from your graveyard to your hand with Junk Diver's trigger. Return Sol Ring from your graveyard to your hand with Scrap Trawler's trigger (Junk Diver has mana value 3).
+6. Cast Sol Ring for [[symbol:1]], tap it for [[symbol:c]][[symbol:c]], then sacrifice it to Krark-Clan Ironworks for [[symbol:c]][[symbol:c]]. Ignore the optional Scrap Trawler target.
+7. Cast Myr Retriever for [[symbol:2]]. You are back at the starting battlefield/graveyard configuration: Scrap Trawler, Myr Retriever, and KCI on the battlefield, with Sol Ring and Junk Diver in the graveyard.
+8. Repeat from step 1. Every full iteration generates 12 colorless mana and spends 7, netting 5 colorless mana, while repeatedly casting and sacrificing artifacts.
 
 Results:
-- Infinite blinking of some artifacts
-- Infinite colorless mana
+- Arbitrarily large colorless mana (net [[symbol:5]] per iteration).
+- Repeated artifact and creature ETBs, deaths, sacrifices, and LTB triggers.
+- Arbitrarily high storm count from recasting Sol Ring, Junk Diver, and Myr Retriever.
+- Repeated Ultron artifact-death triggers if Ultron is on the battlefield.
+
+Rules correction: Scrap Trawler returns an eligible artifact **from graveyard to hand**. The original step claiming it moved Sol Ring from hand to graveyard was illegal. The corrected sequence above never makes that move.
+
+===endpanel
+===endaccordion
+
+===accordion
+===panel: C107: Animation Module + Pitiless Plunderer + Carrion Feeder
+
+[[symbol:b]]
+
+Cards Required:
+- [[Animation Module]]
+- [[Pitiless Plunderer]]
+- [[Carrion Feeder]]
+
+Prerequisites:
+- All permanents on the battlefield.
+- You control an additional creature.
+
+Steps:
+1. Activate Carrion Feeder by sacrificing another creature.
+2. When the creature dies, Pitiless Plunderer triggers, creating a Treasure token.
+3. Activate the Treasure by tapping and sacrificing it, adding [[symbol:1]].
+4. Resolve the Carrion Feeder ability, putting a +1/+1 counter on it.
+5. Animation Module triggers, causing you to pay [[symbol:1]] to create a 1/1 Servo artifact creature token.
+6. Repeat.
+
+Results:
+- Infinite artifact ETB
+- Infinite artifact LTB
+- Infinite artifact sacrifice triggers
+- Infinite +1/+1 counters on a creature
 - Infinite death triggers
 - Infinite creature ETB
 - Infinite creature LTB
 - Infinite creature sacrifice triggers
-- Infinite storm count
+
+Source: Commander Spellbook export, entry #38.
+
+===endpanel
+===endaccordion
+
+===accordion
+===panel: C108: Animation Module + Ashnod's Altar + Super Shredder
+
+[[symbol:b]]
+
+Cards Required:
+- [[Animation Module]]
+- [[Ashnod's Altar]]
+- [[Super Shredder]]
+
+Prerequisites:
+- All permanents on the battlefield.
+- You control an additional creature.
+
+Steps:
+1. Activate Ashnod's Altar by sacrificing any other creature you control, adding [[symbol:c]][[symbol:c]].
+2. Super Shredder triggers, putting a +1/+1 counter on it.
+3. Animation Module triggers, causing you to pay [[symbol:1]] to create a 1/1 Servo artifact creature token.
+4. Repeat.
+
+Results:
+- Infinite artifact tokens
+- Infinite creature LTB
+- Infinite creature ETB
+- Infinite creature sacrifice triggers
+- Infinite death triggers
+- Infinite colorless mana
+- Infinite creature tokens
+- Infinite +1/+1 counters on a creature
+
+Source: Commander Spellbook export, entry #63.
+
+===endpanel
+===endaccordion
+
+===accordion
+===panel: C109: Animation Module + Phyrexian Altar + Super Shredder
+
+[[symbol:b]]
+
+Cards Required:
+- [[Animation Module]]
+- [[Phyrexian Altar]]
+- [[Super Shredder]]
+
+Prerequisites:
+- All permanents on the battlefield.
+- You control an additional creature.
+
+Steps:
+1. Activate Phyrexian Altar by sacrificing any other creature you control, adding [[symbol:1]].
+2. Super Shredder triggers, putting a +1/+1 counter on it.
+3. Animation Module triggers, causing you to pay [[symbol:1]] to create a 1/1 Servo artifact creature token.
+4. Repeat.
+
+Results:
+- Infinite creature LTB
+- Infinite creature ETB
+- Infinite creature sacrifice triggers
+- Infinite death triggers
+- Infinite +1/+1 counters on a creature
+
+Source: Commander Spellbook export, entry #67.
+
+===endpanel
+===endaccordion
+
+===accordion
+===panel: C110: Animation Module + Pitiless Plunderer + Arcbound Ravager
+
+[[symbol:b]]
+
+Cards Required:
+- [[Animation Module]]
+- [[Pitiless Plunderer]]
+- [[Arcbound Ravager]]
+
+Prerequisites:
+- All permanents on the battlefield.
+- You control an additional artifact creature (Arcbound Ravager can only sacrifice artifacts).
+
+Steps:
+1. Activate Arcbound Ravager by sacrificing another **artifact creature**.
+2. When the creature dies, Pitiless Plunderer triggers, creating a Treasure token.
+3. Activate the Treasure by tapping and sacrificing it, adding [[symbol:1]].
+4. Resolve the Arcbound Ravager ability, putting a +1/+1 counter on it.
+5. Animation Module triggers, causing you to pay [[symbol:1]] to create a 1/1 Servo artifact creature token.
+6. Repeat.
+
+Results:
+- Infinite artifact ETB
+- Infinite artifact LTB
+- Infinite artifact sacrifice triggers
+- Infinite +1/+1 counters on a creature
+- Infinite death triggers
+- Infinite creature ETB
+- Infinite creature LTB
+- Infinite creature sacrifice triggers
+
+Source: Commander Spellbook export, entry #72.
+
+===endpanel
+===endaccordion
+
+===accordion
+===panel: C111: Animation Module + Krark-Clan Ironworks + Super Shredder
+
+[[symbol:b]]
+
+Cards Required:
+- [[Animation Module]]
+- [[Krark-Clan Ironworks]]
+- [[Super Shredder]]
+
+Prerequisites:
+- All permanents on the battlefield.
+- You control an additional artifact creature (Krark-Clan Ironworks can only sacrifice artifacts).
+
+Steps:
+1. Activate Krark-Clan Ironworks by sacrificing another **artifact creature** you control, adding [[symbol:c]][[symbol:c]].
+2. Super Shredder triggers, putting a +1/+1 counter on it.
+3. Animation Module triggers, causing you to pay [[symbol:1]] to create a 1/1 Servo artifact creature token.
+4. Repeat.
+
+Results:
+- Infinite artifact tokens
+- Infinite creature LTB
+- Infinite creature ETB
+- Infinite creature sacrifice triggers
+- Infinite death triggers
+- Infinite colorless mana
+- Infinite creature tokens
+- Infinite +1/+1 counters on a creature
+
+Source: Commander Spellbook export, entry #76.
+
+===endpanel
+===endaccordion
+
+===accordion
+===panel: C112: Yawgmoth, Thran Physician + Out of the Tombs + Zulaport Cutthroat
+
+[[symbol:b]]
+
+Cards Required:
+- [[Yawgmoth, Thran Physician]]
+- [[Out of the Tombs]]
+- [[Zulaport Cutthroat]]
+
+Prerequisites:
+- All three named permanents on the battlefield.
+- Your library is empty.
+- You control **another nontoken creature** that can be sacrificed and returned from the graveyard.
+- Your life total is at least 2.
+- No effect prevents creature cards from entering your graveyard or returning to the battlefield.
+
+Steps:
+1. Pay 1 life and sacrifice the additional nontoken creature to activate Yawgmoth, choosing no target for the -1/-1 counter.
+2. Zulaport Cutthroat triggers, causing each opponent to lose 1 life and you to gain 1 life.
+3. Resolve Yawgmoth's ability. Because the library is empty, Out of the Tombs replaces the draw with returning the sacrificed creature card from your graveyard to the battlefield.
+4. Repeat, recovering the 1 life paid each time.
+
+Results:
+- Arbitrarily many creature deaths, sacrifices, and ETBs.
+- Arbitrarily much life loss for each opponent and lifegain for you.
+- If the recycled creature is an artifact creature, repeated Ultron artifact-death triggers while Ultron is on the battlefield.
+
+Source: Independently derived from card Oracle text; **not in the supplied 77-entry Commander Spellbook export**. This is a conditional engine that requires the extra recyclable nontoken creature and an empty library.
+
+===endpanel
+===endaccordion
+
+===accordion
+===panel: C113: Yawgmoth, Thran Physician + Out of the Tombs + Sephiroth, Fabled SOLDIER
+
+[[symbol:b]]
+
+Cards Required:
+- [[Yawgmoth, Thran Physician]]
+- [[Out of the Tombs]]
+- [[Sephiroth, Fabled SOLDIER // Sephiroth, One-Winged Angel]]
+
+Prerequisites:
+- All three named permanents on the battlefield, with Sephiroth on its front face initially (or an existing Sephiroth emblem that provides the death trigger).
+- Your library is empty.
+- You control **another nontoken creature** that can be sacrificed and returned from the graveyard.
+- Your life total is at least 2.
+- No effect prevents creature cards from entering your graveyard or returning to the battlefield.
+
+Steps:
+1. Pay 1 life and sacrifice the additional nontoken creature to activate Yawgmoth, choosing no target.
+2. Sephiroth's death trigger causes a target opponent to lose 1 life and you to gain 1 life.
+3. Resolve Yawgmoth's ability; Out of the Tombs replaces the empty-library draw with returning the sacrificed creature card from your graveyard to the battlefield.
+4. Repeat. On the fourth resolution of Sephiroth's death-triggered ability in a turn, Sephiroth transforms and grants the Super Nova emblem. The emblem continues to drain and gain life for subsequent creature deaths.
+
+Results:
+- Arbitrarily many creature deaths, sacrifices, and ETBs.
+- Arbitrarily much life loss to opponents (one target per trigger), and lifegain for you.
+- If the recycled creature is an artifact creature, repeated Ultron artifact-death triggers while Ultron is on the battlefield.
+
+Source: Independently derived from card Oracle text; **not in the supplied 77-entry Commander Spellbook export**. Sephiroth's trigger is **not once per turn**; it transforms after its fourth resolution, then its emblem supplies the ongoing trigger.
+
+===endpanel
+===endaccordion
+
+===accordion
+===panel: C114: The Ooze + Animation Module + Ashnod's Altar
+
+[[symbol:c]]
+
+Cards Required:
+- [[The Ooze]]
+- [[Animation Module]]
+- [[Ashnod's Altar]]
+
+Prerequisites:
+- All three permanents on the battlefield.
+- You control an additional creature (to use as a starter).
+- At least one targetable card in a graveyard for The Ooze's {T} ability.
+- [[symbol:2]] mana initially available for the first Mutagen and Animation Module activations.
+- Your main phase, with an empty stack when activating Mutagen.
+
+Steps:
+1. Tap The Ooze to exile a graveyard card and create a Mutagen token. The Ooze is not a creature and does not have summoning sickness.
+2. Spend [[symbol:1]], tap and sacrifice the Mutagen to put a +1/+1 counter on the starter creature. Animation Module triggers; pay [[symbol:1]] to create a Servo artifact creature token.
+3. Sacrifice the countered starter creature to Ashnod's Altar for [[symbol:c]][[symbol:c]]. The Ooze creates a replacement Mutagen token.
+4. Spend [[symbol:1]], tap and sacrifice the Mutagen to put a +1/+1 counter on the Servo. Animation Module triggers; spend [[symbol:1]] to create a replacement Servo.
+5. Sacrifice the countered Servo to Ashnod's Altar for [[symbol:c]][[symbol:c]]. The Ooze creates another Mutagen. Repeat from step 4.
+
+Results:
+- Repeatable creature and artifact-token ETBs, deaths and sacrifices.
+- Arbitrarily many +1/+1 counter placements and Animation Module triggers.
+- Mana-neutral each sustained Servo cycle (2 produced, 2 spent); **not** infinite net mana.
+- With Ultron on the battlefield, repeated artifact deaths cause lethal life loss to each opponent.
+
+**Source/status:** New rules-derived conditional configuration; not present in the supplied Commander Spellbook export. Mutagen can only be activated as a sorcery.
+
+===endpanel
+===endaccordion
+
+===accordion
+===panel: C115: The Ooze + Animation Module + Krark-Clan Ironworks
+
+[[symbol:c]]
+
+Cards Required:
+- [[The Ooze]]
+- [[Animation Module]]
+- [[Krark-Clan Ironworks]]
+
+Prerequisites:
+- All three permanents on the battlefield.
+- You control an extra **artifact creature** to start the loop.
+- At least one graveyard card for The Ooze to exile, and [[symbol:2]] initial mana for Mutagen and Animation Module.
+- Your main phase with an empty stack to activate Mutagen.
+
+Steps:
+1. Tap The Ooze, exile a graveyard card and create a Mutagen.
+2. Spend [[symbol:1]], tap and sacrifice Mutagen to put a +1/+1 counter on your starter artifact creature. Animation Module triggers; pay [[symbol:1]] to create a Servo.
+3. Sacrifice the countered starter artifact creature to KCI for [[symbol:c]][[symbol:c]]; The Ooze makes a Mutagen.
+4. Pay [[symbol:1]] and sacrifice the Mutagen to put a counter on the Servo; pay [[symbol:1]] to Animation Module to make another Servo.
+5. Sacrifice the countered Servo to KCI for [[symbol:c]][[symbol:c]], creating another Mutagen. Repeat steps 4–5.
+
+Results:
+- Repeated artifact creature deaths, ETBs and graveyard triggers.
+- Mana-neutral sustained cycles (2 colorless generated and 2 spent), not infinite net mana.
+- Lethal Ultron life loss with the commander present.
+
+**Source/status:** New rules-derived conditional configuration, separate outlet variant of C114; not in supplied Spellbook export.
+
+===endpanel
+===endaccordion
+
+===accordion
+===panel: C116: Super Shredder + Animation Module + Pitiless Plunderer + Altar of Dementia
+
+[[symbol:b]]
+
+Cards Required:
+- [[Super Shredder]]
+- [[Animation Module]]
+- [[Pitiless Plunderer]]
+- [[Altar of Dementia]]
+
+Prerequisites:
+- All four permanents on the battlefield and one other creature you control available to sacrifice.
+
+Steps:
+1. Sacrifice the extra creature to Altar of Dementia.
+2. Pitiless Plunderer makes a Treasure and Super Shredder gets a +1/+1 counter.
+3. Super Shredder's counter triggers Animation Module. Sacrifice the Treasure for [[symbol:1]] and pay to make a Servo.
+4. Sacrifice the Servo to Altar of Dementia; make another Treasure, put another counter on Shredder, and create another Servo. Repeat.
+
+Results:
+- Arbitrarily many artifact creature deaths, Servo ETBs, counters and sacrifice triggers.
+- Arbitrarily much mill via Altar of Dementia (until libraries empty); Ultron drains on Servo deaths if present.
+
+**Source/status:** New rules-derived four-card variation of the Shredder/Module/Plunderer engine; not in supplied Spellbook export.
+
+===endpanel
+===endaccordion
+
+===accordion
+===panel: C117: Super Shredder + Animation Module + Pitiless Plunderer + Blasting Station
+
+[[symbol:b]]
+
+Cards Required:
+- [[Super Shredder]]
+- [[Animation Module]]
+- [[Pitiless Plunderer]]
+- [[Blasting Station]]
+
+Prerequisites:
+- All four permanents on battlefield, Blasting Station untapped, and one additional creature to sacrifice.
+
+Steps:
+1. Tap Blasting Station and sacrifice the extra creature to deal 1 damage to any target.
+2. Pitiless Plunderer creates a Treasure and Super Shredder gets a +1/+1 counter.
+3. Sacrifice the Treasure for [[symbol:1]]; pay for Animation Module to create a Servo.
+4. The Servo entering untaps Blasting Station. Tap it to sacrifice the Servo, dealing 1 damage; repeat from step 2.
+
+Results:
+- Arbitrarily much direct damage, artifact deaths, Servo ETBs, and Shredder counters; lethal without Ultron.
+
+**Source/status:** New rules-derived four-card variation, not listed in supplied Spellbook export.
+
+===endpanel
+===endaccordion
+
+===accordion
+===panel: C118: Super Shredder + Animation Module + Pitiless Plunderer + Grinding Station
+
+[[symbol:b]]
+
+Cards Required:
+- [[Super Shredder]]
+- [[Animation Module]]
+- [[Pitiless Plunderer]]
+- [[Grinding Station]]
+
+Prerequisites:
+- All four permanents on battlefield, Grinding Station untapped, and another artifact creature to sacrifice initially.
+
+Steps:
+1. Tap Grinding Station and sacrifice the starter artifact creature to mill three cards from target player's library.
+2. Pitiless Plunderer creates a Treasure and Super Shredder gets a +1/+1 counter.
+3. Sacrifice the Treasure for [[symbol:1]]; pay Animation Module to create a Servo.
+4. The Servo enters, untapping Grinding Station. Repeat the cycle by sacrificing the Servo to Grinding Station.
+
+Results:
+- Repeated artifact-creature sacrifices and artifact ETBs; mill chosen libraries until empty; Ultron drains on Servo deaths if present.
+
+**Source/status:** New rules-derived four-card variation, not in supplied Spellbook export.
+
+===endpanel
+===endaccordion
+
+===accordion
+===panel: C119: Super Shredder + Animation Module + Pitiless Plunderer + Umbral Collar Zealot
+
+[[symbol:b]]
+
+Cards Required:
+- [[Super Shredder]]
+- [[Animation Module]]
+- [[Pitiless Plunderer]]
+- [[Umbral Collar Zealot]]
+
+Prerequisites:
+- All four permanents on battlefield and one additional creature to sacrifice.
+
+Steps:
+1. Sacrifice the extra creature to Umbral Collar Zealot; surveil 1.
+2. Pitiless Plunderer creates a Treasure and Super Shredder receives a +1/+1 counter.
+3. Sacrifice the Treasure for [[symbol:1]], and pay for Animation Module to make a Servo.
+4. Sacrifice the Servo to Zealot and repeat.
+
+Results:
+- Arbitrarily many artifact deaths, Servo ETBs, +1/+1 counters and surveil triggers; Ultron drains with commander present.
+- Surveil events are bounded by library size; once empty, you can continue sacrificing tokens and putting counters on Shredder.
+
+**Source/status:** New rules-derived four-card variation, not in supplied Spellbook export.
+
+===endpanel
+===endaccordion
+
+===accordion
+===panel: C120: The Ooze + Animation Module + Pitiless Plunderer + Phyrexian Altar
+
+[[symbol:b]]
+
+Cards Required:
+- [[The Ooze]]
+- [[Animation Module]]
+- [[Pitiless Plunderer]]
+- [[Phyrexian Altar]]
+
+Prerequisites:
+- All four permanents on battlefield.
+- An extra creature to start, a targetable graveyard card, and [[symbol:2]] seed mana.
+- Perform Mutagen activations as a sorcery.
+
+Steps:
+1. Tap The Ooze to exile a graveyard card and create a Mutagen.
+2. Pay [[symbol:1]], tap and sacrifice Mutagen to put a +1/+1 counter on the starter creature; pay [[symbol:1]] to Animation Module to make a Servo.
+3. Sacrifice the countered starter creature to Phyrexian Altar for one mana. The Ooze creates a Mutagen and Pitiless Plunderer creates a Treasure.
+4. Spend [[symbol:1]] from the Altar and [[symbol:1]] from the Treasure to activate the Mutagen on the Servo and pay the Animation Module trigger, making another Servo.
+5. Sacrifice the countered Servo to Phyrexian Altar. The Ooze replaces the Mutagen and Plunderer replaces the Treasure; repeat from step 4.
+
+Results:
+- Mana-neutral recurring artifact creature deaths, Servos and counters, plus Treasure creation and sacrifice.
+- Each Servo death triggers Ultron if on battlefield.
+- Net mana is zero per iteration: Phyrexian Altar yields 1 and the Treasure yields 1; the Mutagen and Module each cost 1.
+
+**Source/status:** Rules-derived conditional configuration not in the supplied Spellbook export. Not redundant with C114/C115 because this version requires Pitiless Plunderer to supply the second mana.
+
 ===endpanel
 ===endaccordion
 
@@ -4076,675 +4431,810 @@ Results:
 ===accordion
 ===panel: Card Index
 
-Each card below lists the canonical core IDs in which it appears.
+Each card below lists the renumbered active configurations in which it appears.
 
 ===accordion
 ===panel: Aetherflux Reservoir
 
-- C004: Sensei's Divining Top + Aetherflux Reservoir + Bolas's Citadel
-- C005: Warren Soultrader + Aetherflux Reservoir + Gravecrawler
-- C052: Metalwork Colossus + Warren Soultrader + Pitiless Plunderer + Aetherflux Reservoir
-- C053: Metalwork Colossus + Warren Soultrader + Aetherflux Reservoir + Stridehangar Automaton
+- C002: Sensei's Divining Top + Aetherflux Reservoir + Bolas's Citadel
+- C003: Warren Soultrader + Aetherflux Reservoir + Gravecrawler
+- C050: Metalwork Colossus + Warren Soultrader + Pitiless Plunderer + Aetherflux Reservoir
+- C051: Metalwork Colossus + Warren Soultrader + Aetherflux Reservoir + Stridehangar Automaton
 ===endpanel
 ===endaccordion
 
 ===accordion
 ===panel: Altar of Dementia
 
-- C006: Gravecrawler + Pitiless Plunderer + Altar of Dementia
-- C007: The Ghoul, Gunslinger + Gravecrawler + Altar of Dementia
-- C008: Pitiless Plunderer + Altar of Dementia + Stridehangar Automaton
-- C054: Tortured Existence + Pitiless Plunderer + Imotekh the Stormlord + Altar of Dementia
-- C055: Out of the Tombs + Skullclamp + Pitiless Plunderer + Altar of Dementia
-- C056: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Altar of Dementia
+- C004: Gravecrawler + Pitiless Plunderer + Altar of Dementia
+- C005: The Ghoul, Gunslinger + Gravecrawler + Altar of Dementia
+- C006: Pitiless Plunderer + Altar of Dementia + Stridehangar Automaton
+- C052: Tortured Existence + Pitiless Plunderer + Imotekh the Stormlord + Altar of Dementia
+- C053: Out of the Tombs + Skullclamp + Pitiless Plunderer + Altar of Dementia
+- C054: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Altar of Dementia
+- C116: Super Shredder + Animation Module + Pitiless Plunderer + Altar of Dementia
 ===endpanel
 ===endaccordion
 
 ===accordion
 ===panel: Altar of the Brood
 
-- C057: The Ooze + Clock of Omens + Stridehangar Automaton + Altar of the Brood
+- C055: The Ooze + Clock of Omens + Stridehangar Automaton + Altar of the Brood
+===endpanel
+===endaccordion
+
+===accordion
+===panel: Animation Module
+
+- C107: Animation Module + Pitiless Plunderer + Carrion Feeder
+- C108: Animation Module + Ashnod's Altar + Super Shredder
+- C109: Animation Module + Phyrexian Altar + Super Shredder
+- C110: Animation Module + Pitiless Plunderer + Arcbound Ravager
+- C111: Animation Module + Krark-Clan Ironworks + Super Shredder
+- C114: The Ooze + Animation Module + Ashnod's Altar
+- C115: The Ooze + Animation Module + Krark-Clan Ironworks
+- C116: Super Shredder + Animation Module + Pitiless Plunderer + Altar of Dementia
+- C117: Super Shredder + Animation Module + Pitiless Plunderer + Blasting Station
+- C118: Super Shredder + Animation Module + Pitiless Plunderer + Grinding Station
+- C119: Super Shredder + Animation Module + Pitiless Plunderer + Umbral Collar Zealot
+- C120: The Ooze + Animation Module + Pitiless Plunderer + Phyrexian Altar
 ===endpanel
 ===endaccordion
 
 ===accordion
 ===panel: Arcbound Ravager
 
-- C009: Pitiless Plunderer + Stridehangar Automaton + Arcbound Ravager
-- C058: Out of the Tombs + Skullclamp + Pitiless Plunderer + Arcbound Ravager
-- C059: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Arcbound Ravager
+- C007: Pitiless Plunderer + Stridehangar Automaton + Arcbound Ravager
+- C056: Out of the Tombs + Skullclamp + Pitiless Plunderer + Arcbound Ravager
+- C057: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Arcbound Ravager
+- C110: Animation Module + Pitiless Plunderer + Arcbound Ravager
 ===endpanel
 ===endaccordion
 
 ===accordion
 ===panel: Ashnod's Altar
 
-- C001: Nim Deathmantle + Ashnod's Altar
-- C010: Dross Scorpion + Retrofitter Foundry + Ashnod's Altar
-- C011: Gravecrawler + Pitiless Plunderer + Ashnod's Altar
-- C012: The Ghoul, Gunslinger + Gravecrawler + Ashnod's Altar
-- C013: Imotekh the Stormlord + Nim Deathmantle + Ashnod's Altar
-- C014: Nim Deathmantle + Ashnod's Altar + Marionette Apprentice
-- C015: Nim Deathmantle + Ashnod's Altar + Orcish Bowmasters
-- C016: Ultron the Annihilator + Nim Deathmantle + Ashnod's Altar
-- C017: Out of the Tombs + Skullclamp + Ashnod's Altar
-- C018: Pitiless Plunderer + Ashnod's Altar + Stridehangar Automaton
-- C019: The Ooze + Stridehangar Automaton + Ashnod's Altar
-- C060: Scrap Trawler + Myr Retriever + Ashnod's Altar + Cloud Key
-- C061: Scrap Trawler + Myr Retriever + Ashnod's Altar + Foundry Inspector
-- C062: Glaring Fleshraker + Ashnod's Altar + Myr Retriever + Junk Diver
-- C063: Glaring Fleshraker + Ashnod's Altar + Junk Diver + Workshop Assistant
-- C064: Glaring Fleshraker + Ashnod's Altar + Myr Retriever + Scrap Trawler
-- C065: Glaring Fleshraker + Ashnod's Altar + Myr Retriever + Workshop Assistant
-- C066: Glaring Fleshraker + Ashnod's Altar + Scrap Trawler + Workshop Assistant
-- C067: Imotekh the Stormlord + Junk Diver + Myr Retriever + Ashnod's Altar
-- C068: Imotekh the Stormlord + Junk Diver + Workshop Assistant + Ashnod's Altar
-- C069: Imotekh the Stormlord + Scrap Trawler + Myr Retriever + Ashnod's Altar
-- C070: Imotekh the Stormlord + Myr Retriever + Workshop Assistant + Ashnod's Altar
-- C071: Scrap Trawler + Myr Retriever + Ashnod's Altar + Semblance Anvil
-- C072: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Ashnod's Altar
+- C008: Dross Scorpion + Retrofitter Foundry + Ashnod's Altar
+- C009: Gravecrawler + Pitiless Plunderer + Ashnod's Altar
+- C010: The Ghoul, Gunslinger + Gravecrawler + Ashnod's Altar
+- C011: Imotekh the Stormlord + Nim Deathmantle + Ashnod's Altar
+- C012: Nim Deathmantle + Ashnod's Altar + Marionette Apprentice
+- C013: Nim Deathmantle + Ashnod's Altar + Orcish Bowmasters
+- C014: Ultron the Annihilator + Nim Deathmantle + Ashnod's Altar
+- C015: Out of the Tombs + Skullclamp + Ashnod's Altar
+- C016: Pitiless Plunderer + Ashnod's Altar + Stridehangar Automaton
+- C017: The Ooze + Stridehangar Automaton + Ashnod's Altar
+- C058: Scrap Trawler + Myr Retriever + Ashnod's Altar + Cloud Key
+- C059: Scrap Trawler + Myr Retriever + Ashnod's Altar + Foundry Inspector
+- C060: Glaring Fleshraker + Ashnod's Altar + Myr Retriever + Junk Diver
+- C061: Glaring Fleshraker + Ashnod's Altar + Junk Diver + Workshop Assistant
+- C062: Glaring Fleshraker + Ashnod's Altar + Myr Retriever + Scrap Trawler
+- C063: Glaring Fleshraker + Ashnod's Altar + Myr Retriever + Workshop Assistant
+- C064: Glaring Fleshraker + Ashnod's Altar + Scrap Trawler + Workshop Assistant
+- C065: Imotekh the Stormlord + Junk Diver + Myr Retriever + Ashnod's Altar
+- C066: Imotekh the Stormlord + Junk Diver + Workshop Assistant + Ashnod's Altar
+- C067: Imotekh the Stormlord + Scrap Trawler + Myr Retriever + Ashnod's Altar
+- C068: Imotekh the Stormlord + Myr Retriever + Workshop Assistant + Ashnod's Altar
+- C069: Scrap Trawler + Myr Retriever + Ashnod's Altar + Semblance Anvil
+- C070: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Ashnod's Altar
+- C108: Animation Module + Ashnod's Altar + Super Shredder
+- C114: The Ooze + Animation Module + Ashnod's Altar
 ===endpanel
 ===endaccordion
 
 ===accordion
 ===panel: Blasting Station
 
-- C020: Gravecrawler + Pitiless Plunderer + Blasting Station
-- C021: The Ghoul, Gunslinger + Gravecrawler + Blasting Station
-- C022: Pitiless Plunderer + Blasting Station + Stridehangar Automaton
-- C073: Tortured Existence + Pitiless Plunderer + Imotekh the Stormlord + Blasting Station
-- C074: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Blasting Station
-- C107: Out of the Tombs + Skullclamp + Pitiless Plunderer + Blasting Station + Stitcher's Supplier
+- C018: Gravecrawler + Pitiless Plunderer + Blasting Station
+- C019: The Ghoul, Gunslinger + Gravecrawler + Blasting Station
+- C020: Pitiless Plunderer + Blasting Station + Stridehangar Automaton
+- C071: Tortured Existence + Pitiless Plunderer + Imotekh the Stormlord + Blasting Station
+- C072: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Blasting Station
+- C105: Out of the Tombs + Skullclamp + Pitiless Plunderer + Blasting Station + Stitcher's Supplier
+- C117: Super Shredder + Animation Module + Pitiless Plunderer + Blasting Station
 ===endpanel
 ===endaccordion
 
 ===accordion
 ===panel: Bolas's Citadel
 
-- C004: Sensei's Divining Top + Aetherflux Reservoir + Bolas's Citadel
+- C002: Sensei's Divining Top + Aetherflux Reservoir + Bolas's Citadel
 ===endpanel
 ===endaccordion
 
 ===accordion
 ===panel: Carrion Feeder
 
-- C023: Gravecrawler + Pitiless Plunderer + Carrion Feeder
-- C024: The Ghoul, Gunslinger + Gravecrawler + Carrion Feeder
-- C025: Pitiless Plunderer + Stridehangar Automaton + Carrion Feeder
-- C075: Tortured Existence + Pitiless Plunderer + Imotekh the Stormlord + Carrion Feeder
-- C076: Out of the Tombs + Skullclamp + Pitiless Plunderer + Carrion Feeder
-- C077: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Carrion Feeder
+- C021: Gravecrawler + Pitiless Plunderer + Carrion Feeder
+- C022: The Ghoul, Gunslinger + Gravecrawler + Carrion Feeder
+- C023: Pitiless Plunderer + Stridehangar Automaton + Carrion Feeder
+- C073: Tortured Existence + Pitiless Plunderer + Imotekh the Stormlord + Carrion Feeder
+- C074: Out of the Tombs + Skullclamp + Pitiless Plunderer + Carrion Feeder
+- C075: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Carrion Feeder
+- C107: Animation Module + Pitiless Plunderer + Carrion Feeder
 ===endpanel
 ===endaccordion
 
 ===accordion
 ===panel: Clock of Omens
 
-- C026: Imotekh the Stormlord + Clock of Omens + Tortured Existence
-- C027: Retrofitter Foundry + Clock of Omens + Stridehangar Automaton
-- C028: The Ooze + Clock of Omens + Stridehangar Automaton
-- C057: The Ooze + Clock of Omens + Stridehangar Automaton + Altar of the Brood
-- C078: The Ooze + Clock of Omens + Stridehangar Automaton + Grinding Station
+- C024: Imotekh the Stormlord + Clock of Omens + Tortured Existence
+- C025: Retrofitter Foundry + Clock of Omens + Stridehangar Automaton
+- C026: The Ooze + Clock of Omens + Stridehangar Automaton
+- C055: The Ooze + Clock of Omens + Stridehangar Automaton + Altar of the Brood
+- C076: The Ooze + Clock of Omens + Stridehangar Automaton + Grinding Station
 ===endpanel
 ===endaccordion
 
 ===accordion
 ===panel: Cloud Key
 
-- C029: Sensei's Divining Top + Mystic Forge + Cloud Key
-- C060: Scrap Trawler + Myr Retriever + Ashnod's Altar + Cloud Key
-- C079: Spine of Ish Sah + Imotekh the Stormlord + Krark-Clan Ironworks + Cloud Key
-- C080: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Cloud Key
-- C081: Spine of Ish Sah + Sculpting Steel + Krark-Clan Ironworks + Cloud Key
-===endpanel
-===endaccordion
-
-===accordion
-===panel: Doctor Doom, Unrivaled
-
-- C002: Doctor Doom, Unrivaled + Tainted Pact
+- C027: Sensei's Divining Top + Mystic Forge + Cloud Key
+- C058: Scrap Trawler + Myr Retriever + Ashnod's Altar + Cloud Key
+- C077: Spine of Ish Sah + Imotekh the Stormlord + Krark-Clan Ironworks + Cloud Key
+- C078: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Cloud Key
+- C079: Spine of Ish Sah + Sculpting Steel + Krark-Clan Ironworks + Cloud Key
 ===endpanel
 ===endaccordion
 
 ===accordion
 ===panel: Dross Scorpion
 
-- C010: Dross Scorpion + Retrofitter Foundry + Ashnod's Altar
-- C030: Dross Scorpion + Retrofitter Foundry + Krark-Clan Ironworks
-- C031: Retrofitter Foundry + Dross Scorpion + Stridehangar Automaton
+- C008: Dross Scorpion + Retrofitter Foundry + Ashnod's Altar
+- C028: Dross Scorpion + Retrofitter Foundry + Krark-Clan Ironworks
+- C029: Retrofitter Foundry + Dross Scorpion + Stridehangar Automaton
 ===endpanel
 ===endaccordion
 
 ===accordion
 ===panel: Foundry Inspector
 
-- C032: Sensei's Divining Top + Foundry Inspector + Mystic Forge
-- C061: Scrap Trawler + Myr Retriever + Ashnod's Altar + Foundry Inspector
-- C082: Spine of Ish Sah + Imotekh the Stormlord + Krark-Clan Ironworks + Foundry Inspector
-- C083: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Foundry Inspector
-- C084: Spine of Ish Sah + Sculpting Steel + Krark-Clan Ironworks + Foundry Inspector
+- C030: Sensei's Divining Top + Foundry Inspector + Mystic Forge
+- C059: Scrap Trawler + Myr Retriever + Ashnod's Altar + Foundry Inspector
+- C080: Spine of Ish Sah + Imotekh the Stormlord + Krark-Clan Ironworks + Foundry Inspector
+- C081: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Foundry Inspector
+- C082: Spine of Ish Sah + Sculpting Steel + Krark-Clan Ironworks + Foundry Inspector
 ===endpanel
 ===endaccordion
 
 ===accordion
 ===panel: Glaring Fleshraker
 
-- C033: Sensei's Divining Top + Glaring Fleshraker + Mystic Forge
-- C062: Glaring Fleshraker + Ashnod's Altar + Myr Retriever + Junk Diver
-- C063: Glaring Fleshraker + Ashnod's Altar + Junk Diver + Workshop Assistant
-- C064: Glaring Fleshraker + Ashnod's Altar + Myr Retriever + Scrap Trawler
-- C065: Glaring Fleshraker + Ashnod's Altar + Myr Retriever + Workshop Assistant
-- C066: Glaring Fleshraker + Ashnod's Altar + Scrap Trawler + Workshop Assistant
-- C085: Spine of Ish Sah + Imotekh the Stormlord + Krark-Clan Ironworks + Glaring Fleshraker
-- C086: Glaring Fleshraker + Myr Retriever + Junk Diver + Krark-Clan Ironworks
-- C087: Glaring Fleshraker + Junk Diver + Workshop Assistant + Krark-Clan Ironworks
-- C088: Glaring Fleshraker + Myr Retriever + Scrap Trawler + Krark-Clan Ironworks
-- C089: Glaring Fleshraker + Myr Retriever + Workshop Assistant + Krark-Clan Ironworks
-- C090: Spine of Ish Sah + Sculpting Steel + Krark-Clan Ironworks + Glaring Fleshraker
+- C031: Sensei's Divining Top + Glaring Fleshraker + Mystic Forge
+- C060: Glaring Fleshraker + Ashnod's Altar + Myr Retriever + Junk Diver
+- C061: Glaring Fleshraker + Ashnod's Altar + Junk Diver + Workshop Assistant
+- C062: Glaring Fleshraker + Ashnod's Altar + Myr Retriever + Scrap Trawler
+- C063: Glaring Fleshraker + Ashnod's Altar + Myr Retriever + Workshop Assistant
+- C064: Glaring Fleshraker + Ashnod's Altar + Scrap Trawler + Workshop Assistant
+- C083: Spine of Ish Sah + Imotekh the Stormlord + Krark-Clan Ironworks + Glaring Fleshraker
+- C084: Glaring Fleshraker + Myr Retriever + Junk Diver + Krark-Clan Ironworks
+- C085: Glaring Fleshraker + Junk Diver + Workshop Assistant + Krark-Clan Ironworks
+- C086: Glaring Fleshraker + Myr Retriever + Scrap Trawler + Krark-Clan Ironworks
+- C087: Glaring Fleshraker + Myr Retriever + Workshop Assistant + Krark-Clan Ironworks
+- C088: Spine of Ish Sah + Sculpting Steel + Krark-Clan Ironworks + Glaring Fleshraker
 ===endpanel
 ===endaccordion
 
 ===accordion
 ===panel: Gravecrawler
 
-- C003: Gravecrawler + Phyrexian Altar
-- C005: Warren Soultrader + Aetherflux Reservoir + Gravecrawler
-- C006: Gravecrawler + Pitiless Plunderer + Altar of Dementia
-- C007: The Ghoul, Gunslinger + Gravecrawler + Altar of Dementia
-- C011: Gravecrawler + Pitiless Plunderer + Ashnod's Altar
-- C012: The Ghoul, Gunslinger + Gravecrawler + Ashnod's Altar
-- C020: Gravecrawler + Pitiless Plunderer + Blasting Station
-- C021: The Ghoul, Gunslinger + Gravecrawler + Blasting Station
-- C023: Gravecrawler + Pitiless Plunderer + Carrion Feeder
-- C024: The Ghoul, Gunslinger + Gravecrawler + Carrion Feeder
-- C034: Gravecrawler + Pitiless Plunderer + Umbral Collar Zealot
-- C035: Warren Soultrader + Gravecrawler + Sephiroth, Fabled SOLDIER
-- C036: The Ghoul, Gunslinger + Gravecrawler + Umbral Collar Zealot
-- C037: Warren Soultrader + Gravecrawler + Zulaport Cutthroat
+- C001: Gravecrawler + Phyrexian Altar
+- C003: Warren Soultrader + Aetherflux Reservoir + Gravecrawler
+- C004: Gravecrawler + Pitiless Plunderer + Altar of Dementia
+- C005: The Ghoul, Gunslinger + Gravecrawler + Altar of Dementia
+- C009: Gravecrawler + Pitiless Plunderer + Ashnod's Altar
+- C010: The Ghoul, Gunslinger + Gravecrawler + Ashnod's Altar
+- C018: Gravecrawler + Pitiless Plunderer + Blasting Station
+- C019: The Ghoul, Gunslinger + Gravecrawler + Blasting Station
+- C021: Gravecrawler + Pitiless Plunderer + Carrion Feeder
+- C022: The Ghoul, Gunslinger + Gravecrawler + Carrion Feeder
+- C032: Gravecrawler + Pitiless Plunderer + Umbral Collar Zealot
+- C033: Warren Soultrader + Gravecrawler + Sephiroth, Fabled SOLDIER
+- C034: The Ghoul, Gunslinger + Gravecrawler + Umbral Collar Zealot
+- C035: Warren Soultrader + Gravecrawler + Zulaport Cutthroat
 ===endpanel
 ===endaccordion
 
 ===accordion
 ===panel: Grinding Station
 
-- C038: Pitiless Plunderer + Stridehangar Automaton + Grinding Station
-- C078: The Ooze + Clock of Omens + Stridehangar Automaton + Grinding Station
-- C091: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Grinding Station
+- C036: Pitiless Plunderer + Stridehangar Automaton + Grinding Station
+- C076: The Ooze + Clock of Omens + Stridehangar Automaton + Grinding Station
+- C089: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Grinding Station
+- C118: Super Shredder + Animation Module + Pitiless Plunderer + Grinding Station
 ===endpanel
 ===endaccordion
 
 ===accordion
 ===panel: Imotekh the Stormlord
 
-- C013: Imotekh the Stormlord + Nim Deathmantle + Ashnod's Altar
-- C026: Imotekh the Stormlord + Clock of Omens + Tortured Existence
-- C039: Imotekh the Stormlord + Nim Deathmantle + Krark-Clan Ironworks
-- C040: Tortured Existence + Phyrexian Altar + Imotekh the Stormlord
-- C054: Tortured Existence + Pitiless Plunderer + Imotekh the Stormlord + Altar of Dementia
-- C067: Imotekh the Stormlord + Junk Diver + Myr Retriever + Ashnod's Altar
-- C068: Imotekh the Stormlord + Junk Diver + Workshop Assistant + Ashnod's Altar
-- C069: Imotekh the Stormlord + Scrap Trawler + Myr Retriever + Ashnod's Altar
-- C070: Imotekh the Stormlord + Myr Retriever + Workshop Assistant + Ashnod's Altar
-- C073: Tortured Existence + Pitiless Plunderer + Imotekh the Stormlord + Blasting Station
-- C075: Tortured Existence + Pitiless Plunderer + Imotekh the Stormlord + Carrion Feeder
-- C079: Spine of Ish Sah + Imotekh the Stormlord + Krark-Clan Ironworks + Cloud Key
-- C082: Spine of Ish Sah + Imotekh the Stormlord + Krark-Clan Ironworks + Foundry Inspector
-- C085: Spine of Ish Sah + Imotekh the Stormlord + Krark-Clan Ironworks + Glaring Fleshraker
-- C092: Imotekh the Stormlord + Junk Diver + Myr Retriever + Krark-Clan Ironworks
-- C093: Imotekh the Stormlord + Junk Diver + Workshop Assistant + Krark-Clan Ironworks
-- C094: Imotekh the Stormlord + Scrap Trawler + Myr Retriever + Krark-Clan Ironworks
-- C095: Imotekh the Stormlord + Myr Retriever + Workshop Assistant + Krark-Clan Ironworks
-- C096: Spine of Ish Sah + Imotekh the Stormlord + Krark-Clan Ironworks + Semblance Anvil
+- C011: Imotekh the Stormlord + Nim Deathmantle + Ashnod's Altar
+- C024: Imotekh the Stormlord + Clock of Omens + Tortured Existence
+- C037: Imotekh the Stormlord + Nim Deathmantle + Krark-Clan Ironworks
+- C038: Tortured Existence + Phyrexian Altar + Imotekh the Stormlord
+- C052: Tortured Existence + Pitiless Plunderer + Imotekh the Stormlord + Altar of Dementia
+- C065: Imotekh the Stormlord + Junk Diver + Myr Retriever + Ashnod's Altar
+- C066: Imotekh the Stormlord + Junk Diver + Workshop Assistant + Ashnod's Altar
+- C067: Imotekh the Stormlord + Scrap Trawler + Myr Retriever + Ashnod's Altar
+- C068: Imotekh the Stormlord + Myr Retriever + Workshop Assistant + Ashnod's Altar
+- C071: Tortured Existence + Pitiless Plunderer + Imotekh the Stormlord + Blasting Station
+- C073: Tortured Existence + Pitiless Plunderer + Imotekh the Stormlord + Carrion Feeder
+- C077: Spine of Ish Sah + Imotekh the Stormlord + Krark-Clan Ironworks + Cloud Key
+- C080: Spine of Ish Sah + Imotekh the Stormlord + Krark-Clan Ironworks + Foundry Inspector
+- C083: Spine of Ish Sah + Imotekh the Stormlord + Krark-Clan Ironworks + Glaring Fleshraker
+- C090: Imotekh the Stormlord + Junk Diver + Myr Retriever + Krark-Clan Ironworks
+- C091: Imotekh the Stormlord + Junk Diver + Workshop Assistant + Krark-Clan Ironworks
+- C092: Imotekh the Stormlord + Scrap Trawler + Myr Retriever + Krark-Clan Ironworks
+- C093: Imotekh the Stormlord + Myr Retriever + Workshop Assistant + Krark-Clan Ironworks
+- C094: Spine of Ish Sah + Imotekh the Stormlord + Krark-Clan Ironworks + Semblance Anvil
 ===endpanel
 ===endaccordion
 
 ===accordion
 ===panel: Junk Diver
 
-- C062: Glaring Fleshraker + Ashnod's Altar + Myr Retriever + Junk Diver
-- C063: Glaring Fleshraker + Ashnod's Altar + Junk Diver + Workshop Assistant
-- C067: Imotekh the Stormlord + Junk Diver + Myr Retriever + Ashnod's Altar
-- C068: Imotekh the Stormlord + Junk Diver + Workshop Assistant + Ashnod's Altar
-- C086: Glaring Fleshraker + Myr Retriever + Junk Diver + Krark-Clan Ironworks
-- C087: Glaring Fleshraker + Junk Diver + Workshop Assistant + Krark-Clan Ironworks
-- C092: Imotekh the Stormlord + Junk Diver + Myr Retriever + Krark-Clan Ironworks
-- C093: Imotekh the Stormlord + Junk Diver + Workshop Assistant + Krark-Clan Ironworks
-- C108: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Sol Ring + Junk Diver
+- C060: Glaring Fleshraker + Ashnod's Altar + Myr Retriever + Junk Diver
+- C061: Glaring Fleshraker + Ashnod's Altar + Junk Diver + Workshop Assistant
+- C065: Imotekh the Stormlord + Junk Diver + Myr Retriever + Ashnod's Altar
+- C066: Imotekh the Stormlord + Junk Diver + Workshop Assistant + Ashnod's Altar
+- C084: Glaring Fleshraker + Myr Retriever + Junk Diver + Krark-Clan Ironworks
+- C085: Glaring Fleshraker + Junk Diver + Workshop Assistant + Krark-Clan Ironworks
+- C090: Imotekh the Stormlord + Junk Diver + Myr Retriever + Krark-Clan Ironworks
+- C091: Imotekh the Stormlord + Junk Diver + Workshop Assistant + Krark-Clan Ironworks
+- C106: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Sol Ring + Junk Diver
 ===endpanel
 ===endaccordion
 
 ===accordion
 ===panel: Krark-Clan Ironworks
 
-- C030: Dross Scorpion + Retrofitter Foundry + Krark-Clan Ironworks
-- C039: Imotekh the Stormlord + Nim Deathmantle + Krark-Clan Ironworks
-- C041: Ultron the Annihilator + Nim Deathmantle + Krark-Clan Ironworks
-- C042: Out of the Tombs + Skullclamp + Krark-Clan Ironworks
-- C043: Pitiless Plunderer + Stridehangar Automaton + Krark-Clan Ironworks
-- C044: The Ooze + Stridehangar Automaton + Krark-Clan Ironworks
-- C079: Spine of Ish Sah + Imotekh the Stormlord + Krark-Clan Ironworks + Cloud Key
-- C080: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Cloud Key
-- C081: Spine of Ish Sah + Sculpting Steel + Krark-Clan Ironworks + Cloud Key
-- C082: Spine of Ish Sah + Imotekh the Stormlord + Krark-Clan Ironworks + Foundry Inspector
-- C083: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Foundry Inspector
-- C084: Spine of Ish Sah + Sculpting Steel + Krark-Clan Ironworks + Foundry Inspector
-- C085: Spine of Ish Sah + Imotekh the Stormlord + Krark-Clan Ironworks + Glaring Fleshraker
-- C086: Glaring Fleshraker + Myr Retriever + Junk Diver + Krark-Clan Ironworks
-- C087: Glaring Fleshraker + Junk Diver + Workshop Assistant + Krark-Clan Ironworks
-- C088: Glaring Fleshraker + Myr Retriever + Scrap Trawler + Krark-Clan Ironworks
-- C089: Glaring Fleshraker + Myr Retriever + Workshop Assistant + Krark-Clan Ironworks
-- C090: Spine of Ish Sah + Sculpting Steel + Krark-Clan Ironworks + Glaring Fleshraker
-- C092: Imotekh the Stormlord + Junk Diver + Myr Retriever + Krark-Clan Ironworks
-- C093: Imotekh the Stormlord + Junk Diver + Workshop Assistant + Krark-Clan Ironworks
-- C094: Imotekh the Stormlord + Scrap Trawler + Myr Retriever + Krark-Clan Ironworks
-- C095: Imotekh the Stormlord + Myr Retriever + Workshop Assistant + Krark-Clan Ironworks
-- C096: Spine of Ish Sah + Imotekh the Stormlord + Krark-Clan Ironworks + Semblance Anvil
-- C097: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Semblance Anvil
-- C098: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Krark-Clan Ironworks
-- C099: Spine of Ish Sah + Sculpting Steel + Krark-Clan Ironworks + Semblance Anvil
-- C108: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Sol Ring + Junk Diver
+- C028: Dross Scorpion + Retrofitter Foundry + Krark-Clan Ironworks
+- C037: Imotekh the Stormlord + Nim Deathmantle + Krark-Clan Ironworks
+- C039: Ultron the Annihilator + Nim Deathmantle + Krark-Clan Ironworks
+- C040: Out of the Tombs + Skullclamp + Krark-Clan Ironworks
+- C041: Pitiless Plunderer + Stridehangar Automaton + Krark-Clan Ironworks
+- C042: The Ooze + Stridehangar Automaton + Krark-Clan Ironworks
+- C077: Spine of Ish Sah + Imotekh the Stormlord + Krark-Clan Ironworks + Cloud Key
+- C078: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Cloud Key
+- C079: Spine of Ish Sah + Sculpting Steel + Krark-Clan Ironworks + Cloud Key
+- C080: Spine of Ish Sah + Imotekh the Stormlord + Krark-Clan Ironworks + Foundry Inspector
+- C081: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Foundry Inspector
+- C082: Spine of Ish Sah + Sculpting Steel + Krark-Clan Ironworks + Foundry Inspector
+- C083: Spine of Ish Sah + Imotekh the Stormlord + Krark-Clan Ironworks + Glaring Fleshraker
+- C084: Glaring Fleshraker + Myr Retriever + Junk Diver + Krark-Clan Ironworks
+- C085: Glaring Fleshraker + Junk Diver + Workshop Assistant + Krark-Clan Ironworks
+- C086: Glaring Fleshraker + Myr Retriever + Scrap Trawler + Krark-Clan Ironworks
+- C087: Glaring Fleshraker + Myr Retriever + Workshop Assistant + Krark-Clan Ironworks
+- C088: Spine of Ish Sah + Sculpting Steel + Krark-Clan Ironworks + Glaring Fleshraker
+- C090: Imotekh the Stormlord + Junk Diver + Myr Retriever + Krark-Clan Ironworks
+- C091: Imotekh the Stormlord + Junk Diver + Workshop Assistant + Krark-Clan Ironworks
+- C092: Imotekh the Stormlord + Scrap Trawler + Myr Retriever + Krark-Clan Ironworks
+- C093: Imotekh the Stormlord + Myr Retriever + Workshop Assistant + Krark-Clan Ironworks
+- C094: Spine of Ish Sah + Imotekh the Stormlord + Krark-Clan Ironworks + Semblance Anvil
+- C095: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Semblance Anvil
+- C096: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Krark-Clan Ironworks
+- C097: Spine of Ish Sah + Sculpting Steel + Krark-Clan Ironworks + Semblance Anvil
+- C106: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Sol Ring + Junk Diver
+- C111: Animation Module + Krark-Clan Ironworks + Super Shredder
+- C115: The Ooze + Animation Module + Krark-Clan Ironworks
 ===endpanel
 ===endaccordion
 
 ===accordion
 ===panel: Marionette Apprentice
 
-- C014: Nim Deathmantle + Ashnod's Altar + Marionette Apprentice
+- C012: Nim Deathmantle + Ashnod's Altar + Marionette Apprentice
 ===endpanel
 ===endaccordion
 
 ===accordion
 ===panel: Metalwork Colossus
 
-- C052: Metalwork Colossus + Warren Soultrader + Pitiless Plunderer + Aetherflux Reservoir
-- C053: Metalwork Colossus + Warren Soultrader + Aetherflux Reservoir + Stridehangar Automaton
+- C050: Metalwork Colossus + Warren Soultrader + Pitiless Plunderer + Aetherflux Reservoir
+- C051: Metalwork Colossus + Warren Soultrader + Aetherflux Reservoir + Stridehangar Automaton
 ===endpanel
 ===endaccordion
 
 ===accordion
 ===panel: Myr Retriever
 
-- C060: Scrap Trawler + Myr Retriever + Ashnod's Altar + Cloud Key
-- C061: Scrap Trawler + Myr Retriever + Ashnod's Altar + Foundry Inspector
-- C062: Glaring Fleshraker + Ashnod's Altar + Myr Retriever + Junk Diver
-- C064: Glaring Fleshraker + Ashnod's Altar + Myr Retriever + Scrap Trawler
-- C065: Glaring Fleshraker + Ashnod's Altar + Myr Retriever + Workshop Assistant
-- C067: Imotekh the Stormlord + Junk Diver + Myr Retriever + Ashnod's Altar
-- C069: Imotekh the Stormlord + Scrap Trawler + Myr Retriever + Ashnod's Altar
-- C070: Imotekh the Stormlord + Myr Retriever + Workshop Assistant + Ashnod's Altar
-- C071: Scrap Trawler + Myr Retriever + Ashnod's Altar + Semblance Anvil
-- C080: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Cloud Key
-- C083: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Foundry Inspector
-- C086: Glaring Fleshraker + Myr Retriever + Junk Diver + Krark-Clan Ironworks
-- C088: Glaring Fleshraker + Myr Retriever + Scrap Trawler + Krark-Clan Ironworks
-- C089: Glaring Fleshraker + Myr Retriever + Workshop Assistant + Krark-Clan Ironworks
-- C092: Imotekh the Stormlord + Junk Diver + Myr Retriever + Krark-Clan Ironworks
-- C094: Imotekh the Stormlord + Scrap Trawler + Myr Retriever + Krark-Clan Ironworks
-- C095: Imotekh the Stormlord + Myr Retriever + Workshop Assistant + Krark-Clan Ironworks
-- C097: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Semblance Anvil
-- C100: Scrap Trawler + Myr Retriever + Phyrexian Altar + Semblance Anvil
-- C108: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Sol Ring + Junk Diver
+- C058: Scrap Trawler + Myr Retriever + Ashnod's Altar + Cloud Key
+- C059: Scrap Trawler + Myr Retriever + Ashnod's Altar + Foundry Inspector
+- C060: Glaring Fleshraker + Ashnod's Altar + Myr Retriever + Junk Diver
+- C062: Glaring Fleshraker + Ashnod's Altar + Myr Retriever + Scrap Trawler
+- C063: Glaring Fleshraker + Ashnod's Altar + Myr Retriever + Workshop Assistant
+- C065: Imotekh the Stormlord + Junk Diver + Myr Retriever + Ashnod's Altar
+- C067: Imotekh the Stormlord + Scrap Trawler + Myr Retriever + Ashnod's Altar
+- C068: Imotekh the Stormlord + Myr Retriever + Workshop Assistant + Ashnod's Altar
+- C069: Scrap Trawler + Myr Retriever + Ashnod's Altar + Semblance Anvil
+- C078: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Cloud Key
+- C081: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Foundry Inspector
+- C084: Glaring Fleshraker + Myr Retriever + Junk Diver + Krark-Clan Ironworks
+- C086: Glaring Fleshraker + Myr Retriever + Scrap Trawler + Krark-Clan Ironworks
+- C087: Glaring Fleshraker + Myr Retriever + Workshop Assistant + Krark-Clan Ironworks
+- C090: Imotekh the Stormlord + Junk Diver + Myr Retriever + Krark-Clan Ironworks
+- C092: Imotekh the Stormlord + Scrap Trawler + Myr Retriever + Krark-Clan Ironworks
+- C093: Imotekh the Stormlord + Myr Retriever + Workshop Assistant + Krark-Clan Ironworks
+- C095: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Semblance Anvil
+- C098: Scrap Trawler + Myr Retriever + Phyrexian Altar + Semblance Anvil
+- C106: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Sol Ring + Junk Diver
 ===endpanel
 ===endaccordion
 
 ===accordion
 ===panel: Mystic Forge
 
-- C029: Sensei's Divining Top + Mystic Forge + Cloud Key
-- C032: Sensei's Divining Top + Foundry Inspector + Mystic Forge
-- C033: Sensei's Divining Top + Glaring Fleshraker + Mystic Forge
-- C045: Sensei's Divining Top + Mystic Forge + Semblance Anvil
+- C027: Sensei's Divining Top + Mystic Forge + Cloud Key
+- C030: Sensei's Divining Top + Foundry Inspector + Mystic Forge
+- C031: Sensei's Divining Top + Glaring Fleshraker + Mystic Forge
+- C043: Sensei's Divining Top + Mystic Forge + Semblance Anvil
 ===endpanel
 ===endaccordion
 
 ===accordion
 ===panel: Nim Deathmantle
 
-- C001: Nim Deathmantle + Ashnod's Altar
-- C013: Imotekh the Stormlord + Nim Deathmantle + Ashnod's Altar
-- C014: Nim Deathmantle + Ashnod's Altar + Marionette Apprentice
-- C015: Nim Deathmantle + Ashnod's Altar + Orcish Bowmasters
-- C016: Ultron the Annihilator + Nim Deathmantle + Ashnod's Altar
-- C039: Imotekh the Stormlord + Nim Deathmantle + Krark-Clan Ironworks
-- C041: Ultron the Annihilator + Nim Deathmantle + Krark-Clan Ironworks
-- C101: Ultron the Annihilator + Nim Deathmantle + Phyrexian Altar + Pitiless Plunderer
+- C011: Imotekh the Stormlord + Nim Deathmantle + Ashnod's Altar
+- C012: Nim Deathmantle + Ashnod's Altar + Marionette Apprentice
+- C013: Nim Deathmantle + Ashnod's Altar + Orcish Bowmasters
+- C014: Ultron the Annihilator + Nim Deathmantle + Ashnod's Altar
+- C037: Imotekh the Stormlord + Nim Deathmantle + Krark-Clan Ironworks
+- C039: Ultron the Annihilator + Nim Deathmantle + Krark-Clan Ironworks
+- C099: Ultron the Annihilator + Nim Deathmantle + Phyrexian Altar + Pitiless Plunderer
 ===endpanel
 ===endaccordion
 
 ===accordion
 ===panel: Orcish Bowmasters
 
-- C015: Nim Deathmantle + Ashnod's Altar + Orcish Bowmasters
+- C013: Nim Deathmantle + Ashnod's Altar + Orcish Bowmasters
 ===endpanel
 ===endaccordion
 
 ===accordion
 ===panel: Out of the Tombs
 
-- C017: Out of the Tombs + Skullclamp + Ashnod's Altar
-- C042: Out of the Tombs + Skullclamp + Krark-Clan Ironworks
-- C046: Out of the Tombs + Skullclamp + Phyrexian Altar
-- C055: Out of the Tombs + Skullclamp + Pitiless Plunderer + Altar of Dementia
-- C058: Out of the Tombs + Skullclamp + Pitiless Plunderer + Arcbound Ravager
-- C076: Out of the Tombs + Skullclamp + Pitiless Plunderer + Carrion Feeder
-- C102: Out of the Tombs + Skullclamp + Pitiless Plunderer + Umbral Collar Zealot
-- C103: Out of the Tombs + Skullclamp + Warren Soultrader + Sephiroth, Fabled SOLDIER
-- C104: Out of the Tombs + Skullclamp + Warren Soultrader + Zulaport Cutthroat
-- C107: Out of the Tombs + Skullclamp + Pitiless Plunderer + Blasting Station + Stitcher's Supplier
+- C015: Out of the Tombs + Skullclamp + Ashnod's Altar
+- C040: Out of the Tombs + Skullclamp + Krark-Clan Ironworks
+- C044: Out of the Tombs + Skullclamp + Phyrexian Altar
+- C053: Out of the Tombs + Skullclamp + Pitiless Plunderer + Altar of Dementia
+- C056: Out of the Tombs + Skullclamp + Pitiless Plunderer + Arcbound Ravager
+- C074: Out of the Tombs + Skullclamp + Pitiless Plunderer + Carrion Feeder
+- C100: Out of the Tombs + Skullclamp + Pitiless Plunderer + Umbral Collar Zealot
+- C101: Out of the Tombs + Skullclamp + Warren Soultrader + Sephiroth, Fabled SOLDIER
+- C102: Out of the Tombs + Skullclamp + Warren Soultrader + Zulaport Cutthroat
+- C105: Out of the Tombs + Skullclamp + Pitiless Plunderer + Blasting Station + Stitcher's Supplier
+- C112: Yawgmoth, Thran Physician + Out of the Tombs + Zulaport Cutthroat
+- C113: Yawgmoth, Thran Physician + Out of the Tombs + Sephiroth, Fabled SOLDIER
 ===endpanel
 ===endaccordion
 
 ===accordion
 ===panel: Phyrexian Altar
 
-- C003: Gravecrawler + Phyrexian Altar
-- C040: Tortured Existence + Phyrexian Altar + Imotekh the Stormlord
-- C046: Out of the Tombs + Skullclamp + Phyrexian Altar
-- C047: Pitiless Plunderer + Phyrexian Altar + Stridehangar Automaton
-- C048: The Ooze + Stridehangar Automaton + Phyrexian Altar
-- C100: Scrap Trawler + Myr Retriever + Phyrexian Altar + Semblance Anvil
-- C101: Ultron the Annihilator + Nim Deathmantle + Phyrexian Altar + Pitiless Plunderer
-- C105: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Phyrexian Altar
+- C001: Gravecrawler + Phyrexian Altar
+- C038: Tortured Existence + Phyrexian Altar + Imotekh the Stormlord
+- C044: Out of the Tombs + Skullclamp + Phyrexian Altar
+- C045: Pitiless Plunderer + Phyrexian Altar + Stridehangar Automaton
+- C046: The Ooze + Stridehangar Automaton + Phyrexian Altar
+- C098: Scrap Trawler + Myr Retriever + Phyrexian Altar + Semblance Anvil
+- C099: Ultron the Annihilator + Nim Deathmantle + Phyrexian Altar + Pitiless Plunderer
+- C103: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Phyrexian Altar
+- C109: Animation Module + Phyrexian Altar + Super Shredder
+- C120: The Ooze + Animation Module + Pitiless Plunderer + Phyrexian Altar
 ===endpanel
 ===endaccordion
 
 ===accordion
 ===panel: Pitiless Plunderer
 
-- C006: Gravecrawler + Pitiless Plunderer + Altar of Dementia
-- C008: Pitiless Plunderer + Altar of Dementia + Stridehangar Automaton
-- C009: Pitiless Plunderer + Stridehangar Automaton + Arcbound Ravager
-- C011: Gravecrawler + Pitiless Plunderer + Ashnod's Altar
-- C018: Pitiless Plunderer + Ashnod's Altar + Stridehangar Automaton
-- C020: Gravecrawler + Pitiless Plunderer + Blasting Station
-- C022: Pitiless Plunderer + Blasting Station + Stridehangar Automaton
-- C023: Gravecrawler + Pitiless Plunderer + Carrion Feeder
-- C025: Pitiless Plunderer + Stridehangar Automaton + Carrion Feeder
-- C034: Gravecrawler + Pitiless Plunderer + Umbral Collar Zealot
-- C038: Pitiless Plunderer + Stridehangar Automaton + Grinding Station
-- C043: Pitiless Plunderer + Stridehangar Automaton + Krark-Clan Ironworks
-- C047: Pitiless Plunderer + Phyrexian Altar + Stridehangar Automaton
-- C049: Pitiless Plunderer + Umbral Collar Zealot + Stridehangar Automaton
-- C052: Metalwork Colossus + Warren Soultrader + Pitiless Plunderer + Aetherflux Reservoir
-- C054: Tortured Existence + Pitiless Plunderer + Imotekh the Stormlord + Altar of Dementia
-- C055: Out of the Tombs + Skullclamp + Pitiless Plunderer + Altar of Dementia
-- C056: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Altar of Dementia
-- C058: Out of the Tombs + Skullclamp + Pitiless Plunderer + Arcbound Ravager
-- C059: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Arcbound Ravager
-- C072: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Ashnod's Altar
-- C073: Tortured Existence + Pitiless Plunderer + Imotekh the Stormlord + Blasting Station
-- C074: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Blasting Station
-- C075: Tortured Existence + Pitiless Plunderer + Imotekh the Stormlord + Carrion Feeder
-- C076: Out of the Tombs + Skullclamp + Pitiless Plunderer + Carrion Feeder
-- C077: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Carrion Feeder
-- C091: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Grinding Station
-- C098: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Krark-Clan Ironworks
-- C101: Ultron the Annihilator + Nim Deathmantle + Phyrexian Altar + Pitiless Plunderer
-- C102: Out of the Tombs + Skullclamp + Pitiless Plunderer + Umbral Collar Zealot
-- C105: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Phyrexian Altar
-- C106: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Umbral Collar Zealot
-- C107: Out of the Tombs + Skullclamp + Pitiless Plunderer + Blasting Station + Stitcher's Supplier
+- C004: Gravecrawler + Pitiless Plunderer + Altar of Dementia
+- C006: Pitiless Plunderer + Altar of Dementia + Stridehangar Automaton
+- C007: Pitiless Plunderer + Stridehangar Automaton + Arcbound Ravager
+- C009: Gravecrawler + Pitiless Plunderer + Ashnod's Altar
+- C016: Pitiless Plunderer + Ashnod's Altar + Stridehangar Automaton
+- C018: Gravecrawler + Pitiless Plunderer + Blasting Station
+- C020: Pitiless Plunderer + Blasting Station + Stridehangar Automaton
+- C021: Gravecrawler + Pitiless Plunderer + Carrion Feeder
+- C023: Pitiless Plunderer + Stridehangar Automaton + Carrion Feeder
+- C032: Gravecrawler + Pitiless Plunderer + Umbral Collar Zealot
+- C036: Pitiless Plunderer + Stridehangar Automaton + Grinding Station
+- C041: Pitiless Plunderer + Stridehangar Automaton + Krark-Clan Ironworks
+- C045: Pitiless Plunderer + Phyrexian Altar + Stridehangar Automaton
+- C047: Pitiless Plunderer + Umbral Collar Zealot + Stridehangar Automaton
+- C050: Metalwork Colossus + Warren Soultrader + Pitiless Plunderer + Aetherflux Reservoir
+- C052: Tortured Existence + Pitiless Plunderer + Imotekh the Stormlord + Altar of Dementia
+- C053: Out of the Tombs + Skullclamp + Pitiless Plunderer + Altar of Dementia
+- C054: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Altar of Dementia
+- C056: Out of the Tombs + Skullclamp + Pitiless Plunderer + Arcbound Ravager
+- C057: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Arcbound Ravager
+- C070: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Ashnod's Altar
+- C071: Tortured Existence + Pitiless Plunderer + Imotekh the Stormlord + Blasting Station
+- C072: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Blasting Station
+- C073: Tortured Existence + Pitiless Plunderer + Imotekh the Stormlord + Carrion Feeder
+- C074: Out of the Tombs + Skullclamp + Pitiless Plunderer + Carrion Feeder
+- C075: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Carrion Feeder
+- C089: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Grinding Station
+- C096: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Krark-Clan Ironworks
+- C099: Ultron the Annihilator + Nim Deathmantle + Phyrexian Altar + Pitiless Plunderer
+- C100: Out of the Tombs + Skullclamp + Pitiless Plunderer + Umbral Collar Zealot
+- C103: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Phyrexian Altar
+- C104: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Umbral Collar Zealot
+- C105: Out of the Tombs + Skullclamp + Pitiless Plunderer + Blasting Station + Stitcher's Supplier
+- C107: Animation Module + Pitiless Plunderer + Carrion Feeder
+- C110: Animation Module + Pitiless Plunderer + Arcbound Ravager
+- C116: Super Shredder + Animation Module + Pitiless Plunderer + Altar of Dementia
+- C117: Super Shredder + Animation Module + Pitiless Plunderer + Blasting Station
+- C118: Super Shredder + Animation Module + Pitiless Plunderer + Grinding Station
+- C119: Super Shredder + Animation Module + Pitiless Plunderer + Umbral Collar Zealot
+- C120: The Ooze + Animation Module + Pitiless Plunderer + Phyrexian Altar
 ===endpanel
 ===endaccordion
 
 ===accordion
 ===panel: Retrofitter Foundry
 
-- C010: Dross Scorpion + Retrofitter Foundry + Ashnod's Altar
-- C027: Retrofitter Foundry + Clock of Omens + Stridehangar Automaton
-- C030: Dross Scorpion + Retrofitter Foundry + Krark-Clan Ironworks
-- C031: Retrofitter Foundry + Dross Scorpion + Stridehangar Automaton
+- C008: Dross Scorpion + Retrofitter Foundry + Ashnod's Altar
+- C025: Retrofitter Foundry + Clock of Omens + Stridehangar Automaton
+- C028: Dross Scorpion + Retrofitter Foundry + Krark-Clan Ironworks
+- C029: Retrofitter Foundry + Dross Scorpion + Stridehangar Automaton
 ===endpanel
 ===endaccordion
 
 ===accordion
 ===panel: Scrap Trawler
 
-- C060: Scrap Trawler + Myr Retriever + Ashnod's Altar + Cloud Key
-- C061: Scrap Trawler + Myr Retriever + Ashnod's Altar + Foundry Inspector
-- C064: Glaring Fleshraker + Ashnod's Altar + Myr Retriever + Scrap Trawler
-- C066: Glaring Fleshraker + Ashnod's Altar + Scrap Trawler + Workshop Assistant
-- C069: Imotekh the Stormlord + Scrap Trawler + Myr Retriever + Ashnod's Altar
-- C071: Scrap Trawler + Myr Retriever + Ashnod's Altar + Semblance Anvil
-- C080: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Cloud Key
-- C083: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Foundry Inspector
-- C088: Glaring Fleshraker + Myr Retriever + Scrap Trawler + Krark-Clan Ironworks
-- C094: Imotekh the Stormlord + Scrap Trawler + Myr Retriever + Krark-Clan Ironworks
-- C097: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Semblance Anvil
-- C100: Scrap Trawler + Myr Retriever + Phyrexian Altar + Semblance Anvil
-- C108: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Sol Ring + Junk Diver
+- C058: Scrap Trawler + Myr Retriever + Ashnod's Altar + Cloud Key
+- C059: Scrap Trawler + Myr Retriever + Ashnod's Altar + Foundry Inspector
+- C062: Glaring Fleshraker + Ashnod's Altar + Myr Retriever + Scrap Trawler
+- C064: Glaring Fleshraker + Ashnod's Altar + Scrap Trawler + Workshop Assistant
+- C067: Imotekh the Stormlord + Scrap Trawler + Myr Retriever + Ashnod's Altar
+- C069: Scrap Trawler + Myr Retriever + Ashnod's Altar + Semblance Anvil
+- C078: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Cloud Key
+- C081: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Foundry Inspector
+- C086: Glaring Fleshraker + Myr Retriever + Scrap Trawler + Krark-Clan Ironworks
+- C092: Imotekh the Stormlord + Scrap Trawler + Myr Retriever + Krark-Clan Ironworks
+- C095: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Semblance Anvil
+- C098: Scrap Trawler + Myr Retriever + Phyrexian Altar + Semblance Anvil
+- C106: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Sol Ring + Junk Diver
 ===endpanel
 ===endaccordion
 
 ===accordion
 ===panel: Sculpting Steel
 
-- C081: Spine of Ish Sah + Sculpting Steel + Krark-Clan Ironworks + Cloud Key
-- C084: Spine of Ish Sah + Sculpting Steel + Krark-Clan Ironworks + Foundry Inspector
-- C090: Spine of Ish Sah + Sculpting Steel + Krark-Clan Ironworks + Glaring Fleshraker
-- C099: Spine of Ish Sah + Sculpting Steel + Krark-Clan Ironworks + Semblance Anvil
+- C079: Spine of Ish Sah + Sculpting Steel + Krark-Clan Ironworks + Cloud Key
+- C082: Spine of Ish Sah + Sculpting Steel + Krark-Clan Ironworks + Foundry Inspector
+- C088: Spine of Ish Sah + Sculpting Steel + Krark-Clan Ironworks + Glaring Fleshraker
+- C097: Spine of Ish Sah + Sculpting Steel + Krark-Clan Ironworks + Semblance Anvil
 ===endpanel
 ===endaccordion
 
 ===accordion
 ===panel: Semblance Anvil
 
-- C045: Sensei's Divining Top + Mystic Forge + Semblance Anvil
-- C071: Scrap Trawler + Myr Retriever + Ashnod's Altar + Semblance Anvil
-- C096: Spine of Ish Sah + Imotekh the Stormlord + Krark-Clan Ironworks + Semblance Anvil
-- C097: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Semblance Anvil
-- C099: Spine of Ish Sah + Sculpting Steel + Krark-Clan Ironworks + Semblance Anvil
-- C100: Scrap Trawler + Myr Retriever + Phyrexian Altar + Semblance Anvil
+- C043: Sensei's Divining Top + Mystic Forge + Semblance Anvil
+- C069: Scrap Trawler + Myr Retriever + Ashnod's Altar + Semblance Anvil
+- C094: Spine of Ish Sah + Imotekh the Stormlord + Krark-Clan Ironworks + Semblance Anvil
+- C095: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Semblance Anvil
+- C097: Spine of Ish Sah + Sculpting Steel + Krark-Clan Ironworks + Semblance Anvil
+- C098: Scrap Trawler + Myr Retriever + Phyrexian Altar + Semblance Anvil
 ===endpanel
 ===endaccordion
 
 ===accordion
 ===panel: Sensei's Divining Top
 
-- C004: Sensei's Divining Top + Aetherflux Reservoir + Bolas's Citadel
-- C029: Sensei's Divining Top + Mystic Forge + Cloud Key
-- C032: Sensei's Divining Top + Foundry Inspector + Mystic Forge
-- C033: Sensei's Divining Top + Glaring Fleshraker + Mystic Forge
-- C045: Sensei's Divining Top + Mystic Forge + Semblance Anvil
+- C002: Sensei's Divining Top + Aetherflux Reservoir + Bolas's Citadel
+- C027: Sensei's Divining Top + Mystic Forge + Cloud Key
+- C030: Sensei's Divining Top + Foundry Inspector + Mystic Forge
+- C031: Sensei's Divining Top + Glaring Fleshraker + Mystic Forge
+- C043: Sensei's Divining Top + Mystic Forge + Semblance Anvil
 ===endpanel
 ===endaccordion
 
 ===accordion
 ===panel: Sephiroth, Fabled SOLDIER // Sephiroth, One-Winged Angel
 
-- C035: Warren Soultrader + Gravecrawler + Sephiroth, Fabled SOLDIER
-- C050: Warren Soultrader + Stridehangar Automaton + Sephiroth, Fabled SOLDIER
-- C103: Out of the Tombs + Skullclamp + Warren Soultrader + Sephiroth, Fabled SOLDIER
+- C033: Warren Soultrader + Gravecrawler + Sephiroth, Fabled SOLDIER
+- C048: Warren Soultrader + Stridehangar Automaton + Sephiroth, Fabled SOLDIER
+- C101: Out of the Tombs + Skullclamp + Warren Soultrader + Sephiroth, Fabled SOLDIER
+- C113: Yawgmoth, Thran Physician + Out of the Tombs + Sephiroth, Fabled SOLDIER
 ===endpanel
 ===endaccordion
 
 ===accordion
 ===panel: Skullclamp
 
-- C017: Out of the Tombs + Skullclamp + Ashnod's Altar
-- C042: Out of the Tombs + Skullclamp + Krark-Clan Ironworks
-- C046: Out of the Tombs + Skullclamp + Phyrexian Altar
-- C055: Out of the Tombs + Skullclamp + Pitiless Plunderer + Altar of Dementia
-- C058: Out of the Tombs + Skullclamp + Pitiless Plunderer + Arcbound Ravager
-- C076: Out of the Tombs + Skullclamp + Pitiless Plunderer + Carrion Feeder
-- C102: Out of the Tombs + Skullclamp + Pitiless Plunderer + Umbral Collar Zealot
-- C103: Out of the Tombs + Skullclamp + Warren Soultrader + Sephiroth, Fabled SOLDIER
-- C104: Out of the Tombs + Skullclamp + Warren Soultrader + Zulaport Cutthroat
-- C107: Out of the Tombs + Skullclamp + Pitiless Plunderer + Blasting Station + Stitcher's Supplier
+- C015: Out of the Tombs + Skullclamp + Ashnod's Altar
+- C040: Out of the Tombs + Skullclamp + Krark-Clan Ironworks
+- C044: Out of the Tombs + Skullclamp + Phyrexian Altar
+- C053: Out of the Tombs + Skullclamp + Pitiless Plunderer + Altar of Dementia
+- C056: Out of the Tombs + Skullclamp + Pitiless Plunderer + Arcbound Ravager
+- C074: Out of the Tombs + Skullclamp + Pitiless Plunderer + Carrion Feeder
+- C100: Out of the Tombs + Skullclamp + Pitiless Plunderer + Umbral Collar Zealot
+- C101: Out of the Tombs + Skullclamp + Warren Soultrader + Sephiroth, Fabled SOLDIER
+- C102: Out of the Tombs + Skullclamp + Warren Soultrader + Zulaport Cutthroat
+- C105: Out of the Tombs + Skullclamp + Pitiless Plunderer + Blasting Station + Stitcher's Supplier
 ===endpanel
 ===endaccordion
 
 ===accordion
 ===panel: Sol Ring
 
-- C108: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Sol Ring + Junk Diver
+- C106: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Sol Ring + Junk Diver
 ===endpanel
 ===endaccordion
 
 ===accordion
 ===panel: Spine of Ish Sah
 
-- C079: Spine of Ish Sah + Imotekh the Stormlord + Krark-Clan Ironworks + Cloud Key
-- C081: Spine of Ish Sah + Sculpting Steel + Krark-Clan Ironworks + Cloud Key
-- C082: Spine of Ish Sah + Imotekh the Stormlord + Krark-Clan Ironworks + Foundry Inspector
-- C084: Spine of Ish Sah + Sculpting Steel + Krark-Clan Ironworks + Foundry Inspector
-- C085: Spine of Ish Sah + Imotekh the Stormlord + Krark-Clan Ironworks + Glaring Fleshraker
-- C090: Spine of Ish Sah + Sculpting Steel + Krark-Clan Ironworks + Glaring Fleshraker
-- C096: Spine of Ish Sah + Imotekh the Stormlord + Krark-Clan Ironworks + Semblance Anvil
-- C099: Spine of Ish Sah + Sculpting Steel + Krark-Clan Ironworks + Semblance Anvil
+- C077: Spine of Ish Sah + Imotekh the Stormlord + Krark-Clan Ironworks + Cloud Key
+- C079: Spine of Ish Sah + Sculpting Steel + Krark-Clan Ironworks + Cloud Key
+- C080: Spine of Ish Sah + Imotekh the Stormlord + Krark-Clan Ironworks + Foundry Inspector
+- C082: Spine of Ish Sah + Sculpting Steel + Krark-Clan Ironworks + Foundry Inspector
+- C083: Spine of Ish Sah + Imotekh the Stormlord + Krark-Clan Ironworks + Glaring Fleshraker
+- C088: Spine of Ish Sah + Sculpting Steel + Krark-Clan Ironworks + Glaring Fleshraker
+- C094: Spine of Ish Sah + Imotekh the Stormlord + Krark-Clan Ironworks + Semblance Anvil
+- C097: Spine of Ish Sah + Sculpting Steel + Krark-Clan Ironworks + Semblance Anvil
 ===endpanel
 ===endaccordion
 
 ===accordion
 ===panel: Stitcher's Supplier
 
-- C107: Out of the Tombs + Skullclamp + Pitiless Plunderer + Blasting Station + Stitcher's Supplier
+- C105: Out of the Tombs + Skullclamp + Pitiless Plunderer + Blasting Station + Stitcher's Supplier
 ===endpanel
 ===endaccordion
 
 ===accordion
 ===panel: Stridehangar Automaton
 
-- C008: Pitiless Plunderer + Altar of Dementia + Stridehangar Automaton
-- C009: Pitiless Plunderer + Stridehangar Automaton + Arcbound Ravager
-- C018: Pitiless Plunderer + Ashnod's Altar + Stridehangar Automaton
-- C019: The Ooze + Stridehangar Automaton + Ashnod's Altar
-- C022: Pitiless Plunderer + Blasting Station + Stridehangar Automaton
-- C025: Pitiless Plunderer + Stridehangar Automaton + Carrion Feeder
-- C027: Retrofitter Foundry + Clock of Omens + Stridehangar Automaton
-- C028: The Ooze + Clock of Omens + Stridehangar Automaton
-- C031: Retrofitter Foundry + Dross Scorpion + Stridehangar Automaton
-- C038: Pitiless Plunderer + Stridehangar Automaton + Grinding Station
-- C043: Pitiless Plunderer + Stridehangar Automaton + Krark-Clan Ironworks
-- C044: The Ooze + Stridehangar Automaton + Krark-Clan Ironworks
-- C047: Pitiless Plunderer + Phyrexian Altar + Stridehangar Automaton
-- C048: The Ooze + Stridehangar Automaton + Phyrexian Altar
-- C049: Pitiless Plunderer + Umbral Collar Zealot + Stridehangar Automaton
-- C050: Warren Soultrader + Stridehangar Automaton + Sephiroth, Fabled SOLDIER
-- C051: Warren Soultrader + Zulaport Cutthroat + Stridehangar Automaton
-- C053: Metalwork Colossus + Warren Soultrader + Aetherflux Reservoir + Stridehangar Automaton
-- C056: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Altar of Dementia
-- C057: The Ooze + Clock of Omens + Stridehangar Automaton + Altar of the Brood
-- C059: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Arcbound Ravager
-- C072: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Ashnod's Altar
-- C074: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Blasting Station
-- C077: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Carrion Feeder
-- C078: The Ooze + Clock of Omens + Stridehangar Automaton + Grinding Station
-- C091: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Grinding Station
-- C098: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Krark-Clan Ironworks
-- C105: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Phyrexian Altar
-- C106: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Umbral Collar Zealot
+- C006: Pitiless Plunderer + Altar of Dementia + Stridehangar Automaton
+- C007: Pitiless Plunderer + Stridehangar Automaton + Arcbound Ravager
+- C016: Pitiless Plunderer + Ashnod's Altar + Stridehangar Automaton
+- C017: The Ooze + Stridehangar Automaton + Ashnod's Altar
+- C020: Pitiless Plunderer + Blasting Station + Stridehangar Automaton
+- C023: Pitiless Plunderer + Stridehangar Automaton + Carrion Feeder
+- C025: Retrofitter Foundry + Clock of Omens + Stridehangar Automaton
+- C026: The Ooze + Clock of Omens + Stridehangar Automaton
+- C029: Retrofitter Foundry + Dross Scorpion + Stridehangar Automaton
+- C036: Pitiless Plunderer + Stridehangar Automaton + Grinding Station
+- C041: Pitiless Plunderer + Stridehangar Automaton + Krark-Clan Ironworks
+- C042: The Ooze + Stridehangar Automaton + Krark-Clan Ironworks
+- C045: Pitiless Plunderer + Phyrexian Altar + Stridehangar Automaton
+- C046: The Ooze + Stridehangar Automaton + Phyrexian Altar
+- C047: Pitiless Plunderer + Umbral Collar Zealot + Stridehangar Automaton
+- C048: Warren Soultrader + Stridehangar Automaton + Sephiroth, Fabled SOLDIER
+- C049: Warren Soultrader + Zulaport Cutthroat + Stridehangar Automaton
+- C051: Metalwork Colossus + Warren Soultrader + Aetherflux Reservoir + Stridehangar Automaton
+- C054: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Altar of Dementia
+- C055: The Ooze + Clock of Omens + Stridehangar Automaton + Altar of the Brood
+- C057: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Arcbound Ravager
+- C070: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Ashnod's Altar
+- C072: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Blasting Station
+- C075: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Carrion Feeder
+- C076: The Ooze + Clock of Omens + Stridehangar Automaton + Grinding Station
+- C089: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Grinding Station
+- C096: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Krark-Clan Ironworks
+- C103: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Phyrexian Altar
+- C104: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Umbral Collar Zealot
 ===endpanel
 ===endaccordion
 
 ===accordion
-===panel: Tainted Pact
+===panel: Super Shredder
 
-- C002: Doctor Doom, Unrivaled + Tainted Pact
+- C108: Animation Module + Ashnod's Altar + Super Shredder
+- C109: Animation Module + Phyrexian Altar + Super Shredder
+- C111: Animation Module + Krark-Clan Ironworks + Super Shredder
+- C116: Super Shredder + Animation Module + Pitiless Plunderer + Altar of Dementia
+- C117: Super Shredder + Animation Module + Pitiless Plunderer + Blasting Station
+- C118: Super Shredder + Animation Module + Pitiless Plunderer + Grinding Station
+- C119: Super Shredder + Animation Module + Pitiless Plunderer + Umbral Collar Zealot
 ===endpanel
 ===endaccordion
 
 ===accordion
 ===panel: The Ghoul, Gunslinger
 
-- C007: The Ghoul, Gunslinger + Gravecrawler + Altar of Dementia
-- C012: The Ghoul, Gunslinger + Gravecrawler + Ashnod's Altar
-- C021: The Ghoul, Gunslinger + Gravecrawler + Blasting Station
-- C024: The Ghoul, Gunslinger + Gravecrawler + Carrion Feeder
-- C036: The Ghoul, Gunslinger + Gravecrawler + Umbral Collar Zealot
+- C005: The Ghoul, Gunslinger + Gravecrawler + Altar of Dementia
+- C010: The Ghoul, Gunslinger + Gravecrawler + Ashnod's Altar
+- C019: The Ghoul, Gunslinger + Gravecrawler + Blasting Station
+- C022: The Ghoul, Gunslinger + Gravecrawler + Carrion Feeder
+- C034: The Ghoul, Gunslinger + Gravecrawler + Umbral Collar Zealot
 ===endpanel
 ===endaccordion
 
 ===accordion
 ===panel: The Ooze
 
-- C019: The Ooze + Stridehangar Automaton + Ashnod's Altar
-- C028: The Ooze + Clock of Omens + Stridehangar Automaton
-- C044: The Ooze + Stridehangar Automaton + Krark-Clan Ironworks
-- C048: The Ooze + Stridehangar Automaton + Phyrexian Altar
-- C056: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Altar of Dementia
-- C057: The Ooze + Clock of Omens + Stridehangar Automaton + Altar of the Brood
-- C059: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Arcbound Ravager
-- C072: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Ashnod's Altar
-- C074: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Blasting Station
-- C077: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Carrion Feeder
-- C078: The Ooze + Clock of Omens + Stridehangar Automaton + Grinding Station
-- C091: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Grinding Station
-- C098: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Krark-Clan Ironworks
-- C105: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Phyrexian Altar
-- C106: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Umbral Collar Zealot
+- C017: The Ooze + Stridehangar Automaton + Ashnod's Altar
+- C026: The Ooze + Clock of Omens + Stridehangar Automaton
+- C042: The Ooze + Stridehangar Automaton + Krark-Clan Ironworks
+- C046: The Ooze + Stridehangar Automaton + Phyrexian Altar
+- C054: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Altar of Dementia
+- C055: The Ooze + Clock of Omens + Stridehangar Automaton + Altar of the Brood
+- C057: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Arcbound Ravager
+- C070: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Ashnod's Altar
+- C072: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Blasting Station
+- C075: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Carrion Feeder
+- C076: The Ooze + Clock of Omens + Stridehangar Automaton + Grinding Station
+- C089: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Grinding Station
+- C096: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Krark-Clan Ironworks
+- C103: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Phyrexian Altar
+- C104: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Umbral Collar Zealot
+- C114: The Ooze + Animation Module + Ashnod's Altar
+- C115: The Ooze + Animation Module + Krark-Clan Ironworks
+- C120: The Ooze + Animation Module + Pitiless Plunderer + Phyrexian Altar
 ===endpanel
 ===endaccordion
 
 ===accordion
 ===panel: Tortured Existence
 
-- C026: Imotekh the Stormlord + Clock of Omens + Tortured Existence
-- C040: Tortured Existence + Phyrexian Altar + Imotekh the Stormlord
-- C054: Tortured Existence + Pitiless Plunderer + Imotekh the Stormlord + Altar of Dementia
-- C073: Tortured Existence + Pitiless Plunderer + Imotekh the Stormlord + Blasting Station
-- C075: Tortured Existence + Pitiless Plunderer + Imotekh the Stormlord + Carrion Feeder
+- C024: Imotekh the Stormlord + Clock of Omens + Tortured Existence
+- C038: Tortured Existence + Phyrexian Altar + Imotekh the Stormlord
+- C052: Tortured Existence + Pitiless Plunderer + Imotekh the Stormlord + Altar of Dementia
+- C071: Tortured Existence + Pitiless Plunderer + Imotekh the Stormlord + Blasting Station
+- C073: Tortured Existence + Pitiless Plunderer + Imotekh the Stormlord + Carrion Feeder
 ===endpanel
 ===endaccordion
 
 ===accordion
 ===panel: Ultron the Annihilator
 
-- C016: Ultron the Annihilator + Nim Deathmantle + Ashnod's Altar
-- C041: Ultron the Annihilator + Nim Deathmantle + Krark-Clan Ironworks
-- C101: Ultron the Annihilator + Nim Deathmantle + Phyrexian Altar + Pitiless Plunderer
+- C014: Ultron the Annihilator + Nim Deathmantle + Ashnod's Altar
+- C039: Ultron the Annihilator + Nim Deathmantle + Krark-Clan Ironworks
+- C099: Ultron the Annihilator + Nim Deathmantle + Phyrexian Altar + Pitiless Plunderer
 ===endpanel
 ===endaccordion
 
 ===accordion
 ===panel: Umbral Collar Zealot
 
-- C034: Gravecrawler + Pitiless Plunderer + Umbral Collar Zealot
-- C036: The Ghoul, Gunslinger + Gravecrawler + Umbral Collar Zealot
-- C049: Pitiless Plunderer + Umbral Collar Zealot + Stridehangar Automaton
-- C102: Out of the Tombs + Skullclamp + Pitiless Plunderer + Umbral Collar Zealot
-- C106: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Umbral Collar Zealot
+- C032: Gravecrawler + Pitiless Plunderer + Umbral Collar Zealot
+- C034: The Ghoul, Gunslinger + Gravecrawler + Umbral Collar Zealot
+- C047: Pitiless Plunderer + Umbral Collar Zealot + Stridehangar Automaton
+- C100: Out of the Tombs + Skullclamp + Pitiless Plunderer + Umbral Collar Zealot
+- C104: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Umbral Collar Zealot
+- C119: Super Shredder + Animation Module + Pitiless Plunderer + Umbral Collar Zealot
 ===endpanel
 ===endaccordion
 
 ===accordion
 ===panel: Warren Soultrader
 
-- C005: Warren Soultrader + Aetherflux Reservoir + Gravecrawler
-- C035: Warren Soultrader + Gravecrawler + Sephiroth, Fabled SOLDIER
-- C037: Warren Soultrader + Gravecrawler + Zulaport Cutthroat
-- C050: Warren Soultrader + Stridehangar Automaton + Sephiroth, Fabled SOLDIER
-- C051: Warren Soultrader + Zulaport Cutthroat + Stridehangar Automaton
-- C052: Metalwork Colossus + Warren Soultrader + Pitiless Plunderer + Aetherflux Reservoir
-- C053: Metalwork Colossus + Warren Soultrader + Aetherflux Reservoir + Stridehangar Automaton
-- C103: Out of the Tombs + Skullclamp + Warren Soultrader + Sephiroth, Fabled SOLDIER
-- C104: Out of the Tombs + Skullclamp + Warren Soultrader + Zulaport Cutthroat
+- C003: Warren Soultrader + Aetherflux Reservoir + Gravecrawler
+- C033: Warren Soultrader + Gravecrawler + Sephiroth, Fabled SOLDIER
+- C035: Warren Soultrader + Gravecrawler + Zulaport Cutthroat
+- C048: Warren Soultrader + Stridehangar Automaton + Sephiroth, Fabled SOLDIER
+- C049: Warren Soultrader + Zulaport Cutthroat + Stridehangar Automaton
+- C050: Metalwork Colossus + Warren Soultrader + Pitiless Plunderer + Aetherflux Reservoir
+- C051: Metalwork Colossus + Warren Soultrader + Aetherflux Reservoir + Stridehangar Automaton
+- C101: Out of the Tombs + Skullclamp + Warren Soultrader + Sephiroth, Fabled SOLDIER
+- C102: Out of the Tombs + Skullclamp + Warren Soultrader + Zulaport Cutthroat
 ===endpanel
 ===endaccordion
 
 ===accordion
 ===panel: Workshop Assistant
 
-- C063: Glaring Fleshraker + Ashnod's Altar + Junk Diver + Workshop Assistant
-- C065: Glaring Fleshraker + Ashnod's Altar + Myr Retriever + Workshop Assistant
-- C066: Glaring Fleshraker + Ashnod's Altar + Scrap Trawler + Workshop Assistant
-- C068: Imotekh the Stormlord + Junk Diver + Workshop Assistant + Ashnod's Altar
-- C070: Imotekh the Stormlord + Myr Retriever + Workshop Assistant + Ashnod's Altar
-- C087: Glaring Fleshraker + Junk Diver + Workshop Assistant + Krark-Clan Ironworks
-- C089: Glaring Fleshraker + Myr Retriever + Workshop Assistant + Krark-Clan Ironworks
-- C093: Imotekh the Stormlord + Junk Diver + Workshop Assistant + Krark-Clan Ironworks
-- C095: Imotekh the Stormlord + Myr Retriever + Workshop Assistant + Krark-Clan Ironworks
+- C061: Glaring Fleshraker + Ashnod's Altar + Junk Diver + Workshop Assistant
+- C063: Glaring Fleshraker + Ashnod's Altar + Myr Retriever + Workshop Assistant
+- C064: Glaring Fleshraker + Ashnod's Altar + Scrap Trawler + Workshop Assistant
+- C066: Imotekh the Stormlord + Junk Diver + Workshop Assistant + Ashnod's Altar
+- C068: Imotekh the Stormlord + Myr Retriever + Workshop Assistant + Ashnod's Altar
+- C085: Glaring Fleshraker + Junk Diver + Workshop Assistant + Krark-Clan Ironworks
+- C087: Glaring Fleshraker + Myr Retriever + Workshop Assistant + Krark-Clan Ironworks
+- C091: Imotekh the Stormlord + Junk Diver + Workshop Assistant + Krark-Clan Ironworks
+- C093: Imotekh the Stormlord + Myr Retriever + Workshop Assistant + Krark-Clan Ironworks
+===endpanel
+===endaccordion
+
+===accordion
+===panel: Yawgmoth, Thran Physician
+
+- C112: Yawgmoth, Thran Physician + Out of the Tombs + Zulaport Cutthroat
+- C113: Yawgmoth, Thran Physician + Out of the Tombs + Sephiroth, Fabled SOLDIER
 ===endpanel
 ===endaccordion
 
 ===accordion
 ===panel: Zulaport Cutthroat
 
-- C037: Warren Soultrader + Gravecrawler + Zulaport Cutthroat
-- C051: Warren Soultrader + Zulaport Cutthroat + Stridehangar Automaton
-- C104: Out of the Tombs + Skullclamp + Warren Soultrader + Zulaport Cutthroat
+- C035: Warren Soultrader + Gravecrawler + Zulaport Cutthroat
+- C049: Warren Soultrader + Zulaport Cutthroat + Stridehangar Automaton
+- C102: Out of the Tombs + Skullclamp + Warren Soultrader + Zulaport Cutthroat
+- C112: Yawgmoth, Thran Physician + Out of the Tombs + Zulaport Cutthroat
 ===endpanel
 ===endaccordion
+
+===endpanel
+===endaccordion
+
+===accordion
+===panel: Card Change History
+
+Deck changes are listed in chronological order based on the builds discussed. This records the working decklist decisions, not purchase dates.
+
+### Original 108-core build
+
+- The earlier catalog included [[Doctor Doom, Unrivaled]] + [[Tainted Pact]] as a standalone alternate win condition.
+- The earlier decklist also contained [[Bloodline Recollector]] and [[Liliana the Repentant]] before the draw/self-mill experiment.
+
+### Graveyard and card-access package
+
+- **Out:** [[Bloodline Recollector]], [[Liliana the Repentant]]
+- **In:** [[Mesmeric Orb]], [[Yawgmoth, Thran Physician]]
+- **Reason:** Strengthen self-mill, artifact-to-graveyard triggers with Ultron, sacrifice utility, and repeatable card draw.
+- **Combo impact:** Two conditional [[Yawgmoth, Thran Physician]] + [[Out of the Tombs]] configurations were subsequently documented, using [[Zulaport Cutthroat]] or [[Sephiroth, Fabled SOLDIER // Sephiroth, One-Winged Angel]] to offset life payments.
+
+### Artifact-counter combo package (current list)
+
+- **Out:** [[Doctor Doom, Unrivaled]], [[Tainted Pact]]
+- **In:** [[Super Shredder]], [[Animation Module]]
+- **Reason:** Favor synergistic artifact-creature sacrifice loops and +1/+1 counter production over the Doom/Pact library-empty win condition.
+- **Combo impact:** The original Doom/Pact core was retired; five Animation Module combinations appeared in the newer Commander Spellbook export.
+
+### Catalog rebuild and review
+
+- The original 108-core baseline was reconciled with the current decklist.
+- The incomplete two-card Nim Deathmantle + Ashnod's Altar entry was retired; separate, complete Deathmantle loops remain.
+- Seven further conditional Module/Ooze/Shredder outlet configurations were identified during the later rules review.
+- All retained configurations were **renumbered C001–C120**, and the card index was regenerated. The total counts configurations, not necessarily independent minimal win conditions.
+
+### Not part of the confirmed changes
+
+[[Bitter Ordeal]], [[Agatha's Soul Cauldron]], and a potential [[Darksteel Citadel]] substitution were discussed as options, but **none is included in the current submitted decklist**. [[Jet Medallion]] remains in the list.
+
+===endpanel
+===endaccordion
+
+===accordion
+===panel: Audit Notes and Limitations
+
+**Count:** 120 active cataloged configurations. This is not a count of 120 independently verified minimal combo engines or guaranteed wins.
+
+Entries with finite resources, required starter creatures, empty libraries, or sorcery-speed activation restrictions retain those explicit prerequisites.
+
+### Core validity and count methodology
+
+- **Former C001 was retired.** Nim Deathmantle and Ashnod's Altar alone cannot execute the listed persist/undying loop. Other valid Deathmantle combinations remain.
+- **Former C002 was retired** because Doctor Doom and Tainted Pact have been removed from the submitted build.
+- **C106's previously illegal move from hand to graveyard is fixed.** Its corrected KCI/Sol Ring/Scrap Trawler sequence earns a net {C}{C}{C}{C}{C} per cycle, accounting for the two Sol Ring casts, one Junk Diver cast, and one Myr Retriever cast.
+- **C024, C038, C052, C071, C073:** Tortured Existence must repeatedly return an **artifact creature card** from the graveyard so Imotekh triggers every cycle. Two such cards, one initially in hand and one in the graveyard, supply the alternating fuel.
+- **The Ooze is an artifact, not a creature.** It does not suffer summoning sickness unless animated into a creature. The prior caveats suggesting otherwise were misleading.
+- **Mutagen tokens:** Their activated abilities have a **sorcery-only restriction**. Execute any sequence requiring these activations during your own main phase with an empty stack. The tap-symbol activation is usable the turn a noncreature artifact token enters.
+- **C026, C055, C076** are graveyard- or library-bounded lines rather than truly unbounded engines, unless paired with a resource-refresh mechanism. They are preserved under the legacy convention of recording finite but repeatable deterministic lines.
+- **C027, C030, C031, C043** (Sensei's Top / Forge draw engines): don't call the number of card draws literally infinite if the library is finite; they permit repeated casting/drawing until the deck is exhausted or a win is achieved.
+- **C012** requires Marionette Apprentice to choose the Servo mode of fabricate to support the mana-neutral death loop.
+- **Out of the Tombs entries (C015, C040, C044, C053, C056, C074, C100–C102, C105, C112–C113)** require an empty library and the appropriate nontoken creature card(s) in the graveyard when each draw is replaced. Otherwise the replacement may cause a loss. Yawgmoth's life cost is covered by Zulaport or by Sephiroth/emblem, respectively.
+- **C107–C111** appear in the supplied 77-entry Spellbook export; **C112–C120** are separately reasoned conditional engines not present in that export. Spellbook not listing a combination does not invalidate it.
+
+### Additional configurations audited from exact card text
+
+- **C114–C115 (The Ooze / Animation Module / Ashnod's Altar or KCI):** A starter creature, a graveyard card, and two mana generate the initial Mutagen, +1/+1 counter, and Servo. Every later cycle spends {2} (Mutagen {1}, Module {1}) and generates {2} (Altar or KCI) when a countered Servo is sacrificed. **Mana-neutral**, not positive mana. KCI additionally needs an artifact creature starter.
+- **C116 (Altar of Dementia):** A sacrifice triggers Shredder and Pitiless, generating a counter and a Treasure; Module spends the Treasure for a Servo replacement. Repeated mill is bounded by libraries.
+- **C117 (Blasting Station):** Identical resource engine but the Servo ETB untaps Blasting Station, yielding repeatable direct damage.
+- **C118 (Grinding Station):** Sacrifice the Servo as an artifact, then its replacement entering untaps Grinding Station. Repeatable mill, with an artifact creature required to start.
+- **C119 (Umbral Collar Zealot):** Free sacrifice outlet with surveil payoff, using Treasure to pay Module. Surveil is library-bounded even if the loop continues.
+- **C120** (The Ooze / Animation Module / Pitiless Plunderer / Phyrexian Altar) is mana-neutral: Phyrexian Altar and Plunderer Treasure together generate {2} to pay for the Mutagen and Module. It adds a fourth required card, unlike C114/C115.
+- **No double-counting of existing minimal subcores:** Adding Super Shredder to C107 (Module/Plunderer/Carrion Feeder) or C110 (Module/Plunderer/Arcbound Ravager) is an **extension**, not a new core, because those three-card configurations already function without Shredder.
+
+### Limitations, clearly stated
+
+The original 108 entries contain a mix of minimal combos, alternate-outlet variants, payoff-specific branches, finite graveyard interactions and empty-library replacement effects. This update checks card presence, corrects the errors above, tests resource loops by explicit stepwise mana accounting, and reconciles the exported configurations. It **does not** constitute formal machine verification of all possible stack interactions, opponent interaction, or each old prerequisite. Use the per-entry prerequisites before representing any result as deterministic. The 120 number is *catalogued configurations* rather than a deduplicated number of genuinely independent mechanisms.
+
+### Rules references
+
+- The Ooze and Mutagen: https://mtg.wtf/card/tmt/177/The-Ooze
+- Stridehangar Automaton: https://mtg.wtf/card/drc/19/Stridehangar-Automaton
+- Super Shredder: https://mtg.wtf/card/tmt/83/Super-Shredder
+- Animation Module: https://mtg.wtf/card/kld/194/Animation-Module
+- Out of the Tombs: https://mtg.wtf/card/40k/46/Out-of-the-Tombs
+- Yawgmoth: https://mtg.wtf/card/mh1/116/Yawgmoth-Thran-Physician
+- Sephiroth: https://www.spellbinder.gg/cards/fin/451/sephiroth-fabled-soldier-sephiroth-one-winged-angel
 
 ===endpanel
 ===endaccordion

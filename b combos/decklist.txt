@@ -2,11 +2,11 @@
 1 Altar of Dementia
 1 Altar of the Brood
 1 Ancient Tomb
+1 Animation Module
 1 Arcbound Ravager
 1 Ashnod's Altar
 1 Beseech the Mirror
 1 Blasting Station
-1 Bloodline Recollector
 1 Bloodstained Mire
 1 Bolas's Citadel
 1 Cabal Pit
@@ -22,7 +22,6 @@
 1 Deadly Rollick
 1 Demonic Tutor
 1 Diabolic Intent
-1 Doctor Doom, Unrivaled
 1 Dross Scorpion
 1 Entomb
 1 Fomori Vault
@@ -37,11 +36,11 @@
 1 Junk Diver
 1 Krark-Clan Ironworks
 1 Kuldotha Forgemaster
-1 Liliana the Repentant
 1 Lively Dirge
 1 Lotus Petal
 1 Marionette Apprentice
 1 Marsh Flats
+1 Mesmeric Orb
 1 Metalwork Colossus
 1 Metalworker
 1 Mox Opal
@@ -73,10 +72,10 @@
 1 Spymaster's Vault
 1 Stitcher's Supplier
 1 Stridehangar Automaton
+1 Super Shredder
 1 Swamp
 1 Swamp
 1 Swamp
-1 Tainted Pact
 1 Takenuma, Abandoned Mire
 1 The Black Gate
 1 The Ghoul, Gunslinger
@@ -96,6 +95,7 @@
 1 Walking Ballista
 1 Warren Soultrader
 1 Workshop Assistant
+1 Yawgmoth, Thran Physician
 1 Zulaport Cutthroat
 
 1 Ultron the Annihilator
