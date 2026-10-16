@@ -1,6 +1,5 @@
 1 Aetherflux Reservoir
 1 Altar of Dementia
-1 Altar of the Brood
 1 Ancient Tomb
 1 Animation Module
 1 Arcbound Ravager
@@ -36,11 +35,11 @@
 1 Junk Diver
 1 Krark-Clan Ironworks
 1 Kuldotha Forgemaster
+1 Liliana the Repentant
 1 Lively Dirge
 1 Lotus Petal
 1 Marionette Apprentice
 1 Marsh Flats
-1 Mesmeric Orb
 1 Metalwork Colossus
 1 Metalworker
 1 Mox Opal
@@ -94,6 +93,7 @@
 1 Volrath's Stronghold
 1 Walking Ballista
 1 Warren Soultrader
+1 Wishclaw Talisman
 1 Workshop Assistant
 1 Yawgmoth, Thran Physician
 1 Zulaport Cutthroat
