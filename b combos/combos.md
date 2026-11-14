@@ -1,9 +1,9 @@
 ===accordion
 ===panel: Core Combos
 
-**Ultron the Annihilator — 119 cataloged configurations**
+**Ultron the Annihilator — 101 active C configurations and 14 active T configurations.**
 
-Combo entries are numbered C001–C119. See **Card Change History** for deck changes and **Audit Notes and Limitations** for counting conventions.
+Entries are retained from the supplied catalog; active status means all named required cards are in decklist(5).txt, not a fresh rules certification. IDs remain stable. Removed-card entries are archived below.
 
 <a id="c001"></a>
 ===accordion
@@ -20,16 +20,26 @@ Prerequisites:
 - You control an additional Zombie.
 
 Steps:
-1. Activate Phyrexian Altar by sacrificing Gravecrawler, adding [[symbol:b]].
-2. Cast Gravecrawler from your graveyard by paying [[symbol:b]].
-3. Repeat.
+1. Sacrifice Gravecrawler to Phyrexian Altar.
+2. Resolve the relevant triggers and obtain [[symbol:b]] from Phyrexian Altar. Resolve the life-gain trigger before continuing if using Sephiroth or Zulaport. Resolve any outlet damage, mill, counter, or surveil ability.
+3. Use [[symbol:b]] from the Altar or sacrifice the Treasure for [[symbol:b]], then cast Gravecrawler from your graveyard while you control the other Zombie.
+4. Resolve Reservoir life gain if present; Gravecrawler entering untaps Blasting Station if present. Repeat. The real Sephiroth transforms on its fourth death-trigger resolution; its emblem then maintains the drain.
 
 Results:
-- Infinite death triggers
-- Infinite creature ETB
-- Infinite creature LTB
-- Infinite creature sacrifice triggers
-- Infinite storm count
+- Arbitrarily many creature deaths, sacrifice events and creature entries, under the stated prerequisites.
+- Arbitrarily high spell count from repeated casts.
+- Mana, life and token surplus: see the accounting note below; repeated production does not always accumulate those resources.
+
+Classification: Unbounded resource loop.
+
+Audit Notes:
+- Additional Zombie required. Net zero mana; repeatable creature deaths/casts. No artifact event intrinsically, so Ultron alone does not make this line lethal.
+
+
+Optional Payoff:
+- [[Marionette Apprentice]] on the battlefield turns the repeated creature/artifact deaths in this engine into lethal life loss to every opponent. Keep Apprentice alive as the observer.
+- Apprentice’s fabricate Servo can provide starter fodder where an expendable artifact creature is needed; it does not replace a required recyclable nontoken body or the additional Zombie for Gravecrawler.
+- This is an optional finishing extension, not another independently counted core configuration.
 
 ===endpanel
 ===endaccordion
@@ -48,22 +58,23 @@ Cards Required:
 Prerequisites:
 - All permanents on the battlefield.
 - Your life total is at least 2.
+- Your library is nonempty. Stop before an attempted draw from an empty library.
 
 Steps:
-1. Activate Sensei's Divining Top by tapping it, drawing a card and then putting Sensei's Divining Top on top of your library.
-2. Cast Sensei's Divining Top from the top of your library by paying 1 life.
-3. Aetherflux Reservoir triggers, gaining you 1 life for each spell you have cast this turn.
-4. Repeat until your life total is 52 or greater.
-5. Activate Aetherflux Reservoir by paying 50 life, dealing 50 damage to any target.
-6. Repeat.
+1. With at least one card left in your library, tap Top to draw a card, then put Top on top of your library.
+2. Cast Top from your library, paying 1 life through Bolas's Citadel.
+3. Resolve all entry/cast payoffs. Fleshraker deals one damage for the Spawn and one for Top entering. Reservoir gains life according to the spell count if present.
+4. Repeat only while library cards remain. With Reservoir, pay 50 life for each desired damage activation while retaining enough life to survive. This line is finite without an added replenishment/replacement effect.
 
 Results:
-- Infinite card draw
-- Infinite draw triggers
-- Near-infinite damage
-- Near-infinite lifegain
-- Near-infinite lifegain triggers
-- Near-infinite storm count
+- Finite repeated card access / resource conversion as described in the steps.
+- Not an unbounded loop: library or graveyard fuel is consumed.
+- Finite direct damage or Reservoir lethal potential, subject to remaining resources.
+
+Classification: Finite sequence.
+
+Audit Notes:
+- Finite: nonempty library, life >= 2. N <= starting library size; net life formula and Reservoir damage budget are in F02.
 
 ===endpanel
 ===endaccordion
@@ -84,21 +95,21 @@ Prerequisites:
 - Your life total is at least 2.
 
 Steps:
-1. Activate Warren Soultrader by paying 1 life and sacrificing Gravecrawler, creating a Treasure token.
-2. Activate the Treasure by tapping and sacrificing it, adding [[symbol:b]].
-3. Cast Gravecrawler from your graveyard by paying [[symbol:b]].
-4. Aetherflux Reservoir triggers, causing you to gain 1 life for each spell you've cast this turn.
-5. Repeat.
+1. Sacrifice Gravecrawler to Warren Soultrader by paying 1 life.
+2. Resolve the relevant triggers and obtain a Treasure from Warren Soultrader. Resolve the life-gain trigger before continuing if using Sephiroth or Zulaport. Resolve any outlet damage, mill, counter, or surveil ability.
+3. Use [[symbol:b]] from the Altar or sacrifice the Treasure for [[symbol:b]], then cast Gravecrawler from your graveyard while you control the other Zombie.
+4. Resolve Reservoir life gain if present; Gravecrawler entering untaps Blasting Station if present. Repeat. The real Sephiroth transforms on its fourth death-trigger resolution; its emblem then maintains the drain.
 
 Results:
-- Infinite creature LTB
-- Infinite creature ETB
-- Infinite creature sacrifice triggers
-- Infinite death triggers
-- Infinite damage
-- Infinite lifegain triggers
-- Infinite lifegain
-- Infinite storm count
+- Arbitrarily many creature deaths, sacrifice events and creature entries, under the stated prerequisites.
+- Arbitrarily high spell count from repeated casts.
+- Direct lethal damage or life loss through the named payoff.
+- Mana, life and token surplus: see the accounting note below; repeated production does not always accumulate those resources.
+
+Classification: Unbounded resource loop.
+
+Audit Notes:
+- Life >= 2; Warren is the other Zombie. Reservoir life gain grows on every cast; directly lethal through Reservoir.
 
 ===endpanel
 ===endaccordion
@@ -115,27 +126,27 @@ Cards Required:
 - [[Altar of Dementia]]
 
 Prerequisites:
-- Gravecrawler in your graveyard.
 - Pitiless Plunderer and Altar of Dementia on the battlefield.
 - You control an additional Zombie
 - You control another Zombie.
+- Gravecrawler is on the battlefield, or [[symbol:b]] is available for its first graveyard cast.
 
 Steps:
-1. Activate Altar of Dementia by sacrificing Gravecrawler.
-2. When Gravecrawler dies, Pitiless Plunderer triggers, creating a Treasure token.
-3. Resolve the Altar of Dementia ability.
-4. Activate the Treasure token by tapping and sacrificing it, adding [[symbol:b]].
-5. Cast Gravecrawler from your graveyard by paying [[symbol:b]].
-6. Repeat.
+1. Sacrifice Gravecrawler to Altar of Dementia.
+2. Resolve the relevant triggers and obtain a Treasure from Pitiless Plunderer. Resolve the life-gain trigger before continuing if using Sephiroth or Zulaport. Resolve any outlet damage, mill, counter, or surveil ability.
+3. Use [[symbol:b]] from the Altar or sacrifice the Treasure for [[symbol:b]], then cast Gravecrawler from your graveyard while you control the other Zombie.
+4. Resolve Reservoir life gain if present; Gravecrawler entering untaps Blasting Station if present. Repeat. The real Sephiroth transforms on its fourth death-trigger resolution; its emblem then maintains the drain.
 
 Results:
-- Infinite death triggers
-- Infinite creature ETB
-- Infinite creature LTB
-- Infinite mill
-- Infinite creature sacrifice triggers
-- Infinite self-mill
-- Infinite storm count
+- Arbitrarily many creature deaths, sacrifice events and creature entries, under the stated prerequisites.
+- Arbitrarily high spell count from repeated casts.
+- Repeatable mill; actual cards milled are library-bounded, and emptying a library is not by itself immediate elimination.
+- Mana, life and token surplus: see the accounting note below; repeated production does not always accumulate those resources.
+
+Classification: Unbounded resource loop.
+
+Audit Notes:
+- Start Gravecrawler on battlefield, or pay initial [[symbol:b]] to cast from graveyard. Additional Zombie required. Treasure pays each recast; net zero.
 
 ===endpanel
 ===endaccordion
@@ -155,25 +166,21 @@ Prerequisites:
 - All permanents on the battlefield.
 
 Steps:
-1. Activate Altar of Dementia by sacrificing Gravecrawler.
-2. When Gravecrawler dies, The Ghoul triggers, causing you to get two rad counters and create a Treasure token.
-3. Resolve the Altar of Dementia ability.
-4. Activate the Treasure by tapping and sacrificing it, adding [[symbol:b]].
-5. Cast Gravecrawler from your graveyard by paying [[symbol:b]].
-6. Repeat.
+1. Sacrifice Gravecrawler to Altar of Dementia.
+2. Resolve the relevant triggers and obtain a Treasure from The Ghoul, Gunslinger, targeting yourself. Resolve the life-gain trigger before continuing if using Sephiroth or Zulaport. Resolve any outlet damage, mill, counter, or surveil ability.
+3. Use [[symbol:b]] from the Altar or sacrifice the Treasure for [[symbol:b]], then cast Gravecrawler from your graveyard while you control the other Zombie.
+4. Resolve Reservoir life gain if present; Gravecrawler entering untaps Blasting Station if present. Repeat. The real Sephiroth transforms on its fourth death-trigger resolution; its emblem then maintains the drain.
 
 Results:
-- Infinite artifact ETB
-- Infinite artifact LTB
-- Infinite artifact sacrifice triggers
-- Infinite creature ETB
-- Infinite creature LTB
-- Infinite death triggers
-- Infinite radiation counters for yourself
-- Infinite creature sacrifice triggers
-- Infinite storm count
-- Infinite mill
-- Infinite self-mill
+- Arbitrarily many creature deaths, sacrifice events and creature entries, under the stated prerequisites.
+- Arbitrarily high spell count from repeated casts.
+- Repeatable mill; actual cards milled are library-bounded, and emptying a library is not by itself immediate elimination.
+- Mana, life and token surplus: see the accounting note below; repeated production does not always accumulate those resources.
+
+Classification: Unbounded resource loop.
+
+Audit Notes:
+- The Ghoul supplies the additional Zombie; target yourself for its Treasure. Accumulate two rad counters per loop. Avoid taking a later rad upkeep if it would be dangerous; win first.
 
 ===endpanel
 ===endaccordion
@@ -194,24 +201,27 @@ Prerequisites:
 - You control another creature.
 
 Steps:
-1. Activate Altar of Dementia by sacrificing another creature.
-2. When the creature dies, Pitiless Plunderer triggers, creating a Treasure token and a 1/1 Thopter artifact creature token.
-3. Resolve the Altar of Dementia ability.
-4. Repeat.
+1. Sacrifice an extra suitable creature to Altar of Dementia.
+2. Pitiless Plunderer creates a Treasure. Stridehangar replaces that event with a Treasure plus a Thopter; the Thopter is 2/2 with its anthem.
+3. Resolve the outlet ability and any Station untap triggers. Sacrifice the replacement Thopter through the same outlet.
+4. Repeat. Keep Plunderer, Stridehangar and any creature outlet alive. Retain Treasures or sacrifice them for colored mana; do not count a spent Treasure twice.
 
 Results:
-- Infinite artifact ETB
-- Infinite artifact LTB
-- Infinite artifact sacrifice triggers
-- Infinite artifact tokens
-- Infinite creature LTB
-- Infinite creature ETB
-- Infinite colored mana
-- Infinite creature sacrifice triggers
-- Infinite death triggers
-- Infinite mill
-- Infinite self-mill
-- Infinite Treasure tokens
+- Arbitrarily many creature deaths, sacrifice events and creature entries, under the stated prerequisites.
+- Repeatable mill; actual cards milled are library-bounded, and emptying a library is not by itself immediate elimination.
+- Artifact entries/deaths or graveyard events as specified; Ultron adds lethal drain when the repeating artifact-to-graveyard events occur while it is present.
+- Mana, life and token surplus: see the accounting note below; repeated production does not always accumulate those resources.
+
+Classification: Unbounded resource loop.
+
+Audit Notes:
+- Extra starter creature; artifact creature for Ravager/KCI/Grinding. Keep Plunderer, Stridehangar and any creature outlet alive. Treasures accumulate; outlet outputs are in F03.
+
+
+Optional Payoff:
+- [[Marionette Apprentice]] on the battlefield turns the repeated creature/artifact deaths in this engine into lethal life loss to every opponent. Keep Apprentice alive as the observer.
+- Apprentice’s fabricate Servo can provide starter fodder where an expendable artifact creature is needed; it does not replace a required recyclable nontoken body or the additional Zombie for Gravecrawler.
+- This is an optional finishing extension, not another independently counted core configuration.
 
 ===endpanel
 ===endaccordion
@@ -232,23 +242,27 @@ Prerequisites:
 - You control another artifact creature.
 
 Steps:
-1. Activate Arcbound Ravager by sacrificing another artifact creature.
-2. When the creature dies, Pitiless Plunderer triggers, creating a Treasure token and a 1/1 Thopter artifact creature token.
-3. Resolve the Arcbound Ravager ability.
-4. Repeat.
+1. Sacrifice an extra suitable creature to Arcbound Ravager.
+2. Pitiless Plunderer creates a Treasure. Stridehangar replaces that event with a Treasure plus a Thopter; the Thopter is 2/2 with its anthem.
+3. Resolve the outlet ability and any Station untap triggers. Sacrifice the replacement Thopter through the same outlet.
+4. Repeat. Keep Plunderer, Stridehangar and any creature outlet alive. Retain Treasures or sacrifice them for colored mana; do not count a spent Treasure twice.
 
 Results:
-- Infinite artifact ETB
-- Infinite artifact LTB
-- Infinite artifact sacrifice triggers
-- Infinite artifact tokens
-- Infinite creature LTB
-- Infinite creature ETB
-- Infinite colored mana
-- Infinite creature sacrifice triggers
-- Infinite death triggers
-- Infinite Treasure tokens
-- Infinite +1/+1 counters on a creature
+- Arbitrarily many creature deaths, sacrifice events and creature entries, under the stated prerequisites.
+- Arbitrarily many +1/+1 counters on the surviving counter source.
+- Artifact entries/deaths or graveyard events as specified; Ultron adds lethal drain when the repeating artifact-to-graveyard events occur while it is present.
+- Mana, life and token surplus: see the accounting note below; repeated production does not always accumulate those resources.
+
+Classification: Unbounded resource loop.
+
+Audit Notes:
+- Extra starter creature; artifact creature for Ravager/KCI/Grinding. Keep Plunderer, Stridehangar and any creature outlet alive. Treasures accumulate; outlet outputs are in F03.
+
+
+Optional Payoff:
+- [[Marionette Apprentice]] on the battlefield turns the repeated creature/artifact deaths in this engine into lethal life loss to every opponent. Keep Apprentice alive as the observer.
+- Apprentice’s fabricate Servo can provide starter fodder where an expendable artifact creature is needed; it does not replace a required recyclable nontoken body or the additional Zombie for Gravecrawler.
+- This is an optional finishing extension, not another independently counted core configuration.
 
 ===endpanel
 ===endaccordion
@@ -269,16 +283,25 @@ Prerequisites:
 - [[symbol:2]] available
 
 Steps:
-1. Activate Retrofitter Foundry's second ability by paying [[symbol:2]] and tapping it, creating a 1/1 Servo artifact creature token.
-2. Activate Ashnod's Altar by sacrificing the Servo, adding [[symbol:c]][[symbol:c]].
-3. When the Servo dies, Dross Scorpion triggers, untapping Retrofitter Foundry.
-4. Repeat.
+1. Pay [[symbol:2]] and tap Retrofitter Foundry to create a Servo.
+2. Sacrifice the Servo to Ashnod's Altar, adding [[symbol:c]][[symbol:c]].
+3. Resolve Dross Scorpion's death trigger targeting Foundry, untapping it.
+4. Repeat using the recovered [[symbol:2]]; there is no net mana gain.
 
 Results:
-- Infinite creature LTB
-- Infinite creature ETB
-- Infinite creature sacrifice triggers
-- Infinite death triggers
+- Arbitrarily many creature deaths, sacrifice events and creature entries, under the stated prerequisites.
+- Mana, life and token surplus: see the accounting note below; repeated production does not always accumulate those resources.
+
+Classification: Unbounded resource loop.
+
+Audit Notes:
+- Foundry untapped, initial [[symbol:2]]; two generated and two spent every cycle. No net mana or growing Servo count.
+
+
+Optional Payoff:
+- [[Marionette Apprentice]] on the battlefield turns the repeated creature/artifact deaths in this engine into lethal life loss to every opponent. Keep Apprentice alive as the observer.
+- Apprentice’s fabricate Servo can provide starter fodder where an expendable artifact creature is needed; it does not replace a required recyclable nontoken body or the additional Zombie for Gravecrawler.
+- This is an optional finishing extension, not another independently counted core configuration.
 
 ===endpanel
 ===endaccordion
@@ -299,19 +322,20 @@ Prerequisites:
 - You control an additional Zombie.
 
 Steps:
-1. Activate Ashnod's Altar by sacrificing Gravecrawler, adding [[symbol:c]][[symbol:c]].
-2. When Gravecrawler dies, Pitiless Plunderer triggers, creating a Treasure token.
-3. Activate the Treasure token by tapping and sacrificing it, adding [[symbol:b]].
-4. Cast Gravecrawler from your graveyard by paying [[symbol:b]].
-5. Repeat.
+1. Sacrifice Gravecrawler to Ashnod's Altar.
+2. Resolve the relevant triggers and obtain a Treasure from Pitiless Plunderer. Resolve the life-gain trigger before continuing if using Sephiroth or Zulaport. Resolve any outlet damage, mill, counter, or surveil ability.
+3. Use [[symbol:b]] from the Altar or sacrifice the Treasure for [[symbol:b]], then cast Gravecrawler from your graveyard while you control the other Zombie.
+4. Resolve Reservoir life gain if present; Gravecrawler entering untaps Blasting Station if present. Repeat. The real Sephiroth transforms on its fourth death-trigger resolution; its emblem then maintains the drain.
 
 Results:
-- Infinite colorless mana
-- Infinite death triggers
-- Infinite creature ETB
-- Infinite creature LTB
-- Infinite creature sacrifice triggers
-- Infinite storm count
+- Arbitrarily many creature deaths, sacrifice events and creature entries, under the stated prerequisites.
+- Arbitrarily high spell count from repeated casts.
+- Mana, life and token surplus: see the accounting note below; repeated production does not always accumulate those resources.
+
+Classification: Unbounded resource loop.
+
+Audit Notes:
+- Additional Zombie required; net two colorless per Gravecrawler recast after spending Treasure for [[symbol:b]].
 
 ===endpanel
 ===endaccordion
@@ -331,23 +355,20 @@ Prerequisites:
 - All permanents on the battlefield.
 
 Steps:
-1. Activate Ashnod's Altar by sacrificing Gravecrawler.
-2. When Gravecrawler dies, The Ghoul triggers, causing you to get two rad counters and create a Treasure token.
-3. Activate the Treasure by tapping and sacrificing it, adding [[symbol:b]].
-4. Cast Gravecrawler from your graveyard by paying [[symbol:b]].
-5. Repeat.
+1. Sacrifice Gravecrawler to Ashnod's Altar.
+2. Resolve the relevant triggers and obtain a Treasure from The Ghoul, Gunslinger, targeting yourself. Resolve the life-gain trigger before continuing if using Sephiroth or Zulaport. Resolve any outlet damage, mill, counter, or surveil ability.
+3. Use [[symbol:b]] from the Altar or sacrifice the Treasure for [[symbol:b]], then cast Gravecrawler from your graveyard while you control the other Zombie.
+4. Resolve Reservoir life gain if present; Gravecrawler entering untaps Blasting Station if present. Repeat. The real Sephiroth transforms on its fourth death-trigger resolution; its emblem then maintains the drain.
 
 Results:
-- Infinite artifact ETB
-- Infinite artifact LTB
-- Infinite artifact sacrifice triggers
-- Infinite creature ETB
-- Infinite creature LTB
-- Infinite death triggers
-- Infinite radiation counters for yourself
-- Infinite creature sacrifice triggers
-- Infinite storm count
-- Infinite colorless mana
+- Arbitrarily many creature deaths, sacrifice events and creature entries, under the stated prerequisites.
+- Arbitrarily high spell count from repeated casts.
+- Mana, life and token surplus: see the accounting note below; repeated production does not always accumulate those resources.
+
+Classification: Unbounded resource loop.
+
+Audit Notes:
+- The Ghoul supplies Zombie and Treasure. Net two colorless; two rad counters per loop targeting yourself.
 
 ===endpanel
 ===endaccordion
@@ -369,19 +390,20 @@ Prerequisites:
 - [[symbol:2]] available
 
 Steps:
-1. Activate Ashnod's Altar by sacrificing a nontoken artifact creature, adding [[symbol:c]][[symbol:c]].
-2. The creature dies, triggering Nim Deathmantle, causing you to pay [[symbol:4]] to return the artifact creature from your graveyard to the battlefield, and attach Nim Deathmantle to it.
-3. Imotekh's first ability triggers, creating two 2/2 Necron Warrior artifact creature tokens.
-4. Activate Ashnod's Altar by sacrificing a Necron Warrior, adding [[symbol:c]][[symbol:c]].
-5. Repeat.
+1. Sacrifice another nontoken artifact creature to Ashnod's Altar, adding [[symbol:c]][[symbol:c]].
+2. Pay [[symbol:4]] as Nim Deathmantle's trigger resolves, using the initial [[symbol:2]] buffer for the first return. Return the body and attach Deathmantle.
+3. Imotekh triggers because an artifact card left your graveyard; create two Necrons.
+4. Sacrifice one Necron to Ashnod's Altar for [[symbol:c]][[symbol:c]], then repeat the body sacrifice and return. Retain the other Necron, or sacrifice both for surplus mana. Preserve Imotekh.
 
 Results:
-- Infinite colorless mana
-- Infinite creature tokens
-- Infinite death triggers
-- Infinite creature ETB
-- Infinite creature LTB
-- Infinite creature sacrifice triggers
+- Arbitrarily many creature deaths, sacrifice events and creature entries, under the stated prerequisites.
+- Artifact entries/deaths or graveyard events as specified; Ultron adds lethal drain when the repeating artifact-to-graveyard events occur while it is present.
+- Mana, life and token surplus: see the accounting note below; repeated production does not always accumulate those resources.
+
+Classification: Unbounded resource loop.
+
+Audit Notes:
+- Additional nontoken artifact body and initial [[symbol:2]]. Preserve Imotekh. Retain one Necron per neutral cycle, or sacrifice both for net two mana.
 
 ===endpanel
 ===endaccordion
@@ -398,58 +420,28 @@ Cards Required:
 - [[Marionette Apprentice]]
 
 Prerequisites:
-- All permanents on the battlefield.
-- [[symbol:2]] available
+- All three named permanents are on the battlefield.
+- You control a Servo created by Apprentice’s fabricate ability. Choose the Servo mode each time Apprentice returns.
+- No additional mana is needed once the Servo is present.
 
 Steps:
-1. Activate Ashnod's Altar by sacrificing Marionette Apprentice, adding [[symbol:c]][[symbol:c]].
-2. When Marionette Apprentice dies, Nim Deathmantle triggers, causing you to pay [[symbol:4]] to return Marionette Apprentice from your graveyard to the battlefield and attach Nim Deathmantle to it.
-3. When Marionette Apprentice enters, it triggers, creating a creature token.
-4. Activate Ashnod's Altar by sacrificing a creature token, adding [[symbol:c]][[symbol:c]].
-5. When the creature token dies, Marionette Apprentice triggers, causing each opponent to lose 1 life.
-6. Repeat.
+1. Sacrifice the Servo to Ashnod’s Altar, adding [[symbol:c]][[symbol:c]]. Apprentice triggers; each opponent loses 1 life.
+2. Sacrifice Apprentice to Ashnod’s Altar, adding another [[symbol:c]][[symbol:c]]. Nim Deathmantle triggers.
+3. Pay [[symbol:4]] as Deathmantle’s trigger resolves, returning Apprentice and attaching Deathmantle to it.
+4. Resolve fabricate 1, choosing a Servo rather than a +1/+1 counter.
+5. Repeat from step 1. Each cycle restores Apprentice plus Servo and drains every opponent.
 
 Results:
-- Infinite creature LTB
-- Infinite creature ETB
-- Infinite creature sacrifice triggers
-- Infinite death triggers
-- Infinite lifeloss
+- Arbitrarily many creature deaths, sacrifices, entries and artifact-token deaths.
+- Lethal life loss to each opponent.
+- Mana-neutral: four generated and four spent per cycle.
 
-**Choice required:** Choose the Servo-token mode of Marionette Apprentice's fabricate ability, not the +1/+1-counter mode.
+Classification: Unbounded resource loop.
 
-===endpanel
-===endaccordion
-
-<a id="c013"></a>
-===accordion
-===panel: C013: Nim Deathmantle + Ashnod's Altar + Orcish Bowmasters
-
-[[symbol:b]]
-
-Cards Required:
-- [[Nim Deathmantle]]
-- [[Ashnod's Altar]]
-- [[Orcish Bowmasters]]
-
-Prerequisites:
-- All permanents on the battlefield.
-- You do not control an Army.
-- [[symbol:2]] available
-
-Steps:
-1. Activate Ashnod's Altar by sacrificing Orcish Bowmasters, adding [[symbol:c]][[symbol:c]].
-2. When Orcish Bowmasters dies, Nim Deathmantle triggers, causing you to pay [[symbol:4]] to return Orcish Bowmasters from your graveyard to the battlefield and attach Nim Deathmantle to it.
-3. When Orcish Bowmasters enters, it triggers, dealing 1 damage to any target and creating a creature token.
-4. Activate Ashnod's Altar by sacrificing a creature token, adding [[symbol:c]][[symbol:c]].
-5. Repeat.
-
-Results:
-- Infinite damage
-- Infinite death triggers
-- Infinite creature ETB
-- Infinite creature LTB
-- Infinite creature sacrifice triggers
+Audit Notes:
+- Restored from Archive for the Bowmasters → Apprentice swap. C013 is now archived.
+- Apprentice does not trigger for its own death; the Servo death supplies the guaranteed drain.
+- This is not a KCI substitution: Apprentice is not an artifact and cannot ordinarily be sacrificed to KCI.
 
 ===endpanel
 ===endaccordion
@@ -470,23 +462,20 @@ Prerequisites:
 - Ultron the Annihilator has created a 2/2 Robot Villain artifact creature token.
 
 Steps:
-1. Activate Ashnod's Altar by sacrificing the Robot token, adding [[symbol:c]][[symbol:c]].
-2. Ultron the Annihilator triggers, causing each opponent to lose 1 life.
-3. Activate Ashnod's Altar by sacrificing Ultron the Annihilator, adding [[symbol:c]][[symbol:c]].
-4. Nim Deathmantle triggers, causing you to pay [[symbol:4]] to return Ultron the Annihilator from your graveyard to the battlefield and attach Nim Deathmantle to it.
-5. Ultron enters and creates a 2/2 Robot Villain artifact creature token.
-6. Repeat.
+1. Sacrifice the Robot to Ashnod's Altar for [[symbol:2]] while Ultron is present; resolve its drain.
+2. Sacrifice Ultron to Ashnod's Altar for [[symbol:2]], leaving it in the graveyard.
+3. Pay [[symbol:4]] to Deathmantle, return Ultron, attach Deathmantle, then resolve its ETB to create the replacement Robot.
+4. Repeat; two sacrifices exactly fund each return.
 
 Results:
-- Infinite lifeloss
-- Infinite creature ETB
-- Infinite creature LTB
-- Infinite creature sacrifice triggers
-- Infinite death triggers
-- Infinite artifact ETB
-- Infinite artifact LTB
-- Infinite artifact sacrifice triggers
-- Infinite creature tokens
+- Arbitrarily many creature deaths, sacrifice events and creature entries, under the stated prerequisites.
+- Direct lethal damage or life loss through the named payoff.
+- Mana, life and token surplus: see the accounting note below; repeated production does not always accumulate those resources.
+
+Classification: Unbounded resource loop.
+
+Audit Notes:
+- A Robot already present; leave Ultron in graveyard for Deathmantle. Two sacrifices fund [[symbol:4]]; neutral and directly lethal.
 
 ===endpanel
 ===endaccordion
@@ -507,22 +496,29 @@ Prerequisites:
 - Your library is empty.
 - You control two suitable nontoken creatures that can be sacrificed.
 - [[symbol:1]] available for the initial Skullclamp equip.
+- Use recyclable bodies that survive Skullclamp unless the entry explicitly uses a 1-toughness auto-dying carrier.
 
 Steps:
-1. Equip Skullclamp to one of the recyclable creatures.
-2. Sacrifice the other creature to Ashnod's Altar, adding [[symbol:c]][[symbol:c]].
-3. Sacrifice the equipped creature to Ashnod's Altar, adding [[symbol:c]][[symbol:c]] and triggering Skullclamp.
-4. Resolve Skullclamp's two draws one at a time. Because your library is empty, Out of the Tombs replaces each draw by returning one of the two creature cards from your graveyard to the battlefield.
-5. Spend [[symbol:1]] to equip Skullclamp to one of the returned creatures.
-6. Repeat.
+1. Pay [[symbol:1]] to equip Skullclamp to a recyclable body that survives its -1 toughness.
+2. Sacrifice BOTH recyclable bodies to Ashnod's Altar before Clamp's draw trigger resolves.
+3. Resolve resource triggers first, then resolve Clamp. Out of the Tombs replaces its two draws separately by returning both creature cards. Do not remove those cards with another recursion trigger first.
+4. Spend one generated mana or Treasure on the next equip and repeat. Both bodies must return each cycle.
 
 Results:
-- Infinite colorless mana
-- Infinite creature ETB
-- Infinite creature LTB
-- Infinite creature sacrifice triggers
-- Infinite death triggers
-- Infinite draw-replacement events
+- Arbitrarily many creature deaths, sacrifice events and creature entries, under the stated prerequisites.
+- Artifact entries/deaths or graveyard events as specified; Ultron adds lethal drain when the repeating artifact-to-graveyard events occur while it is present.
+- Mana, life and token surplus: see the accounting note below; repeated production does not always accumulate those resources.
+
+Classification: Unbounded resource loop.
+
+Audit Notes:
+- Empty library; two other recyclable nontoken bodies surviving Clamp (both artifacts for KCI), [[symbol:1]] equip seed. Four generated minus one equip = net three colorless.
+
+
+Optional Payoff:
+- [[Marionette Apprentice]] on the battlefield turns the repeated creature/artifact deaths in this engine into lethal life loss to every opponent. Keep Apprentice alive as the observer.
+- Apprentice’s fabricate Servo can provide starter fodder where an expendable artifact creature is needed; it does not replace a required recyclable nontoken body or the additional Zombie for Gravecrawler.
+- This is an optional finishing extension, not another independently counted core configuration.
 
 ===endpanel
 ===endaccordion
@@ -543,22 +539,26 @@ Prerequisites:
 - You control another creature.
 
 Steps:
-1. Activate Ashnod's Altar by sacrificing another creature, adding [[symbol:c]][[symbol:c]].
-2. When the creature dies, Pitiless Plunderer triggers, creating a Treasure token and a 1/1 Thopter artifact creature token.
-3. Repeat.
+1. Sacrifice an extra suitable creature to Ashnod's Altar.
+2. Pitiless Plunderer creates a Treasure. Stridehangar replaces that event with a Treasure plus a Thopter; the Thopter is 2/2 with its anthem.
+3. Resolve the outlet ability and any Station untap triggers. Sacrifice the replacement Thopter through the same outlet.
+4. Repeat. Keep Plunderer, Stridehangar and any creature outlet alive. Retain Treasures or sacrifice them for colored mana; do not count a spent Treasure twice.
 
 Results:
-- Infinite artifact ETB
-- Infinite artifact LTB
-- Infinite artifact sacrifice triggers
-- Infinite artifact tokens
-- Infinite creature LTB
-- Infinite creature ETB
-- Infinite colored mana
-- Infinite creature sacrifice triggers
-- Infinite death triggers
-- Infinite colorless mana
-- Infinite Treasure tokens
+- Arbitrarily many creature deaths, sacrifice events and creature entries, under the stated prerequisites.
+- Artifact entries/deaths or graveyard events as specified; Ultron adds lethal drain when the repeating artifact-to-graveyard events occur while it is present.
+- Mana, life and token surplus: see the accounting note below; repeated production does not always accumulate those resources.
+
+Classification: Unbounded resource loop.
+
+Audit Notes:
+- Extra starter creature; artifact creature for Ravager/KCI/Grinding. Keep Plunderer, Stridehangar and any creature outlet alive. Treasures accumulate; outlet outputs are in F03.
+
+
+Optional Payoff:
+- [[Marionette Apprentice]] on the battlefield turns the repeated creature/artifact deaths in this engine into lethal life loss to every opponent. Keep Apprentice alive as the observer.
+- Apprentice’s fabricate Servo can provide starter fodder where an expendable artifact creature is needed; it does not replace a required recyclable nontoken body or the additional Zombie for Gravecrawler.
+- This is an optional finishing extension, not another independently counted core configuration.
 
 ===endpanel
 ===endaccordion
@@ -580,23 +580,20 @@ Prerequisites:
 - [[symbol:1]] available.
 
 Steps:
-1. Activate Ashnod's Altar by sacrificing the creature with a +1/+1 counter on it, adding [[symbol:c]][[symbol:c]].
-2. The Ooze triggers, creating a Mutagen token. Stridehangar Automaton causes you to also create a 1/1 Thopter artifact creature token.
-3. Pay [[symbol:1]], tap and sacrifice the Mutagen to put a +1/+1 counter on the Thopter.
-4. Activate Ashnod's Altar by sacrificing the Thopter, adding [[symbol:c]][[symbol:c]].
-5. The Ooze triggers, creating another Mutagen token. Stridehangar Automaton causes you to also create another 1/1 Thopter artifact creature token.
-6. Repeat from step 3.
+1. Sacrifice the extra countered body to Ashnod's Altar. Ooze creates a Mutagen; Stridehangar adds a Thopter.
+2. During your main phase with an empty stack, spend [[symbol:1]], tap and sacrifice Mutagen to put a +1/+1 counter on the Thopter.
+3. Sacrifice that countered Thopter to Ashnod's Altar, creating the replacement Mutagen and Thopter through Ooze and Stridehangar.
+4. Repeat the counter transfer and sacrifice. Each Mutagen activation must wait for an empty stack.
 
 Results:
-- Infinite colorless mana
-- Infinite artifact ETB
-- Infinite artifact LTB
-- Infinite artifact sacrifice triggers
-- Infinite artifact tokens
-- Infinite creature ETB
-- Infinite creature LTB
-- Infinite creature sacrifice triggers
-- Infinite death triggers
+- Arbitrarily many creature deaths, sacrifice events and creature entries, under the stated prerequisites.
+- Artifact entries/deaths or graveyard events as specified; Ultron adds lethal drain when the repeating artifact-to-graveyard events occur while it is present.
+- Mana, life and token surplus: see the accounting note below; repeated production does not always accumulate those resources.
+
+Classification: Unbounded resource loop.
+
+Audit Notes:
+- Extra countered creature (artifact for KCI), your main phase/empty stack for Mutagen. Generate two, spend one per repeated countered-body death: net one colorless.
 
 ===endpanel
 ===endaccordion
@@ -613,27 +610,27 @@ Cards Required:
 - [[Blasting Station]]
 
 Prerequisites:
-- Gravecrawler in your graveyard.
 - Pitiless Plunderer and Blasting Station on the battlefield.
 - You control an additional Zombie
 - You control another Zombie.
+- Gravecrawler is on the battlefield, or [[symbol:b]] is available for its first graveyard cast.
 
 Steps:
-1. Activate Blasting Station by tapping it and sacrificing Gravecrawler.
-2. When Gravecrawler dies, Pitiless Plunderer triggers, creating a Treasure token.
-3. Resolve the Blasting Station ability.
-4. Activate the Treasure token by tapping and sacrificing it, adding [[symbol:b]].
-5. Cast Gravecrawler from your graveyard by paying [[symbol:b]].
-6. When Gravecrawler enters, Blasting Station triggers, untapping Blasting Station
-7. Repeat.
+1. Sacrifice Gravecrawler to Blasting Station.
+2. Resolve the relevant triggers and obtain a Treasure from Pitiless Plunderer. Resolve the life-gain trigger before continuing if using Sephiroth or Zulaport. Resolve any outlet damage, mill, counter, or surveil ability.
+3. Use [[symbol:b]] from the Altar or sacrifice the Treasure for [[symbol:b]], then cast Gravecrawler from your graveyard while you control the other Zombie.
+4. Resolve Reservoir life gain if present; Gravecrawler entering untaps Blasting Station if present. Repeat. The real Sephiroth transforms on its fourth death-trigger resolution; its emblem then maintains the drain.
 
 Results:
-- Infinite damage
-- Infinite death triggers
-- Infinite creature ETB
-- Infinite creature LTB
-- Infinite creature sacrifice triggers
-- Infinite storm count
+- Arbitrarily many creature deaths, sacrifice events and creature entries, under the stated prerequisites.
+- Arbitrarily high spell count from repeated casts.
+- Direct lethal damage or life loss through the named payoff.
+- Mana, life and token surplus: see the accounting note below; repeated production does not always accumulate those resources.
+
+Classification: Unbounded resource loop.
+
+Audit Notes:
+- Start Gravecrawler on battlefield, or pay initial [[symbol:b]] to cast from graveyard. Additional Zombie required. Treasure pays each recast; net zero.
 
 ===endpanel
 ===endaccordion
@@ -653,25 +650,21 @@ Prerequisites:
 - All permanents on the battlefield.
 
 Steps:
-1. Activate Blasting Station by tapping it and sacrificing Gravecrawler.
-2. When Gravecrawler dies, The Ghoul triggers, causing you to get two rad counters and create a Treasure token.
-3. Resolve the Blasting Station ability.
-4. Activate the Treasure by tapping and sacrificing it, adding [[symbol:b]].
-5. Cast Gravecrawler from your graveyard by paying [[symbol:b]].
-6. When Gravecrawler enters, Blasting Station triggers, untapping Blasting Station.
-7. Repeat.
+1. Sacrifice Gravecrawler to Blasting Station.
+2. Resolve the relevant triggers and obtain a Treasure from The Ghoul, Gunslinger, targeting yourself. Resolve the life-gain trigger before continuing if using Sephiroth or Zulaport. Resolve any outlet damage, mill, counter, or surveil ability.
+3. Use [[symbol:b]] from the Altar or sacrifice the Treasure for [[symbol:b]], then cast Gravecrawler from your graveyard while you control the other Zombie.
+4. Resolve Reservoir life gain if present; Gravecrawler entering untaps Blasting Station if present. Repeat. The real Sephiroth transforms on its fourth death-trigger resolution; its emblem then maintains the drain.
 
 Results:
-- Infinite artifact ETB
-- Infinite artifact LTB
-- Infinite artifact sacrifice triggers
-- Infinite creature ETB
-- Infinite creature LTB
-- Infinite death triggers
-- Infinite radiation counters for yourself
-- Infinite creature sacrifice triggers
-- Infinite storm count
-- Infinite damage
+- Arbitrarily many creature deaths, sacrifice events and creature entries, under the stated prerequisites.
+- Arbitrarily high spell count from repeated casts.
+- Direct lethal damage or life loss through the named payoff.
+- Mana, life and token surplus: see the accounting note below; repeated production does not always accumulate those resources.
+
+Classification: Unbounded resource loop.
+
+Audit Notes:
+- The Ghoul supplies the additional Zombie; target yourself for its Treasure. Accumulate two rad counters per loop. Avoid taking a later rad upkeep if it would be dangerous; win first.
 
 ===endpanel
 ===endaccordion
@@ -692,24 +685,27 @@ Prerequisites:
 - You control another creature.
 
 Steps:
-1. Activate Blasting Station by sacrificing another creature.
-2. When the creature dies, Pitiless Plunderer triggers, creating a Treasure token and a 1/1 Thopter artifact creature token.
-3. When the Thopter enters the battlefield, Blasting Station triggers, untapping Blasting Station.
-4. Resolve the Blasting Station ability from step 1.
-5. Repeat.
+1. Sacrifice an extra suitable creature to Blasting Station.
+2. Pitiless Plunderer creates a Treasure. Stridehangar replaces that event with a Treasure plus a Thopter; the Thopter is 2/2 with its anthem.
+3. Resolve the outlet ability and any Station untap triggers. Sacrifice the replacement Thopter through the same outlet.
+4. Repeat. Keep Plunderer, Stridehangar and any creature outlet alive. Retain Treasures or sacrifice them for colored mana; do not count a spent Treasure twice.
 
 Results:
-- Infinite artifact ETB
-- Infinite artifact LTB
-- Infinite artifact sacrifice triggers
-- Infinite artifact tokens
-- Infinite creature LTB
-- Infinite creature ETB
-- Infinite colored mana
-- Infinite creature sacrifice triggers
-- Infinite death triggers
-- Infinite damage
-- Infinite Treasure tokens
+- Arbitrarily many creature deaths, sacrifice events and creature entries, under the stated prerequisites.
+- Direct lethal damage or life loss through the named payoff.
+- Artifact entries/deaths or graveyard events as specified; Ultron adds lethal drain when the repeating artifact-to-graveyard events occur while it is present.
+- Mana, life and token surplus: see the accounting note below; repeated production does not always accumulate those resources.
+
+Classification: Unbounded resource loop.
+
+Audit Notes:
+- Extra starter creature; artifact creature for Ravager/KCI/Grinding. Keep Plunderer, Stridehangar and any creature outlet alive. Treasures accumulate; outlet outputs are in F03.
+
+
+Optional Payoff:
+- [[Marionette Apprentice]] on the battlefield turns the repeated creature/artifact deaths in this engine into lethal life loss to every opponent. Keep Apprentice alive as the observer.
+- Apprentice’s fabricate Servo can provide starter fodder where an expendable artifact creature is needed; it does not replace a required recyclable nontoken body or the additional Zombie for Gravecrawler.
+- This is an optional finishing extension, not another independently counted core configuration.
 
 ===endpanel
 ===endaccordion
@@ -726,26 +722,26 @@ Cards Required:
 - [[Carrion Feeder]]
 
 Prerequisites:
-- Gravecrawler in your graveyard.
 - Pitiless Plunderer and Carrion Feeder on the battlefield.
-- You control an additional Zombie
-- You control another Zombie.
+- Gravecrawler is on the battlefield, or [[symbol:b]] is available for its first graveyard cast.
+- Carrion Feeder supplies the additional Zombie needed for Gravecrawler.
 
 Steps:
-1. Activate Carrion Feeder by sacrificing Gravecrawler.
-2. When Gravecrawler dies, Pitiless Plunderer triggers, creating a Treasure token.
-3. Resolve the Carrion Feeder ability.
-4. Activate the Treasure token by tapping and sacrificing it, adding [[symbol:b]].
-5. Cast Gravecrawler from your graveyard by paying [[symbol:b]].
-6. Repeat.
+1. Sacrifice Gravecrawler to Carrion Feeder.
+2. Resolve the relevant triggers and obtain a Treasure from Pitiless Plunderer. Resolve the life-gain trigger before continuing if using Sephiroth or Zulaport. Resolve any outlet damage, mill, counter, or surveil ability.
+3. Use [[symbol:b]] from the Altar or sacrifice the Treasure for [[symbol:b]], then cast Gravecrawler from your graveyard while you control the other Zombie.
+4. Resolve Reservoir life gain if present; Gravecrawler entering untaps Blasting Station if present. Repeat. The real Sephiroth transforms on its fourth death-trigger resolution; its emblem then maintains the drain.
 
 Results:
-- Infinite +1/+1 counters on a creature
-- Infinite death triggers
-- Infinite creature ETB
-- Infinite creature LTB
-- Infinite creature sacrifice triggers
-- Infinite storm count
+- Arbitrarily many creature deaths, sacrifice events and creature entries, under the stated prerequisites.
+- Arbitrarily high spell count from repeated casts.
+- Arbitrarily many +1/+1 counters on the surviving counter source.
+- Mana, life and token surplus: see the accounting note below; repeated production does not always accumulate those resources.
+
+Classification: Unbounded resource loop.
+
+Audit Notes:
+- Carrion Feeder itself supplies the additional Zombie; no third Zombie is required. Treasure pays recasts; net zero mana.
 
 ===endpanel
 ===endaccordion
@@ -765,24 +761,21 @@ Prerequisites:
 - All permanents on the battlefield.
 
 Steps:
-1. Activate Carrion Feeder by sacrificing Gravecrawler.
-2. When Gravecrawler dies, The Ghoul triggers, causing you to get two rad counters and create a Treasure token.
-3. Resolve the Carrion Feeder ability.
-4. Activate the Treasure by tapping and sacrificing it, adding [[symbol:b]].
-5. Cast Gravecrawler from your graveyard by paying [[symbol:b]].
-6. Repeat.
+1. Sacrifice Gravecrawler to Carrion Feeder.
+2. Resolve the relevant triggers and obtain a Treasure from The Ghoul, Gunslinger, targeting yourself. Resolve the life-gain trigger before continuing if using Sephiroth or Zulaport. Resolve any outlet damage, mill, counter, or surveil ability.
+3. Use [[symbol:b]] from the Altar or sacrifice the Treasure for [[symbol:b]], then cast Gravecrawler from your graveyard while you control the other Zombie.
+4. Resolve Reservoir life gain if present; Gravecrawler entering untaps Blasting Station if present. Repeat. The real Sephiroth transforms on its fourth death-trigger resolution; its emblem then maintains the drain.
 
 Results:
-- Infinite artifact ETB
-- Infinite artifact LTB
-- Infinite artifact sacrifice triggers
-- Infinite creature ETB
-- Infinite creature LTB
-- Infinite death triggers
-- Infinite radiation counters for yourself
-- Infinite creature sacrifice triggers
-- Infinite storm count
-- Infinite +1/+1 counters on a creature
+- Arbitrarily many creature deaths, sacrifice events and creature entries, under the stated prerequisites.
+- Arbitrarily high spell count from repeated casts.
+- Arbitrarily many +1/+1 counters on the surviving counter source.
+- Mana, life and token surplus: see the accounting note below; repeated production does not always accumulate those resources.
+
+Classification: Unbounded resource loop.
+
+Audit Notes:
+- The Ghoul supplies the additional Zombie; target yourself for its Treasure. Accumulate two rad counters per loop. Avoid taking a later rad upkeep if it would be dangerous; win first.
 
 ===endpanel
 ===endaccordion
@@ -803,23 +796,27 @@ Prerequisites:
 - You control another creature.
 
 Steps:
-1. Activate Carrion Feeder by sacrificing another creature, putting a +1/+1 counter on Carrion Feeder.
-2. When that creature dies, Pitiless Plunderer triggers, creating a Treasure token.
-3. Stridehangar Automaton triggers from the Treasure entering, creating a 1/1 Thopter artifact creature token.
-4. Sacrifice the Thopter to Carrion Feeder, putting another +1/+1 counter on Carrion Feeder.
-5. Pitiless Plunderer creates another Treasure and Stridehangar Automaton creates a replacement Thopter.
-6. Repeat from step 4.
+1. Sacrifice an extra suitable creature to Carrion Feeder.
+2. Pitiless Plunderer creates a Treasure. Stridehangar replaces that event with a Treasure plus a Thopter; the Thopter is 2/2 with its anthem.
+3. Resolve the outlet ability and any Station untap triggers. Sacrifice the replacement Thopter through the same outlet.
+4. Repeat. Keep Plunderer, Stridehangar and any creature outlet alive. Retain Treasures or sacrifice them for colored mana; do not count a spent Treasure twice.
 
 Results:
-- Infinite +1/+1 counters on Carrion Feeder
-- Infinite Treasure tokens
-- Infinite colored mana
-- Infinite artifact ETB
-- Infinite artifact tokens
-- Infinite creature ETB
-- Infinite creature LTB
-- Infinite creature sacrifice triggers
-- Infinite death triggers
+- Arbitrarily many creature deaths, sacrifice events and creature entries, under the stated prerequisites.
+- Arbitrarily many +1/+1 counters on the surviving counter source.
+- Artifact entries/deaths or graveyard events as specified; Ultron adds lethal drain when the repeating artifact-to-graveyard events occur while it is present.
+- Mana, life and token surplus: see the accounting note below; repeated production does not always accumulate those resources.
+
+Classification: Unbounded resource loop.
+
+Audit Notes:
+- Extra starter creature; artifact creature for Ravager/KCI/Grinding. Keep Plunderer, Stridehangar and any creature outlet alive. Treasures accumulate; outlet outputs are in F03.
+
+
+Optional Payoff:
+- [[Marionette Apprentice]] on the battlefield turns the repeated creature/artifact deaths in this engine into lethal life loss to every opponent. Keep Apprentice alive as the observer.
+- Apprentice’s fabricate Servo can provide starter fodder where an expendable artifact creature is needed; it does not replace a required recyclable nontoken body or the additional Zombie for Gravecrawler.
+- This is an optional finishing extension, not another independently counted core configuration.
 
 ===endpanel
 ===endaccordion
@@ -842,15 +839,21 @@ Prerequisites:
 - You have a SECOND artifact creature card in your graveyard.
 
 Steps:
-1. Activate a mana-producing artifact you control by tapping it, adding [[symbol:b]].
-2. Activate Tortured Existence by paying [[symbol:b]] and discarding an artifact creature card, returning another artifact creature card from your graveyard to your hand.
-3. Imotekh's first ability triggers, creating two 2/2 Necron Warrior artifact creature tokens.
-4. Activate Clock of Omens by tapping the Necron Warriors, untapping the mana-producing artifact.
-5. Repeat.
+1. Tap the black-producing artifact (Vault of Whispers works) for [[symbol:b]].
+2. Activate Tortured Existence for [[symbol:b]]: target the artifact creature card already in your graveyard and discard the other artifact creature card as the cost. Return the target to hand.
+3. Resolve Imotekh to create two Necrons.
+4. Tap both Necrons to Clock of Omens to untap the black-producing artifact.
+5. Repeat with the hand/graveyard cards exchanged. Do not cast the exchanged cards.
 
 Results:
-- Infinite creature ETB
-- Infinite tapped creature tokens
+- Arbitrarily many artifact-card returns and Necron-token creation events.
+- Artifact entries/deaths or graveyard events as specified; Ultron adds lethal drain when the repeating artifact-to-graveyard events occur while it is present.
+- Mana, life and token surplus: see the accounting note below; repeated production does not always accumulate those resources.
+
+Classification: Unbounded resource loop.
+
+Audit Notes:
+- Two additional artifact creature cards alternate hand/graveyard. Add an untapped black-producing artifact; Vault of Whispers is present and works. Tap two Necrons to Clock each cycle; accumulate tapped Necrons.
 
 ===endpanel
 ===endaccordion
@@ -871,16 +874,21 @@ Prerequisites:
 - You control a Thopter.
 
 Steps:
-1. Activate Retrofitter Foundry's fourth ability by tapping it and sacrificing a Thopter, creating a 4/4 Construct and a 1/1 Thopter artifact creature token.
-2. Activate Clock of Omens by tapping the Construct and Thopter, untapping Retrofitter Foundry.
-3. Repeat.
+1. Tap Foundry and sacrifice a Thopter to its Construct-making ability.
+2. Create a Construct and, through Stridehangar, a replacement Thopter.
+3. Tap both new tokens to Clock to untap Foundry.
+4. Repeat with the replacement Thopter; Constructs accumulate.
 
 Results:
-- Infinite creature ETB
-- Infinite tapped creature tokens
-- Infinite creature LTB
-- Infinite creature sacrifice triggers
-- Infinite death triggers
+- Arbitrarily many artifact-creature deaths and replacement token entries.
+- Arbitrarily many Constructs accumulated (tapped in the Clock variant).
+- Artifact entries/deaths or graveyard events as specified; Ultron adds lethal drain when the repeating artifact-to-graveyard events occur while it is present.
+- Mana, life and token surplus: see the accounting note below; repeated production does not always accumulate those resources.
+
+Classification: Unbounded resource loop.
+
+Audit Notes:
+- Untapped Foundry and initial Thopter; no ongoing mana. Clock variant accumulates tapped Constructs, Scorpion variant untapped Constructs.
 
 ===endpanel
 ===endaccordion
@@ -901,18 +909,18 @@ Prerequisites:
 - There is at least one card in a graveyard.
 
 Steps:
-1. Activate The Ooze by tapping it, targeting and exiling a card from a graveyard and creating a Mutagen artifact token.
-2. Stridehangar Automaton causes you to also create a 1/1 Thopter artifact creature token.
-3. Activate Clock of Omens by tapping the Mutagen and Thopter, untapping The Ooze.
-4. Repeat for each card remaining in any graveyard.
+1. Tap The Ooze to exile a graveyard card and create Mutagen plus a Stridehangar Thopter.
+2. Tap the two new artifacts to Clock to untap The Ooze.
+3. Repeat while graveyard cards remain; this consumes finite fuel.
 
 Results:
-- Clear the graveyard
-- Exile all cards from all graveyards
-- Create a Mutagen token for each card exiled
-- Create a Thopter token for each card exiled
+- Finite repeated card access / resource conversion as described in the steps.
+- Not an unbounded loop: library or graveyard fuel is consumed.
 
-**Classification:** Finite/library- or graveyard-bounded engine rather than mathematically unbounded repetition.
+Classification: Finite sequence.
+
+Audit Notes:
+- Finite: one Ooze activation per available graveyard card. Two new artifacts pay Clock. No lasting graveyard-feed mechanism.
 
 ===endpanel
 ===endaccordion
@@ -930,18 +938,22 @@ Cards Required:
 
 Prerequisites:
 - All permanents on the battlefield (Cloud Key with "Artifact" chosen).
+- Your library is nonempty. Stop before an attempted draw from an empty library.
 
 Steps:
-1. Activate Sensei's Divining Top by tapping it, causing you to draw a card and put Sensei's Divining Top on top of your library.
-2. Cast Sensei's Divining Top from the top of your library by paying [[symbol:0]].
-3. Repeat
+1. With at least one card left in your library, tap Top to draw a card, then put Top on top of your library.
+2. Cast Top from your library, paying [[symbol:0]] through Mystic Forge and the cost reducer.
+3. Resolve all entry/cast payoffs. Fleshraker deals one damage for the Spawn and one for Top entering. Reservoir gains life according to the spell count if present.
+4. Repeat only while library cards remain. With Reservoir, pay 50 life for each desired damage activation while retaining enough life to survive. This line is finite without an added replenishment/replacement effect.
 
 Results:
-- Infinite card draw
-- Near-infinite storm count
-- Infinite draw triggers
+- Finite repeated card access / resource conversion as described in the steps.
+- Not an unbounded loop: library or graveyard fuel is consumed.
 
-**Classification:** Repeatable until you exhaust available library cards or move into a win; do not literally draw infinitely from a finite library without draw replacement.
+Classification: Finite sequence.
+
+Audit Notes:
+- Finite: Key names Artifact; library nonempty. Zero recast cost, but each cycle draws one real card.
 
 ===endpanel
 ===endaccordion
@@ -962,16 +974,25 @@ Prerequisites:
 - [[symbol:2]] available
 
 Steps:
-1. Activate Retrofitter Foundry's second ability by paying [[symbol:2]] and tapping it, creating a 1/1 Servo artifact creature token.
-2. Activate Krark-Clan Ironworks by sacrificing the Servo, adding [[symbol:c]][[symbol:c]].
-3. When the Servo dies, Dross Scorpion triggers, untapping Retrofitter Foundry.
-4. Repeat.
+1. Pay [[symbol:2]] and tap Retrofitter Foundry to create a Servo.
+2. Sacrifice the Servo to Krark-Clan Ironworks, adding [[symbol:c]][[symbol:c]].
+3. Resolve Dross Scorpion's death trigger targeting Foundry, untapping it.
+4. Repeat using the recovered [[symbol:2]]; there is no net mana gain.
 
 Results:
-- Infinite creature LTB
-- Infinite creature ETB
-- Infinite creature sacrifice triggers
-- Infinite death triggers
+- Arbitrarily many creature deaths, sacrifice events and creature entries, under the stated prerequisites.
+- Mana, life and token surplus: see the accounting note below; repeated production does not always accumulate those resources.
+
+Classification: Unbounded resource loop.
+
+Audit Notes:
+- Foundry untapped, initial [[symbol:2]]; two generated and two spent every cycle. No net mana or growing Servo count.
+
+
+Optional Payoff:
+- [[Marionette Apprentice]] on the battlefield turns the repeated creature/artifact deaths in this engine into lethal life loss to every opponent. Keep Apprentice alive as the observer.
+- Apprentice’s fabricate Servo can provide starter fodder where an expendable artifact creature is needed; it does not replace a required recyclable nontoken body or the additional Zombie for Gravecrawler.
+- This is an optional finishing extension, not another independently counted core configuration.
 
 ===endpanel
 ===endaccordion
@@ -992,17 +1013,21 @@ Prerequisites:
 - You control a Thopter.
 
 Steps:
-1. Activate Retrofitter Foundry's fourth ability by tapping it and sacrificing a Thopter.
-2. When the Thopter dies, Dross Scorpion triggers, untapping Retrofitter Foundry.
-3. Resolve the Retrofitter Foundry ability, creating a 4/4 Construct and a 1/1 Thopter artifact creature token.
-4. Repeat.
+1. Tap Foundry and sacrifice a Thopter to its Construct-making ability.
+2. Create a Construct and, through Stridehangar, a replacement Thopter.
+3. Scorpion's Thopter-death trigger untaps Foundry before its token-making ability resolves; allow both abilities to resolve in that order.
+4. Repeat with the replacement Thopter; Constructs accumulate.
 
 Results:
-- Infinite creature LTB
-- Infinite creature ETB
-- Infinite creature sacrifice triggers
-- Infinite death triggers
-- Infinite creature tokens
+- Arbitrarily many artifact-creature deaths and replacement token entries.
+- Arbitrarily many Constructs accumulated (tapped in the Clock variant).
+- Artifact entries/deaths or graveyard events as specified; Ultron adds lethal drain when the repeating artifact-to-graveyard events occur while it is present.
+- Mana, life and token surplus: see the accounting note below; repeated production does not always accumulate those resources.
+
+Classification: Unbounded resource loop.
+
+Audit Notes:
+- Untapped Foundry and initial Thopter; no ongoing mana. Clock variant accumulates tapped Constructs, Scorpion variant untapped Constructs.
 
 ===endpanel
 ===endaccordion
@@ -1020,18 +1045,22 @@ Cards Required:
 
 Prerequisites:
 - All permanents on the battlefield.
+- Your library is nonempty. Stop before an attempted draw from an empty library.
 
 Steps:
-1. Activate Sensei's Divining Top by tapping it, causing you to draw a card and put Sensei's Divining Top on top of your library.
-2. Cast Sensei's Divining Top from the top of your library by paying [[symbol:0]].
-3. Repeat
+1. With at least one card left in your library, tap Top to draw a card, then put Top on top of your library.
+2. Cast Top from your library, paying [[symbol:0]] through Mystic Forge and the cost reducer.
+3. Resolve all entry/cast payoffs. Fleshraker deals one damage for the Spawn and one for Top entering. Reservoir gains life according to the spell count if present.
+4. Repeat only while library cards remain. With Reservoir, pay 50 life for each desired damage activation while retaining enough life to survive. This line is finite without an added replenishment/replacement effect.
 
 Results:
-- Infinite card draw
-- Near-infinite storm count
-- Infinite draw triggers
+- Finite repeated card access / resource conversion as described in the steps.
+- Not an unbounded loop: library or graveyard fuel is consumed.
 
-**Classification:** Repeatable until you exhaust available library cards or move into a win; do not literally draw infinitely from a finite library without draw replacement.
+Classification: Finite sequence.
+
+Audit Notes:
+- Finite: Inspector makes Top free; library nonempty. Drawing a finite library prevents an unbounded loop.
 
 ===endpanel
 ===endaccordion
@@ -1050,26 +1079,23 @@ Cards Required:
 Prerequisites:
 - All permanents on the battlefield.
 - [[symbol:1]] available
+- Your library is nonempty. Stop before an attempted draw from an empty library.
 
 Steps:
-1. Activate Sensei's Divining Top by tapping it, causing you to draw a card and put Sensei's Divining Top on top of your library.
-2. Cast Sensei's Divining Top from the top of your library by paying [[symbol:1]].
-3. Glaring Fleshraker's first ability triggers, creating a 0/1 Eldrazi Spawn creature token.
-4. When the Eldrazi Spawn enters, Glaring Fleshraker's second ability triggers, dealing 1 damage to each opponent.
-5. Activate the Eldrazi Spawn by sacrificing it, adding [[symbol:c]].
-6. Repeat
+1. With at least one card left in your library, tap Top to draw a card, then put Top on top of your library.
+2. Cast Top from your library, paying [[symbol:1]]; Fleshraker creates a Spawn, which you sacrifice for [[symbol:c]] to pay for the NEXT Top cast.
+3. Resolve all entry/cast payoffs. Fleshraker deals one damage for the Spawn and one for Top entering. Reservoir gains life according to the spell count if present.
+4. Repeat only while library cards remain. With Reservoir, pay 50 life for each desired damage activation while retaining enough life to survive. This line is finite without an added replenishment/replacement effect.
 
 Results:
-- Infinite card draw
-- Infinite draw triggers
-- Near-infinite storm count
-- Near-infinite damage
-- Near-infinite creature ETB
-- Near-infinite creature LTB
-- Near-infinite death triggers
-- Near-infinite creature sacrifice triggers
+- Finite repeated card access / resource conversion as described in the steps.
+- Not an unbounded loop: library or graveyard fuel is consumed.
+- Finite direct damage or Reservoir lethal potential, subject to remaining resources.
 
-**Classification:** Repeatable until you exhaust available library cards or move into a win; do not literally draw infinitely from a finite library without draw replacement.
+Classification: Finite sequence.
+
+Audit Notes:
+- Finite: library nonempty and [[symbol:1]] seed. Spawn funds the next cast. Spawn AND Top entries each trigger damage: two to every opponent per iteration.
 
 ===endpanel
 ===endaccordion
@@ -1086,26 +1112,27 @@ Cards Required:
 - [[Umbral Collar Zealot]]
 
 Prerequisites:
-- Gravecrawler in your graveyard.
 - Pitiless Plunderer and Umbral Collar Zealot on the battlefield.
 - You control an additional Zombie
 - You control another Zombie.
+- Gravecrawler is on the battlefield, or [[symbol:b]] is available for its first graveyard cast.
 
 Steps:
-1. Activate Umbral Collar Zealot by sacrificing Gravecrawler.
-2. When Gravecrawler dies, Pitiless Plunderer triggers, creating a Treasure token.
-3. Resolve the Umbral Collar Zealot ability.
-4. Activate the Treasure token by tapping and sacrificing it, adding [[symbol:b]].
-5. Cast Gravecrawler from your graveyard by paying [[symbol:b]].
-6. Repeat.
+1. Sacrifice Gravecrawler to Umbral Collar Zealot.
+2. Resolve the relevant triggers and obtain a Treasure from Pitiless Plunderer. Resolve the life-gain trigger before continuing if using Sephiroth or Zulaport. Resolve any outlet damage, mill, counter, or surveil ability.
+3. Use [[symbol:b]] from the Altar or sacrifice the Treasure for [[symbol:b]], then cast Gravecrawler from your graveyard while you control the other Zombie.
+4. Resolve Reservoir life gain if present; Gravecrawler entering untaps Blasting Station if present. Repeat. The real Sephiroth transforms on its fourth death-trigger resolution; its emblem then maintains the drain.
 
 Results:
-- Infinite creature LTB
-- Infinite creature ETB
-- Infinite creature sacrifice triggers
-- Infinite death triggers
-- Infinite storm count
-- Infinite surveil
+- Arbitrarily many creature deaths, sacrifice events and creature entries, under the stated prerequisites.
+- Arbitrarily high spell count from repeated casts.
+- Repeatable surveil events; actual card access is library-bounded.
+- Mana, life and token surplus: see the accounting note below; repeated production does not always accumulate those resources.
+
+Classification: Unbounded resource loop.
+
+Audit Notes:
+- Start Gravecrawler on battlefield, or pay initial [[symbol:b]] to cast from graveyard. Additional Zombie required. Treasure pays each recast; net zero.
 
 ===endpanel
 ===endaccordion
@@ -1119,28 +1146,28 @@ Results:
 Cards Required:
 - [[Warren Soultrader]]
 - [[Gravecrawler]]
-- [[Sephiroth, Fabled SOLDIER // Sephiroth, One-Winged Angel]]
+- [[Sephiroth, Fabled SOLDIER]]
 
 Prerequisites:
 - All permanents on the battlefield.
 - Your life total is at least 2.
 
 Steps:
-1. Activate Warren Soultrader by paying 1 life and sacrificing Gravecrawler.
-2. When Gravecrawler dies, Sephiroth, Fabled SOLDIER // Sephiroth, One-Winged Angel triggers, causing you to gain 1 life and target opponent to lose 1 life.
-3. Resolve the Warren Soultrader ability, creating a Treasure token.
-4. Activate the Treasure by tapping and sacrificing it, adding [[symbol:b]].
-5. Cast Gravecrawler from your graveyard by paying [[symbol:b]].
-6. Repeat.
+1. Sacrifice Gravecrawler to Warren Soultrader by paying 1 life.
+2. Resolve the relevant triggers and obtain a Treasure from Warren Soultrader. Resolve the life-gain trigger before continuing if using Sephiroth or Zulaport. Resolve any outlet damage, mill, counter, or surveil ability.
+3. Use [[symbol:b]] from the Altar or sacrifice the Treasure for [[symbol:b]], then cast Gravecrawler from your graveyard while you control the other Zombie.
+4. Resolve Reservoir life gain if present; Gravecrawler entering untaps Blasting Station if present. Repeat. The real Sephiroth transforms on its fourth death-trigger resolution; its emblem then maintains the drain.
 
 Results:
-- Infinite creature LTB
-- Infinite creature ETB
-- Infinite creature sacrifice triggers
-- Infinite death triggers
-- Infinite lifegain triggers
-- Infinite storm count
-- Infinite lifeloss
+- Arbitrarily many creature deaths, sacrifice events and creature entries, under the stated prerequisites.
+- Arbitrarily high spell count from repeated casts.
+- Direct lethal damage or life loss through the named payoff.
+- Mana, life and token surplus: see the accounting note below; repeated production does not always accumulate those resources.
+
+Classification: Unbounded resource loop.
+
+Audit Notes:
+- Life >= 2; Warren supplies the other Zombie. Resolve the death-drain life gain before continuing; net zero mana and direct lethal drain.
 
 ===endpanel
 ===endaccordion
@@ -1160,24 +1187,21 @@ Prerequisites:
 - All permanents on the battlefield.
 
 Steps:
-1. Activate Umbral Collar Zealot by sacrificing Gravecrawler.
-2. When Gravecrawler dies, The Ghoul triggers, causing you to get two rad counters and create a Treasure token.
-3. Resolve the Umbral Collar Zealot ability.
-4. Activate the Treasure by tapping and sacrificing it, adding [[symbol:b]].
-5. Cast Gravecrawler from your graveyard by paying [[symbol:b]].
-6. Repeat.
+1. Sacrifice Gravecrawler to Umbral Collar Zealot.
+2. Resolve the relevant triggers and obtain a Treasure from The Ghoul, Gunslinger, targeting yourself. Resolve the life-gain trigger before continuing if using Sephiroth or Zulaport. Resolve any outlet damage, mill, counter, or surveil ability.
+3. Use [[symbol:b]] from the Altar or sacrifice the Treasure for [[symbol:b]], then cast Gravecrawler from your graveyard while you control the other Zombie.
+4. Resolve Reservoir life gain if present; Gravecrawler entering untaps Blasting Station if present. Repeat. The real Sephiroth transforms on its fourth death-trigger resolution; its emblem then maintains the drain.
 
 Results:
-- Infinite artifact ETB
-- Infinite artifact LTB
-- Infinite artifact sacrifice triggers
-- Infinite creature ETB
-- Infinite creature LTB
-- Infinite death triggers
-- Infinite radiation counters for yourself
-- Infinite creature sacrifice triggers
-- Infinite storm count
-- Infinite surveil
+- Arbitrarily many creature deaths, sacrifice events and creature entries, under the stated prerequisites.
+- Arbitrarily high spell count from repeated casts.
+- Repeatable surveil events; actual card access is library-bounded.
+- Mana, life and token surplus: see the accounting note below; repeated production does not always accumulate those resources.
+
+Classification: Unbounded resource loop.
+
+Audit Notes:
+- The Ghoul supplies the additional Zombie; target yourself for its Treasure. Accumulate two rad counters per loop. Avoid taking a later rad upkeep if it would be dangerous; win first.
 
 ===endpanel
 ===endaccordion
@@ -1198,21 +1222,21 @@ Prerequisites:
 - Your life total is at least 2.
 
 Steps:
-1. Activate Warren Soultrader by paying 1 life and sacrificing Gravecrawler.
-2. When Gravecrawler dies, Zulaport Cutthroat triggers, causing you to gain 1 life and target opponent to lose 1 life.
-3. Resolve the Warren Soultrader ability, creating a Treasure token.
-4. Activate the Treasure by tapping and sacrificing it, adding [[symbol:b]].
-5. Cast Gravecrawler from your graveyard by paying [[symbol:b]].
-6. Repeat.
+1. Sacrifice Gravecrawler to Warren Soultrader by paying 1 life.
+2. Resolve the relevant triggers and obtain a Treasure from Warren Soultrader. Resolve the life-gain trigger before continuing if using Sephiroth or Zulaport. Resolve any outlet damage, mill, counter, or surveil ability.
+3. Use [[symbol:b]] from the Altar or sacrifice the Treasure for [[symbol:b]], then cast Gravecrawler from your graveyard while you control the other Zombie.
+4. Resolve Reservoir life gain if present; Gravecrawler entering untaps Blasting Station if present. Repeat. The real Sephiroth transforms on its fourth death-trigger resolution; its emblem then maintains the drain.
 
 Results:
-- Infinite creature ETB
-- Infinite creature LTB
-- Infinite creature sacrifice triggers
-- Infinite death triggers
-- Infinite lifegain triggers
-- Infinite lifeloss
-- Infinite storm count
+- Arbitrarily many creature deaths, sacrifice events and creature entries, under the stated prerequisites.
+- Arbitrarily high spell count from repeated casts.
+- Direct lethal damage or life loss through the named payoff.
+- Mana, life and token surplus: see the accounting note below; repeated production does not always accumulate those resources.
+
+Classification: Unbounded resource loop.
+
+Audit Notes:
+- Life >= 2; Warren supplies the other Zombie. Resolve the death-drain life gain before continuing; net zero mana and direct lethal drain.
 
 ===endpanel
 ===endaccordion
@@ -1233,25 +1257,27 @@ Prerequisites:
 - You control another artifact creature.
 
 Steps:
-1. Activate Grinding Station by tapping it and sacrificing another artifact creature.
-2. When the creature dies, Pitiless Plunderer triggers, creating a Treasure token and a 1/1 Thopter artifact creature token.
-3. When the Treasure and Thopter enter the battlefield, Grinding Station triggers twice, untapping Grinding Station.
-4. Resolve the Grinding Station ability from step 1.
-5. Repeat.
+1. Sacrifice an extra suitable creature to Grinding Station.
+2. Pitiless Plunderer creates a Treasure. Stridehangar replaces that event with a Treasure plus a Thopter; the Thopter is 2/2 with its anthem.
+3. Resolve the outlet ability and any Station untap triggers. Sacrifice the replacement Thopter through the same outlet.
+4. Repeat. Keep Plunderer, Stridehangar and any creature outlet alive. Retain Treasures or sacrifice them for colored mana; do not count a spent Treasure twice.
 
 Results:
-- Infinite artifact ETB
-- Infinite artifact LTB
-- Infinite artifact sacrifice triggers
-- Infinite artifact tokens
-- Infinite creature LTB
-- Infinite creature ETB
-- Infinite colored mana
-- Infinite creature sacrifice triggers
-- Infinite death triggers
-- Infinite mill
-- Infinite self-mill
-- Infinite Treasure tokens
+- Arbitrarily many creature deaths, sacrifice events and creature entries, under the stated prerequisites.
+- Repeatable mill; actual cards milled are library-bounded, and emptying a library is not by itself immediate elimination.
+- Artifact entries/deaths or graveyard events as specified; Ultron adds lethal drain when the repeating artifact-to-graveyard events occur while it is present.
+- Mana, life and token surplus: see the accounting note below; repeated production does not always accumulate those resources.
+
+Classification: Unbounded resource loop.
+
+Audit Notes:
+- Extra starter creature; artifact creature for Ravager/KCI/Grinding. Keep Plunderer, Stridehangar and any creature outlet alive. Treasures accumulate; outlet outputs are in F03.
+
+
+Optional Payoff:
+- [[Marionette Apprentice]] on the battlefield turns the repeated creature/artifact deaths in this engine into lethal life loss to every opponent. Keep Apprentice alive as the observer.
+- Apprentice’s fabricate Servo can provide starter fodder where an expendable artifact creature is needed; it does not replace a required recyclable nontoken body or the additional Zombie for Gravecrawler.
+- This is an optional finishing extension, not another independently counted core configuration.
 
 ===endpanel
 ===endaccordion
@@ -1273,19 +1299,20 @@ Prerequisites:
 - [[symbol:2]] available
 
 Steps:
-1. Activate Krark-Clan Ironworks by sacrificing a nontoken artifact creature, adding [[symbol:c]][[symbol:c]].
-2. The creature dies, triggering Nim Deathmantle, causing you to pay [[symbol:4]] to return the artifact creature from your graveyard to the battlefield, and attach Nim Deathmantle to it.
-3. Imotekh's first ability triggers, creating two 2/2 Necron Warrior artifact creature tokens.
-4. Activate Krark-Clan Ironworks by sacrificing a Necron Warrior, adding [[symbol:c]][[symbol:c]].
-5. Repeat.
+1. Sacrifice another nontoken artifact creature to Krark-Clan Ironworks, adding [[symbol:c]][[symbol:c]].
+2. Pay [[symbol:4]] as Nim Deathmantle's trigger resolves, using the initial [[symbol:2]] buffer for the first return. Return the body and attach Deathmantle.
+3. Imotekh triggers because an artifact card left your graveyard; create two Necrons.
+4. Sacrifice one Necron to Krark-Clan Ironworks for [[symbol:c]][[symbol:c]], then repeat the body sacrifice and return. Retain the other Necron, or sacrifice both for surplus mana. Preserve Imotekh.
 
 Results:
-- Infinite colorless mana
-- Infinite creature tokens
-- Infinite death triggers
-- Infinite creature ETB
-- Infinite creature LTB
-- Infinite creature sacrifice triggers
+- Arbitrarily many creature deaths, sacrifice events and creature entries, under the stated prerequisites.
+- Artifact entries/deaths or graveyard events as specified; Ultron adds lethal drain when the repeating artifact-to-graveyard events occur while it is present.
+- Mana, life and token surplus: see the accounting note below; repeated production does not always accumulate those resources.
+
+Classification: Unbounded resource loop.
+
+Audit Notes:
+- Additional nontoken artifact body and initial [[symbol:2]]. Preserve Imotekh. Retain one Necron per neutral cycle, or sacrifice both for net two mana.
 
 ===endpanel
 ===endaccordion
@@ -1307,23 +1334,21 @@ Prerequisites:
 - [[symbol:b]] available
 
 Steps:
-1. Activate Tortured Existence by paying [[symbol:b]] and discarding a creature card, returning another creature card from your graveyard to your hand.
-2. If the returned card was an artifact creature card, Imotekh the Stormlord triggers, creating two artifact creature tokens.
-3. Activate Phyrexian Altar by sacrificing a creature token, adding [[symbol:b]].
-4. Repeat.
+1. Begin with [[symbol:b]] available.
+2. Activate Tortured Existence for [[symbol:b]]: target the artifact creature card already in your graveyard and discard the other artifact creature card as the cost. Return the target to hand.
+3. Resolve Imotekh to create two Necrons.
+4. Sacrifice one Necron to Phyrexian Altar for the next [[symbol:b]]; retain the other or sacrifice it for surplus mana.
+5. Repeat with the hand/graveyard cards exchanged. Do not cast the exchanged cards.
 
 Results:
-- Infinite artifact ETB
-- Infinite artifact LTB
-- Infinite artifact sacrifice triggers
-- Infinite artifact tokens
-- Infinite colored mana
-- Infinite creature tokens
-- Infinite creature ETB
-- Infinite creature LTB
-- Infinite death triggers
-- Infinite creature sacrifice triggers
-- Infinite self-discard triggers
+- Arbitrarily many artifact-card returns and Necron-token creation events.
+- Artifact entries/deaths or graveyard events as specified; Ultron adds lethal drain when the repeating artifact-to-graveyard events occur while it is present.
+- Mana, life and token surplus: see the accounting note below; repeated production does not always accumulate those resources.
+
+Classification: Unbounded resource loop.
+
+Audit Notes:
+- Two additional artifact creature cards alternate hand/graveyard; [[symbol:b]] seed. Two Necrons appear per exchange; sacrifice one for the next [[symbol:b]], retaining one, or both for surplus mana.
 
 ===endpanel
 ===endaccordion
@@ -1344,23 +1369,20 @@ Prerequisites:
 - Ultron the Annihilator has created a 2/2 Robot Villain artifact creature token.
 
 Steps:
-1. Activate Krark-Clan Ironworks by sacrificing the Robot token, adding [[symbol:c]][[symbol:c]].
-2. Ultron the Annihilator triggers, causing each opponent to lose 1 life.
-3. Activate Krark-Clan Ironworks by sacrificing Ultron the Annihilator, adding [[symbol:c]][[symbol:c]].
-4. Nim Deathmantle triggers, causing you to pay [[symbol:4]] to return Ultron the Annihilator from your graveyard to the battlefield and attach Nim Deathmantle to it.
-5. Ultron enters and creates a 2/2 Robot Villain artifact creature token.
-6. Repeat.
+1. Sacrifice the Robot to Krark-Clan Ironworks for [[symbol:2]] while Ultron is present; resolve its drain.
+2. Sacrifice Ultron to Krark-Clan Ironworks for [[symbol:2]], leaving it in the graveyard.
+3. Pay [[symbol:4]] to Deathmantle, return Ultron, attach Deathmantle, then resolve its ETB to create the replacement Robot.
+4. Repeat; two sacrifices exactly fund each return.
 
 Results:
-- Infinite lifeloss
-- Infinite creature ETB
-- Infinite creature LTB
-- Infinite creature sacrifice triggers
-- Infinite death triggers
-- Infinite artifact ETB
-- Infinite artifact LTB
-- Infinite artifact sacrifice triggers
-- Infinite creature tokens
+- Arbitrarily many creature deaths, sacrifice events and creature entries, under the stated prerequisites.
+- Direct lethal damage or life loss through the named payoff.
+- Mana, life and token surplus: see the accounting note below; repeated production does not always accumulate those resources.
+
+Classification: Unbounded resource loop.
+
+Audit Notes:
+- A Robot already present; leave Ultron in graveyard for Deathmantle. Two sacrifices fund [[symbol:4]]; neutral and directly lethal.
 
 ===endpanel
 ===endaccordion
@@ -1369,7 +1391,7 @@ Results:
 ===accordion
 ===panel: C040: Out of the Tombs + Skullclamp + Krark-Clan Ironworks
 
-[[symbol:c]]
+[[symbol:b]]
 
 Cards Required:
 - [[Out of the Tombs]]
@@ -1381,23 +1403,29 @@ Prerequisites:
 - Your library is empty.
 - You control two suitable nontoken artifact creatures that can be sacrificed.
 - [[symbol:1]] available for the initial Skullclamp equip.
+- Use recyclable bodies that survive Skullclamp unless the entry explicitly uses a 1-toughness auto-dying carrier.
 
 Steps:
-1. Equip Skullclamp to one recyclable artifact creature.
-2. Sacrifice the other artifact creature to Krark-Clan Ironworks, adding [[symbol:c]][[symbol:c]].
-3. Sacrifice the equipped artifact creature to Krark-Clan Ironworks, adding [[symbol:c]][[symbol:c]] and triggering Skullclamp.
-4. Out of the Tombs replaces the two draws, returning both artifact creature cards to the battlefield.
-5. Spend [[symbol:1]] to equip Skullclamp again.
-6. Repeat.
+1. Pay [[symbol:1]] to equip Skullclamp to a recyclable body that survives its -1 toughness.
+2. Sacrifice BOTH recyclable bodies to Krark-Clan Ironworks before Clamp's draw trigger resolves.
+3. Resolve resource triggers first, then resolve Clamp. Out of the Tombs replaces its two draws separately by returning both creature cards. Do not remove those cards with another recursion trigger first.
+4. Spend one generated mana or Treasure on the next equip and repeat. Both bodies must return each cycle.
 
 Results:
-- Infinite colorless mana
-- Infinite artifact ETB
-- Infinite artifact LTB
-- Infinite artifact sacrifice triggers
-- Infinite creature ETB
-- Infinite creature LTB
-- Infinite death triggers
+- Arbitrarily many creature deaths, sacrifice events and creature entries, under the stated prerequisites.
+- Artifact entries/deaths or graveyard events as specified; Ultron adds lethal drain when the repeating artifact-to-graveyard events occur while it is present.
+- Mana, life and token surplus: see the accounting note below; repeated production does not always accumulate those resources.
+
+Classification: Unbounded resource loop.
+
+Audit Notes:
+- Empty library; two other recyclable nontoken bodies surviving Clamp (both artifacts for KCI), [[symbol:1]] equip seed. Four generated minus one equip = net three colorless.
+
+
+Optional Payoff:
+- [[Marionette Apprentice]] on the battlefield turns the repeated creature/artifact deaths in this engine into lethal life loss to every opponent. Keep Apprentice alive as the observer.
+- Apprentice’s fabricate Servo can provide starter fodder where an expendable artifact creature is needed; it does not replace a required recyclable nontoken body or the additional Zombie for Gravecrawler.
+- This is an optional finishing extension, not another independently counted core configuration.
 
 ===endpanel
 ===endaccordion
@@ -1418,22 +1446,26 @@ Prerequisites:
 - You control another artifact creature.
 
 Steps:
-1. Activate Krark-Clan Ironworks by sacrificing another artifact creature, adding [[symbol:c]][[symbol:c]].
-2. When the creature dies, Pitiless Plunderer triggers, creating a Treasure token and a 1/1 Thopter artifact creature token.
-3. Repeat.
+1. Sacrifice an extra suitable creature to Krark-Clan Ironworks.
+2. Pitiless Plunderer creates a Treasure. Stridehangar replaces that event with a Treasure plus a Thopter; the Thopter is 2/2 with its anthem.
+3. Resolve the outlet ability and any Station untap triggers. Sacrifice the replacement Thopter through the same outlet.
+4. Repeat. Keep Plunderer, Stridehangar and any creature outlet alive. Retain Treasures or sacrifice them for colored mana; do not count a spent Treasure twice.
 
 Results:
-- Infinite artifact ETB
-- Infinite artifact LTB
-- Infinite artifact sacrifice triggers
-- Infinite artifact tokens
-- Infinite creature LTB
-- Infinite creature ETB
-- Infinite colored mana
-- Infinite creature sacrifice triggers
-- Infinite death triggers
-- Infinite colorless mana
-- Infinite Treasure tokens
+- Arbitrarily many creature deaths, sacrifice events and creature entries, under the stated prerequisites.
+- Artifact entries/deaths or graveyard events as specified; Ultron adds lethal drain when the repeating artifact-to-graveyard events occur while it is present.
+- Mana, life and token surplus: see the accounting note below; repeated production does not always accumulate those resources.
+
+Classification: Unbounded resource loop.
+
+Audit Notes:
+- Extra starter creature; artifact creature for Ravager/KCI/Grinding. Keep Plunderer, Stridehangar and any creature outlet alive. Treasures accumulate; outlet outputs are in F03.
+
+
+Optional Payoff:
+- [[Marionette Apprentice]] on the battlefield turns the repeated creature/artifact deaths in this engine into lethal life loss to every opponent. Keep Apprentice alive as the observer.
+- Apprentice’s fabricate Servo can provide starter fodder where an expendable artifact creature is needed; it does not replace a required recyclable nontoken body or the additional Zombie for Gravecrawler.
+- This is an optional finishing extension, not another independently counted core configuration.
 
 ===endpanel
 ===endaccordion
@@ -1455,23 +1487,20 @@ Prerequisites:
 - [[symbol:1]] available.
 
 Steps:
-1. Activate Krark-Clan Ironworks by sacrificing the artifact creature with a +1/+1 counter on it, adding [[symbol:c]][[symbol:c]].
-2. The Ooze triggers, creating a Mutagen token. Stridehangar Automaton causes you to also create a 1/1 Thopter artifact creature token.
-3. Pay [[symbol:1]], tap and sacrifice the Mutagen to put a +1/+1 counter on the Thopter.
-4. Activate Krark-Clan Ironworks by sacrificing the Thopter, adding [[symbol:c]][[symbol:c]].
-5. The Ooze triggers, creating another Mutagen token. Stridehangar Automaton causes you to also create another 1/1 Thopter artifact creature token.
-6. Repeat from step 3.
+1. Sacrifice the extra countered body to Krark-Clan Ironworks. Ooze creates a Mutagen; Stridehangar adds a Thopter.
+2. During your main phase with an empty stack, spend [[symbol:1]], tap and sacrifice Mutagen to put a +1/+1 counter on the Thopter.
+3. Sacrifice that countered Thopter to Krark-Clan Ironworks, creating the replacement Mutagen and Thopter through Ooze and Stridehangar.
+4. Repeat the counter transfer and sacrifice. Each Mutagen activation must wait for an empty stack.
 
 Results:
-- Infinite colorless mana
-- Infinite artifact ETB
-- Infinite artifact LTB
-- Infinite artifact sacrifice triggers
-- Infinite artifact tokens
-- Infinite creature ETB
-- Infinite creature LTB
-- Infinite creature sacrifice triggers
-- Infinite death triggers
+- Arbitrarily many creature deaths, sacrifice events and creature entries, under the stated prerequisites.
+- Artifact entries/deaths or graveyard events as specified; Ultron adds lethal drain when the repeating artifact-to-graveyard events occur while it is present.
+- Mana, life and token surplus: see the accounting note below; repeated production does not always accumulate those resources.
+
+Classification: Unbounded resource loop.
+
+Audit Notes:
+- Extra countered creature (artifact for KCI), your main phase/empty stack for Mutagen. Generate two, spend one per repeated countered-body death: net one colorless.
 
 ===endpanel
 ===endaccordion
@@ -1489,18 +1518,22 @@ Cards Required:
 
 Prerequisites:
 - All permanents on the battlefield (Semblance Anvil with an artifact card exiled).
+- Your library is nonempty. Stop before an attempted draw from an empty library.
 
 Steps:
-1. Activate Sensei's Divining Top by tapping it, causing you to draw a card and put Sensei's Divining Top on top of your library.
-2. Cast Sensei's Divining Top from the top of your library by paying [[symbol:0]].
-3. Repeat
+1. With at least one card left in your library, tap Top to draw a card, then put Top on top of your library.
+2. Cast Top from your library, paying [[symbol:0]] through Mystic Forge and the cost reducer.
+3. Resolve all entry/cast payoffs. Fleshraker deals one damage for the Spawn and one for Top entering. Reservoir gains life according to the spell count if present.
+4. Repeat only while library cards remain. With Reservoir, pay 50 life for each desired damage activation while retaining enough life to survive. This line is finite without an added replenishment/replacement effect.
 
 Results:
-- Infinite card draw
-- Infinite draw triggers
-- Near-infinite storm count
+- Finite repeated card access / resource conversion as described in the steps.
+- Not an unbounded loop: library or graveyard fuel is consumed.
 
-**Classification:** Repeatable until you exhaust available library cards or move into a win; do not literally draw infinitely from a finite library without draw replacement.
+Classification: Finite sequence.
+
+Audit Notes:
+- Finite: Anvil imprints an artifact card; library nonempty. Top is free, but actual draws still consume the library.
 
 ===endpanel
 ===endaccordion
@@ -1521,22 +1554,29 @@ Prerequisites:
 - Your library is empty.
 - You control two suitable nontoken creatures that can be sacrificed.
 - [[symbol:1]] available for the initial Skullclamp equip.
+- Use recyclable bodies that survive Skullclamp unless the entry explicitly uses a 1-toughness auto-dying carrier.
 
 Steps:
-1. Equip Skullclamp to one recyclable creature.
-2. Sacrifice the other creature to Phyrexian Altar, adding one mana of any color.
-3. Sacrifice the equipped creature to Phyrexian Altar, adding one mana of any color and triggering Skullclamp.
-4. Out of the Tombs replaces Skullclamp's two draws, returning the two creature cards to the battlefield.
-5. Spend one mana to equip Skullclamp again.
-6. Repeat.
+1. Pay [[symbol:1]] to equip Skullclamp to a recyclable body that survives its -1 toughness.
+2. Sacrifice BOTH recyclable bodies to Phyrexian Altar before Clamp's draw trigger resolves.
+3. Resolve resource triggers first, then resolve Clamp. Out of the Tombs replaces its two draws separately by returning both creature cards. Do not remove those cards with another recursion trigger first.
+4. Spend one generated mana or Treasure on the next equip and repeat. Both bodies must return each cycle.
 
 Results:
-- Infinite colored mana
-- Infinite creature ETB
-- Infinite creature LTB
-- Infinite creature sacrifice triggers
-- Infinite death triggers
-- Infinite draw-replacement events
+- Arbitrarily many creature deaths, sacrifice events and creature entries, under the stated prerequisites.
+- Artifact entries/deaths or graveyard events as specified; Ultron adds lethal drain when the repeating artifact-to-graveyard events occur while it is present.
+- Mana, life and token surplus: see the accounting note below; repeated production does not always accumulate those resources.
+
+Classification: Unbounded resource loop.
+
+Audit Notes:
+- Empty library; two other recyclable nontoken bodies surviving Clamp; [[symbol:1]] seed. Two generated minus one equip = net one colored mana.
+
+
+Optional Payoff:
+- [[Marionette Apprentice]] on the battlefield turns the repeated creature/artifact deaths in this engine into lethal life loss to every opponent. Keep Apprentice alive as the observer.
+- Apprentice’s fabricate Servo can provide starter fodder where an expendable artifact creature is needed; it does not replace a required recyclable nontoken body or the additional Zombie for Gravecrawler.
+- This is an optional finishing extension, not another independently counted core configuration.
 
 ===endpanel
 ===endaccordion
@@ -1557,21 +1597,26 @@ Prerequisites:
 - You control another creature.
 
 Steps:
-1. Activate Phyrexian Altar by sacrificing another creature, adding one mana of any color.
-2. When the creature dies, Pitiless Plunderer triggers, creating a Treasure token and a 1/1 Thopter artifact creature token.
-3. Repeat.
+1. Sacrifice an extra suitable creature to Phyrexian Altar.
+2. Pitiless Plunderer creates a Treasure. Stridehangar replaces that event with a Treasure plus a Thopter; the Thopter is 2/2 with its anthem.
+3. Resolve the outlet ability and any Station untap triggers. Sacrifice the replacement Thopter through the same outlet.
+4. Repeat. Keep Plunderer, Stridehangar and any creature outlet alive. Retain Treasures or sacrifice them for colored mana; do not count a spent Treasure twice.
 
 Results:
-- Infinite artifact ETB
-- Infinite artifact LTB
-- Infinite artifact sacrifice triggers
-- Infinite artifact tokens
-- Infinite creature LTB
-- Infinite creature ETB
-- Infinite colored mana
-- Infinite creature sacrifice triggers
-- Infinite death triggers
-- Infinite Treasure tokens
+- Arbitrarily many creature deaths, sacrifice events and creature entries, under the stated prerequisites.
+- Artifact entries/deaths or graveyard events as specified; Ultron adds lethal drain when the repeating artifact-to-graveyard events occur while it is present.
+- Mana, life and token surplus: see the accounting note below; repeated production does not always accumulate those resources.
+
+Classification: Unbounded resource loop.
+
+Audit Notes:
+- Extra starter creature; artifact creature for Ravager/KCI/Grinding. Keep Plunderer, Stridehangar and any creature outlet alive. Treasures accumulate; outlet outputs are in F03.
+
+
+Optional Payoff:
+- [[Marionette Apprentice]] on the battlefield turns the repeated creature/artifact deaths in this engine into lethal life loss to every opponent. Keep Apprentice alive as the observer.
+- Apprentice’s fabricate Servo can provide starter fodder where an expendable artifact creature is needed; it does not replace a required recyclable nontoken body or the additional Zombie for Gravecrawler.
+- This is an optional finishing extension, not another independently counted core configuration.
 
 ===endpanel
 ===endaccordion
@@ -1580,7 +1625,7 @@ Results:
 ===accordion
 ===panel: C046: The Ooze + Stridehangar Automaton + Phyrexian Altar
 
-[[symbol:b]]
+[[symbol:c]]
 
 Cards Required:
 - [[The Ooze]]
@@ -1592,24 +1637,20 @@ Prerequisites:
 - You control another creature with at least one +1/+1 counter on it.
 
 Steps:
-1. Activate Phyrexian Altar by sacrificing the creature with a +1/+1 counter on it, adding one mana of any color.
-2. The Ooze triggers, creating a Mutagen token. Stridehangar Automaton causes you to also create a 1/1 Thopter artifact creature token.
-3. Spend that mana, tap and sacrifice the Mutagen to put a +1/+1 counter on the Thopter.
-4. Activate Phyrexian Altar by sacrificing the Thopter, adding one mana of any color.
-5. The Ooze triggers, creating another Mutagen token. Stridehangar Automaton causes you to also create another 1/1 Thopter artifact creature token.
-6. Repeat from step 3.
+1. Sacrifice the extra countered body to Phyrexian Altar. Ooze creates a Mutagen; Stridehangar adds a Thopter.
+2. During your main phase with an empty stack, spend [[symbol:1]], tap and sacrifice Mutagen to put a +1/+1 counter on the Thopter.
+3. Sacrifice that countered Thopter to Phyrexian Altar, creating the replacement Mutagen and Thopter through Ooze and Stridehangar.
+4. Repeat the counter transfer and sacrifice. Each Mutagen activation must wait for an empty stack.
 
 Results:
-- Infinite artifact ETB
-- Infinite artifact LTB
-- Infinite artifact sacrifice triggers
-- Infinite artifact tokens
-- Infinite creature ETB
-- Infinite creature LTB
-- Infinite creature sacrifice triggers
-- Infinite death triggers
+- Arbitrarily many creature deaths, sacrifice events and creature entries, under the stated prerequisites.
+- Artifact entries/deaths or graveyard events as specified; Ultron adds lethal drain when the repeating artifact-to-graveyard events occur while it is present.
+- Mana, life and token surplus: see the accounting note below; repeated production does not always accumulate those resources.
 
-**Timing reminder:** Mutagen activation is sorcery-speed; execute the Mutagen portions of this loop during your main phase with an empty stack.
+Classification: Unbounded resource loop.
+
+Audit Notes:
+- Extra countered creature; own main phase/empty stack for Mutagen. One Altar mana funds one Mutagen activation: neutral.
 
 ===endpanel
 ===endaccordion
@@ -1630,23 +1671,27 @@ Prerequisites:
 - You control another creature.
 
 Steps:
-1. Activate Umbral Collar Zealot by sacrificing another creature.
-2. When the creature dies, Pitiless Plunderer triggers, creating a Treasure token and a 1/1 Thopter artifact creature token.
-3. Resolve the Umbral Collar Zealot ability.
-4. Repeat.
+1. Sacrifice an extra suitable creature to Umbral Collar Zealot.
+2. Pitiless Plunderer creates a Treasure. Stridehangar replaces that event with a Treasure plus a Thopter; the Thopter is 2/2 with its anthem.
+3. Resolve the outlet ability and any Station untap triggers. Sacrifice the replacement Thopter through the same outlet.
+4. Repeat. Keep Plunderer, Stridehangar and any creature outlet alive. Retain Treasures or sacrifice them for colored mana; do not count a spent Treasure twice.
 
 Results:
-- Infinite artifact ETB
-- Infinite artifact LTB
-- Infinite artifact sacrifice triggers
-- Infinite artifact tokens
-- Infinite creature LTB
-- Infinite creature ETB
-- Infinite colored mana
-- Infinite creature sacrifice triggers
-- Infinite death triggers
-- Infinite Treasure tokens
-- Infinite surveil
+- Arbitrarily many creature deaths, sacrifice events and creature entries, under the stated prerequisites.
+- Repeatable surveil events; actual card access is library-bounded.
+- Artifact entries/deaths or graveyard events as specified; Ultron adds lethal drain when the repeating artifact-to-graveyard events occur while it is present.
+- Mana, life and token surplus: see the accounting note below; repeated production does not always accumulate those resources.
+
+Classification: Unbounded resource loop.
+
+Audit Notes:
+- Extra starter creature; artifact creature for Ravager/KCI/Grinding. Keep Plunderer, Stridehangar and any creature outlet alive. Treasures accumulate; outlet outputs are in F03.
+
+
+Optional Payoff:
+- [[Marionette Apprentice]] on the battlefield turns the repeated creature/artifact deaths in this engine into lethal life loss to every opponent. Keep Apprentice alive as the observer.
+- Apprentice’s fabricate Servo can provide starter fodder where an expendable artifact creature is needed; it does not replace a required recyclable nontoken body or the additional Zombie for Gravecrawler.
+- This is an optional finishing extension, not another independently counted core configuration.
 
 ===endpanel
 ===endaccordion
@@ -1660,7 +1705,7 @@ Results:
 Cards Required:
 - [[Warren Soultrader]]
 - [[Stridehangar Automaton]]
-- [[Sephiroth, Fabled SOLDIER // Sephiroth, One-Winged Angel]]
+- [[Sephiroth, Fabled SOLDIER]]
 
 Prerequisites:
 - All permanents on the battlefield.
@@ -1668,24 +1713,20 @@ Prerequisites:
 - Your life total is at least 2.
 
 Steps:
-1. Activate Warren Soultrader by paying 1 life and sacrificing another creature.
-2. When the creature dies, Sephiroth, Fabled SOLDIER // Sephiroth, One-Winged Angel triggers, causing you to gain 1 life and target opponent to lose 1 life.
-3. Resolve the Warren Soultrader ability, creating a Treasure token and a 1/1 Thopter artifact creature token.
-4. Repeat.
+1. Pay 1 life and sacrifice the extra creature to Warren Soultrader.
+2. Resolve the death-drain trigger, refunding the life and draining opponents. The real Sephiroth transforms into its emblem engine on its fourth death-trigger resolution.
+3. Resolve Warren to create Treasure plus a Stridehangar Thopter.
+4. Sacrifice the replacement Thopter to Warren and repeat. Keep the life-gain source alive; Treasures accumulate.
 
 Results:
-- Infinite artifact ETB
-- Infinite artifact LTB
-- Infinite artifact sacrifice triggers
-- Infinite artifact tokens
-- Infinite creature LTB
-- Infinite creature ETB
-- Infinite colored mana
-- Infinite creature sacrifice triggers
-- Infinite death triggers
-- Infinite lifegain triggers
-- Infinite Treasure tokens
-- Infinite lifeloss
+- Arbitrarily many creature deaths, sacrifice events and creature entries, under the stated prerequisites.
+- Direct lethal damage or life loss through the named payoff.
+- Mana, life and token surplus: see the accounting note below; repeated production does not always accumulate those resources.
+
+Classification: Unbounded resource loop.
+
+Audit Notes:
+- Extra creature and life >= 2. Warren life cost refunded; keep drain source and Stridehangar alive. One Treasure accumulated per death; direct lethal drain.
 
 ===endpanel
 ===endaccordion
@@ -1707,24 +1748,20 @@ Prerequisites:
 - Your life total is at least 2.
 
 Steps:
-1. Activate Warren Soultrader by paying 1 life and sacrificing another creature.
-2. When the creature dies, Zulaport Cutthroat triggers, causing you to gain 1 life and each opponent to lose 1 life.
-3. Resolve the Warren Soultrader ability, creating a Treasure token and a 1/1 Thopter artifact creature token.
-4. Repeat.
+1. Pay 1 life and sacrifice the extra creature to Warren Soultrader.
+2. Resolve the death-drain trigger, refunding the life and draining opponents. The real Sephiroth transforms into its emblem engine on its fourth death-trigger resolution.
+3. Resolve Warren to create Treasure plus a Stridehangar Thopter.
+4. Sacrifice the replacement Thopter to Warren and repeat. Keep the life-gain source alive; Treasures accumulate.
 
 Results:
-- Infinite artifact ETB
-- Infinite artifact LTB
-- Infinite artifact sacrifice triggers
-- Infinite artifact tokens
-- Infinite creature LTB
-- Infinite creature ETB
-- Infinite colored mana
-- Infinite creature sacrifice triggers
-- Infinite death triggers
-- Infinite lifeloss
-- Infinite Treasure tokens
-- Infinite lifegain triggers
+- Arbitrarily many creature deaths, sacrifice events and creature entries, under the stated prerequisites.
+- Direct lethal damage or life loss through the named payoff.
+- Mana, life and token surplus: see the accounting note below; repeated production does not always accumulate those resources.
+
+Classification: Unbounded resource loop.
+
+Audit Notes:
+- Extra creature and life >= 2. Warren life cost refunded; keep drain source and Stridehangar alive. One Treasure accumulated per death; direct lethal drain.
 
 ===endpanel
 ===endaccordion
@@ -1744,27 +1781,24 @@ Cards Required:
 Prerequisites:
 - Metalwork Colossus in hand.
 - All other permanents on the battlefield.
-- The total mana value of noncreature artifacts you control is at least 10.
+- The total mana value of noncreature artifacts you control is at least 11.
 
 Steps:
-1. Cast Metalwork Colossus by paying [[symbol:0]].
-2. Aetherflux Reservoir triggers, causing you to gain 1 life for each spell you've cast this turn.
-3. Activate Warren Soultrader by paying 1 life and sacrificing Metalwork Colossus.
-4. When Metalwork Colossus dies, Pitiless Plunderer triggers, creating a Treasure token.
-5. Resolve the Warren Soultrader ability, creating a Treasure token.
-6. Activate Metalwork Colossus by sacrificing the Treasures, returning Metalwork Colossus from your graveyard to your hand.
-7. Repeat.
-8. Once you have infinite life, you may activate Aetherflux Reservoir infinitely to deal infinite damage to any target(s).
+1. Cast Metalwork Colossus for [[symbol:0]], maintaining at least 11 mana value of noncreature artifacts. Resolve Reservoir's life gain.
+2. Pay 1 life and sacrifice Colossus to Warren. Resolve the token creation: two Treasures with Plunderer, or Treasure plus Thopter with Stridehangar.
+3. Sacrifice those two artifacts to Colossus's graveyard-return ability; return it to hand. The sacrificed Treasures are not also spent for mana.
+4. Repeat free casts, growing Reservoir's life gains. Pay 50 life per Reservoir shot once sufficiently funded.
 
 Results:
-- Infinite creature LTB
-- Infinite creature ETB
-- Infinite creature sacrifice triggers
-- Infinite death triggers
-- Infinite damage
-- Infinite lifegain triggers
-- Infinite lifegain
-- Infinite storm count
+- Arbitrarily many creature deaths, sacrifice events and creature entries, under the stated prerequisites.
+- Arbitrarily high spell count from repeated casts.
+- Direct lethal damage or life loss through the named payoff.
+- Mana, life and token surplus: see the accounting note below; repeated production does not always accumulate those resources.
+
+Classification: Unbounded resource loop.
+
+Audit Notes:
+- Corrected threshold: >= 11 maintained mana value of noncreature artifacts, not 10. Colossus begins in hand; cast free each time. Sacrifice both newly created artifacts to return it, not for mana.
 
 ===endpanel
 ===endaccordion
@@ -1784,24 +1818,24 @@ Cards Required:
 Prerequisites:
 - Metalwork Colossus in hand.
 - All other permanents on the battlefield.
-- The total mana value of noncreature artifacts you control is at least 10.
+- The total mana value of noncreature artifacts you control is at least 11.
 
 Steps:
-1. Cast Metalwork Colossus by paying [[symbol:0]].
-2. Aetherflux Reservoir triggers, causing you to gain 1 life for each spell you've cast this turn.
-3. Activate Warren Soultrader by paying 1 life and sacrificing Metalwork Colossus, creating a 1/1 Thopter artifact creature token and a Treasure token.
-4. Activate Metalwork Colossus by sacrificing the Treasure and Thopter, returning Metalwork Colossus from your graveyard to your hand.
-5. Repeat.
+1. Cast Metalwork Colossus for [[symbol:0]], maintaining at least 11 mana value of noncreature artifacts. Resolve Reservoir's life gain.
+2. Pay 1 life and sacrifice Colossus to Warren. Resolve the token creation: two Treasures with Plunderer, or Treasure plus Thopter with Stridehangar.
+3. Sacrifice those two artifacts to Colossus's graveyard-return ability; return it to hand. The sacrificed Treasures are not also spent for mana.
+4. Repeat free casts, growing Reservoir's life gains. Pay 50 life per Reservoir shot once sufficiently funded.
 
 Results:
-- Infinite creature LTB
-- Infinite creature ETB
-- Infinite creature sacrifice triggers
-- Infinite death triggers
-- Infinite damage
-- Infinite lifegain triggers
-- Infinite lifegain
-- Infinite storm count
+- Arbitrarily many creature deaths, sacrifice events and creature entries, under the stated prerequisites.
+- Arbitrarily high spell count from repeated casts.
+- Direct lethal damage or life loss through the named payoff.
+- Mana, life and token surplus: see the accounting note below; repeated production does not always accumulate those resources.
+
+Classification: Unbounded resource loop.
+
+Audit Notes:
+- Corrected threshold: >= 11 maintained mana value of noncreature artifacts, not 10. Colossus begins in hand; cast free each time. Sacrifice both newly created artifacts to return it, not for mana.
 
 ===endpanel
 ===endaccordion
@@ -1825,29 +1859,22 @@ Prerequisites:
 - [[symbol:b]] available
 
 Steps:
-1. Activate Tortured Existence by paying [[symbol:b]] and discarding an artifact creature card, returning another artifact creature card from your graveyard to your hand.
-2. Imotekh triggers, creating two 2/2 Necron Warrior artifact creature tokens.
-3. Activate Altar of Dementia by sacrificing a Necron Warrior.
-4. When the Necron Warrior dies, Pitiless Plunderer triggers, creating a Treasure artifact token.
-5. Resolve the Altar of Dementia ability, causing target player to mill cards equal to the Necron Warrior's power.
-6. Activate the Treasure by tapping and sacrificing it, adding [[symbol:b]].
-7. Repeat.
+1. Begin with [[symbol:b]] available.
+2. Activate Tortured Existence for [[symbol:b]]: target the artifact creature card already in your graveyard and discard the other artifact creature card as the cost. Return the target to hand.
+3. Resolve Imotekh to create two Necrons.
+4. Sacrifice both Necrons to Altar of Dementia; resolve Plunderer to make two Treasures. Spend one Treasure for the next [[symbol:b]]. With Blasting Station, use its two separate untap triggers to fund two activations.
+5. Repeat with the hand/graveyard cards exchanged. Do not cast the exchanged cards.
 
 Results:
-- Infinite artifact ETB
-- Infinite artifact LTB
-- Infinite artifact sacrifice triggers
-- Infinite artifact tokens
-- Infinite colored mana
-- Infinite creature tokens
-- Infinite death triggers
-- Infinite creature ETB
-- Infinite creature LTB
-- Infinite mill
-- Infinite creature sacrifice triggers
-- Infinite self-discard triggers
-- Infinite self-mill
-- Infinite Treasure tokens
+- Arbitrarily many artifact-card returns and Necron-token creation events.
+- Repeatable mill; actual cards milled are library-bounded, and emptying a library is not by itself immediate elimination.
+- Artifact entries/deaths or graveyard events as specified; Ultron adds lethal drain when the repeating artifact-to-graveyard events occur while it is present.
+- Mana, life and token surplus: see the accounting note below; repeated production does not always accumulate those resources.
+
+Classification: Unbounded resource loop.
+
+Audit Notes:
+- Two additional artifact creature cards alternate hand/graveyard; [[symbol:b]] seed. Sacrifice both Necrons for two Treasures; spend one for the next exchange. C070 uses both separate Station untap triggers.
 
 ===endpanel
 ===endaccordion
@@ -1869,78 +1896,27 @@ Prerequisites:
 - Your library is empty.
 - You control two other suitable nontoken creatures.
 - [[symbol:1]] available for the initial Skullclamp equip.
+- Use recyclable bodies that survive Skullclamp unless the entry explicitly uses a 1-toughness auto-dying carrier.
 
 Steps:
-1. Equip Skullclamp to one recyclable creature.
-2. Sacrifice that creature to Altar of Dementia. Skullclamp and Pitiless Plunderer trigger.
-3. Before resolving Skullclamp, sacrifice the second recyclable creature to Altar of Dementia.
-4. Pitiless Plunderer creates Treasures from the creature deaths.
-5. Resolve Skullclamp; Out of the Tombs replaces its two draws and returns both creature cards.
-6. Use a Treasure to pay the next Skullclamp equip and repeat.
+1. Pay [[symbol:1]] to equip Skullclamp to a recyclable body that survives its -1 toughness.
+2. Sacrifice BOTH recyclable bodies to Altar of Dementia before Clamp's draw trigger resolves.
+3. Resolve resource triggers first, then resolve Clamp. Out of the Tombs replaces its two draws separately by returning both creature cards. Do not remove those cards with another recursion trigger first.
+4. Spend one generated mana or Treasure on the next equip and repeat. Both bodies must return each cycle.
 
 Results:
-- Infinite mill
-- Infinite self-mill
-- Infinite creature ETB
-- Infinite creature LTB
-- Infinite creature sacrifice triggers
-- Infinite death triggers
-- Infinite Treasure creation
+- Arbitrarily many creature deaths, sacrifice events and creature entries, under the stated prerequisites.
+- Repeatable mill; actual cards milled are library-bounded, and emptying a library is not by itself immediate elimination.
+- Artifact entries/deaths or graveyard events as specified; Ultron adds lethal drain when the repeating artifact-to-graveyard events occur while it is present.
+- Mana, life and token surplus: see the accounting note below; repeated production does not always accumulate those resources.
+
+Classification: Unbounded resource loop.
+
+Audit Notes:
+- Empty library; two other recyclable nontoken bodies, [[symbol:1]] seed. Both artifact creatures for Ravager. Two Treasures minus one equip = one surplus Treasure.
 
 ===endpanel
 ===endaccordion
-
-<a id="c054"></a>
-===accordion
-===panel: C054: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Altar of Dementia
-
-[[symbol:c]]
-
-Cards Required:
-- [[The Ooze]]
-- [[Stridehangar Automaton]]
-- [[Pitiless Plunderer]]
-- [[Altar of Dementia]]
-
-Prerequisites:
-- All permanents on the battlefield.
-- You control a Thopter.
-- There is at least one card in a graveyard.
-- The Ooze is untapped.
-
-Steps:
-1. Sacrifice a Thopter to Altar of Dementia.
-2. When the Thopter dies, Pitiless Plunderer triggers, creating a Treasure token.
-3. Stridehangar Automaton causes you to also create a 1/1 Thopter artifact creature token.
-4. Activate The Ooze by tapping it, exiling a card from a graveyard and creating a Mutagen artifact token.
-5. Stridehangar Automaton causes you to also create another 1/1 Thopter artifact creature token.
-6. Activate the Treasure by tapping and sacrificing it, adding [[symbol:1]] mana.
-7. Spend [[symbol:1]], tap and sacrifice the Mutagen to put a +1/+1 counter on a Thopter.
-8. Activate Altar of Dementia by sacrificing the countered Thopter, causing target player to mill cards equal to its power.
-9. When the countered Thopter dies, Pitiless Plunderer triggers, creating a Treasure token, and The Ooze triggers, creating a Mutagen token.
-10. Stridehangar Automaton causes you to create replacement Thopter artifact creature tokens as the artifact tokens are created.
-11. Sacrifice the Treasure for [[symbol:1]] and use it to activate and sacrifice the Mutagen, putting a +1/+1 counter on a replacement Thopter.
-12. Repeat from step 8.
-
-Results:
-- Infinite mill
-- Infinite self-mill
-- Infinite Treasure tokens
-- Infinite artifact ETB
-- Infinite artifact LTB
-- Infinite artifact sacrifice triggers
-- Infinite artifact tokens
-- Infinite creature ETB
-- Infinite creature LTB
-- Infinite creature sacrifice triggers
-- Infinite death triggers
-
-**Timing reminder:** Mutagen activation is sorcery-speed; execute the Mutagen portions of this loop during your main phase with an empty stack.
-
-===endpanel
-===endaccordion
-
-
 
 <a id="c055"></a>
 ===accordion
@@ -1959,71 +1935,24 @@ Prerequisites:
 - Your library is empty.
 - You control two other suitable nontoken artifact creatures.
 - [[symbol:1]] available for the initial Skullclamp equip.
+- Use recyclable bodies that survive Skullclamp unless the entry explicitly uses a 1-toughness auto-dying carrier.
 
 Steps:
-1. Equip Skullclamp to one recyclable artifact creature.
-2. Sacrifice it to Arcbound Ravager, triggering Skullclamp and Pitiless Plunderer.
-3. Before Skullclamp resolves, sacrifice the second recyclable artifact creature to Arcbound Ravager.
-4. Resolve the Pitiless Plunderer triggers, creating Treasures.
-5. Resolve Skullclamp; Out of the Tombs returns both artifact creature cards instead of drawing.
-6. Use a Treasure to equip Skullclamp again and repeat.
+1. Pay [[symbol:1]] to equip Skullclamp to a recyclable body that survives its -1 toughness.
+2. Sacrifice BOTH recyclable bodies to Arcbound Ravager before Clamp's draw trigger resolves.
+3. Resolve resource triggers first, then resolve Clamp. Out of the Tombs replaces its two draws separately by returning both creature cards. Do not remove those cards with another recursion trigger first.
+4. Spend one generated mana or Treasure on the next equip and repeat. Both bodies must return each cycle.
 
 Results:
-- Infinite +1/+1 counters on Arcbound Ravager
-- Infinite creature ETB
-- Infinite creature LTB
-- Infinite creature sacrifice triggers
-- Infinite death triggers
-- Infinite Treasure creation
+- Arbitrarily many creature deaths, sacrifice events and creature entries, under the stated prerequisites.
+- Arbitrarily many +1/+1 counters on the surviving counter source.
+- Artifact entries/deaths or graveyard events as specified; Ultron adds lethal drain when the repeating artifact-to-graveyard events occur while it is present.
+- Mana, life and token surplus: see the accounting note below; repeated production does not always accumulate those resources.
 
-===endpanel
-===endaccordion
+Classification: Unbounded resource loop.
 
-<a id="c056"></a>
-===accordion
-===panel: C056: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Arcbound Ravager
-
-[[symbol:c]]
-
-Cards Required:
-- [[The Ooze]]
-- [[Stridehangar Automaton]]
-- [[Pitiless Plunderer]]
-- [[Arcbound Ravager]]
-
-Prerequisites:
-- All permanents on the battlefield.
-- You control a Thopter.
-- There is at least one card in a graveyard.
-- The Ooze is untapped.
-
-Steps:
-1. Sacrifice a Thopter to Arcbound Ravager.
-2. When the Thopter dies, Pitiless Plunderer triggers, creating a Treasure token.
-3. Stridehangar Automaton causes you to also create a 1/1 Thopter artifact creature token.
-4. Activate The Ooze by tapping it, exiling a card from a graveyard and creating a Mutagen artifact token.
-5. Stridehangar Automaton causes you to also create another 1/1 Thopter artifact creature token.
-6. Activate the Treasure by tapping and sacrificing it, adding [[symbol:1]] mana.
-7. Spend [[symbol:1]], tap and sacrifice the Mutagen to put a +1/+1 counter on a Thopter.
-8. Activate Arcbound Ravager by sacrificing the countered Thopter, putting a +1/+1 counter on Arcbound Ravager.
-9. When the countered Thopter dies, Pitiless Plunderer triggers, creating a Treasure token, and The Ooze triggers, creating a Mutagen token.
-10. Stridehangar Automaton causes you to create replacement Thopter artifact creature tokens as the artifact tokens are created.
-11. Sacrifice the Treasure for [[symbol:1]] and use it to activate and sacrifice the Mutagen, putting a +1/+1 counter on a replacement Thopter.
-12. Repeat from step 8.
-
-Results:
-- Infinite +1/+1 counters on Arcbound Ravager
-- Infinite Treasure tokens
-- Infinite artifact ETB
-- Infinite artifact LTB
-- Infinite artifact sacrifice triggers
-- Infinite artifact tokens
-- Infinite creature ETB
-- Infinite creature LTB
-- Infinite creature sacrifice triggers
-- Infinite death triggers
-
-**Timing reminder:** Mutagen activation is sorcery-speed; execute the Mutagen portions of this loop during your main phase with an empty stack.
+Audit Notes:
+- Empty library; two other recyclable nontoken bodies, [[symbol:1]] seed. Both artifact creatures for Ravager. Two Treasures minus one equip = one surplus Treasure.
 
 ===endpanel
 ===endaccordion
@@ -2045,24 +1974,21 @@ Prerequisites:
 - All other permanents on the battlefield (Cloud Key with "Artifact" or "Creature" chosen).
 
 Steps:
-1. Activate Ashnod's Altar by sacrificing Myr Retriever, adding [[symbol:c]][[symbol:c]].
-2. When Myr Retriever dies, it triggers, returning Scrap Trawler from your graveyard to your hand.
-3. Cast Scrap Trawler by paying its mana cost, which is reduced by Cloud Key.
-4. Activate Ashnod's Altar by sacrificing Scrap Trawler, adding [[symbol:c]][[symbol:c]].
-5. When Scrap Trawler dies, it triggers, returning Myr Retriever from your graveyard to your hand.
-6. Cast Myr Retriever by paying its mana cost, which is reduced by Cloud Key.
-7. Repeat.
+1. Sacrifice Myr Retriever to Ashnod's Altar; return Scrap Trawler to hand from the graveyard.
+2. Cast Trawler at the reduced cost: [[symbol:2]] with Key/Inspector, [[symbol:1]] with Anvil.
+3. Sacrifice Trawler to Ashnod's Altar; its own death trigger returns lower-value Myr Retriever.
+4. Cast Retriever at the reduced cost: [[symbol:1]] with Key/Inspector, [[symbol:0]] with Anvil. Repeat.
 
 Results:
-- Infinite artifact ETB
-- Infinite artifact LTB
-- Infinite artifact sacrifice triggers
-- Infinite creature ETB
-- Infinite creature LTB
-- Infinite colorless mana
-- Infinite death triggers
-- Infinite creature sacrifice triggers
-- Infinite storm count
+- Arbitrarily many creature deaths, sacrifice events and creature entries, under the stated prerequisites.
+- Arbitrarily high spell count from repeated casts.
+- Artifact entries/deaths or graveyard events as specified; Ultron adds lethal drain when the repeating artifact-to-graveyard events occur while it is present.
+- Mana, life and token surplus: see the accounting note below; repeated production does not always accumulate those resources.
+
+Classification: Unbounded resource loop.
+
+Audit Notes:
+- Retriever on battlefield, Trawler in graveyard; one-mana reducer. Four generated minus three spent per pair = net one colorless. Key may name Artifact or Creature.
 
 ===endpanel
 ===endaccordion
@@ -2084,24 +2010,21 @@ Prerequisites:
 - All other permanents on the battlefield.
 
 Steps:
-1. Activate Ashnod's Altar by sacrificing Myr Retriever, adding [[symbol:c]][[symbol:c]].
-2. When Myr Retriever dies, it triggers, returning Scrap Trawler from your graveyard to your hand.
-3. Cast Scrap Trawler by paying its mana cost, which is reduced by Foundry Inspector.
-4. Activate Ashnod's Altar by sacrificing Scrap Trawler, adding [[symbol:c]][[symbol:c]].
-5. When Scrap Trawler dies, it triggers, returning Myr Retriever from your graveyard to your hand.
-6. Cast Myr Retriever by paying its mana cost, which is reduced by Foundry Inspector.
-7. Repeat.
+1. Sacrifice Myr Retriever to Ashnod's Altar; return Scrap Trawler to hand from the graveyard.
+2. Cast Trawler at the reduced cost: [[symbol:2]] with Key/Inspector, [[symbol:1]] with Anvil.
+3. Sacrifice Trawler to Ashnod's Altar; its own death trigger returns lower-value Myr Retriever.
+4. Cast Retriever at the reduced cost: [[symbol:1]] with Key/Inspector, [[symbol:0]] with Anvil. Repeat.
 
 Results:
-- Infinite artifact ETB
-- Infinite artifact LTB
-- Infinite artifact sacrifice triggers
-- Infinite creature ETB
-- Infinite creature LTB
-- Infinite colorless mana
-- Infinite death triggers
-- Infinite creature sacrifice triggers
-- Infinite storm count
+- Arbitrarily many creature deaths, sacrifice events and creature entries, under the stated prerequisites.
+- Arbitrarily high spell count from repeated casts.
+- Artifact entries/deaths or graveyard events as specified; Ultron adds lethal drain when the repeating artifact-to-graveyard events occur while it is present.
+- Mana, life and token surplus: see the accounting note below; repeated production does not always accumulate those resources.
+
+Classification: Unbounded resource loop.
+
+Audit Notes:
+- Retriever on battlefield, Trawler in graveyard; one-mana reducer. Four generated minus three spent per pair = net one colorless. Key may name Artifact or Creature.
 
 ===endpanel
 ===endaccordion
@@ -2125,24 +2048,21 @@ Prerequisites:
 - You have enough mana to cast the artifact card in your hand.
 
 Steps:
-1. Cast the artifact creature card in your hand by paying its mana cost.
-2. Glaring Fleshraker's first ability triggers, creating a 0/1 Eldrazi Spawn creature token.
-3. When the Eldrazi Spawn enters the battlefield, Glaring Fleshraker's second ability triggers, dealing 1 damage to each opponent.
-4. Resolve the artifact creature spell, triggering Glaring Fleshraker's second ability, dealing 1 damage to each opponent.
-5. Activate Ashnod's Altar by sacrificing the artifact creature, adding [[symbol:c]][[symbol:c]].
-6. When the artifact creature dies, it triggers, returning the other artifact creature from your graveyard to your hand.
-7. If needed, activate the Eldrazi Spawn by sacrificing it, adding [[symbol:c]].
-8. Repeat.
+1. Cast the recycler in hand. Fleshraker creates a Spawn; resolve its entry damage, then let the artifact creature enter for a second damage trigger.
+2. Sacrifice the artifact creature to Ashnod's Altar; return the other recycler from graveyard to hand.
+3. Sacrifice the Spawn to Ashnod's Altar for [[symbol:2]].
+4. Cast the other recycler and repeat the exchange. Trawler returns only lower-value Retriever, not an equal-value 3-mana card.
 
 Results:
-- Infinite creature LTB
-- Infinite creature ETB
-- Infinite creature sacrifice triggers
-- Infinite death triggers
-- Infinite damage
-- Infinite storm count
-- Infinite colorless mana
-- Infinite creature tokens
+- Arbitrarily many creature deaths, sacrifice events and creature entries, under the stated prerequisites.
+- Arbitrarily high spell count from repeated casts.
+- Direct lethal damage or life loss through the named payoff.
+- Mana, life and token surplus: see the accounting note below; repeated production does not always accumulate those resources.
+
+Classification: Unbounded resource loop.
+
+Audit Notes:
+- One recycler in hand, other in graveyard; fund first cast (three always suffices). Sacrifice Spawn to Ashnod, not its intrinsic ability: eight generated minus five spent per pair = net three.
 
 ===endpanel
 ===endaccordion
@@ -2166,24 +2086,21 @@ Prerequisites:
 - You have enough mana to cast the artifact card in your hand.
 
 Steps:
-1. Cast the artifact creature card in your hand by paying its mana cost.
-2. Glaring Fleshraker's first ability triggers, creating a 0/1 Eldrazi Spawn creature token.
-3. When the Eldrazi Spawn enters the battlefield, Glaring Fleshraker's second ability triggers, dealing 1 damage to each opponent.
-4. Resolve the artifact creature spell, triggering Glaring Fleshraker's second ability, dealing 1 damage to each opponent.
-5. Activate Ashnod's Altar by sacrificing the artifact creature, adding [[symbol:c]][[symbol:c]].
-6. When the artifact creature dies, it triggers, returning the other artifact creature from your graveyard to your hand.
-7. If needed, activate the Eldrazi Spawn by sacrificing it, adding [[symbol:c]].
-8. Repeat.
+1. Cast the recycler in hand. Fleshraker creates a Spawn; resolve its entry damage, then let the artifact creature enter for a second damage trigger.
+2. Sacrifice the artifact creature to Ashnod's Altar; return the other recycler from graveyard to hand.
+3. Sacrifice the Spawn to Ashnod's Altar for [[symbol:2]].
+4. Cast the other recycler and repeat the exchange. Trawler returns only lower-value Retriever, not an equal-value 3-mana card.
 
 Results:
-- Infinite creature LTB
-- Infinite creature ETB
-- Infinite creature sacrifice triggers
-- Infinite death triggers
-- Infinite damage
-- Infinite storm count
-- Infinite colorless mana
-- Infinite creature tokens
+- Arbitrarily many creature deaths, sacrifice events and creature entries, under the stated prerequisites.
+- Arbitrarily high spell count from repeated casts.
+- Direct lethal damage or life loss through the named payoff.
+- Mana, life and token surplus: see the accounting note below; repeated production does not always accumulate those resources.
+
+Classification: Unbounded resource loop.
+
+Audit Notes:
+- Diver/Assistant start hand/graveyard; three-mana seed. Sacrifice Spawns to Ashnod: eight generated minus six spent = net two colorless per pair.
 
 ===endpanel
 ===endaccordion
@@ -2207,24 +2124,21 @@ Prerequisites:
 - You have enough mana to cast the artifact card in your hand.
 
 Steps:
-1. Cast the artifact creature card in your hand by paying its mana cost.
-2. Glaring Fleshraker's first ability triggers, creating a 0/1 Eldrazi Spawn creature token.
-3. When the Eldrazi Spawn enters the battlefield, Glaring Fleshraker's second ability triggers, dealing 1 damage to each opponent.
-4. Resolve the artifact creature spell, triggering Glaring Fleshraker's second ability, dealing 1 damage to each opponent.
-5. Activate Ashnod's Altar by sacrificing the artifact creature, adding [[symbol:c]][[symbol:c]].
-6. When the artifact creature dies, it triggers, returning the other artifact creature from your graveyard to your hand.
-7. If needed, activate the Eldrazi Spawn by sacrificing it, adding [[symbol:c]].
-8. Repeat.
+1. Cast the recycler in hand. Fleshraker creates a Spawn; resolve its entry damage, then let the artifact creature enter for a second damage trigger.
+2. Sacrifice the artifact creature to Ashnod's Altar; return the other recycler from graveyard to hand.
+3. Sacrifice the Spawn to Ashnod's Altar for [[symbol:2]].
+4. Cast the other recycler and repeat the exchange. Trawler returns only lower-value Retriever, not an equal-value 3-mana card.
 
 Results:
-- Infinite creature LTB
-- Infinite creature ETB
-- Infinite creature sacrifice triggers
-- Infinite death triggers
-- Infinite damage
-- Infinite storm count
-- Infinite colorless mana
-- Infinite creature tokens
+- Arbitrarily many creature deaths, sacrifice events and creature entries, under the stated prerequisites.
+- Arbitrarily high spell count from repeated casts.
+- Direct lethal damage or life loss through the named payoff.
+- Mana, life and token surplus: see the accounting note below; repeated production does not always accumulate those resources.
+
+Classification: Unbounded resource loop.
+
+Audit Notes:
+- One recycler in hand, other in graveyard; fund first cast (three always suffices). Sacrifice Spawn to Ashnod, not its intrinsic ability: eight generated minus five spent per pair = net three.
 
 ===endpanel
 ===endaccordion
@@ -2248,65 +2162,21 @@ Prerequisites:
 - You have enough mana to cast the artifact card in your hand.
 
 Steps:
-1. Cast the artifact creature card in your hand by paying its mana cost.
-2. Glaring Fleshraker's first ability triggers, creating a 0/1 Eldrazi Spawn creature token.
-3. When the Eldrazi Spawn enters the battlefield, Glaring Fleshraker's second ability triggers, dealing 1 damage to each opponent.
-4. Resolve the artifact creature spell, triggering Glaring Fleshraker's second ability, dealing 1 damage to each opponent.
-5. Activate Ashnod's Altar by sacrificing the artifact creature, adding [[symbol:c]][[symbol:c]].
-6. When the artifact creature dies, it triggers, returning the other artifact creature from your graveyard to your hand.
-7. If needed, activate the Eldrazi Spawn by sacrificing it, adding [[symbol:c]].
-8. Repeat.
+1. Cast the recycler in hand. Fleshraker creates a Spawn; resolve its entry damage, then let the artifact creature enter for a second damage trigger.
+2. Sacrifice the artifact creature to Ashnod's Altar; return the other recycler from graveyard to hand.
+3. Sacrifice the Spawn to Ashnod's Altar for [[symbol:2]].
+4. Cast the other recycler and repeat the exchange. Trawler returns only lower-value Retriever, not an equal-value 3-mana card.
 
 Results:
-- Infinite creature LTB
-- Infinite creature ETB
-- Infinite creature sacrifice triggers
-- Infinite death triggers
-- Infinite damage
-- Infinite storm count
-- Infinite colorless mana
-- Infinite creature tokens
+- Arbitrarily many creature deaths, sacrifice events and creature entries, under the stated prerequisites.
+- Arbitrarily high spell count from repeated casts.
+- Direct lethal damage or life loss through the named payoff.
+- Mana, life and token surplus: see the accounting note below; repeated production does not always accumulate those resources.
 
-===endpanel
-===endaccordion
+Classification: Unbounded resource loop.
 
-<a id="c063"></a>
-===accordion
-===panel: C063: Glaring Fleshraker + Ashnod's Altar + Scrap Trawler + Workshop Assistant
-
-[[symbol:c]]
-
-Cards Required:
-- [[Glaring Fleshraker]]
-- [[Ashnod's Altar]]
-- [[Scrap Trawler]]
-- [[Workshop Assistant]]
-
-Prerequisites:
-- Glaring Fleshraker and Ashnod's Altar on the battlefield.
-- Scrap Trawler and Workshop Assistant in hand or in your graveyard.
-- One of the artifact creatures must be in your hand while the other is in your graveyard
-- You have enough mana to cast the artifact card in your hand.
-
-Steps:
-1. Cast the artifact creature card in your hand by paying its mana cost.
-2. Glaring Fleshraker's first ability triggers, creating a 0/1 Eldrazi Spawn creature token.
-3. When the Eldrazi Spawn enters the battlefield, Glaring Fleshraker's second ability triggers, dealing 1 damage to each opponent.
-4. Resolve the artifact creature spell, triggering Glaring Fleshraker's second ability, dealing 1 damage to each opponent.
-5. Activate Ashnod's Altar by sacrificing the artifact creature, adding [[symbol:c]][[symbol:c]].
-6. When the artifact creature dies, it triggers, returning the other artifact creature from your graveyard to your hand.
-7. If needed, activate the Eldrazi Spawn by sacrificing it, adding [[symbol:c]].
-8. Repeat.
-
-Results:
-- Infinite creature LTB
-- Infinite creature ETB
-- Infinite creature sacrifice triggers
-- Infinite death triggers
-- Infinite damage
-- Infinite storm count
-- Infinite colorless mana
-- Infinite creature tokens
+Audit Notes:
+- One recycler in hand, other in graveyard; fund first cast (three always suffices). Sacrifice Spawn to Ashnod, not its intrinsic ability: eight generated minus five spent per pair = net three.
 
 ===endpanel
 ===endaccordion
@@ -2328,25 +2198,21 @@ Prerequisites:
 - All other permanents on the battlefield.
 
 Steps:
-1. Activate Ashnod's Altar by sacrificing Myr Retriever, adding [[symbol:c]][[symbol:c]].
-2. When Myr Retriever dies, it triggers, returning Junk Diver to your hand from your graveyard.
-3. Imotekh the Stormlord's first ability triggers, creating two 2/2 Necron Warrior artifact creature tokens.
-4. Activate Ashnod's Altar by sacrificing a Necron Warrior, adding [[symbol:c]][[symbol:c]].
-5. Cast Junk Diver by paying [[symbol:3]].
-6. Activate Ashnod's Altar by sacrificing Junk Diver, adding [[symbol:c]][[symbol:c]].
-7. When Junk Diver dies, it triggers, returning Myr Retriever to your hand from your graveyard.
-8. Imotekh the Stormlord's first ability triggers, creating two 2/2 Necron Warrior artifact creature tokens.
-9. Cast Myr Retriever by paying [[symbol:2]].
-10. Repeat.
+1. Sacrifice the battlefield recycler to Ashnod's Altar; return its partner from graveyard to hand.
+2. Imotekh creates two Necrons. Sacrifice a Necron if needed to fund the partner's cast.
+3. Cast that partner and sacrifice it to Ashnod's Altar; return the original recycler and create two more Necrons.
+4. Recast the original. Repeat, choosing which surplus Necrons to keep or convert to mana.
 
 Results:
-- Infinite colorless mana
-- Infinite creature tokens
-- Infinite death triggers
-- Infinite creature ETB
-- Infinite creature LTB
-- Infinite creature sacrifice triggers
-- Infinite storm count
+- Arbitrarily many creature deaths, sacrifice events and creature entries, under the stated prerequisites.
+- Arbitrarily high spell count from repeated casts.
+- Artifact entries/deaths or graveyard events as specified; Ultron adds lethal drain when the repeating artifact-to-graveyard events occur while it is present.
+- Mana, life and token surplus: see the accounting note below; repeated production does not always accumulate those resources.
+
+Classification: Unbounded resource loop.
+
+Audit Notes:
+- One recycler on battlefield, other in graveyard. Sacrificing both Necrons per return gives 12 total per pair minus five casts = net seven; retain tokens instead if desired.
 
 ===endpanel
 ===endaccordion
@@ -2368,25 +2234,21 @@ Prerequisites:
 - All other permanents on the battlefield.
 
 Steps:
-1. Activate Ashnod's Altar by sacrificing Workshop Assistant, adding [[symbol:c]][[symbol:c]].
-2. When Workshop Assistant dies, it triggers, returning Junk Diver to your hand from your graveyard.
-3. Imotekh the Stormlord's first ability triggers, creating two 2/2 Necron Warrior artifact creature tokens.
-4. Activate Ashnod's Altar by sacrificing a Necron Warrior, adding [[symbol:c]][[symbol:c]].
-5. Cast Junk Diver by paying [[symbol:3]].
-6. Activate Ashnod's Altar by sacrificing Junk Diver, adding [[symbol:c]][[symbol:c]].
-7. When Junk Diver dies, it triggers, returning Workshop Assistant to your hand from your graveyard.
-8. Imotekh the Stormlord's first ability triggers, creating two 2/2 Necron Warrior artifact creature tokens.
-9. Cast Workshop Assistant by paying [[symbol:3]].
-10. Repeat.
+1. Sacrifice the battlefield recycler to Ashnod's Altar; return its partner from graveyard to hand.
+2. Imotekh creates two Necrons. Sacrifice a Necron if needed to fund the partner's cast.
+3. Cast that partner and sacrifice it to Ashnod's Altar; return the original recycler and create two more Necrons.
+4. Recast the original. Repeat, choosing which surplus Necrons to keep or convert to mana.
 
 Results:
-- Infinite colorless mana
-- Infinite creature tokens
-- Infinite death triggers
-- Infinite creature ETB
-- Infinite creature LTB
-- Infinite creature sacrifice triggers
-- Infinite storm count
+- Arbitrarily many creature deaths, sacrifice events and creature entries, under the stated prerequisites.
+- Arbitrarily high spell count from repeated casts.
+- Artifact entries/deaths or graveyard events as specified; Ultron adds lethal drain when the repeating artifact-to-graveyard events occur while it is present.
+- Mana, life and token surplus: see the accounting note below; repeated production does not always accumulate those resources.
+
+Classification: Unbounded resource loop.
+
+Audit Notes:
+- One of Diver/Assistant on battlefield, other in graveyard. Both Necron pairs can be sacrificed: 12 generated minus six casts = net six colorless.
 
 ===endpanel
 ===endaccordion
@@ -2408,25 +2270,21 @@ Prerequisites:
 - All other permanents on the battlefield.
 
 Steps:
-1. Activate Ashnod's Altar by sacrificing Myr Retriever, adding [[symbol:c]][[symbol:c]].
-2. When Myr Retriever dies, it triggers, returning Scrap Trawler to your hand from your graveyard.
-3. Imotekh the Stormlord's first ability triggers, creating two 2/2 Necron Warrior artifact creature tokens.
-4. Activate Ashnod's Altar by sacrificing a Necron Warrior, adding [[symbol:c]][[symbol:c]].
-5. Cast Scrap Trawler by paying [[symbol:3]].
-6. Activate Ashnod's Altar by sacrificing Scrap Trawler, adding [[symbol:c]][[symbol:c]].
-7. When Scrap Trawler dies, it triggers, returning Myr Retriever to your hand from your graveyard.
-8. Imotekh the Stormlord's first ability triggers, creating two 2/2 Necron Warrior artifact creature tokens.
-9. Cast Myr Retriever by paying [[symbol:2]].
-10. Repeat.
+1. Sacrifice the battlefield recycler to Ashnod's Altar; return its partner from graveyard to hand.
+2. Imotekh creates two Necrons. Sacrifice a Necron if needed to fund the partner's cast.
+3. Cast that partner and sacrifice it to Ashnod's Altar; return the original recycler and create two more Necrons.
+4. Recast the original. Repeat, choosing which surplus Necrons to keep or convert to mana.
 
 Results:
-- Infinite colorless mana
-- Infinite creature tokens
-- Infinite death triggers
-- Infinite creature ETB
-- Infinite creature LTB
-- Infinite creature sacrifice triggers
-- Infinite storm count
+- Arbitrarily many creature deaths, sacrifice events and creature entries, under the stated prerequisites.
+- Arbitrarily high spell count from repeated casts.
+- Artifact entries/deaths or graveyard events as specified; Ultron adds lethal drain when the repeating artifact-to-graveyard events occur while it is present.
+- Mana, life and token surplus: see the accounting note below; repeated production does not always accumulate those resources.
+
+Classification: Unbounded resource loop.
+
+Audit Notes:
+- One recycler on battlefield, other in graveyard. Sacrificing both Necrons per return gives 12 total per pair minus five casts = net seven; retain tokens instead if desired.
 
 ===endpanel
 ===endaccordion
@@ -2448,25 +2306,21 @@ Prerequisites:
 - All other permanents on the battlefield.
 
 Steps:
-1. Activate Ashnod's Altar by sacrificing Workshop Assistant, adding [[symbol:c]][[symbol:c]].
-2. When Workshop Assistant dies, it triggers, returning Myr Retriever to your hand from your graveyard.
-3. Imotekh the Stormlord's first ability triggers, creating two 2/2 Necron Warrior artifact creature tokens.
-4. Activate Ashnod's Altar by sacrificing a Necron Warrior, adding [[symbol:c]][[symbol:c]].
-5. Cast Myr Retriever by paying [[symbol:2]].
-6. Activate Ashnod's Altar by sacrificing Myr Retriever, adding [[symbol:c]][[symbol:c]].
-7. When Myr Retriever dies, it triggers, returning Workshop Assistant to your hand from your graveyard.
-8. Imotekh the Stormlord's first ability triggers, creating two 2/2 Necron Warrior artifact creature tokens.
-9. Cast Workshop Assistant by paying [[symbol:3]].
-10. Repeat.
+1. Sacrifice the battlefield recycler to Ashnod's Altar; return its partner from graveyard to hand.
+2. Imotekh creates two Necrons. Sacrifice a Necron if needed to fund the partner's cast.
+3. Cast that partner and sacrifice it to Ashnod's Altar; return the original recycler and create two more Necrons.
+4. Recast the original. Repeat, choosing which surplus Necrons to keep or convert to mana.
 
 Results:
-- Infinite colorless mana
-- Infinite creature tokens
-- Infinite death triggers
-- Infinite creature ETB
-- Infinite creature LTB
-- Infinite creature sacrifice triggers
-- Infinite storm count
+- Arbitrarily many creature deaths, sacrifice events and creature entries, under the stated prerequisites.
+- Arbitrarily high spell count from repeated casts.
+- Artifact entries/deaths or graveyard events as specified; Ultron adds lethal drain when the repeating artifact-to-graveyard events occur while it is present.
+- Mana, life and token surplus: see the accounting note below; repeated production does not always accumulate those resources.
+
+Classification: Unbounded resource loop.
+
+Audit Notes:
+- One recycler on battlefield, other in graveyard. Sacrificing both Necrons per return gives 12 total per pair minus five casts = net seven; retain tokens instead if desired.
 
 ===endpanel
 ===endaccordion
@@ -2489,73 +2343,21 @@ Prerequisites:
 - There is an artifact or creature card exiled with Semblance Anvil.
 
 Steps:
-1. Activate Ashnod's Altar by sacrificing Myr Retriever, adding [[symbol:c]][[symbol:c]].
-2. When Myr Retriever dies, it triggers, returning Scrap Trawler from your graveyard to your hand.
-3. Cast Scrap Trawler by paying its mana cost, which is reduced by Semblance Anvil.
-4. Activate Ashnod's Altar by sacrificing Scrap Trawler, adding [[symbol:c]][[symbol:c]].
-5. When Scrap Trawler dies, it triggers, returning Myr Retriever from your graveyard to your hand.
-6. Cast Myr Retriever by paying its mana cost, which is reduced by Semblance Anvil.
-7. Repeat.
+1. Sacrifice Myr Retriever to Ashnod's Altar; return Scrap Trawler to hand from the graveyard.
+2. Cast Trawler at the reduced cost: [[symbol:2]] with Key/Inspector, [[symbol:1]] with Anvil.
+3. Sacrifice Trawler to Ashnod's Altar; its own death trigger returns lower-value Myr Retriever.
+4. Cast Retriever at the reduced cost: [[symbol:1]] with Key/Inspector, [[symbol:0]] with Anvil. Repeat.
 
 Results:
-- Infinite artifact ETB
-- Infinite artifact LTB
-- Infinite artifact sacrifice triggers
-- Infinite creature ETB
-- Infinite creature LTB
-- Infinite colorless mana
-- Infinite death triggers
-- Infinite creature sacrifice triggers
-- Infinite storm count
+- Arbitrarily many creature deaths, sacrifice events and creature entries, under the stated prerequisites.
+- Arbitrarily high spell count from repeated casts.
+- Artifact entries/deaths or graveyard events as specified; Ultron adds lethal drain when the repeating artifact-to-graveyard events occur while it is present.
+- Mana, life and token surplus: see the accounting note below; repeated production does not always accumulate those resources.
 
-===endpanel
-===endaccordion
+Classification: Unbounded resource loop.
 
-<a id="c069"></a>
-===accordion
-===panel: C069: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Ashnod's Altar
-
-[[symbol:c]]
-
-Cards Required:
-- [[The Ooze]]
-- [[Stridehangar Automaton]]
-- [[Pitiless Plunderer]]
-- [[Ashnod's Altar]]
-
-Prerequisites:
-- All permanents on the battlefield.
-- You control a Thopter.
-- There is at least one card in a graveyard.
-- The Ooze is untapped.
-
-Steps:
-1. Sacrifice a Thopter to Ashnod's Altar.
-2. When the Thopter dies, Pitiless Plunderer triggers, creating a Treasure token.
-3. Stridehangar Automaton causes you to also create a 1/1 Thopter artifact creature token.
-4. Activate The Ooze by tapping it, exiling a card from a graveyard and creating a Mutagen artifact token.
-5. Stridehangar Automaton causes you to also create another 1/1 Thopter artifact creature token.
-6. Activate the Treasure by tapping and sacrificing it, adding [[symbol:1]] mana.
-7. Spend [[symbol:1]], tap and sacrifice the Mutagen to put a +1/+1 counter on a Thopter.
-8. Activate Ashnod's Altar by sacrificing the countered Thopter, adding [[symbol:c]][[symbol:c]].
-9. When the countered Thopter dies, Pitiless Plunderer triggers, creating a Treasure token, and The Ooze triggers, creating a Mutagen token.
-10. Stridehangar Automaton causes you to create replacement Thopter artifact creature tokens as the artifact tokens are created.
-11. Sacrifice the Treasure for [[symbol:1]] and use it to activate and sacrifice the Mutagen, putting a +1/+1 counter on a replacement Thopter.
-12. Repeat from step 8.
-
-Results:
-- Infinite colorless mana
-- Infinite Treasure tokens
-- Infinite artifact ETB
-- Infinite artifact LTB
-- Infinite artifact sacrifice triggers
-- Infinite artifact tokens
-- Infinite creature ETB
-- Infinite creature LTB
-- Infinite creature sacrifice triggers
-- Infinite death triggers
-
-**Timing reminder:** Mutagen activation is sorcery-speed; execute the Mutagen portions of this loop during your main phase with an empty stack.
+Audit Notes:
+- Retriever on battlefield, Trawler in graveyard; Anvil imprints artifact or creature. Four generated minus one spent = net three colorless.
 
 ===endpanel
 ===endaccordion
@@ -2579,78 +2381,22 @@ Prerequisites:
 - [[symbol:b]] available
 
 Steps:
-1. Activate Tortured Existence by paying [[symbol:b]] and discarding an artifact creature card, returning another artifact creature card from your graveyard to your hand.
-2. Imotekh triggers, creating two 2/2 Necron Warrior artifact creature tokens.
-3. When the Necron Warriors enter the battlefield, Blasting Station triggers twice, untapping Blasting Station.
-4. Activate Blasting Station by tapping it and sacrificing a Necron Warrior.
-5. When the Necron Warrior dies, Pitiless Plunderer triggers, creating a Treasure artifact token.
-6. Resolve the Blasting Station ability, dealing 1 damage to any target.
-7. Activate the Treasure by tapping and sacrificing it, adding [[symbol:b]].
-8. Repeat.
+1. Begin with [[symbol:b]] available.
+2. Activate Tortured Existence for [[symbol:b]]: target the artifact creature card already in your graveyard and discard the other artifact creature card as the cost. Return the target to hand.
+3. Resolve Imotekh to create two Necrons.
+4. Sacrifice both Necrons to Blasting Station; resolve Plunderer to make two Treasures. Spend one Treasure for the next [[symbol:b]]. With Blasting Station, use its two separate untap triggers to fund two activations.
+5. Repeat with the hand/graveyard cards exchanged. Do not cast the exchanged cards.
 
 Results:
-- Infinite artifact ETB
-- Infinite artifact LTB
-- Infinite artifact sacrifice triggers
-- Infinite artifact tokens
-- Infinite colored mana
-- Infinite creature tokens
-- Infinite damage
-- Infinite death triggers
-- Infinite creature ETB
-- Infinite creature LTB
-- Infinite creature sacrifice triggers
-- Infinite self-discard triggers
-- Infinite Treasure tokens
+- Arbitrarily many artifact-card returns and Necron-token creation events.
+- Direct lethal damage or life loss through the named payoff.
+- Artifact entries/deaths or graveyard events as specified; Ultron adds lethal drain when the repeating artifact-to-graveyard events occur while it is present.
+- Mana, life and token surplus: see the accounting note below; repeated production does not always accumulate those resources.
 
-===endpanel
-===endaccordion
+Classification: Unbounded resource loop.
 
-<a id="c071"></a>
-===accordion
-===panel: C071: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Blasting Station
-
-[[symbol:c]]
-
-Cards Required:
-- [[The Ooze]]
-- [[Stridehangar Automaton]]
-- [[Pitiless Plunderer]]
-- [[Blasting Station]]
-
-Prerequisites:
-- All permanents on the battlefield.
-- You control a Thopter.
-- There is at least one card in a graveyard.
-- The Ooze is untapped.
-
-Steps:
-1. Sacrifice a Thopter to Blasting Station.
-2. When the Thopter dies, Pitiless Plunderer triggers, creating a Treasure token.
-3. Stridehangar Automaton causes you to also create a 1/1 Thopter artifact creature token.
-4. Activate The Ooze by tapping it, exiling a card from a graveyard and creating a Mutagen artifact token.
-5. Stridehangar Automaton causes you to also create another 1/1 Thopter artifact creature token.
-6. Activate the Treasure by tapping and sacrificing it, adding [[symbol:1]] mana.
-7. Spend [[symbol:1]], tap and sacrifice the Mutagen to put a +1/+1 counter on a Thopter.
-8. Activate Blasting Station by tapping it and sacrificing the countered Thopter, dealing 1 damage to any target.
-9. When the countered Thopter dies, Pitiless Plunderer triggers, creating a Treasure token, and The Ooze triggers, creating a Mutagen token.
-10. Stridehangar Automaton causes you to create replacement Thopter artifact creature tokens as the artifact tokens are created.
-11. Sacrifice the Treasure for [[symbol:1]] and use it to activate and sacrifice the Mutagen, putting a +1/+1 counter on a replacement Thopter.
-12. Repeat from step 8.
-
-Results:
-- Infinite damage
-- Infinite Treasure tokens
-- Infinite artifact ETB
-- Infinite artifact LTB
-- Infinite artifact sacrifice triggers
-- Infinite artifact tokens
-- Infinite creature ETB
-- Infinite creature LTB
-- Infinite creature sacrifice triggers
-- Infinite death triggers
-
-**Timing reminder:** Mutagen activation is sorcery-speed; execute the Mutagen portions of this loop during your main phase with an empty stack.
+Audit Notes:
+- Two additional artifact creature cards alternate hand/graveyard; [[symbol:b]] seed. Sacrifice both Necrons for two Treasures; spend one for the next exchange. C070 uses both separate Station untap triggers.
 
 ===endpanel
 ===endaccordion
@@ -2674,27 +2420,22 @@ Prerequisites:
 - [[symbol:b]] available.
 
 Steps:
-1. Activate Tortured Existence by paying [[symbol:b]] and discarding an artifact creature card, returning another artifact creature card from your graveyard to your hand.
-2. Imotekh the Stormlord triggers, creating two 2/2 Necron Warrior artifact creature tokens.
-3. Sacrifice both Necron Warriors to Carrion Feeder, putting two +1/+1 counters on Carrion Feeder.
-4. Pitiless Plunderer triggers for both deaths, creating two Treasure tokens.
-5. Sacrifice one Treasure for [[symbol:b]] to pay for the next Tortured Existence activation. The second Treasure is surplus.
-6. Repeat.
+1. Begin with [[symbol:b]] available.
+2. Activate Tortured Existence for [[symbol:b]]: target the artifact creature card already in your graveyard and discard the other artifact creature card as the cost. Return the target to hand.
+3. Resolve Imotekh to create two Necrons.
+4. Sacrifice both Necrons to Carrion Feeder; resolve Plunderer to make two Treasures. Spend one Treasure for the next [[symbol:b]]. With Blasting Station, use its two separate untap triggers to fund two activations.
+5. Repeat with the hand/graveyard cards exchanged. Do not cast the exchanged cards.
 
 Results:
-- Infinite +1/+1 counters on Carrion Feeder
-- Infinite Treasure tokens
-- Infinite colored mana
-- Infinite artifact ETB
-- Infinite artifact LTB
-- Infinite artifact sacrifice triggers
-- Infinite artifact tokens
-- Infinite creature tokens
-- Infinite creature ETB
-- Infinite creature LTB
-- Infinite creature sacrifice triggers
-- Infinite death triggers
-- Infinite self-discard triggers
+- Arbitrarily many artifact-card returns and Necron-token creation events.
+- Arbitrarily many +1/+1 counters on the surviving counter source.
+- Artifact entries/deaths or graveyard events as specified; Ultron adds lethal drain when the repeating artifact-to-graveyard events occur while it is present.
+- Mana, life and token surplus: see the accounting note below; repeated production does not always accumulate those resources.
+
+Classification: Unbounded resource loop.
+
+Audit Notes:
+- Two additional artifact creature cards alternate hand/graveyard; [[symbol:b]] seed. Sacrifice both Necrons for two Treasures; spend one for the next exchange. C070 uses both separate Station untap triggers.
 
 ===endpanel
 ===endaccordion
@@ -2716,69 +2457,24 @@ Prerequisites:
 - Your library is empty.
 - You control two other suitable nontoken creatures.
 - [[symbol:1]] available for the initial Skullclamp equip.
+- Use recyclable bodies that survive Skullclamp unless the entry explicitly uses a 1-toughness auto-dying carrier.
 
 Steps:
-1. Equip Skullclamp to one recyclable creature.
-2. Sacrifice it to Carrion Feeder, putting a +1/+1 counter on Carrion Feeder and triggering Skullclamp and Pitiless Plunderer.
-3. Before Skullclamp resolves, sacrifice the second recyclable creature to Carrion Feeder, putting another +1/+1 counter on Carrion Feeder.
-4. Resolve the Pitiless Plunderer triggers, creating two Treasures.
-5. Resolve Skullclamp; Out of the Tombs replaces the two draws and returns both creature cards to the battlefield.
-6. Use one Treasure to equip Skullclamp again. The second Treasure is surplus.
-7. Repeat.
+1. Pay [[symbol:1]] to equip Skullclamp to a recyclable body that survives its -1 toughness.
+2. Sacrifice BOTH recyclable bodies to Carrion Feeder before Clamp's draw trigger resolves.
+3. Resolve resource triggers first, then resolve Clamp. Out of the Tombs replaces its two draws separately by returning both creature cards. Do not remove those cards with another recursion trigger first.
+4. Spend one generated mana or Treasure on the next equip and repeat. Both bodies must return each cycle.
 
 Results:
-- Infinite +1/+1 counters on Carrion Feeder
-- Infinite Treasure tokens
-- Infinite colored mana
-- Infinite creature ETB
-- Infinite creature LTB
-- Infinite creature sacrifice triggers
-- Infinite death triggers
+- Arbitrarily many creature deaths, sacrifice events and creature entries, under the stated prerequisites.
+- Arbitrarily many +1/+1 counters on the surviving counter source.
+- Artifact entries/deaths or graveyard events as specified; Ultron adds lethal drain when the repeating artifact-to-graveyard events occur while it is present.
+- Mana, life and token surplus: see the accounting note below; repeated production does not always accumulate those resources.
 
-===endpanel
-===endaccordion
+Classification: Unbounded resource loop.
 
-<a id="c074"></a>
-===accordion
-===panel: C074: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Carrion Feeder
-
-[[symbol:c]]
-
-Cards Required:
-- [[The Ooze]]
-- [[Stridehangar Automaton]]
-- [[Pitiless Plunderer]]
-- [[Carrion Feeder]]
-
-Prerequisites:
-- All permanents on the battlefield.
-- You control a Thopter.
-- There is at least one card in a graveyard.
-- The Ooze is untapped.
-
-Steps:
-1. Sacrifice a Thopter to Carrion Feeder, putting a +1/+1 counter on Carrion Feeder.
-2. Pitiless Plunderer triggers, creating a Treasure token; Stridehangar Automaton creates a replacement Thopter.
-3. Activate The Ooze by tapping it, exiling a card from a graveyard and creating a Mutagen artifact token; Stridehangar Automaton creates another Thopter.
-4. Sacrifice the Treasure for [[symbol:1]] and spend it to activate and sacrifice the Mutagen, putting a +1/+1 counter on a Thopter.
-5. Sacrifice the countered Thopter to Carrion Feeder.
-6. Pitiless Plunderer and The Ooze trigger, creating a Treasure and a Mutagen; Stridehangar Automaton creates replacement Thopters for those artifact tokens.
-7. Sacrifice the Treasure for [[symbol:1]] and use it to activate and sacrifice the Mutagen, putting a +1/+1 counter on a replacement Thopter.
-8. Repeat from step 5.
-
-Results:
-- Infinite +1/+1 counters on Carrion Feeder
-- Infinite Treasure tokens
-- Infinite artifact ETB
-- Infinite artifact LTB
-- Infinite artifact sacrifice triggers
-- Infinite artifact tokens
-- Infinite creature ETB
-- Infinite creature LTB
-- Infinite creature sacrifice triggers
-- Infinite death triggers
-
-**Timing reminder:** Mutagen activation is sorcery-speed; execute the Mutagen portions of this loop during your main phase with an empty stack.
+Audit Notes:
+- Empty library; two other recyclable nontoken bodies, [[symbol:1]] seed. Both artifact creatures for Ravager. Two Treasures minus one equip = one surplus Treasure.
 
 ===endpanel
 ===endaccordion
@@ -2801,64 +2497,19 @@ Prerequisites:
 - There is at least one card in a graveyard.
 
 Steps:
-1. Activate The Ooze by tapping it, exiling a card from a graveyard and creating a Mutagen artifact token.
-2. Stridehangar Automaton causes you to also create a 1/1 Thopter artifact creature token.
-3. Activate Clock of Omens by tapping the Mutagen and Thopter, untapping The Ooze.
-4. Activate Grinding Station by tapping it and sacrificing the tapped Mutagen, causing target player to mill three cards.
-5. Activate The Ooze by tapping it, exiling one of the newly milled cards and creating another Mutagen.
-6. Stridehangar Automaton causes you to also create another Thopter.
-7. The artifact tokens entering trigger Grinding Station, untapping Grinding Station.
-8. Activate Clock of Omens by tapping the new Mutagen and Thopter, untapping The Ooze.
-9. Activate Grinding Station by tapping it and sacrificing the tapped Mutagen, causing target player to mill three cards.
-10. Repeat from step 5 until the chosen player's library is empty.
+1. Tap The Ooze to exile a graveyard card and create Mutagen plus a Stridehangar Thopter.
+2. Tap the two new artifacts to Clock to untap The Ooze.
+3. Tap Grinding Station and sacrifice the tapped Mutagen to mill three. Exile a newly milled graveyard card with Ooze to create the next token pair; token entries untap Station. Repeat until the finite library/graveyard feed is exhausted.
 
 Results:
-- Mill a library
-- Repeated graveyard exile
-- Repeated artifact ETB
-- Repeated artifact LTB
-- Repeated artifact sacrifice triggers
-- Create Thopter tokens
+- Finite repeated card access / resource conversion as described in the steps.
+- Not an unbounded loop: library or graveyard fuel is consumed.
+- Repeated mill until finite fuel is exhausted.
 
-**Classification:** Finite/library- or graveyard-bounded engine rather than mathematically unbounded repetition.
+Classification: Finite sequence.
 
-===endpanel
-===endaccordion
-
-<a id="c076"></a>
-===accordion
-===panel: C076: Spine of Ish Sah + Imotekh the Stormlord + Krark-Clan Ironworks + Cloud Key
-
-[[symbol:c]]
-
-Cards Required:
-- [[Spine of Ish Sah]]
-- [[Imotekh the Stormlord]]
-- [[Krark-Clan Ironworks]]
-- [[Cloud Key]]
-
-Prerequisites:
-- All permanents are on the battlefield.
-- Cloud Key has "Artifact" chosen.
-- Enough resources are available to begin the loop.
-
-Steps:
-1. Sacrifice Spine of Ish Sah to Krark-Clan Ironworks, adding [[symbol:c]][[symbol:c]].
-2. Spine returns itself from your graveyard to your hand.
-3. Spine leaving your graveyard triggers Imotekh, creating two Necron Warrior artifact creature tokens.
-4. Sacrifice both Necrons to Krark-Clan Ironworks, adding [[symbol:c]][[symbol:c]][[symbol:c]][[symbol:c]].
-5. Recast Spine for [[symbol:6]], destroying target permanent when it enters, then repeat.
-
-Results:
-- Repeated permanent destruction
-- Infinite artifact ETB
-- Infinite artifact LTB
-- Infinite artifact sacrifice triggers
-- Infinite creature tokens
-- Infinite creature ETB
-- Infinite creature LTB
-- Infinite creature sacrifice triggers
-- Infinite death triggers
+Audit Notes:
+- Finite: requires an initial graveyard card and enough library feed to continue milling. Sacrifice Mutagen to Station after tapping it for Clock; next token entries untap Station.
 
 ===endpanel
 ===endaccordion
@@ -2880,96 +2531,21 @@ Prerequisites:
 - All other permanents on the battlefield (Cloud Key with "Artifact" or "Creature" chosen).
 
 Steps:
-1. Activate Krark-Clan Ironworks by sacrificing Myr Retriever, adding [[symbol:c]][[symbol:c]].
-2. When Myr Retriever dies, it triggers, returning Scrap Trawler from your graveyard to your hand.
-3. Cast Scrap Trawler by paying its mana cost, which is reduced by Cloud Key.
-4. Activate Krark-Clan Ironworks by sacrificing Scrap Trawler, adding [[symbol:c]][[symbol:c]].
-5. When Scrap Trawler dies, it triggers, returning Myr Retriever from your graveyard to your hand.
-6. Cast Myr Retriever by paying its mana cost, which is reduced by Cloud Key.
-7. Repeat.
+1. Sacrifice Myr Retriever to Krark-Clan Ironworks; return Scrap Trawler to hand from the graveyard.
+2. Cast Trawler at the reduced cost: [[symbol:2]] with Key/Inspector, [[symbol:1]] with Anvil.
+3. Sacrifice Trawler to Krark-Clan Ironworks; its own death trigger returns lower-value Myr Retriever.
+4. Cast Retriever at the reduced cost: [[symbol:1]] with Key/Inspector, [[symbol:0]] with Anvil. Repeat.
 
 Results:
-- Infinite artifact ETB
-- Infinite artifact LTB
-- Infinite artifact sacrifice triggers
-- Infinite creature ETB
-- Infinite creature LTB
-- Infinite colorless mana
-- Infinite death triggers
-- Infinite creature sacrifice triggers
-- Infinite storm count
+- Arbitrarily many creature deaths, sacrifice events and creature entries, under the stated prerequisites.
+- Arbitrarily high spell count from repeated casts.
+- Artifact entries/deaths or graveyard events as specified; Ultron adds lethal drain when the repeating artifact-to-graveyard events occur while it is present.
+- Mana, life and token surplus: see the accounting note below; repeated production does not always accumulate those resources.
 
-===endpanel
-===endaccordion
+Classification: Unbounded resource loop.
 
-<a id="c078"></a>
-===accordion
-===panel: C078: Spine of Ish Sah + Sculpting Steel + Krark-Clan Ironworks + Cloud Key
-
-[[symbol:c]]
-
-Cards Required:
-- [[Spine of Ish Sah]]
-- [[Sculpting Steel]]
-- [[Krark-Clan Ironworks]]
-- [[Cloud Key]]
-
-Prerequisites:
-- Spine of Ish Sah, Krark-Clan Ironworks, and the reducer are on the battlefield.
-- Sculpting Steel is in hand.
-- Cloud Key has "Artifact" chosen.
-
-Steps:
-1. Cast Sculpting Steel, having it enter as a copy of Spine of Ish Sah.
-2. The copied Spine trigger destroys target permanent.
-3. Sacrifice Sculpting Steel to Krark-Clan Ironworks, adding [[symbol:c]][[symbol:c]].
-4. The copied Spine death trigger returns Sculpting Steel from your graveyard to your hand.
-5. Recast Sculpting Steel using the loop resources and repeat.
-
-Results:
-- Repeated permanent destruction
-- Infinite artifact ETB
-- Infinite artifact LTB
-- Infinite artifact sacrifice triggers
-- Infinite storm count
-
-===endpanel
-===endaccordion
-
-<a id="c079"></a>
-===accordion
-===panel: C079: Spine of Ish Sah + Imotekh the Stormlord + Krark-Clan Ironworks + Foundry Inspector
-
-[[symbol:c]]
-
-Cards Required:
-- [[Spine of Ish Sah]]
-- [[Imotekh the Stormlord]]
-- [[Krark-Clan Ironworks]]
-- [[Foundry Inspector]]
-
-Prerequisites:
-- All permanents are on the battlefield.
-- No additional prerequisites.
-- Enough resources are available to begin the loop.
-
-Steps:
-1. Sacrifice Spine of Ish Sah to Krark-Clan Ironworks, adding [[symbol:c]][[symbol:c]].
-2. Spine returns itself from your graveyard to your hand.
-3. Spine leaving your graveyard triggers Imotekh, creating two Necron Warrior artifact creature tokens.
-4. Sacrifice both Necrons to Krark-Clan Ironworks, adding [[symbol:c]][[symbol:c]][[symbol:c]][[symbol:c]].
-5. Recast Spine for [[symbol:6]], destroying target permanent when it enters, then repeat.
-
-Results:
-- Repeated permanent destruction
-- Infinite artifact ETB
-- Infinite artifact LTB
-- Infinite artifact sacrifice triggers
-- Infinite creature tokens
-- Infinite creature ETB
-- Infinite creature LTB
-- Infinite creature sacrifice triggers
-- Infinite death triggers
+Audit Notes:
+- Retriever on battlefield, Trawler in graveyard; one-mana reducer. Four generated minus three spent per pair = net one colorless. Key may name Artifact or Creature.
 
 ===endpanel
 ===endaccordion
@@ -2991,98 +2567,21 @@ Prerequisites:
 - All other permanents on the battlefield.
 
 Steps:
-1. Activate Krark-Clan Ironworks by sacrificing Myr Retriever, adding [[symbol:c]][[symbol:c]].
-2. When Myr Retriever dies, it triggers, returning Scrap Trawler from your graveyard to your hand.
-3. Cast Scrap Trawler by paying its mana cost, which is reduced by Foundry Inspector.
-4. Activate Krark-Clan Ironworks by sacrificing Scrap Trawler, adding [[symbol:c]][[symbol:c]].
-5. When Scrap Trawler dies, it triggers, returning Myr Retriever from your graveyard to your hand.
-6. Cast Myr Retriever by paying its mana cost, which is reduced by Foundry Inspector.
-7. Repeat.
+1. Sacrifice Myr Retriever to Krark-Clan Ironworks; return Scrap Trawler to hand from the graveyard.
+2. Cast Trawler at the reduced cost: [[symbol:2]] with Key/Inspector, [[symbol:1]] with Anvil.
+3. Sacrifice Trawler to Krark-Clan Ironworks; its own death trigger returns lower-value Myr Retriever.
+4. Cast Retriever at the reduced cost: [[symbol:1]] with Key/Inspector, [[symbol:0]] with Anvil. Repeat.
 
 Results:
-- Infinite artifact ETB
-- Infinite artifact LTB
-- Infinite artifact sacrifice triggers
-- Infinite creature ETB
-- Infinite creature LTB
-- Infinite colorless mana
-- Infinite death triggers
-- Infinite creature sacrifice triggers
-- Infinite storm count
+- Arbitrarily many creature deaths, sacrifice events and creature entries, under the stated prerequisites.
+- Arbitrarily high spell count from repeated casts.
+- Artifact entries/deaths or graveyard events as specified; Ultron adds lethal drain when the repeating artifact-to-graveyard events occur while it is present.
+- Mana, life and token surplus: see the accounting note below; repeated production does not always accumulate those resources.
 
-===endpanel
-===endaccordion
+Classification: Unbounded resource loop.
 
-<a id="c081"></a>
-===accordion
-===panel: C081: Spine of Ish Sah + Sculpting Steel + Krark-Clan Ironworks + Foundry Inspector
-
-[[symbol:c]]
-
-Cards Required:
-- [[Spine of Ish Sah]]
-- [[Sculpting Steel]]
-- [[Krark-Clan Ironworks]]
-- [[Foundry Inspector]]
-
-Prerequisites:
-- Spine of Ish Sah, Krark-Clan Ironworks, and the reducer are on the battlefield.
-- Sculpting Steel is in hand.
-- No additional prerequisites.
-
-Steps:
-1. Cast Sculpting Steel, having it enter as a copy of Spine of Ish Sah.
-2. The copied Spine trigger destroys target permanent.
-3. Sacrifice Sculpting Steel to Krark-Clan Ironworks, adding [[symbol:c]][[symbol:c]].
-4. The copied Spine death trigger returns Sculpting Steel from your graveyard to your hand.
-5. Recast Sculpting Steel using the loop resources and repeat.
-
-Results:
-- Repeated permanent destruction
-- Infinite artifact ETB
-- Infinite artifact LTB
-- Infinite artifact sacrifice triggers
-- Infinite storm count
-
-===endpanel
-===endaccordion
-
-<a id="c082"></a>
-===accordion
-===panel: C082: Spine of Ish Sah + Imotekh the Stormlord + Krark-Clan Ironworks + Glaring Fleshraker
-
-[[symbol:c]]
-
-Cards Required:
-- [[Spine of Ish Sah]]
-- [[Imotekh the Stormlord]]
-- [[Krark-Clan Ironworks]]
-- [[Glaring Fleshraker]]
-
-Prerequisites:
-- All permanents are on the battlefield.
-- Enough resources are available to begin the loop.
-
-Steps:
-1. Sacrifice Spine to Krark-Clan Ironworks for [[symbol:c]][[symbol:c]].
-2. Spine returns to hand, triggering Imotekh and creating two Necron Warrior artifact creature tokens.
-3. Sacrifice the Necrons to Krark-Clan Ironworks for [[symbol:c]][[symbol:c]][[symbol:c]][[symbol:c]].
-4. Cast Spine; the colorless cast triggers Glaring Fleshraker to create an Eldrazi Spawn.
-5. The Spawn entry causes 1 damage to each opponent and Spine destroys target permanent.
-6. Use the Spawn and loop resources as needed and repeat.
-
-Results:
-- Infinite damage
-- Repeated permanent destruction
-- Infinite artifact ETB
-- Infinite artifact LTB
-- Infinite artifact sacrifice triggers
-- Infinite creature tokens
-- Infinite creature ETB
-- Infinite creature LTB
-- Infinite creature sacrifice triggers
-- Infinite death triggers
-- Infinite storm count
+Audit Notes:
+- Retriever on battlefield, Trawler in graveyard; one-mana reducer. Four generated minus three spent per pair = net one colorless. Key may name Artifact or Creature.
 
 ===endpanel
 ===endaccordion
@@ -3106,24 +2605,21 @@ Prerequisites:
 - You have enough mana to cast the artifact card in your hand.
 
 Steps:
-1. Cast the artifact creature card in your hand by paying its mana cost.
-2. Glaring Fleshraker's first ability triggers, creating a 0/1 Eldrazi Spawn creature token.
-3. When the Eldrazi Spawn enters the battlefield, Glaring Fleshraker's second ability triggers, dealing 1 damage to each opponent.
-4. Resolve the artifact creature spell, triggering Glaring Fleshraker's second ability, dealing 1 damage to each opponent.
-5. Activate Krark-Clan Ironworks by sacrificing the artifact creature, adding [[symbol:c]][[symbol:c]].
-6. When the artifact creature dies, it triggers, returning the other artifact creature from your graveyard to your hand.
-7. If needed, activate the Eldrazi Spawn by sacrificing it, adding [[symbol:c]].
-8. Repeat.
+1. Cast the recycler in hand. Fleshraker creates a Spawn; resolve its entry damage, then let the artifact creature enter for a second damage trigger.
+2. Sacrifice the artifact creature to Krark-Clan Ironworks; return the other recycler from graveyard to hand.
+3. Sacrifice the Spawn to its own ability for [[symbol:c]]; KCI cannot sacrifice the nonartifact Spawn.
+4. Cast the other recycler and repeat the exchange. Trawler returns only lower-value Retriever, not an equal-value 3-mana card.
 
 Results:
-- Infinite creature LTB
-- Infinite creature ETB
-- Infinite creature sacrifice triggers
-- Infinite death triggers
-- Infinite colorless mana
-- Infinite damage
-- Infinite storm count
-- Infinite creature tokens
+- Arbitrarily many creature deaths, sacrifice events and creature entries, under the stated prerequisites.
+- Arbitrarily high spell count from repeated casts.
+- Direct lethal damage or life loss through the named payoff.
+- Mana, life and token surplus: see the accounting note below; repeated production does not always accumulate those resources.
+
+Classification: Unbounded resource loop.
+
+Audit Notes:
+- One recycler in hand, other in graveyard; fund first cast. Spawn is NOT an artifact: sacrifice itself for one. Six generated minus five cast cost per pair = net one colorless.
 
 ===endpanel
 ===endaccordion
@@ -3147,24 +2643,21 @@ Prerequisites:
 - You have enough mana to cast the artifact card in your hand.
 
 Steps:
-1. Cast the artifact creature card in your hand by paying its mana cost.
-2. Glaring Fleshraker's first ability triggers, creating a 0/1 Eldrazi Spawn creature token.
-3. When the Eldrazi Spawn enters the battlefield, Glaring Fleshraker's second ability triggers, dealing 1 damage to each opponent.
-4. Resolve the artifact creature spell, triggering Glaring Fleshraker's second ability, dealing 1 damage to each opponent.
-5. Activate Krark-Clan Ironworks by sacrificing the artifact creature, adding [[symbol:c]][[symbol:c]].
-6. When the artifact creature dies, it triggers, returning the other artifact creature from your graveyard to your hand.
-7. If needed, activate the Eldrazi Spawn by sacrificing it, adding [[symbol:c]].
-8. Repeat.
+1. Cast the recycler in hand. Fleshraker creates a Spawn; resolve its entry damage, then let the artifact creature enter for a second damage trigger.
+2. Sacrifice the artifact creature to Krark-Clan Ironworks; return the other recycler from graveyard to hand.
+3. Sacrifice the Spawn to its own ability for [[symbol:c]]; KCI cannot sacrifice the nonartifact Spawn.
+4. Cast the other recycler and repeat the exchange. Trawler returns only lower-value Retriever, not an equal-value 3-mana card.
 
 Results:
-- Infinite creature LTB
-- Infinite creature ETB
-- Infinite creature sacrifice triggers
-- Infinite death triggers
-- Infinite damage
-- Infinite storm count
-- Infinite colorless mana
-- Infinite creature tokens
+- Arbitrarily many creature deaths, sacrifice events and creature entries, under the stated prerequisites.
+- Arbitrarily high spell count from repeated casts.
+- Direct lethal damage or life loss through the named payoff.
+- Mana, life and token surplus: see the accounting note below; repeated production does not always accumulate those resources.
+
+Classification: Unbounded resource loop.
+
+Audit Notes:
+- Diver/Assistant start hand/graveyard; three-mana seed. Each body + intrinsic Spawn yields three: six generated and six spent per pair, neutral.
 
 ===endpanel
 ===endaccordion
@@ -3188,24 +2681,21 @@ Prerequisites:
 - You have enough mana to cast the artifact card in your hand.
 
 Steps:
-1. Cast the artifact creature card in your hand by paying its mana cost.
-2. Glaring Fleshraker's first ability triggers, creating a 0/1 Eldrazi Spawn creature token.
-3. When the Eldrazi Spawn enters the battlefield, Glaring Fleshraker's second ability triggers, dealing 1 damage to each opponent.
-4. Resolve the artifact creature spell, triggering Glaring Fleshraker's second ability, dealing 1 damage to each opponent.
-5. Activate Krark-Clan Ironworks by sacrificing the artifact creature, adding [[symbol:c]][[symbol:c]].
-6. When the artifact creature dies, it triggers, returning the other artifact creature from your graveyard to your hand.
-7. If needed, activate the Eldrazi Spawn by sacrificing it, adding [[symbol:c]].
-8. Repeat.
+1. Cast the recycler in hand. Fleshraker creates a Spawn; resolve its entry damage, then let the artifact creature enter for a second damage trigger.
+2. Sacrifice the artifact creature to Krark-Clan Ironworks; return the other recycler from graveyard to hand.
+3. Sacrifice the Spawn to its own ability for [[symbol:c]]; KCI cannot sacrifice the nonartifact Spawn.
+4. Cast the other recycler and repeat the exchange. Trawler returns only lower-value Retriever, not an equal-value 3-mana card.
 
 Results:
-- Infinite creature LTB
-- Infinite creature ETB
-- Infinite creature sacrifice triggers
-- Infinite death triggers
-- Infinite colorless mana
-- Infinite damage
-- Infinite storm count
-- Infinite creature tokens
+- Arbitrarily many creature deaths, sacrifice events and creature entries, under the stated prerequisites.
+- Arbitrarily high spell count from repeated casts.
+- Direct lethal damage or life loss through the named payoff.
+- Mana, life and token surplus: see the accounting note below; repeated production does not always accumulate those resources.
+
+Classification: Unbounded resource loop.
+
+Audit Notes:
+- One recycler in hand, other in graveyard; fund first cast. Spawn is NOT an artifact: sacrifice itself for one. Six generated minus five cast cost per pair = net one colorless.
 
 ===endpanel
 ===endaccordion
@@ -3229,110 +2719,21 @@ Prerequisites:
 - You have enough mana to cast the artifact card in your hand.
 
 Steps:
-1. Cast the artifact creature card in your hand by paying its mana cost.
-2. Glaring Fleshraker's first ability triggers, creating a 0/1 Eldrazi Spawn creature token.
-3. When the Eldrazi Spawn enters the battlefield, Glaring Fleshraker's second ability triggers, dealing 1 damage to each opponent.
-4. Resolve the artifact creature spell, triggering Glaring Fleshraker's second ability, dealing 1 damage to each opponent.
-5. Activate Krark-Clan Ironworks by sacrificing the artifact creature, adding [[symbol:c]][[symbol:c]].
-6. When the artifact creature dies, it triggers, returning the other artifact creature from your graveyard to your hand.
-7. If needed, activate the Eldrazi Spawn by sacrificing it, adding [[symbol:c]].
-8. Repeat.
+1. Cast the recycler in hand. Fleshraker creates a Spawn; resolve its entry damage, then let the artifact creature enter for a second damage trigger.
+2. Sacrifice the artifact creature to Krark-Clan Ironworks; return the other recycler from graveyard to hand.
+3. Sacrifice the Spawn to its own ability for [[symbol:c]]; KCI cannot sacrifice the nonartifact Spawn.
+4. Cast the other recycler and repeat the exchange. Trawler returns only lower-value Retriever, not an equal-value 3-mana card.
 
 Results:
-- Infinite creature LTB
-- Infinite creature ETB
-- Infinite creature sacrifice triggers
-- Infinite death triggers
-- Infinite colorless mana
-- Infinite damage
-- Infinite storm count
-- Infinite creature tokens
+- Arbitrarily many creature deaths, sacrifice events and creature entries, under the stated prerequisites.
+- Arbitrarily high spell count from repeated casts.
+- Direct lethal damage or life loss through the named payoff.
+- Mana, life and token surplus: see the accounting note below; repeated production does not always accumulate those resources.
 
-===endpanel
-===endaccordion
+Classification: Unbounded resource loop.
 
-<a id="c087"></a>
-===accordion
-===panel: C087: Spine of Ish Sah + Sculpting Steel + Krark-Clan Ironworks + Glaring Fleshraker
-
-[[symbol:c]]
-
-Cards Required:
-- [[Spine of Ish Sah]]
-- [[Sculpting Steel]]
-- [[Krark-Clan Ironworks]]
-- [[Glaring Fleshraker]]
-
-Prerequisites:
-- Spine of Ish Sah, Krark-Clan Ironworks, and Glaring Fleshraker are on the battlefield.
-- Sculpting Steel is in hand.
-- Enough resources are available to begin the loop.
-
-Steps:
-1. Cast Sculpting Steel, having it enter as a copy of Spine of Ish Sah.
-2. Casting the colorless spell triggers Glaring Fleshraker, creating an Eldrazi Spawn; its entry causes Glaring Fleshraker to deal 1 damage to each opponent.
-3. The copied Spine trigger destroys target permanent.
-4. Sacrifice Sculpting Steel to Krark-Clan Ironworks, adding [[symbol:c]][[symbol:c]].
-5. Return Sculpting Steel to hand with the copied Spine trigger; use the Spawn and loop resources as needed and repeat.
-
-Results:
-- Infinite damage
-- Repeated permanent destruction
-- Infinite artifact ETB
-- Infinite artifact LTB
-- Infinite artifact sacrifice triggers
-- Infinite creature tokens
-- Infinite storm count
-
-===endpanel
-===endaccordion
-
-<a id="c088"></a>
-===accordion
-===panel: C088: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Grinding Station
-
-[[symbol:c]]
-
-Cards Required:
-- [[The Ooze]]
-- [[Stridehangar Automaton]]
-- [[Pitiless Plunderer]]
-- [[Grinding Station]]
-
-Prerequisites:
-- All permanents on the battlefield.
-- You control a Thopter.
-- There is at least one card in a graveyard.
-- The Ooze is untapped.
-
-Steps:
-1. Sacrifice a Thopter to Grinding Station.
-2. When the Thopter dies, Pitiless Plunderer triggers, creating a Treasure token.
-3. Stridehangar Automaton causes you to also create a 1/1 Thopter artifact creature token.
-4. Activate The Ooze by tapping it, exiling a card from a graveyard and creating a Mutagen artifact token.
-5. Stridehangar Automaton causes you to also create another 1/1 Thopter artifact creature token.
-6. Activate the Treasure by tapping and sacrificing it, adding [[symbol:1]] mana.
-7. Spend [[symbol:1]], tap and sacrifice the Mutagen to put a +1/+1 counter on a Thopter.
-8. Activate Grinding Station by tapping it and sacrificing the countered Thopter, causing target player to mill three cards.
-9. When the countered Thopter dies, Pitiless Plunderer triggers, creating a Treasure token, and The Ooze triggers, creating a Mutagen token.
-10. Stridehangar Automaton causes you to create replacement Thopter artifact creature tokens as the artifact tokens are created.
-11. Sacrifice the Treasure for [[symbol:1]] and use it to activate and sacrifice the Mutagen, putting a +1/+1 counter on a replacement Thopter.
-12. Repeat from step 8.
-
-Results:
-- Infinite mill
-- Infinite self-mill
-- Infinite Treasure tokens
-- Infinite artifact ETB
-- Infinite artifact LTB
-- Infinite artifact sacrifice triggers
-- Infinite artifact tokens
-- Infinite creature ETB
-- Infinite creature LTB
-- Infinite creature sacrifice triggers
-- Infinite death triggers
-
-**Timing reminder:** Mutagen activation is sorcery-speed; execute the Mutagen portions of this loop during your main phase with an empty stack.
+Audit Notes:
+- One recycler in hand, other in graveyard; fund first cast. Spawn is NOT an artifact: sacrifice itself for one. Six generated minus five cast cost per pair = net one colorless.
 
 ===endpanel
 ===endaccordion
@@ -3354,25 +2755,21 @@ Prerequisites:
 - All other permanents on the battlefield.
 
 Steps:
-1. Activate Krark-Clan Ironworks by sacrificing Myr Retriever, adding [[symbol:c]][[symbol:c]].
-2. When Myr Retriever dies, it triggers, returning Junk Diver to your hand from your graveyard.
-3. Imotekh the Stormlord's first ability triggers, creating two 2/2 Necron Warrior artifact creature tokens.
-4. Activate Krark-Clan Ironworks by sacrificing a Necron Warrior, adding [[symbol:c]][[symbol:c]].
-5. Cast Junk Diver by paying [[symbol:3]].
-6. Activate Krark-Clan Ironworks by sacrificing Junk Diver, adding [[symbol:c]][[symbol:c]].
-7. When Junk Diver dies, it triggers, returning Myr Retriever to your hand from your graveyard.
-8. Imotekh the Stormlord's first ability triggers, creating two 2/2 Necron Warrior artifact creature tokens.
-9. Cast Myr Retriever by paying [[symbol:2]].
-10. Repeat.
+1. Sacrifice the battlefield recycler to Krark-Clan Ironworks; return its partner from graveyard to hand.
+2. Imotekh creates two Necrons. Sacrifice a Necron if needed to fund the partner's cast.
+3. Cast that partner and sacrifice it to Krark-Clan Ironworks; return the original recycler and create two more Necrons.
+4. Recast the original. Repeat, choosing which surplus Necrons to keep or convert to mana.
 
 Results:
-- Infinite colorless mana
-- Infinite creature tokens
-- Infinite death triggers
-- Infinite creature ETB
-- Infinite creature LTB
-- Infinite creature sacrifice triggers
-- Infinite storm count
+- Arbitrarily many creature deaths, sacrifice events and creature entries, under the stated prerequisites.
+- Arbitrarily high spell count from repeated casts.
+- Artifact entries/deaths or graveyard events as specified; Ultron adds lethal drain when the repeating artifact-to-graveyard events occur while it is present.
+- Mana, life and token surplus: see the accounting note below; repeated production does not always accumulate those resources.
+
+Classification: Unbounded resource loop.
+
+Audit Notes:
+- One recycler on battlefield, other in graveyard. Sacrificing both Necrons per return gives 12 total per pair minus five casts = net seven; retain tokens instead if desired.
 
 ===endpanel
 ===endaccordion
@@ -3394,25 +2791,21 @@ Prerequisites:
 - All other permanents on the battlefield.
 
 Steps:
-1. Activate Krark-Clan Ironworks by sacrificing Workshop Assistant, adding [[symbol:c]][[symbol:c]].
-2. When Workshop Assistant dies, it triggers, returning Junk Diver to your hand from your graveyard.
-3. Imotekh the Stormlord's first ability triggers, creating two 2/2 Necron Warrior artifact creature tokens.
-4. Activate Krark-Clan Ironworks by sacrificing a Necron Warrior, adding [[symbol:c]][[symbol:c]].
-5. Cast Junk Diver by paying [[symbol:3]].
-6. Activate Krark-Clan Ironworks by sacrificing Junk Diver, adding [[symbol:c]][[symbol:c]].
-7. When Junk Diver dies, it triggers, returning Workshop Assistant to your hand from your graveyard.
-8. Imotekh the Stormlord's first ability triggers, creating two 2/2 Necron Warrior artifact creature tokens.
-9. Cast Workshop Assistant by paying [[symbol:3]].
-10. Repeat.
+1. Sacrifice the battlefield recycler to Krark-Clan Ironworks; return its partner from graveyard to hand.
+2. Imotekh creates two Necrons. Sacrifice a Necron if needed to fund the partner's cast.
+3. Cast that partner and sacrifice it to Krark-Clan Ironworks; return the original recycler and create two more Necrons.
+4. Recast the original. Repeat, choosing which surplus Necrons to keep or convert to mana.
 
 Results:
-- Infinite colorless mana
-- Infinite creature tokens
-- Infinite death triggers
-- Infinite creature ETB
-- Infinite creature LTB
-- Infinite creature sacrifice triggers
-- Infinite storm count
+- Arbitrarily many creature deaths, sacrifice events and creature entries, under the stated prerequisites.
+- Arbitrarily high spell count from repeated casts.
+- Artifact entries/deaths or graveyard events as specified; Ultron adds lethal drain when the repeating artifact-to-graveyard events occur while it is present.
+- Mana, life and token surplus: see the accounting note below; repeated production does not always accumulate those resources.
+
+Classification: Unbounded resource loop.
+
+Audit Notes:
+- One of Diver/Assistant on battlefield, other in graveyard. Both Necron pairs can be sacrificed: 12 generated minus six casts = net six colorless.
 
 ===endpanel
 ===endaccordion
@@ -3434,25 +2827,21 @@ Prerequisites:
 - All other permanents on the battlefield.
 
 Steps:
-1. Activate Krark-Clan Ironworks by sacrificing Myr Retriever, adding [[symbol:c]][[symbol:c]].
-2. When Myr Retriever dies, it triggers, returning Scrap Trawler to your hand from your graveyard.
-3. Imotekh the Stormlord's first ability triggers, creating two 2/2 Necron Warrior artifact creature tokens.
-4. Activate Krark-Clan Ironworks by sacrificing a Necron Warrior, adding [[symbol:c]][[symbol:c]].
-5. Cast Scrap Trawler by paying [[symbol:3]].
-6. Activate Krark-Clan Ironworks by sacrificing Scrap Trawler, adding [[symbol:c]][[symbol:c]].
-7. When Scrap Trawler dies, it triggers, returning Myr Retriever to your hand from your graveyard.
-8. Imotekh the Stormlord's first ability triggers, creating two 2/2 Necron Warrior artifact creature tokens.
-9. Cast Myr Retriever by paying [[symbol:2]].
-10. Repeat.
+1. Sacrifice the battlefield recycler to Krark-Clan Ironworks; return its partner from graveyard to hand.
+2. Imotekh creates two Necrons. Sacrifice a Necron if needed to fund the partner's cast.
+3. Cast that partner and sacrifice it to Krark-Clan Ironworks; return the original recycler and create two more Necrons.
+4. Recast the original. Repeat, choosing which surplus Necrons to keep or convert to mana.
 
 Results:
-- Infinite colorless mana
-- Infinite creature tokens
-- Infinite death triggers
-- Infinite creature ETB
-- Infinite creature LTB
-- Infinite creature sacrifice triggers
-- Infinite storm count
+- Arbitrarily many creature deaths, sacrifice events and creature entries, under the stated prerequisites.
+- Arbitrarily high spell count from repeated casts.
+- Artifact entries/deaths or graveyard events as specified; Ultron adds lethal drain when the repeating artifact-to-graveyard events occur while it is present.
+- Mana, life and token surplus: see the accounting note below; repeated production does not always accumulate those resources.
+
+Classification: Unbounded resource loop.
+
+Audit Notes:
+- One recycler on battlefield, other in graveyard. Sacrificing both Necrons per return gives 12 total per pair minus five casts = net seven; retain tokens instead if desired.
 
 ===endpanel
 ===endaccordion
@@ -3474,64 +2863,21 @@ Prerequisites:
 - All other permanents on the battlefield.
 
 Steps:
-1. Activate Krark-Clan Ironworks by sacrificing Workshop Assistant, adding [[symbol:c]][[symbol:c]].
-2. When Workshop Assistant dies, it triggers, returning Myr Retriever to your hand from your graveyard.
-3. Imotekh the Stormlord's first ability triggers, creating two 2/2 Necron Warrior artifact creature tokens.
-4. Activate Krark-Clan Ironworks by sacrificing a Necron Warrior, adding [[symbol:c]][[symbol:c]].
-5. Cast Myr Retriever by paying [[symbol:2]].
-6. Activate Krark-Clan Ironworks by sacrificing Myr Retriever, adding [[symbol:c]][[symbol:c]].
-7. When Myr Retriever dies, it triggers, returning Workshop Assistant to your hand from your graveyard.
-8. Imotekh the Stormlord's first ability triggers, creating two 2/2 Necron Warrior artifact creature tokens.
-9. Cast Workshop Assistant by paying [[symbol:3]].
-10. Repeat.
+1. Sacrifice the battlefield recycler to Krark-Clan Ironworks; return its partner from graveyard to hand.
+2. Imotekh creates two Necrons. Sacrifice a Necron if needed to fund the partner's cast.
+3. Cast that partner and sacrifice it to Krark-Clan Ironworks; return the original recycler and create two more Necrons.
+4. Recast the original. Repeat, choosing which surplus Necrons to keep or convert to mana.
 
 Results:
-- Infinite colorless mana
-- Infinite creature tokens
-- Infinite death triggers
-- Infinite creature ETB
-- Infinite creature LTB
-- Infinite creature sacrifice triggers
-- Infinite storm count
+- Arbitrarily many creature deaths, sacrifice events and creature entries, under the stated prerequisites.
+- Arbitrarily high spell count from repeated casts.
+- Artifact entries/deaths or graveyard events as specified; Ultron adds lethal drain when the repeating artifact-to-graveyard events occur while it is present.
+- Mana, life and token surplus: see the accounting note below; repeated production does not always accumulate those resources.
 
-===endpanel
-===endaccordion
+Classification: Unbounded resource loop.
 
-<a id="c093"></a>
-===accordion
-===panel: C093: Spine of Ish Sah + Imotekh the Stormlord + Krark-Clan Ironworks + Semblance Anvil
-
-[[symbol:c]]
-
-Cards Required:
-- [[Spine of Ish Sah]]
-- [[Imotekh the Stormlord]]
-- [[Krark-Clan Ironworks]]
-- [[Semblance Anvil]]
-
-Prerequisites:
-- All permanents are on the battlefield.
-- Semblance Anvil has an artifact card exiled with it.
-- Enough resources are available to begin the loop.
-
-Steps:
-1. Sacrifice Spine of Ish Sah to Krark-Clan Ironworks, adding [[symbol:c]][[symbol:c]].
-2. Spine returns itself from your graveyard to your hand.
-3. Spine leaving your graveyard triggers Imotekh, creating two Necron Warrior artifact creature tokens.
-4. Sacrifice both Necrons to Krark-Clan Ironworks, adding [[symbol:c]][[symbol:c]][[symbol:c]][[symbol:c]].
-5. Recast Spine for [[symbol:5]], destroying target permanent when it enters, then repeat.
-
-Results:
-- Repeated permanent destruction
-- Infinite artifact ETB
-- Infinite artifact LTB
-- Infinite artifact sacrifice triggers
-- Infinite creature tokens
-- Infinite creature ETB
-- Infinite creature LTB
-- Infinite creature sacrifice triggers
-- Infinite death triggers
-- Infinite colorless mana
+Audit Notes:
+- One recycler on battlefield, other in graveyard. Sacrificing both Necrons per return gives 12 total per pair minus five casts = net seven; retain tokens instead if desired.
 
 ===endpanel
 ===endaccordion
@@ -3554,108 +2900,21 @@ Prerequisites:
 - There is an artifact card exiled with Semblance Anvil.
 
 Steps:
-1. Activate Krark-Clan Ironworks by sacrificing Myr Retriever, adding [[symbol:c]][[symbol:c]].
-2. When Myr Retriever dies, it triggers, returning Scrap Trawler from your graveyard to your hand.
-3. Cast Scrap Trawler by paying its mana cost, which is reduced by Semblance Anvil.
-4. Activate Krark-Clan Ironworks by sacrificing Scrap Trawler, adding [[symbol:c]][[symbol:c]].
-5. When Scrap Trawler dies, it triggers, returning Myr Retriever from your graveyard to your hand.
-6. Cast Myr Retriever by paying its mana cost, which is reduced by Semblance Anvil.
-7. Repeat.
+1. Sacrifice Myr Retriever to Krark-Clan Ironworks; return Scrap Trawler to hand from the graveyard.
+2. Cast Trawler at the reduced cost: [[symbol:2]] with Key/Inspector, [[symbol:1]] with Anvil.
+3. Sacrifice Trawler to Krark-Clan Ironworks; its own death trigger returns lower-value Myr Retriever.
+4. Cast Retriever at the reduced cost: [[symbol:1]] with Key/Inspector, [[symbol:0]] with Anvil. Repeat.
 
 Results:
-- Infinite artifact ETB
-- Infinite artifact LTB
-- Infinite artifact sacrifice triggers
-- Infinite creature ETB
-- Infinite creature LTB
-- Infinite colorless mana
-- Infinite death triggers
-- Infinite creature sacrifice triggers
-- Infinite storm count
+- Arbitrarily many creature deaths, sacrifice events and creature entries, under the stated prerequisites.
+- Arbitrarily high spell count from repeated casts.
+- Artifact entries/deaths or graveyard events as specified; Ultron adds lethal drain when the repeating artifact-to-graveyard events occur while it is present.
+- Mana, life and token surplus: see the accounting note below; repeated production does not always accumulate those resources.
 
-===endpanel
-===endaccordion
+Classification: Unbounded resource loop.
 
-<a id="c095"></a>
-===accordion
-===panel: C095: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Krark-Clan Ironworks
-
-[[symbol:c]]
-
-Cards Required:
-- [[The Ooze]]
-- [[Stridehangar Automaton]]
-- [[Pitiless Plunderer]]
-- [[Krark-Clan Ironworks]]
-
-Prerequisites:
-- All permanents on the battlefield.
-- You control a Thopter.
-- There is at least one card in a graveyard.
-- The Ooze is untapped.
-
-Steps:
-1. Sacrifice a Thopter to Krark-Clan Ironworks.
-2. When the Thopter dies, Pitiless Plunderer triggers, creating a Treasure token.
-3. Stridehangar Automaton causes you to also create a 1/1 Thopter artifact creature token.
-4. Activate The Ooze by tapping it, exiling a card from a graveyard and creating a Mutagen artifact token.
-5. Stridehangar Automaton causes you to also create another 1/1 Thopter artifact creature token.
-6. Activate the Treasure by tapping and sacrificing it, adding [[symbol:1]] mana.
-7. Spend [[symbol:1]], tap and sacrifice the Mutagen to put a +1/+1 counter on a Thopter.
-8. Activate Krark-Clan Ironworks by sacrificing the countered Thopter, adding [[symbol:c]][[symbol:c]].
-9. When the countered Thopter dies, Pitiless Plunderer triggers, creating a Treasure token, and The Ooze triggers, creating a Mutagen token.
-10. Stridehangar Automaton causes you to create replacement Thopter artifact creature tokens as the artifact tokens are created.
-11. Sacrifice the Treasure for [[symbol:1]] and use it to activate and sacrifice the Mutagen, putting a +1/+1 counter on a replacement Thopter.
-12. Repeat from step 8.
-
-Results:
-- Infinite colorless mana
-- Infinite Treasure tokens
-- Infinite artifact ETB
-- Infinite artifact LTB
-- Infinite artifact sacrifice triggers
-- Infinite artifact tokens
-- Infinite creature ETB
-- Infinite creature LTB
-- Infinite creature sacrifice triggers
-- Infinite death triggers
-
-**Timing reminder:** Mutagen activation is sorcery-speed; execute the Mutagen portions of this loop during your main phase with an empty stack.
-
-===endpanel
-===endaccordion
-
-<a id="c096"></a>
-===accordion
-===panel: C096: Spine of Ish Sah + Sculpting Steel + Krark-Clan Ironworks + Semblance Anvil
-
-[[symbol:c]]
-
-Cards Required:
-- [[Spine of Ish Sah]]
-- [[Sculpting Steel]]
-- [[Krark-Clan Ironworks]]
-- [[Semblance Anvil]]
-
-Prerequisites:
-- Spine of Ish Sah, Krark-Clan Ironworks, and the reducer are on the battlefield.
-- Sculpting Steel is in hand.
-- Semblance Anvil has an artifact card exiled with it.
-
-Steps:
-1. Cast Sculpting Steel, having it enter as a copy of Spine of Ish Sah.
-2. The copied Spine trigger destroys target permanent.
-3. Sacrifice Sculpting Steel to Krark-Clan Ironworks, adding [[symbol:c]][[symbol:c]].
-4. The copied Spine death trigger returns Sculpting Steel from your graveyard to your hand.
-5. Recast Sculpting Steel using the loop resources and repeat.
-
-Results:
-- Repeated permanent destruction
-- Infinite artifact ETB
-- Infinite artifact LTB
-- Infinite artifact sacrifice triggers
-- Infinite storm count
-- Infinite colorless mana
+Audit Notes:
+- Retriever on battlefield, Trawler in graveyard; Anvil imprints artifact or creature. Four generated minus one spent = net three colorless.
 
 ===endpanel
 ===endaccordion
@@ -3678,24 +2937,21 @@ Prerequisites:
 - There is an artifact or creature card exiled with Semblance Anvil.
 
 Steps:
-1. Activate Phyrexian Altar by sacrificing Myr Retriever, adding one mana of any color.
-2. When Myr Retriever dies, it triggers, returning Scrap Trawler from your graveyard to your hand.
-3. Cast Scrap Trawler by paying its mana cost, which is reduced by Semblance Anvil.
-4. Activate Phyrexian Altar by sacrificing Scrap Trawler, adding one mana of any color.
-5. When Scrap Trawler dies, it triggers, returning Myr Retriever from your graveyard to your hand.
-6. Cast Myr Retriever by paying its mana cost, which is reduced by Semblance Anvil.
-7. Repeat.
+1. Sacrifice Myr Retriever to Phyrexian Altar; return Scrap Trawler to hand from the graveyard.
+2. Cast Trawler at the reduced cost: [[symbol:2]] with Key/Inspector, [[symbol:1]] with Anvil.
+3. Sacrifice Trawler to Phyrexian Altar; its own death trigger returns lower-value Myr Retriever.
+4. Cast Retriever at the reduced cost: [[symbol:1]] with Key/Inspector, [[symbol:0]] with Anvil. Repeat.
 
 Results:
-- Infinite artifact ETB
-- Infinite artifact LTB
-- Infinite artifact sacrifice triggers
-- Infinite creature ETB
-- Infinite creature LTB
-- Infinite death triggers
-- Infinite creature sacrifice triggers
-- Infinite storm count
-- Infinite colored mana
+- Arbitrarily many creature deaths, sacrifice events and creature entries, under the stated prerequisites.
+- Arbitrarily high spell count from repeated casts.
+- Artifact entries/deaths or graveyard events as specified; Ultron adds lethal drain when the repeating artifact-to-graveyard events occur while it is present.
+- Mana, life and token surplus: see the accounting note below; repeated production does not always accumulate those resources.
+
+Classification: Unbounded resource loop.
+
+Audit Notes:
+- Retriever on battlefield, Trawler in graveyard; Anvil imprints artifact or creature. Two generated minus one spent = net one mana of any color.
 
 ===endpanel
 ===endaccordion
@@ -3717,28 +2973,20 @@ Prerequisites:
 - Ultron the Annihilator has created a 2/2 Robot Villain artifact creature token.
 
 Steps:
-1. Activate Phyrexian Altar by sacrificing the Robot token, adding one mana of any color.
-2. Ultron the Annihilator and Pitiless Plunderer trigger.
-3. Resolve Ultron's trigger, causing each opponent to lose 1 life.
-4. Resolve Pitiless Plunderer's trigger, creating a Treasure token.
-5. Activate Phyrexian Altar by sacrificing Ultron the Annihilator, adding one mana of any color.
-6. Pitiless Plunderer triggers, creating a Treasure token.
-7. Sacrifice both Treasure tokens for two mana.
-8. Nim Deathmantle triggers, causing you to pay [[symbol:4]] to return Ultron the Annihilator from your graveyard to the battlefield and attach Nim Deathmantle to it.
-9. Ultron enters and creates a 2/2 Robot Villain artifact creature token.
-10. Repeat.
+1. Sacrifice the Robot to Phyrexian Altar for one mana. Resolve Ultron's drain and Plunderer's Treasure creation.
+2. Sacrifice Ultron to Phyrexian Altar for one mana, leaving it in the graveyard. Stack Plunderer above Deathmantle and create the second Treasure first.
+3. Sacrifice both Treasures for two more mana. Pay [[symbol:4]] to Deathmantle, return Ultron and attach Deathmantle.
+4. Resolve Ultron's ETB to create a new Robot; repeat.
 
 Results:
-- Infinite lifeloss
-- Infinite creature ETB
-- Infinite creature LTB
-- Infinite creature sacrifice triggers
-- Infinite death triggers
-- Infinite artifact ETB
-- Infinite artifact LTB
-- Infinite artifact sacrifice triggers
-- Infinite creature tokens
-- Infinite Treasure tokens
+- Arbitrarily many creature deaths, sacrifice events and creature entries, under the stated prerequisites.
+- Direct lethal damage or life loss through the named payoff.
+- Mana, life and token surplus: see the accounting note below; repeated production does not always accumulate those resources.
+
+Classification: Unbounded resource loop.
+
+Audit Notes:
+- Robot present. Put the Plunderer trigger from Ultron dying above Deathmantle so the second Treasure resolves first. Two Altar mana plus two Treasure mana pay [[symbol:4]].
 
 ===endpanel
 ===endaccordion
@@ -3760,22 +3008,24 @@ Prerequisites:
 - Your library is empty.
 - You control two other suitable nontoken creatures.
 - [[symbol:1]] available for the initial Skullclamp equip.
+- Use recyclable bodies that survive Skullclamp unless the entry explicitly uses a 1-toughness auto-dying carrier.
 
 Steps:
-1. Equip Skullclamp to one recyclable creature.
-2. Sacrifice it to Umbral Collar Zealot, triggering Skullclamp and Pitiless Plunderer.
-3. Before Skullclamp resolves, sacrifice the second recyclable creature to Umbral Collar Zealot.
-4. Resolve the Pitiless Plunderer triggers, creating Treasures.
-5. Resolve Skullclamp; Out of the Tombs returns both creature cards instead of drawing.
-6. Use a Treasure to equip Skullclamp again and repeat.
+1. Pay [[symbol:1]] to equip Skullclamp to a recyclable body that survives its -1 toughness.
+2. Sacrifice BOTH recyclable bodies to Umbral Collar Zealot before Clamp's draw trigger resolves.
+3. Resolve resource triggers first, then resolve Clamp. Out of the Tombs replaces its two draws separately by returning both creature cards. Do not remove those cards with another recursion trigger first.
+4. Spend one generated mana or Treasure on the next equip and repeat. Both bodies must return each cycle.
 
 Results:
-- Infinite surveil
-- Infinite creature ETB
-- Infinite creature LTB
-- Infinite creature sacrifice triggers
-- Infinite death triggers
-- Infinite Treasure creation
+- Arbitrarily many creature deaths, sacrifice events and creature entries, under the stated prerequisites.
+- Repeatable surveil events; actual card access is library-bounded.
+- Artifact entries/deaths or graveyard events as specified; Ultron adds lethal drain when the repeating artifact-to-graveyard events occur while it is present.
+- Mana, life and token surplus: see the accounting note below; repeated production does not always accumulate those resources.
+
+Classification: Unbounded resource loop.
+
+Audit Notes:
+- Empty library; two other recyclable nontoken bodies, [[symbol:1]] seed. Both artifact creatures for Ravager. Two Treasures minus one equip = one surplus Treasure.
 
 ===endpanel
 ===endaccordion
@@ -3790,7 +3040,7 @@ Cards Required:
 - [[Out of the Tombs]]
 - [[Skullclamp]]
 - [[Warren Soultrader]]
-- [[Sephiroth, Fabled SOLDIER // Sephiroth, One-Winged Angel]]
+- [[Sephiroth, Fabled SOLDIER]]
 
 Prerequisites:
 - All permanents on the battlefield.
@@ -3798,23 +3048,24 @@ Prerequisites:
 - You control two other suitable nontoken creatures.
 - Your life total is at least 3.
 - [[symbol:1]] available for the initial Skullclamp equip.
+- Use recyclable bodies that survive Skullclamp unless the entry explicitly uses a 1-toughness auto-dying carrier.
 
 Steps:
-1. Equip Skullclamp to one recyclable creature.
-2. Activate Warren Soultrader twice, paying 1 life and sacrificing each recyclable creature. Skullclamp triggers from the equipped creature dying.
-3. Sephiroth's creature-death triggers offset the life paid to Warren Soultrader and cause an opponent to lose life.
-4. Warren Soultrader creates two Treasures.
-5. Resolve Skullclamp; Out of the Tombs replaces both draws and returns the two creature cards.
-6. Use one Treasure to equip Skullclamp again and repeat.
+1. Pay [[symbol:1]] to equip Skullclamp to a recyclable body that survives its -1 toughness.
+2. Sacrifice BOTH recyclable bodies to Warren Soultrader before Clamp's draw trigger resolves; pay 1 life for each Warren activation and resolve drain triggers to refund those payments.
+3. Resolve resource triggers first, then resolve Clamp. Out of the Tombs replaces its two draws separately by returning both creature cards. Do not remove those cards with another recursion trigger first.
+4. Spend one generated mana or Treasure on the next equip and repeat. Both bodies must return each cycle.
 
 Results:
-- Infinite lifeloss to opponents
-- Infinite lifegain triggers
-- Infinite Treasure tokens
-- Infinite creature ETB
-- Infinite creature LTB
-- Infinite creature sacrifice triggers
-- Infinite death triggers
+- Arbitrarily many creature deaths, sacrifice events and creature entries, under the stated prerequisites.
+- Direct lethal damage or life loss through the named payoff.
+- Artifact entries/deaths or graveyard events as specified; Ultron adds lethal drain when the repeating artifact-to-graveyard events occur while it is present.
+- Mana, life and token surplus: see the accounting note below; repeated production does not always accumulate those resources.
+
+Classification: Unbounded resource loop.
+
+Audit Notes:
+- Empty library, two other recyclable nontoken bodies, [[symbol:1]] seed, life >= 3. Two Warren life costs are refunded by two drain triggers. One surplus Treasure per pair.
 
 ===endpanel
 ===endaccordion
@@ -3837,121 +3088,24 @@ Prerequisites:
 - You control two other suitable nontoken creatures.
 - Your life total is at least 3.
 - [[symbol:1]] available for the initial Skullclamp equip.
+- Use recyclable bodies that survive Skullclamp unless the entry explicitly uses a 1-toughness auto-dying carrier.
 
 Steps:
-1. Equip Skullclamp to one recyclable creature.
-2. Activate Warren Soultrader twice, paying 1 life and sacrificing each recyclable creature. Skullclamp triggers from the equipped creature dying.
-3. Zulaport Cutthroat triggers for both deaths, offsetting the life paid to Warren Soultrader and draining each opponent.
-4. Warren Soultrader creates two Treasures.
-5. Resolve Skullclamp; Out of the Tombs replaces both draws and returns the two creature cards.
-6. Use one Treasure to equip Skullclamp again and repeat.
+1. Pay [[symbol:1]] to equip Skullclamp to a recyclable body that survives its -1 toughness.
+2. Sacrifice BOTH recyclable bodies to Warren Soultrader before Clamp's draw trigger resolves; pay 1 life for each Warren activation and resolve drain triggers to refund those payments.
+3. Resolve resource triggers first, then resolve Clamp. Out of the Tombs replaces its two draws separately by returning both creature cards. Do not remove those cards with another recursion trigger first.
+4. Spend one generated mana or Treasure on the next equip and repeat. Both bodies must return each cycle.
 
 Results:
-- Infinite lifeloss to opponents
-- Infinite lifegain triggers
-- Infinite Treasure tokens
-- Infinite creature ETB
-- Infinite creature LTB
-- Infinite creature sacrifice triggers
-- Infinite death triggers
+- Arbitrarily many creature deaths, sacrifice events and creature entries, under the stated prerequisites.
+- Direct lethal damage or life loss through the named payoff.
+- Artifact entries/deaths or graveyard events as specified; Ultron adds lethal drain when the repeating artifact-to-graveyard events occur while it is present.
+- Mana, life and token surplus: see the accounting note below; repeated production does not always accumulate those resources.
 
-===endpanel
-===endaccordion
+Classification: Unbounded resource loop.
 
-<a id="c102"></a>
-===accordion
-===panel: C102: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Phyrexian Altar
-
-[[symbol:b]]
-
-Cards Required:
-- [[The Ooze]]
-- [[Stridehangar Automaton]]
-- [[Pitiless Plunderer]]
-- [[Phyrexian Altar]]
-
-Prerequisites:
-- All permanents on the battlefield.
-- You control a Thopter.
-- There is at least one card in a graveyard.
-- The Ooze is untapped.
-
-Steps:
-1. Sacrifice a Thopter to Phyrexian Altar.
-2. When the Thopter dies, Pitiless Plunderer triggers, creating a Treasure token.
-3. Stridehangar Automaton causes you to also create a 1/1 Thopter artifact creature token.
-4. Activate The Ooze by tapping it, exiling a card from a graveyard and creating a Mutagen artifact token.
-5. Stridehangar Automaton causes you to also create another 1/1 Thopter artifact creature token.
-6. Activate the Treasure by tapping and sacrificing it, adding [[symbol:1]] mana.
-7. Spend [[symbol:1]], tap and sacrifice the Mutagen to put a +1/+1 counter on a Thopter.
-8. Activate Phyrexian Altar by sacrificing the countered Thopter, adding one mana of any color.
-9. When the countered Thopter dies, Pitiless Plunderer triggers, creating a Treasure token, and The Ooze triggers, creating a Mutagen token.
-10. Stridehangar Automaton causes you to create replacement Thopter artifact creature tokens as the artifact tokens are created.
-11. Sacrifice the Treasure for [[symbol:1]] and use it to activate and sacrifice the Mutagen, putting a +1/+1 counter on a replacement Thopter.
-12. Repeat from step 8.
-
-Results:
-- Infinite colored mana
-- Infinite Treasure tokens
-- Infinite artifact ETB
-- Infinite artifact LTB
-- Infinite artifact sacrifice triggers
-- Infinite artifact tokens
-- Infinite creature ETB
-- Infinite creature LTB
-- Infinite creature sacrifice triggers
-- Infinite death triggers
-
-**Timing reminder:** Mutagen activation is sorcery-speed; execute the Mutagen portions of this loop during your main phase with an empty stack.
-
-===endpanel
-===endaccordion
-
-<a id="c103"></a>
-===accordion
-===panel: C103: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Umbral Collar Zealot
-
-[[symbol:b]]
-
-Cards Required:
-- [[The Ooze]]
-- [[Stridehangar Automaton]]
-- [[Pitiless Plunderer]]
-- [[Umbral Collar Zealot]]
-
-Prerequisites:
-- All permanents on the battlefield.
-- You control a Thopter.
-- There is at least one card in a graveyard.
-- The Ooze is untapped.
-
-Steps:
-1. Sacrifice a Thopter to Umbral Collar Zealot.
-2. When the Thopter dies, Pitiless Plunderer triggers, creating a Treasure token.
-3. Stridehangar Automaton causes you to also create a 1/1 Thopter artifact creature token.
-4. Activate The Ooze by tapping it, exiling a card from a graveyard and creating a Mutagen artifact token.
-5. Stridehangar Automaton causes you to also create another 1/1 Thopter artifact creature token.
-6. Activate the Treasure by tapping and sacrificing it, adding [[symbol:1]] mana.
-7. Spend [[symbol:1]], tap and sacrifice the Mutagen to put a +1/+1 counter on a Thopter.
-8. Activate Umbral Collar Zealot by sacrificing the countered Thopter.
-9. When the countered Thopter dies, Pitiless Plunderer triggers, creating a Treasure token, and The Ooze triggers, creating a Mutagen token.
-10. Stridehangar Automaton causes you to create replacement Thopter artifact creature tokens as the artifact tokens are created.
-11. Sacrifice the Treasure for [[symbol:1]] and use it to activate and sacrifice the Mutagen, putting a +1/+1 counter on a replacement Thopter.
-12. Repeat from step 8.
-
-Results:
-- Infinite surveil
-- Infinite Treasure tokens
-- Infinite artifact ETB
-- Infinite artifact LTB
-- Infinite artifact sacrifice triggers
-- Infinite artifact tokens
-- Infinite creature ETB
-- Infinite creature LTB
-- Infinite creature sacrifice triggers
-- Infinite death triggers
-
-**Timing reminder:** Mutagen activation is sorcery-speed; execute the Mutagen portions of this loop during your main phase with an empty stack.
+Audit Notes:
+- Empty library, two other recyclable nontoken bodies, [[symbol:1]] seed, life >= 3. Two Warren life costs are refunded by two drain triggers. One surplus Treasure per pair.
 
 ===endpanel
 ===endaccordion
@@ -3969,9 +3123,6 @@ Cards Required:
 - [[Blasting Station]]
 - [[Stitcher's Supplier]]
 
-Normalization Note:
-- Stitcher's Supplier is the representative Clamp-killable 1-toughness creature for this architecture. Interchangeable creatures that fill the same role are not counted as separate cores.
-
 Prerequisites:
 - All permanents on the battlefield.
 - Your library is empty.
@@ -3980,20 +3131,21 @@ Prerequisites:
 - [[symbol:1]] available for the initial Skullclamp equip.
 
 Steps:
-1. Equip Skullclamp to Stitcher's Supplier. Skullclamp's -1 toughness causes Supplier to die as a state-based action, triggering Skullclamp and Pitiless Plunderer.
-2. Before resolving Skullclamp, activate Blasting Station by tapping it and sacrificing the second recyclable creature, dealing 1 damage to any target.
-3. Resolve Pitiless Plunderer's triggers, creating Treasures.
-4. Resolve Skullclamp; Out of the Tombs replaces the two draws and returns Stitcher's Supplier and the second creature.
-5. The creatures entering trigger Blasting Station, untapping it.
-6. Use a Treasure to equip Skullclamp to Stitcher's Supplier again and repeat.
+1. Pay [[symbol:1]] to equip Skullclamp to Stitcher's Supplier. Its reduced toughness makes it die; Clamp and Plunderer trigger.
+2. Before resolving Clamp, tap Blasting Station and sacrifice the second recyclable body. Resolve damage and both Treasure triggers first.
+3. Resolve Clamp's two draws separately: Out of the Tombs replaces each by returning one of the two creature cards. Returning creatures untap Blasting Station.
+4. Use one Treasure to fund the next equip; repeat. Supplier's mills do nothing to the empty library.
 
 Results:
-- Infinite damage
-- Infinite creature ETB
-- Infinite creature LTB
-- Infinite creature sacrifice triggers
-- Infinite death triggers
-- Infinite Treasure creation
+- Arbitrarily many creature deaths, sacrifice events and creature entries, under the stated prerequisites.
+- Direct lethal damage or life loss through the named payoff.
+- Artifact entries/deaths or graveyard events as specified; Ultron adds lethal drain when the repeating artifact-to-graveyard events occur while it is present.
+- Mana, life and token surplus: see the accounting note below; repeated production does not always accumulate those resources.
+
+Classification: Unbounded resource loop.
+
+Audit Notes:
+- Empty library; Supplier and another nontoken recyclable body, Station untapped, [[symbol:1]] seed. Clamp auto-kills Supplier; use Station on the second body before Clamp resolves. Direct lethal damage; one surplus Treasure.
 
 ===endpanel
 ===endaccordion
@@ -4018,22 +3170,22 @@ Prerequisites:
 - The starting two colorless mana from sacrificing Myr Retriever can pay for the first Sol Ring.
 
 Steps:
-1. Sacrifice Myr Retriever to Krark-Clan Ironworks, adding [[symbol:c]][[symbol:c]]. Myr Retriever and Scrap Trawler trigger.
-2. Return Junk Diver from your graveyard to your hand with Myr Retriever's trigger. Return Sol Ring (mana value 1) from your graveyard to your hand with Scrap Trawler's trigger (Myr Retriever has mana value 2).
-3. Cast Sol Ring for [[symbol:1]], tap it for [[symbol:c]][[symbol:c]], then sacrifice it to Krark-Clan Ironworks for [[symbol:c]][[symbol:c]]. Ignore the Scrap Trawler trigger from Sol Ring unless you have a suitable mana-value-0 artifact target.
-4. Cast Junk Diver for [[symbol:3]] and sacrifice it to Krark-Clan Ironworks for [[symbol:c]][[symbol:c]]. Its death triggers Junk Diver and Scrap Trawler.
-5. Return Myr Retriever from your graveyard to your hand with Junk Diver's trigger. Return Sol Ring from your graveyard to your hand with Scrap Trawler's trigger (Junk Diver has mana value 3).
-6. Cast Sol Ring for [[symbol:1]], tap it for [[symbol:c]][[symbol:c]], then sacrifice it to Krark-Clan Ironworks for [[symbol:c]][[symbol:c]]. Ignore the optional Scrap Trawler target.
-7. Cast Myr Retriever for [[symbol:2]]. You are back at the starting battlefield/graveyard configuration: Scrap Trawler, Myr Retriever, and KCI on the battlefield, with Sol Ring and Junk Diver in the graveyard.
-8. Repeat from step 1. Every full iteration generates 12 colorless mana and spends 7, netting 5 colorless mana, while repeatedly casting and sacrificing artifacts.
+1. Sacrifice Retriever to KCI for [[symbol:2]]. Retriever returns Junk Diver; Trawler returns Sol Ring.
+2. Cast Ring for [[symbol:1]], tap it for [[symbol:2]], then sacrifice it to KCI for [[symbol:2]].
+3. Cast Diver for [[symbol:3]] and sacrifice it to KCI for [[symbol:2]]. Diver returns Retriever; Trawler returns Ring.
+4. Cast Ring for [[symbol:1]], tap it for [[symbol:2]], sacrifice it for [[symbol:2]], then cast Retriever for [[symbol:2]]. The starting zones are restored.
+5. Repeat: twelve mana generated, seven spent, net five colorless.
 
 Results:
-- Arbitrarily large colorless mana (net [[symbol:5]] per iteration).
-- Repeated artifact and creature ETBs, deaths, sacrifices, and LTB triggers.
-- Arbitrarily high storm count from recasting Sol Ring, Junk Diver, and Myr Retriever.
-- Repeated Ultron artifact-death triggers if Ultron is on the battlefield.
+- Arbitrarily many creature deaths, sacrifice events and creature entries, under the stated prerequisites.
+- Arbitrarily high spell count from repeated casts.
+- Artifact entries/deaths or graveyard events as specified; Ultron adds lethal drain when the repeating artifact-to-graveyard events occur while it is present.
+- Mana, life and token surplus: see the accounting note below; repeated production does not always accumulate those resources.
 
-Rules correction: Scrap Trawler returns an eligible artifact **from graveyard to hand**. The original step claiming it moved Sol Ring from hand to graveyard was illegal. The corrected sequence above never makes that move.
+Classification: Unbounded resource loop.
+
+Audit Notes:
+- Trawler/Retriever/KCI on battlefield; Ring and Diver in graveyard. Twelve generated minus seven spent = net five colorless per restored cycle; four casts. Detailed legal target ordering in F19.
 
 ===endpanel
 ===endaccordion
@@ -4054,24 +3206,27 @@ Prerequisites:
 - You control an additional creature.
 
 Steps:
-1. Activate Carrion Feeder by sacrificing another creature.
-2. When the creature dies, Pitiless Plunderer triggers, creating a Treasure token.
-3. Activate the Treasure by tapping and sacrificing it, adding [[symbol:1]].
-4. Resolve the Carrion Feeder ability, putting a +1/+1 counter on it.
-5. Animation Module triggers, causing you to pay [[symbol:1]] to create a 1/1 Servo artifact creature token.
-6. Repeat.
+1. Sacrifice suitable fodder to Carrion Feeder.
+2. Resolve Plunderer first to create Treasure, then resolve the outlet's +1/+1-counter ability.
+3. Spend the Treasure for [[symbol:1]] on Module's trigger to create a replacement Servo.
+4. Repeat; keep the counter-generating outlet and Plunderer alive.
 
 Results:
-- Infinite artifact ETB
-- Infinite artifact LTB
-- Infinite artifact sacrifice triggers
-- Infinite +1/+1 counters on a creature
-- Infinite death triggers
-- Infinite creature ETB
-- Infinite creature LTB
-- Infinite creature sacrifice triggers
+- Arbitrarily many creature deaths, sacrifice events and creature entries, under the stated prerequisites.
+- Arbitrarily many +1/+1 counters on the surviving counter source.
+- Artifact entries/deaths or graveyard events as specified; Ultron adds lethal drain when the repeating artifact-to-graveyard events occur while it is present.
+- Mana, life and token surplus: see the accounting note below; repeated production does not always accumulate those resources.
 
-Source: Commander Spellbook export, entry #38.
+Classification: Unbounded resource loop.
+
+Audit Notes:
+- Additional creature; Feeder and Plunderer stay alive. Treasure resolves before Feeder counter ability; Module spends one per Servo. Neutral mana.
+
+
+Optional Payoff:
+- [[Marionette Apprentice]] on the battlefield turns the repeated creature/artifact deaths in this engine into lethal life loss to every opponent. Keep Apprentice alive as the observer.
+- Apprentice’s fabricate Servo can provide starter fodder where an expendable artifact creature is needed; it does not replace a required recyclable nontoken body or the additional Zombie for Gravecrawler.
+- This is an optional finishing extension, not another independently counted core configuration.
 
 ===endpanel
 ===endaccordion
@@ -4092,22 +3247,27 @@ Prerequisites:
 - You control an additional creature.
 
 Steps:
-1. Activate Ashnod's Altar by sacrificing any other creature you control, adding [[symbol:c]][[symbol:c]].
-2. Super Shredder triggers, putting a +1/+1 counter on it.
-3. Animation Module triggers, causing you to pay [[symbol:1]] to create a 1/1 Servo artifact creature token.
-4. Repeat.
+1. Sacrifice suitable extra fodder to Ashnod's Altar.
+2. Super Shredder gains a counter. If Plunderer is needed for payment, resolve its Treasure trigger before Shredder's trigger.
+3. Pay Module [[symbol:1]] from the mana outlet or Plunderer Treasure; create a Servo. Sacrificing Treasure causes an extra Shredder/Module opportunity; decline unpaid extras.
+4. The Servo entering untaps any Station. Sacrifice it through the same outlet and repeat.
 
 Results:
-- Infinite artifact tokens
-- Infinite creature LTB
-- Infinite creature ETB
-- Infinite creature sacrifice triggers
-- Infinite death triggers
-- Infinite colorless mana
-- Infinite creature tokens
-- Infinite +1/+1 counters on a creature
+- Arbitrarily many creature deaths, sacrifice events and creature entries, under the stated prerequisites.
+- Arbitrarily many +1/+1 counters on the surviving counter source.
+- Artifact entries/deaths or graveyard events as specified; Ultron adds lethal drain when the repeating artifact-to-graveyard events occur while it is present.
+- Mana, life and token surplus: see the accounting note below; repeated production does not always accumulate those resources.
 
-Source: Commander Spellbook export, entry #63.
+Classification: Unbounded resource loop.
+
+Audit Notes:
+- Extra creature (artifact for KCI); Shredder stays alive. Outlet two minus Module one = net one colorless.
+
+
+Optional Payoff:
+- [[Marionette Apprentice]] on the battlefield turns the repeated creature/artifact deaths in this engine into lethal life loss to every opponent. Keep Apprentice alive as the observer.
+- Apprentice’s fabricate Servo can provide starter fodder where an expendable artifact creature is needed; it does not replace a required recyclable nontoken body or the additional Zombie for Gravecrawler.
+- This is an optional finishing extension, not another independently counted core configuration.
 
 ===endpanel
 ===endaccordion
@@ -4128,19 +3288,27 @@ Prerequisites:
 - You control an additional creature.
 
 Steps:
-1. Activate Phyrexian Altar by sacrificing any other creature you control, adding [[symbol:1]].
-2. Super Shredder triggers, putting a +1/+1 counter on it.
-3. Animation Module triggers, causing you to pay [[symbol:1]] to create a 1/1 Servo artifact creature token.
-4. Repeat.
+1. Sacrifice suitable extra fodder to Phyrexian Altar.
+2. Super Shredder gains a counter. If Plunderer is needed for payment, resolve its Treasure trigger before Shredder's trigger.
+3. Pay Module [[symbol:1]] from the mana outlet or Plunderer Treasure; create a Servo. Sacrificing Treasure causes an extra Shredder/Module opportunity; decline unpaid extras.
+4. The Servo entering untaps any Station. Sacrifice it through the same outlet and repeat.
 
 Results:
-- Infinite creature LTB
-- Infinite creature ETB
-- Infinite creature sacrifice triggers
-- Infinite death triggers
-- Infinite +1/+1 counters on a creature
+- Arbitrarily many creature deaths, sacrifice events and creature entries, under the stated prerequisites.
+- Arbitrarily many +1/+1 counters on the surviving counter source.
+- Artifact entries/deaths or graveyard events as specified; Ultron adds lethal drain when the repeating artifact-to-graveyard events occur while it is present.
+- Mana, life and token surplus: see the accounting note below; repeated production does not always accumulate those resources.
 
-Source: Commander Spellbook export, entry #67.
+Classification: Unbounded resource loop.
+
+Audit Notes:
+- Extra creature; Shredder stays alive. Outlet one minus Module one = neutral.
+
+
+Optional Payoff:
+- [[Marionette Apprentice]] on the battlefield turns the repeated creature/artifact deaths in this engine into lethal life loss to every opponent. Keep Apprentice alive as the observer.
+- Apprentice’s fabricate Servo can provide starter fodder where an expendable artifact creature is needed; it does not replace a required recyclable nontoken body or the additional Zombie for Gravecrawler.
+- This is an optional finishing extension, not another independently counted core configuration.
 
 ===endpanel
 ===endaccordion
@@ -4161,24 +3329,27 @@ Prerequisites:
 - You control an additional artifact creature (Arcbound Ravager can only sacrifice artifacts).
 
 Steps:
-1. Activate Arcbound Ravager by sacrificing another **artifact creature**.
-2. When the creature dies, Pitiless Plunderer triggers, creating a Treasure token.
-3. Activate the Treasure by tapping and sacrificing it, adding [[symbol:1]].
-4. Resolve the Arcbound Ravager ability, putting a +1/+1 counter on it.
-5. Animation Module triggers, causing you to pay [[symbol:1]] to create a 1/1 Servo artifact creature token.
-6. Repeat.
+1. Sacrifice suitable fodder to Arcbound Ravager.
+2. Resolve Plunderer first to create Treasure, then resolve the outlet's +1/+1-counter ability.
+3. Spend the Treasure for [[symbol:1]] on Module's trigger to create a replacement Servo.
+4. Repeat; keep the counter-generating outlet and Plunderer alive.
 
 Results:
-- Infinite artifact ETB
-- Infinite artifact LTB
-- Infinite artifact sacrifice triggers
-- Infinite +1/+1 counters on a creature
-- Infinite death triggers
-- Infinite creature ETB
-- Infinite creature LTB
-- Infinite creature sacrifice triggers
+- Arbitrarily many creature deaths, sacrifice events and creature entries, under the stated prerequisites.
+- Arbitrarily many +1/+1 counters on the surviving counter source.
+- Artifact entries/deaths or graveyard events as specified; Ultron adds lethal drain when the repeating artifact-to-graveyard events occur while it is present.
+- Mana, life and token surplus: see the accounting note below; repeated production does not always accumulate those resources.
 
-Source: Commander Spellbook export, entry #72.
+Classification: Unbounded resource loop.
+
+Audit Notes:
+- Additional artifact creature; Ravager and Plunderer stay alive. Resolve Treasure before Ravager counter ability, then pay Module. Neutral mana.
+
+
+Optional Payoff:
+- [[Marionette Apprentice]] on the battlefield turns the repeated creature/artifact deaths in this engine into lethal life loss to every opponent. Keep Apprentice alive as the observer.
+- Apprentice’s fabricate Servo can provide starter fodder where an expendable artifact creature is needed; it does not replace a required recyclable nontoken body or the additional Zombie for Gravecrawler.
+- This is an optional finishing extension, not another independently counted core configuration.
 
 ===endpanel
 ===endaccordion
@@ -4199,90 +3370,27 @@ Prerequisites:
 - You control an additional artifact creature (Krark-Clan Ironworks can only sacrifice artifacts).
 
 Steps:
-1. Activate Krark-Clan Ironworks by sacrificing another **artifact creature** you control, adding [[symbol:c]][[symbol:c]].
-2. Super Shredder triggers, putting a +1/+1 counter on it.
-3. Animation Module triggers, causing you to pay [[symbol:1]] to create a 1/1 Servo artifact creature token.
-4. Repeat.
+1. Sacrifice suitable extra fodder to Krark-Clan Ironworks.
+2. Super Shredder gains a counter. If Plunderer is needed for payment, resolve its Treasure trigger before Shredder's trigger.
+3. Pay Module [[symbol:1]] from the mana outlet or Plunderer Treasure; create a Servo. Sacrificing Treasure causes an extra Shredder/Module opportunity; decline unpaid extras.
+4. The Servo entering untaps any Station. Sacrifice it through the same outlet and repeat.
 
 Results:
-- Infinite artifact tokens
-- Infinite creature LTB
-- Infinite creature ETB
-- Infinite creature sacrifice triggers
-- Infinite death triggers
-- Infinite colorless mana
-- Infinite creature tokens
-- Infinite +1/+1 counters on a creature
+- Arbitrarily many creature deaths, sacrifice events and creature entries, under the stated prerequisites.
+- Arbitrarily many +1/+1 counters on the surviving counter source.
+- Artifact entries/deaths or graveyard events as specified; Ultron adds lethal drain when the repeating artifact-to-graveyard events occur while it is present.
+- Mana, life and token surplus: see the accounting note below; repeated production does not always accumulate those resources.
 
-Source: Commander Spellbook export, entry #76.
+Classification: Unbounded resource loop.
 
-===endpanel
-===endaccordion
+Audit Notes:
+- Extra creature (artifact for KCI); Shredder stays alive. Outlet two minus Module one = net one colorless.
 
-<a id="c111"></a>
-===accordion
-===panel: C111: Yawgmoth, Thran Physician + Out of the Tombs + Zulaport Cutthroat
 
-[[symbol:b]]
-
-Cards Required:
-- [[Yawgmoth, Thran Physician]]
-- [[Out of the Tombs]]
-- [[Zulaport Cutthroat]]
-
-Prerequisites:
-- All three named permanents on the battlefield.
-- Your library is empty.
-- You control **another nontoken creature** that can be sacrificed and returned from the graveyard.
-- Your life total is at least 2.
-- No effect prevents creature cards from entering your graveyard or returning to the battlefield.
-
-Steps:
-1. Pay 1 life and sacrifice the additional nontoken creature to activate Yawgmoth, choosing no target for the -1/-1 counter.
-2. Zulaport Cutthroat triggers, causing each opponent to lose 1 life and you to gain 1 life.
-3. Resolve Yawgmoth's ability. Because the library is empty, Out of the Tombs replaces the draw with returning the sacrificed creature card from your graveyard to the battlefield.
-4. Repeat, recovering the 1 life paid each time.
-
-Results:
-- Arbitrarily many creature deaths, sacrifices, and ETBs.
-- Arbitrarily much life loss for each opponent and lifegain for you.
-- If the recycled creature is an artifact creature, repeated Ultron artifact-death triggers while Ultron is on the battlefield.
-
-Source: Independently derived from card Oracle text; **not in the supplied 77-entry Commander Spellbook export**. This is a conditional engine that requires the extra recyclable nontoken creature and an empty library.
-
-===endpanel
-===endaccordion
-
-<a id="c112"></a>
-===accordion
-===panel: C112: Yawgmoth, Thran Physician + Out of the Tombs + Sephiroth, Fabled SOLDIER
-
-[[symbol:b]]
-
-Cards Required:
-- [[Yawgmoth, Thran Physician]]
-- [[Out of the Tombs]]
-- [[Sephiroth, Fabled SOLDIER // Sephiroth, One-Winged Angel]]
-
-Prerequisites:
-- All three named permanents on the battlefield, with Sephiroth on its front face initially (or an existing Sephiroth emblem that provides the death trigger).
-- Your library is empty.
-- You control **another nontoken creature** that can be sacrificed and returned from the graveyard.
-- Your life total is at least 2.
-- No effect prevents creature cards from entering your graveyard or returning to the battlefield.
-
-Steps:
-1. Pay 1 life and sacrifice the additional nontoken creature to activate Yawgmoth, choosing no target.
-2. Sephiroth's death trigger causes a target opponent to lose 1 life and you to gain 1 life.
-3. Resolve Yawgmoth's ability; Out of the Tombs replaces the empty-library draw with returning the sacrificed creature card from your graveyard to the battlefield.
-4. Repeat. On the fourth resolution of Sephiroth's death-triggered ability in a turn, Sephiroth transforms and grants the Super Nova emblem. The emblem continues to drain and gain life for subsequent creature deaths.
-
-Results:
-- Arbitrarily many creature deaths, sacrifices, and ETBs.
-- Arbitrarily much life loss to opponents (one target per trigger), and lifegain for you.
-- If the recycled creature is an artifact creature, repeated Ultron artifact-death triggers while Ultron is on the battlefield.
-
-Source: Independently derived from card Oracle text; **not in the supplied 77-entry Commander Spellbook export**. Sephiroth's trigger is **not once per turn**; it transforms after its fourth resolution, then its emblem supplies the ongoing trigger.
+Optional Payoff:
+- [[Marionette Apprentice]] on the battlefield turns the repeated creature/artifact deaths in this engine into lethal life loss to every opponent. Keep Apprentice alive as the observer.
+- Apprentice’s fabricate Servo can provide starter fodder where an expendable artifact creature is needed; it does not replace a required recyclable nontoken body or the additional Zombie for Gravecrawler.
+- This is an optional finishing extension, not another independently counted core configuration.
 
 ===endpanel
 ===endaccordion
@@ -4306,19 +3414,26 @@ Prerequisites:
 - Your main phase, with an empty stack when activating Mutagen.
 
 Steps:
-1. Tap The Ooze to exile a card from a graveyard and create a Mutagen token.
-2. Spend [[symbol:1]], tap and sacrifice the Mutagen to put a +1/+1 counter on the starter creature. Animation Module triggers; pay [[symbol:1]] to create a Servo artifact creature token.
-3. Sacrifice the countered starter creature to Ashnod's Altar for [[symbol:c]][[symbol:c]]. The Ooze creates a replacement Mutagen token.
-4. Spend [[symbol:1]], tap and sacrifice the Mutagen to put a +1/+1 counter on the Servo. Animation Module triggers; spend [[symbol:1]] to create a replacement Servo.
-5. Sacrifice the countered Servo to Ashnod's Altar for [[symbol:c]][[symbol:c]]. The Ooze creates another Mutagen. Repeat from step 4.
+1. Tap Ooze, exile the seed graveyard card and create Mutagen. Spend [[symbol:1]] to activate Mutagen on the starter body; spend [[symbol:1]] on Module to create a Servo.
+2. Sacrifice the countered starter to Ashnod's Altar. Ooze creates another Mutagen.
+3. Use the two generated mana (Altar [[symbol:2]], or Phyrexian Altar [[symbol:1]] plus Treasure [[symbol:1]]) to activate Mutagen on the Servo and pay Module for a new Servo.
+4. Sacrifice the countered Servo to Ashnod's Altar; repeat. Each Mutagen activation waits for your main phase and an empty stack.
 
 Results:
-- Repeatable creature and artifact-token ETBs, deaths and sacrifices.
-- Arbitrarily many +1/+1 counter placements and Animation Module triggers.
-- Mana-neutral each sustained Servo cycle (2 produced, 2 spent); **not** infinite net mana.
-- With Ultron on the battlefield, repeated artifact deaths cause lethal life loss to each opponent.
+- Arbitrarily many creature deaths, sacrifice events and creature entries, under the stated prerequisites.
+- Artifact entries/deaths or graveyard events as specified; Ultron adds lethal drain when the repeating artifact-to-graveyard events occur while it is present.
+- Mana, life and token surplus: see the accounting note below; repeated production does not always accumulate those resources.
 
-**Source/status:** New rules-derived conditional configuration; not present in the supplied Commander Spellbook export. Mutagen can only be activated as a sorcery.
+Classification: Unbounded resource loop.
+
+Audit Notes:
+- Extra starter body (artifact for KCI), untapped Ooze, a targetable graveyard card, [[symbol:2]] seed. Mutagen activations only in own main phase with stack empty. Two generated and two spent: neutral.
+
+
+Optional Payoff:
+- [[Marionette Apprentice]] on the battlefield turns the repeated creature/artifact deaths in this engine into lethal life loss to every opponent. Keep Apprentice alive as the observer.
+- Apprentice’s fabricate Servo can provide starter fodder where an expendable artifact creature is needed; it does not replace a required recyclable nontoken body or the additional Zombie for Gravecrawler.
+- This is an optional finishing extension, not another independently counted core configuration.
 
 ===endpanel
 ===endaccordion
@@ -4341,18 +3456,26 @@ Prerequisites:
 - Your main phase with an empty stack to activate Mutagen.
 
 Steps:
-1. Tap The Ooze, exile a graveyard card and create a Mutagen.
-2. Spend [[symbol:1]], tap and sacrifice Mutagen to put a +1/+1 counter on your starter artifact creature. Animation Module triggers; pay [[symbol:1]] to create a Servo.
-3. Sacrifice the countered starter artifact creature to KCI for [[symbol:c]][[symbol:c]]; The Ooze makes a Mutagen.
-4. Pay [[symbol:1]] and sacrifice the Mutagen to put a counter on the Servo; pay [[symbol:1]] to Animation Module to make another Servo.
-5. Sacrifice the countered Servo to KCI for [[symbol:c]][[symbol:c]], creating another Mutagen. Repeat steps 4–5.
+1. Tap Ooze, exile the seed graveyard card and create Mutagen. Spend [[symbol:1]] to activate Mutagen on the starter body; spend [[symbol:1]] on Module to create a Servo.
+2. Sacrifice the countered starter to Krark-Clan Ironworks. Ooze creates another Mutagen.
+3. Use the two generated mana (Altar [[symbol:2]], or Phyrexian Altar [[symbol:1]] plus Treasure [[symbol:1]]) to activate Mutagen on the Servo and pay Module for a new Servo.
+4. Sacrifice the countered Servo to Krark-Clan Ironworks; repeat. Each Mutagen activation waits for your main phase and an empty stack.
 
 Results:
-- Repeated artifact creature deaths, ETBs and graveyard triggers.
-- Mana-neutral sustained cycles (2 colorless generated and 2 spent), not infinite net mana.
-- Lethal Ultron life loss with the commander present.
+- Arbitrarily many creature deaths, sacrifice events and creature entries, under the stated prerequisites.
+- Artifact entries/deaths or graveyard events as specified; Ultron adds lethal drain when the repeating artifact-to-graveyard events occur while it is present.
+- Mana, life and token surplus: see the accounting note below; repeated production does not always accumulate those resources.
 
-**Source/status:** New rules-derived conditional configuration, separate outlet variant of C113; not in supplied Spellbook export.
+Classification: Unbounded resource loop.
+
+Audit Notes:
+- Extra starter body (artifact for KCI), untapped Ooze, a targetable graveyard card, [[symbol:2]] seed. Mutagen activations only in own main phase with stack empty. Two generated and two spent: neutral.
+
+
+Optional Payoff:
+- [[Marionette Apprentice]] on the battlefield turns the repeated creature/artifact deaths in this engine into lethal life loss to every opponent. Keep Apprentice alive as the observer.
+- Apprentice’s fabricate Servo can provide starter fodder where an expendable artifact creature is needed; it does not replace a required recyclable nontoken body or the additional Zombie for Gravecrawler.
+- This is an optional finishing extension, not another independently counted core configuration.
 
 ===endpanel
 ===endaccordion
@@ -4373,16 +3496,22 @@ Prerequisites:
 - All four permanents on the battlefield and one other creature you control available to sacrifice.
 
 Steps:
-1. Sacrifice the extra creature to Altar of Dementia.
-2. Pitiless Plunderer makes a Treasure and Super Shredder gets a +1/+1 counter.
-3. Super Shredder's counter triggers Animation Module. Sacrifice the Treasure for [[symbol:1]] and pay to make a Servo.
-4. Sacrifice the Servo to Altar of Dementia; make another Treasure, put another counter on Shredder, and create another Servo. Repeat.
+1. Sacrifice suitable extra fodder to Altar of Dementia.
+2. Super Shredder gains a counter. If Plunderer is needed for payment, resolve its Treasure trigger before Shredder's trigger.
+3. Pay Module [[symbol:1]] from the mana outlet or Plunderer Treasure; create a Servo. Sacrificing Treasure causes an extra Shredder/Module opportunity; decline unpaid extras.
+4. The Servo entering untaps any Station. Sacrifice it through the same outlet and repeat.
 
 Results:
-- Arbitrarily many artifact creature deaths, Servo ETBs, counters and sacrifice triggers.
-- Arbitrarily much mill via Altar of Dementia (until libraries empty); Ultron drains on Servo deaths if present.
+- Arbitrarily many creature deaths, sacrifice events and creature entries, under the stated prerequisites.
+- Repeatable mill; actual cards milled are library-bounded, and emptying a library is not by itself immediate elimination.
+- Arbitrarily many +1/+1 counters on the surviving counter source.
+- Artifact entries/deaths or graveyard events as specified; Ultron adds lethal drain when the repeating artifact-to-graveyard events occur while it is present.
+- Mana, life and token surplus: see the accounting note below; repeated production does not always accumulate those resources.
 
-**Source/status:** New rules-derived four-card variation of the Shredder/Module/Plunderer engine; not in supplied Spellbook export.
+Classification: Unbounded resource loop.
+
+Audit Notes:
+- Extra creature (artifact for Grinding), Station untapped where used. Plunderer creates Module payment. Order triggers to get Treasure in time; decline extra Module payments. Neutral; counters grow.
 
 ===endpanel
 ===endaccordion
@@ -4403,15 +3532,22 @@ Prerequisites:
 - All four permanents on battlefield, Blasting Station untapped, and one additional creature to sacrifice.
 
 Steps:
-1. Tap Blasting Station and sacrifice the extra creature to deal 1 damage to any target.
-2. Pitiless Plunderer creates a Treasure and Super Shredder gets a +1/+1 counter.
-3. Sacrifice the Treasure for [[symbol:1]]; pay for Animation Module to create a Servo.
-4. The Servo entering untaps Blasting Station. Tap it to sacrifice the Servo, dealing 1 damage; repeat from step 2.
+1. Sacrifice suitable extra fodder to Blasting Station.
+2. Super Shredder gains a counter. If Plunderer is needed for payment, resolve its Treasure trigger before Shredder's trigger.
+3. Pay Module [[symbol:1]] from the mana outlet or Plunderer Treasure; create a Servo. Sacrificing Treasure causes an extra Shredder/Module opportunity; decline unpaid extras.
+4. The Servo entering untaps any Station. Sacrifice it through the same outlet and repeat.
 
 Results:
-- Arbitrarily much direct damage, artifact deaths, Servo ETBs, and Shredder counters; lethal without Ultron.
+- Arbitrarily many creature deaths, sacrifice events and creature entries, under the stated prerequisites.
+- Direct lethal damage or life loss through the named payoff.
+- Arbitrarily many +1/+1 counters on the surviving counter source.
+- Artifact entries/deaths or graveyard events as specified; Ultron adds lethal drain when the repeating artifact-to-graveyard events occur while it is present.
+- Mana, life and token surplus: see the accounting note below; repeated production does not always accumulate those resources.
 
-**Source/status:** New rules-derived four-card variation, not listed in supplied Spellbook export.
+Classification: Unbounded resource loop.
+
+Audit Notes:
+- Extra creature (artifact for Grinding), Station untapped where used. Plunderer creates Module payment. Order triggers to get Treasure in time; decline extra Module payments. Neutral; counters grow.
 
 ===endpanel
 ===endaccordion
@@ -4432,15 +3568,22 @@ Prerequisites:
 - All four permanents on battlefield, Grinding Station untapped, and another artifact creature to sacrifice initially.
 
 Steps:
-1. Tap Grinding Station and sacrifice the starter artifact creature to mill three cards from target player's library.
-2. Pitiless Plunderer creates a Treasure and Super Shredder gets a +1/+1 counter.
-3. Sacrifice the Treasure for [[symbol:1]]; pay Animation Module to create a Servo.
-4. The Servo enters, untapping Grinding Station. Repeat the cycle by sacrificing the Servo to Grinding Station.
+1. Sacrifice suitable extra fodder to Grinding Station.
+2. Super Shredder gains a counter. If Plunderer is needed for payment, resolve its Treasure trigger before Shredder's trigger.
+3. Pay Module [[symbol:1]] from the mana outlet or Plunderer Treasure; create a Servo. Sacrificing Treasure causes an extra Shredder/Module opportunity; decline unpaid extras.
+4. The Servo entering untaps any Station. Sacrifice it through the same outlet and repeat.
 
 Results:
-- Repeated artifact-creature sacrifices and artifact ETBs; mill chosen libraries until empty; Ultron drains on Servo deaths if present.
+- Arbitrarily many creature deaths, sacrifice events and creature entries, under the stated prerequisites.
+- Repeatable mill; actual cards milled are library-bounded, and emptying a library is not by itself immediate elimination.
+- Arbitrarily many +1/+1 counters on the surviving counter source.
+- Artifact entries/deaths or graveyard events as specified; Ultron adds lethal drain when the repeating artifact-to-graveyard events occur while it is present.
+- Mana, life and token surplus: see the accounting note below; repeated production does not always accumulate those resources.
 
-**Source/status:** New rules-derived four-card variation, not in supplied Spellbook export.
+Classification: Unbounded resource loop.
+
+Audit Notes:
+- Extra creature (artifact for Grinding), Station untapped where used. Plunderer creates Module payment. Order triggers to get Treasure in time; decline extra Module payments. Neutral; counters grow.
 
 ===endpanel
 ===endaccordion
@@ -4461,16 +3604,22 @@ Prerequisites:
 - All four permanents on battlefield and one additional creature to sacrifice.
 
 Steps:
-1. Sacrifice the extra creature to Umbral Collar Zealot; surveil 1.
-2. Pitiless Plunderer creates a Treasure and Super Shredder receives a +1/+1 counter.
-3. Sacrifice the Treasure for [[symbol:1]], and pay for Animation Module to make a Servo.
-4. Sacrifice the Servo to Zealot and repeat.
+1. Sacrifice suitable extra fodder to Umbral Collar Zealot.
+2. Super Shredder gains a counter. If Plunderer is needed for payment, resolve its Treasure trigger before Shredder's trigger.
+3. Pay Module [[symbol:1]] from the mana outlet or Plunderer Treasure; create a Servo. Sacrificing Treasure causes an extra Shredder/Module opportunity; decline unpaid extras.
+4. The Servo entering untaps any Station. Sacrifice it through the same outlet and repeat.
 
 Results:
-- Arbitrarily many artifact deaths, Servo ETBs, +1/+1 counters and surveil triggers; Ultron drains with commander present.
-- Surveil events are bounded by library size; once empty, you can continue sacrificing tokens and putting counters on Shredder.
+- Arbitrarily many creature deaths, sacrifice events and creature entries, under the stated prerequisites.
+- Repeatable surveil events; actual card access is library-bounded.
+- Arbitrarily many +1/+1 counters on the surviving counter source.
+- Artifact entries/deaths or graveyard events as specified; Ultron adds lethal drain when the repeating artifact-to-graveyard events occur while it is present.
+- Mana, life and token surplus: see the accounting note below; repeated production does not always accumulate those resources.
 
-**Source/status:** New rules-derived four-card variation, not in supplied Spellbook export.
+Classification: Unbounded resource loop.
+
+Audit Notes:
+- Extra creature (artifact for Grinding), Station untapped where used. Plunderer creates Module payment. Order triggers to get Treasure in time; decline extra Module payments. Neutral; counters grow.
 
 ===endpanel
 ===endaccordion
@@ -4493,18 +3642,593 @@ Prerequisites:
 - Perform Mutagen activations as a sorcery.
 
 Steps:
-1. Tap The Ooze to exile a graveyard card and create a Mutagen.
-2. Pay [[symbol:1]], tap and sacrifice Mutagen to put a +1/+1 counter on the starter creature; pay [[symbol:1]] to Animation Module to make a Servo.
-3. Sacrifice the countered starter creature to Phyrexian Altar for one mana. The Ooze creates a Mutagen and Pitiless Plunderer creates a Treasure.
-4. Spend [[symbol:1]] from the Altar and [[symbol:1]] from the Treasure to activate the Mutagen on the Servo and pay the Animation Module trigger, making another Servo.
-5. Sacrifice the countered Servo to Phyrexian Altar. The Ooze replaces the Mutagen and Plunderer replaces the Treasure; repeat from step 4.
+1. Tap Ooze, exile the seed graveyard card and create Mutagen. Spend [[symbol:1]] to activate Mutagen on the starter body; spend [[symbol:1]] on Module to create a Servo.
+2. Sacrifice the countered starter to Phyrexian Altar. Ooze creates another Mutagen; Plunderer creates a Treasure.
+3. Use the two generated mana (Altar [[symbol:2]], or Phyrexian Altar [[symbol:1]] plus Treasure [[symbol:1]]) to activate Mutagen on the Servo and pay Module for a new Servo.
+4. Sacrifice the countered Servo to Phyrexian Altar; repeat. Each Mutagen activation waits for your main phase and an empty stack.
 
 Results:
-- Mana-neutral recurring artifact creature deaths, Servos and counters, plus Treasure creation and sacrifice.
-- Each Servo death triggers Ultron if on battlefield.
-- Net mana is zero per iteration: Phyrexian Altar yields 1 and the Treasure yields 1; the Mutagen and Module each cost 1.
+- Arbitrarily many creature deaths, sacrifice events and creature entries, under the stated prerequisites.
+- Artifact entries/deaths or graveyard events as specified; Ultron adds lethal drain when the repeating artifact-to-graveyard events occur while it is present.
+- Mana, life and token surplus: see the accounting note below; repeated production does not always accumulate those resources.
 
-**Source/status:** Rules-derived conditional configuration not in the supplied Spellbook export. Not redundant with C113/C114 because this version requires Pitiless Plunderer to supply the second mana.
+Classification: Unbounded resource loop.
+
+Audit Notes:
+- Extra starter body (artifact for KCI), untapped Ooze, a targetable graveyard card, [[symbol:2]] seed. Mutagen activations only in own main phase with stack empty. Two generated and two spent: neutral.
+
+===endpanel
+===endaccordion
+
+<a id="c120"></a>
+===accordion
+===panel: C120: Marionette Apprentice + Nim Deathmantle + Phyrexian Altar + Pitiless Plunderer
+
+[[symbol:b]]
+
+Cards Required:
+- [[Marionette Apprentice]]
+- [[Nim Deathmantle]]
+- [[Phyrexian Altar]]
+- [[Pitiless Plunderer]]
+
+Prerequisites:
+- All four named permanents are on the battlefield.
+- You control a Servo from Apprentice; choose fabricate’s Servo mode on every return.
+- Keep Pitiless Plunderer on the battlefield throughout the loop.
+
+Steps:
+1. Sacrifice the Servo to Phyrexian Altar for one mana. Resolve Apprentice’s drain and Plunderer’s trigger to create a Treasure.
+2. Sacrifice that Treasure for a second mana while Apprentice is still on the battlefield. Apprentice triggers again, draining every opponent.
+3. Sacrifice Apprentice to Phyrexian Altar for a third mana. Both Deathmantle and Plunderer trigger; put Plunderer above Deathmantle.
+4. Resolve Plunderer, creating a second Treasure. Sacrifice it for a fourth mana.
+5. Pay [[symbol:4]] to Deathmantle’s trigger, returning Apprentice and attaching Deathmantle.
+6. Resolve fabricate to create a new Servo. Repeat.
+
+Results:
+- Lethal life loss to every opponent: two guaranteed Apprentice triggers per cycle with this ordering.
+- Arbitrarily many creature deaths, entries, Treasure creations and artifact sacrifices.
+- Mana-neutral: two Altar mana plus two Treasure mana pay the four-mana return.
+
+Classification: Unbounded resource loop.
+
+Audit Notes:
+- Net-new configuration enabled by Apprentice in this list.
+- The second Treasure is sacrificed while Apprentice is absent, so do not count an Apprentice trigger for that Treasure in this sequence.
+
+===endpanel
+===endaccordion
+
+<a id="c121"></a>
+===accordion
+===panel: C121: Marionette Apprentice + Warren Soultrader + Gravecrawler
+
+[[symbol:b]]
+
+Cards Required:
+- [[Marionette Apprentice]]
+- [[Warren Soultrader]]
+- [[Gravecrawler]]
+
+Prerequisites:
+- All three named creatures are on the battlefield.
+- Warren Soultrader supplies the additional Zombie required to cast Gravecrawler from the graveyard.
+- You have enough life for the finite number of required cycles; at least 21 life suffices against opponents at 40 life each.
+
+Steps:
+1. Pay 1 life and sacrifice Gravecrawler to Warren Soultrader. Apprentice triggers, causing each opponent to lose 1 life.
+2. Resolve Warren’s ability to create a Treasure.
+3. Sacrifice the Treasure for [[symbol:b]]. Apprentice triggers again, causing each opponent to lose another life.
+4. With Warren still on the battlefield, cast Gravecrawler from the graveyard for [[symbol:b]].
+5. Repeat only while you can pay the life cost safely. Stop when the opponents have lost; the last recast is unnecessary if the Treasure trigger already ends the game.
+
+Results:
+- Finite life-limited lethal sequence when the stated life budget suffices.
+- Each full cycle costs you 1 life and causes each opponent to lose 2 life.
+- Mana-neutral after setup; repeated Gravecrawler casts and creature/artifact sacrifice events.
+
+Classification: Finite sequence.
+
+Audit Notes:
+- This is life-limited, not an infinite loop: Apprentice causes life loss but does not gain you life.
+- If the highest opposing life total is H, at most ceil(H/2) cycles are needed, and you need more life than that number to pay Warren’s costs safely.
+- Against three opponents at 40 life, 20 cycles drain all three for 40 while costing you 20 life; start the sequence with at least 21 life after setup.
+- Creature death and Treasure sacrifice are two separate events. A single artifact-creature death triggers Apprentice only once.
+
+===endpanel
+===endaccordion
+
+<a id="c122"></a>
+===accordion
+===panel: C122: Marionette Apprentice + Warren Soultrader + Stridehangar Automaton
+
+[[symbol:b]]
+
+Cards Required:
+- [[Marionette Apprentice]]
+- [[Warren Soultrader]]
+- [[Stridehangar Automaton]]
+
+Prerequisites:
+- All three named creatures are on the battlefield.
+- You control another creature to sacrifice. Apprentice’s fabricate Servo can supply this starter.
+- At least 21 life after setup suffices against three opponents at 40 life each.
+
+Steps:
+1. Pay 1 life and sacrifice the starter creature to Warren. Apprentice triggers, causing each opponent to lose 1 life.
+2. Resolve Warren’s ability. Create a Treasure plus an additional Thopter through Stridehangar’s replacement effect.
+3. Sacrifice the Treasure for one mana. Apprentice triggers again, causing each opponent to lose another life.
+4. Sacrifice the replacement Thopter to Warren and repeat while the life budget permits. Stridehangar remains on the battlefield.
+5. Stop when all opponents have lost. Surplus mana may be generated, but the number of cycles remains limited by your life total.
+
+Results:
+- Finite life-limited lethal sequence when the stated life budget suffices.
+- Each full cycle costs you 1 life, causes each opponent to lose 2 life, and adds one mana.
+- Repeated token creation and artifact-creature/Treasure sacrifice events.
+
+Classification: Finite sequence.
+
+Audit Notes:
+- This is life-limited, not an infinite loop: Apprentice causes life loss but does not gain you life.
+- If the highest opposing life total is H, at most ceil(H/2) cycles are needed, and you need more life than that number to pay Warren’s costs safely.
+- Against three opponents at 40 life, 20 cycles drain all three for 40 while costing you 20 life; start the sequence with at least 21 life after setup.
+- Creature death and Treasure sacrifice are two separate events. A single artifact-creature death triggers Apprentice only once.
+
+===endpanel
+===endaccordion
+
+<a id="t001"></a>
+===accordion
+===panel: T001: Tarrian's Soulcleaver + Animation Module + Ashnod's Altar
+
+[[symbol:c]]
+
+Cards Required:
+- [[Tarrian's Soulcleaver]]
+- [[Animation Module]]
+- [[Ashnod's Altar]]
+
+Prerequisites:
+- All named engine permanents are on the battlefield, except any cards explicitly assigned other zones.
+- Soulcleaver already equipped to a surviving creature, plus another creature. Equip costs [[symbol:2]]; no extra loop seed mana.
+
+Steps:
+1. Sacrifice starter to Altar for [[symbol:2]]; Soulcleaver puts a counter on its host.
+2. Pay [[symbol:1]] to Module to make a Servo.
+3. Sacrifice Servo and repeat.
+4. Do not sacrifice the host.
+
+Results:
+- Net [[symbol:c]] per cycle; unbounded counters, artifact-creature entries/deaths. Ultron makes this lethal.
+
+Classification: Unbounded resource loop.
+
+
+Optional Payoff:
+- [[Marionette Apprentice]] on the battlefield turns the repeated creature/artifact deaths in this engine into lethal life loss to every opponent. Keep Apprentice alive as the observer.
+- Apprentice’s fabricate Servo can provide starter fodder where an expendable artifact creature is needed; it does not replace a required recyclable nontoken body or the additional Zombie for Gravecrawler.
+- This is an optional finishing extension, not another independently counted core configuration.
+
+===endpanel
+===endaccordion
+
+<a id="t002"></a>
+===accordion
+===panel: T002: Tarrian's Soulcleaver + Animation Module + Krark-Clan Ironworks
+
+[[symbol:c]]
+
+Cards Required:
+- [[Tarrian's Soulcleaver]]
+- [[Animation Module]]
+- [[Krark-Clan Ironworks]]
+
+Prerequisites:
+- All named engine permanents are on the battlefield, except any cards explicitly assigned other zones.
+- Soulcleaver already equipped to a surviving creature, plus another artifact (not necessarily a creature).
+
+Steps:
+1. Sacrifice starter artifact to KCI for [[symbol:2]]; put a counter on the host and pay Module [[symbol:1]] for Servo.
+2. Sacrifice Servo to KCI and repeat.
+
+Results:
+- Net [[symbol:c]] per cycle; unbounded counters and artifact deaths. Ultron makes this lethal.
+
+Classification: Unbounded resource loop.
+
+
+Optional Payoff:
+- [[Marionette Apprentice]] on the battlefield turns the repeated creature/artifact deaths in this engine into lethal life loss to every opponent. Keep Apprentice alive as the observer.
+- Apprentice’s fabricate Servo can provide starter fodder where an expendable artifact creature is needed; it does not replace a required recyclable nontoken body or the additional Zombie for Gravecrawler.
+- This is an optional finishing extension, not another independently counted core configuration.
+
+===endpanel
+===endaccordion
+
+<a id="t003"></a>
+===accordion
+===panel: T003: Tarrian's Soulcleaver + Animation Module + Phyrexian Altar
+
+[[symbol:c]]
+
+Cards Required:
+- [[Tarrian's Soulcleaver]]
+- [[Animation Module]]
+- [[Phyrexian Altar]]
+
+Prerequisites:
+- All named engine permanents are on the battlefield, except any cards explicitly assigned other zones.
+- Soulcleaver already equipped to a surviving creature, plus another creature.
+
+Steps:
+1. Sacrifice starter for one mana.
+2. Resolve Soulcleaver counter, spend that mana on Module for Servo.
+3. Sacrifice Servo for one and repeat.
+
+Results:
+- Mana-neutral; unbounded counters and artifact-creature deaths, not surplus colored mana. Ultron makes this lethal.
+
+Classification: Unbounded resource loop.
+
+
+Optional Payoff:
+- [[Marionette Apprentice]] on the battlefield turns the repeated creature/artifact deaths in this engine into lethal life loss to every opponent. Keep Apprentice alive as the observer.
+- Apprentice’s fabricate Servo can provide starter fodder where an expendable artifact creature is needed; it does not replace a required recyclable nontoken body or the additional Zombie for Gravecrawler.
+- This is an optional finishing extension, not another independently counted core configuration.
+
+===endpanel
+===endaccordion
+
+<a id="t004"></a>
+===accordion
+===panel: T004: Tarrian's Soulcleaver + Animation Module + Pitiless Plunderer + Altar of Dementia
+
+[[symbol:b]]
+
+Cards Required:
+- [[Tarrian's Soulcleaver]]
+- [[Animation Module]]
+- [[Pitiless Plunderer]]
+- [[Altar of Dementia]]
+
+Prerequisites:
+- All named engine permanents are on the battlefield, except any cards explicitly assigned other zones.
+- Soulcleaver equipped to a surviving host and extra creature. Keep Plunderer and any creature outlet alive.
+
+Steps:
+1. Sacrifice fodder through the outlet.
+2. Put Plunderer above Soulcleaver on the stack so Treasure resolves first.
+3. Soulcleaver counters the host; spend Treasure on Module for a Servo.
+4. Treasure sacrifice causes another Soulcleaver trigger: decline its extra Module payment unless funded.
+5. Sacrifice the Servo and repeat.
+
+Results:
+- Mana-neutral; growing host counters and repeatable artifact deaths. Mills one per Servo; mill alone does not immediately eliminate a player. Ultron also supplies lethal drain.
+
+Classification: Unbounded resource loop.
+
+===endpanel
+===endaccordion
+
+<a id="t005"></a>
+===accordion
+===panel: T005: Tarrian's Soulcleaver + Animation Module + Pitiless Plunderer + Blasting Station
+
+[[symbol:b]]
+
+Cards Required:
+- [[Tarrian's Soulcleaver]]
+- [[Animation Module]]
+- [[Pitiless Plunderer]]
+- [[Blasting Station]]
+
+Prerequisites:
+- All named engine permanents are on the battlefield, except any cards explicitly assigned other zones.
+- Soulcleaver equipped to a surviving host and extra creature. Keep Plunderer and any creature outlet alive. Station starts untapped.
+
+Steps:
+1. Sacrifice fodder through the outlet.
+2. Put Plunderer above Soulcleaver on the stack so Treasure resolves first.
+3. Soulcleaver counters the host; spend Treasure on Module for a Servo.
+4. Treasure sacrifice causes another Soulcleaver trigger: decline its extra Module payment unless funded.
+5. Sacrifice the Servo and repeat.
+6. Its entry untaps the Station.
+
+Results:
+- Mana-neutral; growing host counters and repeatable artifact deaths. One direct damage per Servo, directly lethal. Ultron also supplies lethal drain.
+
+Classification: Unbounded resource loop.
+
+===endpanel
+===endaccordion
+
+<a id="t006"></a>
+===accordion
+===panel: T006: Tarrian's Soulcleaver + Animation Module + Pitiless Plunderer + Grinding Station
+
+[[symbol:b]]
+
+Cards Required:
+- [[Tarrian's Soulcleaver]]
+- [[Animation Module]]
+- [[Pitiless Plunderer]]
+- [[Grinding Station]]
+
+Prerequisites:
+- All named engine permanents are on the battlefield, except any cards explicitly assigned other zones.
+- Soulcleaver equipped to a surviving host and extra artifact creature. Keep Plunderer and any creature outlet alive. Station starts untapped.
+
+Steps:
+1. Sacrifice fodder through the outlet.
+2. Put Plunderer above Soulcleaver on the stack so Treasure resolves first.
+3. Soulcleaver counters the host; spend Treasure on Module for a Servo.
+4. Treasure sacrifice causes another Soulcleaver trigger: decline its extra Module payment unless funded.
+5. Sacrifice the Servo and repeat.
+6. Its entry untaps the Station.
+
+Results:
+- Mana-neutral; growing host counters and repeatable artifact deaths. Mills three per Servo; mill alone does not immediately eliminate a player. Ultron also supplies lethal drain.
+
+Classification: Unbounded resource loop.
+
+===endpanel
+===endaccordion
+
+<a id="t007"></a>
+===accordion
+===panel: T007: Tarrian's Soulcleaver + Animation Module + Pitiless Plunderer + Umbral Collar Zealot
+
+[[symbol:b]]
+
+Cards Required:
+- [[Tarrian's Soulcleaver]]
+- [[Animation Module]]
+- [[Pitiless Plunderer]]
+- [[Umbral Collar Zealot]]
+
+Prerequisites:
+- All named engine permanents are on the battlefield, except any cards explicitly assigned other zones.
+- Soulcleaver equipped to a surviving host and extra creature. Keep Plunderer and any creature outlet alive.
+
+Steps:
+1. Sacrifice fodder through the outlet.
+2. Put Plunderer above Soulcleaver on the stack so Treasure resolves first.
+3. Soulcleaver counters the host; spend Treasure on Module for a Servo.
+4. Treasure sacrifice causes another Soulcleaver trigger: decline its extra Module payment unless funded.
+5. Sacrifice the Servo and repeat.
+
+Results:
+- Mana-neutral; growing host counters and repeatable artifact deaths. Repeated surveil events, with finite library card access. Ultron also supplies lethal drain.
+
+Classification: Unbounded resource loop.
+
+===endpanel
+===endaccordion
+
+<a id="t008"></a>
+===accordion
+===panel: T008: Tarrian's Soulcleaver + Animation Module + Warren Soultrader + Zulaport Cutthroat
+
+[[symbol:b]]
+
+Cards Required:
+- [[Tarrian's Soulcleaver]]
+- [[Animation Module]]
+- [[Warren Soultrader]]
+- [[Zulaport Cutthroat]]
+
+Prerequisites:
+- All named engine permanents are on the battlefield, except any cards explicitly assigned other zones.
+- Soulcleaver equipped to a surviving host (the drain creature can be the host), an extra creature, and life >= 2.
+
+Steps:
+1. Pay one life and sacrifice fodder to Warren.
+2. Resolve the death-drain life gain, then Warren creates Treasure.
+3. Use Treasure to pay the Module trigger generated by Soulcleaver putting a counter on the host.
+4. Make a Servo and repeat.
+5. Decline extra Module payments from Treasure deaths.
+
+Results:
+- Life- and mana-neutral, unbounded deaths/counters; directly lethal drain. No ongoing card draws.
+
+Classification: Unbounded resource loop.
+
+===endpanel
+===endaccordion
+
+<a id="t009"></a>
+===accordion
+===panel: T009: Tarrian's Soulcleaver + Animation Module + Warren Soultrader + Sephiroth, Fabled SOLDIER
+
+[[symbol:b]]
+
+Cards Required:
+- [[Tarrian's Soulcleaver]]
+- [[Animation Module]]
+- [[Warren Soultrader]]
+- [[Sephiroth, Fabled SOLDIER]]
+
+Prerequisites:
+- All named engine permanents are on the battlefield, except any cards explicitly assigned other zones.
+- Soulcleaver equipped to a surviving host (the drain creature can be the host), an extra creature, and life >= 2.
+
+Steps:
+1. Pay one life and sacrifice fodder to Warren.
+2. Resolve the death-drain life gain, then Warren creates Treasure.
+3. Use Treasure to pay the Module trigger generated by Soulcleaver putting a counter on the host.
+4. Make a Servo and repeat.
+5. Decline extra Module payments from Treasure deaths.
+6. The real Sephiroth transforms after the fourth death-trigger resolution; its emblem continues the drain.
+7. Decline its optional ETB sacrifice.
+
+Results:
+- Life- and mana-neutral, unbounded deaths/counters; directly lethal drain. No ongoing card draws.
+
+Classification: Unbounded resource loop.
+
+===endpanel
+===endaccordion
+
+<a id="t010"></a>
+===accordion
+===panel: T010: Tarrian's Soulcleaver + Walking Ballista + Gravecrawler + Pitiless Plunderer + Warren Soultrader
+
+[[symbol:b]]
+
+Cards Required:
+- [[Tarrian's Soulcleaver]]
+- [[Walking Ballista]]
+- [[Gravecrawler]]
+- [[Pitiless Plunderer]]
+- [[Warren Soultrader]]
+
+Prerequisites:
+- All named engine permanents are on the battlefield, except any cards explicitly assigned other zones.
+- Equip Soulcleaver to Ballista. Ballista has >= 2 counters; Gravecrawler is on battlefield. Warren remains as the additional Zombie; do not use its sacrifice ability. Ballista has no damage marked or toughness reduction.
+
+Steps:
+1. Remove one Ballista counter to kill the 2/1 Gravecrawler.
+2. Ballista retains at least one counter while the damage resolves.
+3. Gravecrawler death gives one Soulcleaver counter and Plunderer gives a Treasure.
+4. Sacrifice Treasure for [[symbol:b]], causing another Soulcleaver counter on Ballista.
+5. Recast Gravecrawler for [[symbol:b]].
+6. Each cycle gains one Ballista counter; spend surplus counters to damage opponents, maintaining the two-counter starting buffer.
+
+Results:
+- Direct lethal Ballista damage; mana-neutral, net one counter per cycle before spending surplus. Warren is explicitly required here to avoid using Carrion Feeder, whose Gravecrawler/Plunderer engine would make the equipment line a redundant extension.
+
+Classification: Unbounded resource loop.
+
+===endpanel
+===endaccordion
+
+<a id="t011"></a>
+===accordion
+===panel: T011: Tarrian's Soulcleaver + Walking Ballista + Gravecrawler + The Ghoul, Gunslinger
+
+[[symbol:b]]
+
+Cards Required:
+- [[Tarrian's Soulcleaver]]
+- [[Walking Ballista]]
+- [[Gravecrawler]]
+- [[The Ghoul, Gunslinger]]
+
+Prerequisites:
+- All named engine permanents are on the battlefield, except any cards explicitly assigned other zones.
+- Equip Soulcleaver to Ballista with >= 2 counters, no damage/toughness reduction; Gravecrawler on battlefield. The Ghoul remains as the other Zombie.
+
+Steps:
+1. Shoot Gravecrawler for one, leaving a counter on Ballista.
+2. Resolve Soulcleaver for +1.
+3. The Ghoul death trigger targets you, adds two rad counters and creates Treasure.
+4. Sacrifice it for [[symbol:b]], giving Ballista another Soulcleaver counter; recast Gravecrawler.
+5. Gain one spare Ballista counter each cycle and spend it on opponents while keeping two for the next cycle.
+
+Results:
+- Direct lethal Ballista damage; mana-neutral; accumulate two rad counters per cycle. The Ghoul supplies both Zombie permission and Treasure, so Plunderer is unnecessary.
+
+Classification: Unbounded resource loop.
+
+===endpanel
+===endaccordion
+
+<a id="t012"></a>
+===accordion
+===panel: T012: Tarrian's Soulcleaver + Walking Ballista + Pitiless Plunderer + Stridehangar Automaton
+
+[[symbol:b]]
+
+Cards Required:
+- [[Tarrian's Soulcleaver]]
+- [[Walking Ballista]]
+- [[Pitiless Plunderer]]
+- [[Stridehangar Automaton]]
+
+Prerequisites:
+- All named engine permanents are on the battlefield, except any cards explicitly assigned other zones.
+- Equip Soulcleaver to Ballista with >= 3 counters and no damage/toughness reduction; control an extra Thopter. Stridehangar makes this Thopter 2/2, not 1/1.
+
+Steps:
+1. Spend TWO Ballista counters to deal two damage to the Thopter, keeping at least one counter on Ballista throughout.
+2. Its death gives Ballista +1 and creates a Plunderer Treasure plus replacement Thopter through Stridehangar.
+3. Sacrifice Treasure for mana, giving Ballista another +1.
+4. Ballista is back to three counters, with one new mana and a replacement Thopter.
+5. Repeat to generate arbitrary mana.
+6. Spend [[symbol:4]] at a time to add extra Ballista counters, then shoot opponents while preserving the three-counter loop buffer.
+
+Results:
+- Net one mana of any color per cycle; directly lethal via Ballista after converting surplus mana to counters. Three-counter minimum accounts for the Thopter anthem and state-based deaths.
+
+Classification: Unbounded resource loop.
+
+===endpanel
+===endaccordion
+
+<a id="t013"></a>
+===accordion
+===panel: T013: Tarrian's Soulcleaver + Walking Ballista + Animation Module + Pitiless Plunderer
+
+[[symbol:b]]
+
+Cards Required:
+- [[Tarrian's Soulcleaver]]
+- [[Walking Ballista]]
+- [[Animation Module]]
+- [[Pitiless Plunderer]]
+
+Prerequisites:
+- All named engine permanents are on the battlefield, except any cards explicitly assigned other zones.
+- Soulcleaver equipped to Ballista with >= 2 counters, no damage/toughness reduction; another 1/1 Servo to start. If no Servo exists, Module can add a counter to Ballista for [[symbol:3]], then pay [[symbol:1]] to its trigger to create one as a separate setup step.
+
+Steps:
+1. Remove one Ballista counter to kill the Servo, retaining at least one counter.
+2. Order Plunderer above Soulcleaver so Treasure is ready.
+3. Soulcleaver adds one counter; pay the resulting Module trigger with Treasure to create a replacement Servo.
+4. Sacrificing Treasure causes a second Soulcleaver counter: decline its extra Module payment.
+5. Ballista gains two counters while spending one per Servo, for net one.
+6. Spend surplus counters to damage opponents while preserving the two-counter buffer.
+
+Results:
+- Mana-neutral; direct lethal Ballista damage, with one net counter per cycle before spending surplus. Ballista supplies the otherwise-missing sacrifice/removal outlet, so this does not contain one of T001–T009 as a smaller named subset.
+
+Classification: Unbounded resource loop.
+
+===endpanel
+===endaccordion
+
+<a id="t014"></a>
+===accordion
+===panel: T014: Tarrian's Soulcleaver + Walking Ballista + Tortured Existence + Imotekh the Stormlord + Pitiless Plunderer
+
+[[symbol:b]]
+
+Cards Required:
+- [[Tarrian's Soulcleaver]]
+- [[Walking Ballista]]
+- [[Tortured Existence]]
+- [[Imotekh the Stormlord]]
+- [[Pitiless Plunderer]]
+
+Prerequisites:
+- All named engine permanents are on the battlefield, except any cards explicitly assigned other zones.
+- Soulcleaver equipped to Ballista with >= 3 counters, no damage/toughness reduction. Two other artifact creature cards alternate hand/graveyard; [[symbol:b]] seed. Imotekh and Plunderer survive.
+
+Steps:
+1. Pay [[symbol:b]] to Tortured Existence, discarding one artifact creature card to return the other.
+2. Imotekh creates two 2/2 Necrons.
+3. Shoot the first Necron twice, retaining a Ballista counter; its death gives +1 counter and a Treasure.
+4. Sacrifice that Treasure for mana, restoring another counter.
+5. Ballista is back to at least three.
+6. Repeat for the second Necron.
+7. Two Treasure mana were made; reserve [[symbol:b]] for the next exchange and keep one surplus.
+8. The two fuel cards have exchanged zones, so the exchange can repeat.
+9. Convert surplus mana through Ballista’s [[symbol:4]] ability to more counters and damage opponents while retaining the three-counter buffer.
+
+Results:
+- Net one mana of any color per artifact-card exchange; direct lethal Ballista damage after mana conversion. This is a Ballista outlet variant of the Tortured Existence/Imotekh resource architecture.
+
+Classification: Unbounded resource loop.
 
 ===endpanel
 ===endaccordion
@@ -4515,7 +4239,7 @@ Results:
 ===accordion
 ===panel: Card Index
 
-Each card below lists the renumbered active configurations in which it appears.
+Active configurations only; archived configurations are excluded.
 
 ===accordion
 ===panel: Aetherflux Reservoir
@@ -4524,6 +4248,7 @@ Each card below lists the renumbered active configurations in which it appears.
 - [C003](#c003): Warren Soultrader + Aetherflux Reservoir + Gravecrawler
 - [C050](#c050): Metalwork Colossus + Warren Soultrader + Pitiless Plunderer + Aetherflux Reservoir
 - [C051](#c051): Metalwork Colossus + Warren Soultrader + Aetherflux Reservoir + Stridehangar Automaton
+
 ===endpanel
 ===endaccordion
 
@@ -4535,8 +4260,9 @@ Each card below lists the renumbered active configurations in which it appears.
 - [C006](#c006): Pitiless Plunderer + Altar of Dementia + Stridehangar Automaton
 - [C052](#c052): Tortured Existence + Pitiless Plunderer + Imotekh the Stormlord + Altar of Dementia
 - [C053](#c053): Out of the Tombs + Skullclamp + Pitiless Plunderer + Altar of Dementia
-- [C054](#c054): The Ooze + Stridehangar Automaton + Pitiless Plunderer + Altar of Dementia
 - [C115](#c115): Super Shredder + Animation Module + Pitiless Plunderer + Altar of Dementia
+- [T004](#t004): Tarrian's Soulcleaver + Animation Module + Pitiless Plunderer + Altar of Dementia
+
 ===endpanel
 ===endaccordion
 
@@ -4555,6 +4281,17 @@ Each card below lists the renumbered active configurations in which it appears.
 - [C117](#c117): Super Shredder + Animation Module + Pitiless Plunderer + Grinding Station
 - [C118](#c118): Super Shredder + Animation Module + Pitiless Plunderer + Umbral Collar Zealot
 - [C119](#c119): The Ooze + Animation Module + Pitiless Plunderer + Phyrexian Altar
+- [T001](#t001): Tarrian's Soulcleaver + Animation Module + Ashnod's Altar
+- [T002](#t002): Tarrian's Soulcleaver + Animation Module + Krark-Clan Ironworks
+- [T003](#t003): Tarrian's Soulcleaver + Animation Module + Phyrexian Altar
+- [T004](#t004): Tarrian's Soulcleaver + Animation Module + Pitiless Plunderer + Altar of Dementia
+- [T005](#t005): Tarrian's Soulcleaver + Animation Module + Pitiless Plunderer + Blasting Station
+- [T006](#t006): Tarrian's Soulcleaver + Animation Module + Pitiless Plunderer + Grinding Station
+- [T007](#t007): Tarrian's Soulcleaver + Animation Module + Pitiless Plunderer + Umbral Collar Zealot
+- [T008](#t008): Tarrian's Soulcleaver + Animation Module + Warren Soultrader + Zulaport Cutthroat
+- [T009](#t009): Tarrian's Soulcleaver + Animation Module + Warren Soultrader + Sephiroth, Fabled SOLDIER
+- [T013](#t013): Tarrian's Soulcleaver + Walking Ballista + Animation Module + Pitiless Plunderer
+
 ===endpanel
 ===endaccordion
 
@@ -4563,8 +4300,8 @@ Each card below lists the renumbered active configurations in which it appears.
 
 - [C007](#c007): Pitiless Plunderer + Stridehangar Automaton + Arcbound Ravager
 - [C055](#c055): Out of the Tombs + Skullclamp + Pitiless Plunderer + Arcbound Ravager
-- [C056](#c056): The Ooze + Stridehangar Automaton + Pitiless Plunderer + Arcbound Ravager
 - [C109](#c109): Animation Module + Pitiless Plunderer + Arcbound Ravager
+
 ===endpanel
 ===endaccordion
 
@@ -4576,7 +4313,6 @@ Each card below lists the renumbered active configurations in which it appears.
 - [C010](#c010): The Ghoul, Gunslinger + Gravecrawler + Ashnod's Altar
 - [C011](#c011): Imotekh the Stormlord + Nim Deathmantle + Ashnod's Altar
 - [C012](#c012): Nim Deathmantle + Ashnod's Altar + Marionette Apprentice
-- [C013](#c013): Nim Deathmantle + Ashnod's Altar + Orcish Bowmasters
 - [C014](#c014): Ultron the Annihilator + Nim Deathmantle + Ashnod's Altar
 - [C015](#c015): Out of the Tombs + Skullclamp + Ashnod's Altar
 - [C016](#c016): Pitiless Plunderer + Ashnod's Altar + Stridehangar Automaton
@@ -4587,15 +4323,15 @@ Each card below lists the renumbered active configurations in which it appears.
 - [C060](#c060): Glaring Fleshraker + Ashnod's Altar + Junk Diver + Workshop Assistant
 - [C061](#c061): Glaring Fleshraker + Ashnod's Altar + Myr Retriever + Scrap Trawler
 - [C062](#c062): Glaring Fleshraker + Ashnod's Altar + Myr Retriever + Workshop Assistant
-- [C063](#c063): Glaring Fleshraker + Ashnod's Altar + Scrap Trawler + Workshop Assistant
 - [C064](#c064): Imotekh the Stormlord + Junk Diver + Myr Retriever + Ashnod's Altar
 - [C065](#c065): Imotekh the Stormlord + Junk Diver + Workshop Assistant + Ashnod's Altar
 - [C066](#c066): Imotekh the Stormlord + Scrap Trawler + Myr Retriever + Ashnod's Altar
 - [C067](#c067): Imotekh the Stormlord + Myr Retriever + Workshop Assistant + Ashnod's Altar
 - [C068](#c068): Scrap Trawler + Myr Retriever + Ashnod's Altar + Semblance Anvil
-- [C069](#c069): The Ooze + Stridehangar Automaton + Pitiless Plunderer + Ashnod's Altar
 - [C107](#c107): Animation Module + Ashnod's Altar + Super Shredder
 - [C113](#c113): The Ooze + Animation Module + Ashnod's Altar
+- [T001](#t001): Tarrian's Soulcleaver + Animation Module + Ashnod's Altar
+
 ===endpanel
 ===endaccordion
 
@@ -4606,9 +4342,10 @@ Each card below lists the renumbered active configurations in which it appears.
 - [C019](#c019): The Ghoul, Gunslinger + Gravecrawler + Blasting Station
 - [C020](#c020): Pitiless Plunderer + Blasting Station + Stridehangar Automaton
 - [C070](#c070): Tortured Existence + Pitiless Plunderer + Imotekh the Stormlord + Blasting Station
-- [C071](#c071): The Ooze + Stridehangar Automaton + Pitiless Plunderer + Blasting Station
 - [C104](#c104): Out of the Tombs + Skullclamp + Pitiless Plunderer + Blasting Station + Stitcher's Supplier
 - [C116](#c116): Super Shredder + Animation Module + Pitiless Plunderer + Blasting Station
+- [T005](#t005): Tarrian's Soulcleaver + Animation Module + Pitiless Plunderer + Blasting Station
+
 ===endpanel
 ===endaccordion
 
@@ -4616,6 +4353,7 @@ Each card below lists the renumbered active configurations in which it appears.
 ===panel: Bolas's Citadel
 
 - [C002](#c002): Sensei's Divining Top + Aetherflux Reservoir + Bolas's Citadel
+
 ===endpanel
 ===endaccordion
 
@@ -4627,8 +4365,8 @@ Each card below lists the renumbered active configurations in which it appears.
 - [C023](#c023): Pitiless Plunderer + Stridehangar Automaton + Carrion Feeder
 - [C072](#c072): Tortured Existence + Pitiless Plunderer + Imotekh the Stormlord + Carrion Feeder
 - [C073](#c073): Out of the Tombs + Skullclamp + Pitiless Plunderer + Carrion Feeder
-- [C074](#c074): The Ooze + Stridehangar Automaton + Pitiless Plunderer + Carrion Feeder
 - [C106](#c106): Animation Module + Pitiless Plunderer + Carrion Feeder
+
 ===endpanel
 ===endaccordion
 
@@ -4639,6 +4377,7 @@ Each card below lists the renumbered active configurations in which it appears.
 - [C025](#c025): Retrofitter Foundry + Clock of Omens + Stridehangar Automaton
 - [C026](#c026): The Ooze + Clock of Omens + Stridehangar Automaton
 - [C075](#c075): The Ooze + Clock of Omens + Stridehangar Automaton + Grinding Station
+
 ===endpanel
 ===endaccordion
 
@@ -4647,9 +4386,8 @@ Each card below lists the renumbered active configurations in which it appears.
 
 - [C027](#c027): Sensei's Divining Top + Mystic Forge + Cloud Key
 - [C057](#c057): Scrap Trawler + Myr Retriever + Ashnod's Altar + Cloud Key
-- [C076](#c076): Spine of Ish Sah + Imotekh the Stormlord + Krark-Clan Ironworks + Cloud Key
 - [C077](#c077): Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Cloud Key
-- [C078](#c078): Spine of Ish Sah + Sculpting Steel + Krark-Clan Ironworks + Cloud Key
+
 ===endpanel
 ===endaccordion
 
@@ -4659,6 +4397,7 @@ Each card below lists the renumbered active configurations in which it appears.
 - [C008](#c008): Dross Scorpion + Retrofitter Foundry + Ashnod's Altar
 - [C028](#c028): Dross Scorpion + Retrofitter Foundry + Krark-Clan Ironworks
 - [C029](#c029): Retrofitter Foundry + Dross Scorpion + Stridehangar Automaton
+
 ===endpanel
 ===endaccordion
 
@@ -4667,9 +4406,8 @@ Each card below lists the renumbered active configurations in which it appears.
 
 - [C030](#c030): Sensei's Divining Top + Foundry Inspector + Mystic Forge
 - [C058](#c058): Scrap Trawler + Myr Retriever + Ashnod's Altar + Foundry Inspector
-- [C079](#c079): Spine of Ish Sah + Imotekh the Stormlord + Krark-Clan Ironworks + Foundry Inspector
 - [C080](#c080): Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Foundry Inspector
-- [C081](#c081): Spine of Ish Sah + Sculpting Steel + Krark-Clan Ironworks + Foundry Inspector
+
 ===endpanel
 ===endaccordion
 
@@ -4681,13 +4419,11 @@ Each card below lists the renumbered active configurations in which it appears.
 - [C060](#c060): Glaring Fleshraker + Ashnod's Altar + Junk Diver + Workshop Assistant
 - [C061](#c061): Glaring Fleshraker + Ashnod's Altar + Myr Retriever + Scrap Trawler
 - [C062](#c062): Glaring Fleshraker + Ashnod's Altar + Myr Retriever + Workshop Assistant
-- [C063](#c063): Glaring Fleshraker + Ashnod's Altar + Scrap Trawler + Workshop Assistant
-- [C082](#c082): Spine of Ish Sah + Imotekh the Stormlord + Krark-Clan Ironworks + Glaring Fleshraker
 - [C083](#c083): Glaring Fleshraker + Myr Retriever + Junk Diver + Krark-Clan Ironworks
 - [C084](#c084): Glaring Fleshraker + Junk Diver + Workshop Assistant + Krark-Clan Ironworks
 - [C085](#c085): Glaring Fleshraker + Myr Retriever + Scrap Trawler + Krark-Clan Ironworks
 - [C086](#c086): Glaring Fleshraker + Myr Retriever + Workshop Assistant + Krark-Clan Ironworks
-- [C087](#c087): Spine of Ish Sah + Sculpting Steel + Krark-Clan Ironworks + Glaring Fleshraker
+
 ===endpanel
 ===endaccordion
 
@@ -4708,6 +4444,10 @@ Each card below lists the renumbered active configurations in which it appears.
 - [C033](#c033): Warren Soultrader + Gravecrawler + Sephiroth, Fabled SOLDIER
 - [C034](#c034): The Ghoul, Gunslinger + Gravecrawler + Umbral Collar Zealot
 - [C035](#c035): Warren Soultrader + Gravecrawler + Zulaport Cutthroat
+- [C121](#c121): Marionette Apprentice + Warren Soultrader + Gravecrawler
+- [T010](#t010): Tarrian's Soulcleaver + Walking Ballista + Gravecrawler + Pitiless Plunderer + Warren Soultrader
+- [T011](#t011): Tarrian's Soulcleaver + Walking Ballista + Gravecrawler + The Ghoul, Gunslinger
+
 ===endpanel
 ===endaccordion
 
@@ -4716,8 +4456,9 @@ Each card below lists the renumbered active configurations in which it appears.
 
 - [C036](#c036): Pitiless Plunderer + Stridehangar Automaton + Grinding Station
 - [C075](#c075): The Ooze + Clock of Omens + Stridehangar Automaton + Grinding Station
-- [C088](#c088): The Ooze + Stridehangar Automaton + Pitiless Plunderer + Grinding Station
 - [C117](#c117): Super Shredder + Animation Module + Pitiless Plunderer + Grinding Station
+- [T006](#t006): Tarrian's Soulcleaver + Animation Module + Pitiless Plunderer + Grinding Station
+
 ===endpanel
 ===endaccordion
 
@@ -4735,14 +4476,12 @@ Each card below lists the renumbered active configurations in which it appears.
 - [C067](#c067): Imotekh the Stormlord + Myr Retriever + Workshop Assistant + Ashnod's Altar
 - [C070](#c070): Tortured Existence + Pitiless Plunderer + Imotekh the Stormlord + Blasting Station
 - [C072](#c072): Tortured Existence + Pitiless Plunderer + Imotekh the Stormlord + Carrion Feeder
-- [C076](#c076): Spine of Ish Sah + Imotekh the Stormlord + Krark-Clan Ironworks + Cloud Key
-- [C079](#c079): Spine of Ish Sah + Imotekh the Stormlord + Krark-Clan Ironworks + Foundry Inspector
-- [C082](#c082): Spine of Ish Sah + Imotekh the Stormlord + Krark-Clan Ironworks + Glaring Fleshraker
 - [C089](#c089): Imotekh the Stormlord + Junk Diver + Myr Retriever + Krark-Clan Ironworks
 - [C090](#c090): Imotekh the Stormlord + Junk Diver + Workshop Assistant + Krark-Clan Ironworks
 - [C091](#c091): Imotekh the Stormlord + Scrap Trawler + Myr Retriever + Krark-Clan Ironworks
 - [C092](#c092): Imotekh the Stormlord + Myr Retriever + Workshop Assistant + Krark-Clan Ironworks
-- [C093](#c093): Spine of Ish Sah + Imotekh the Stormlord + Krark-Clan Ironworks + Semblance Anvil
+- [T014](#t014): Tarrian's Soulcleaver + Walking Ballista + Tortured Existence + Imotekh the Stormlord + Pitiless Plunderer
+
 ===endpanel
 ===endaccordion
 
@@ -4758,6 +4497,7 @@ Each card below lists the renumbered active configurations in which it appears.
 - [C089](#c089): Imotekh the Stormlord + Junk Diver + Myr Retriever + Krark-Clan Ironworks
 - [C090](#c090): Imotekh the Stormlord + Junk Diver + Workshop Assistant + Krark-Clan Ironworks
 - [C105](#c105): Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Sol Ring + Junk Diver
+
 ===endpanel
 ===endaccordion
 
@@ -4770,29 +4510,22 @@ Each card below lists the renumbered active configurations in which it appears.
 - [C040](#c040): Out of the Tombs + Skullclamp + Krark-Clan Ironworks
 - [C041](#c041): Pitiless Plunderer + Stridehangar Automaton + Krark-Clan Ironworks
 - [C042](#c042): The Ooze + Stridehangar Automaton + Krark-Clan Ironworks
-- [C076](#c076): Spine of Ish Sah + Imotekh the Stormlord + Krark-Clan Ironworks + Cloud Key
 - [C077](#c077): Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Cloud Key
-- [C078](#c078): Spine of Ish Sah + Sculpting Steel + Krark-Clan Ironworks + Cloud Key
-- [C079](#c079): Spine of Ish Sah + Imotekh the Stormlord + Krark-Clan Ironworks + Foundry Inspector
 - [C080](#c080): Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Foundry Inspector
-- [C081](#c081): Spine of Ish Sah + Sculpting Steel + Krark-Clan Ironworks + Foundry Inspector
-- [C082](#c082): Spine of Ish Sah + Imotekh the Stormlord + Krark-Clan Ironworks + Glaring Fleshraker
 - [C083](#c083): Glaring Fleshraker + Myr Retriever + Junk Diver + Krark-Clan Ironworks
 - [C084](#c084): Glaring Fleshraker + Junk Diver + Workshop Assistant + Krark-Clan Ironworks
 - [C085](#c085): Glaring Fleshraker + Myr Retriever + Scrap Trawler + Krark-Clan Ironworks
 - [C086](#c086): Glaring Fleshraker + Myr Retriever + Workshop Assistant + Krark-Clan Ironworks
-- [C087](#c087): Spine of Ish Sah + Sculpting Steel + Krark-Clan Ironworks + Glaring Fleshraker
 - [C089](#c089): Imotekh the Stormlord + Junk Diver + Myr Retriever + Krark-Clan Ironworks
 - [C090](#c090): Imotekh the Stormlord + Junk Diver + Workshop Assistant + Krark-Clan Ironworks
 - [C091](#c091): Imotekh the Stormlord + Scrap Trawler + Myr Retriever + Krark-Clan Ironworks
 - [C092](#c092): Imotekh the Stormlord + Myr Retriever + Workshop Assistant + Krark-Clan Ironworks
-- [C093](#c093): Spine of Ish Sah + Imotekh the Stormlord + Krark-Clan Ironworks + Semblance Anvil
 - [C094](#c094): Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Semblance Anvil
-- [C095](#c095): The Ooze + Stridehangar Automaton + Pitiless Plunderer + Krark-Clan Ironworks
-- [C096](#c096): Spine of Ish Sah + Sculpting Steel + Krark-Clan Ironworks + Semblance Anvil
 - [C105](#c105): Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Sol Ring + Junk Diver
 - [C110](#c110): Animation Module + Krark-Clan Ironworks + Super Shredder
 - [C114](#c114): The Ooze + Animation Module + Krark-Clan Ironworks
+- [T002](#t002): Tarrian's Soulcleaver + Animation Module + Krark-Clan Ironworks
+
 ===endpanel
 ===endaccordion
 
@@ -4800,6 +4533,10 @@ Each card below lists the renumbered active configurations in which it appears.
 ===panel: Marionette Apprentice
 
 - [C012](#c012): Nim Deathmantle + Ashnod's Altar + Marionette Apprentice
+- [C120](#c120): Marionette Apprentice + Nim Deathmantle + Phyrexian Altar + Pitiless Plunderer
+- [C121](#c121): Marionette Apprentice + Warren Soultrader + Gravecrawler
+- [C122](#c122): Marionette Apprentice + Warren Soultrader + Stridehangar Automaton
+
 ===endpanel
 ===endaccordion
 
@@ -4808,6 +4545,7 @@ Each card below lists the renumbered active configurations in which it appears.
 
 - [C050](#c050): Metalwork Colossus + Warren Soultrader + Pitiless Plunderer + Aetherflux Reservoir
 - [C051](#c051): Metalwork Colossus + Warren Soultrader + Aetherflux Reservoir + Stridehangar Automaton
+
 ===endpanel
 ===endaccordion
 
@@ -4834,6 +4572,7 @@ Each card below lists the renumbered active configurations in which it appears.
 - [C094](#c094): Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Semblance Anvil
 - [C097](#c097): Scrap Trawler + Myr Retriever + Phyrexian Altar + Semblance Anvil
 - [C105](#c105): Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Sol Ring + Junk Diver
+
 ===endpanel
 ===endaccordion
 
@@ -4844,6 +4583,7 @@ Each card below lists the renumbered active configurations in which it appears.
 - [C030](#c030): Sensei's Divining Top + Foundry Inspector + Mystic Forge
 - [C031](#c031): Sensei's Divining Top + Glaring Fleshraker + Mystic Forge
 - [C043](#c043): Sensei's Divining Top + Mystic Forge + Semblance Anvil
+
 ===endpanel
 ===endaccordion
 
@@ -4852,18 +4592,12 @@ Each card below lists the renumbered active configurations in which it appears.
 
 - [C011](#c011): Imotekh the Stormlord + Nim Deathmantle + Ashnod's Altar
 - [C012](#c012): Nim Deathmantle + Ashnod's Altar + Marionette Apprentice
-- [C013](#c013): Nim Deathmantle + Ashnod's Altar + Orcish Bowmasters
 - [C014](#c014): Ultron the Annihilator + Nim Deathmantle + Ashnod's Altar
 - [C037](#c037): Imotekh the Stormlord + Nim Deathmantle + Krark-Clan Ironworks
 - [C039](#c039): Ultron the Annihilator + Nim Deathmantle + Krark-Clan Ironworks
 - [C098](#c098): Ultron the Annihilator + Nim Deathmantle + Phyrexian Altar + Pitiless Plunderer
-===endpanel
-===endaccordion
+- [C120](#c120): Marionette Apprentice + Nim Deathmantle + Phyrexian Altar + Pitiless Plunderer
 
-===accordion
-===panel: Orcish Bowmasters
-
-- [C013](#c013): Nim Deathmantle + Ashnod's Altar + Orcish Bowmasters
 ===endpanel
 ===endaccordion
 
@@ -4880,8 +4614,7 @@ Each card below lists the renumbered active configurations in which it appears.
 - [C100](#c100): Out of the Tombs + Skullclamp + Warren Soultrader + Sephiroth, Fabled SOLDIER
 - [C101](#c101): Out of the Tombs + Skullclamp + Warren Soultrader + Zulaport Cutthroat
 - [C104](#c104): Out of the Tombs + Skullclamp + Pitiless Plunderer + Blasting Station + Stitcher's Supplier
-- [C111](#c111): Yawgmoth, Thran Physician + Out of the Tombs + Zulaport Cutthroat
-- [C112](#c112): Yawgmoth, Thran Physician + Out of the Tombs + Sephiroth, Fabled SOLDIER
+
 ===endpanel
 ===endaccordion
 
@@ -4895,9 +4628,11 @@ Each card below lists the renumbered active configurations in which it appears.
 - [C046](#c046): The Ooze + Stridehangar Automaton + Phyrexian Altar
 - [C097](#c097): Scrap Trawler + Myr Retriever + Phyrexian Altar + Semblance Anvil
 - [C098](#c098): Ultron the Annihilator + Nim Deathmantle + Phyrexian Altar + Pitiless Plunderer
-- [C102](#c102): The Ooze + Stridehangar Automaton + Pitiless Plunderer + Phyrexian Altar
 - [C108](#c108): Animation Module + Phyrexian Altar + Super Shredder
 - [C119](#c119): The Ooze + Animation Module + Pitiless Plunderer + Phyrexian Altar
+- [C120](#c120): Marionette Apprentice + Nim Deathmantle + Phyrexian Altar + Pitiless Plunderer
+- [T003](#t003): Tarrian's Soulcleaver + Animation Module + Phyrexian Altar
+
 ===endpanel
 ===endaccordion
 
@@ -4921,21 +4656,12 @@ Each card below lists the renumbered active configurations in which it appears.
 - [C050](#c050): Metalwork Colossus + Warren Soultrader + Pitiless Plunderer + Aetherflux Reservoir
 - [C052](#c052): Tortured Existence + Pitiless Plunderer + Imotekh the Stormlord + Altar of Dementia
 - [C053](#c053): Out of the Tombs + Skullclamp + Pitiless Plunderer + Altar of Dementia
-- [C054](#c054): The Ooze + Stridehangar Automaton + Pitiless Plunderer + Altar of Dementia
 - [C055](#c055): Out of the Tombs + Skullclamp + Pitiless Plunderer + Arcbound Ravager
-- [C056](#c056): The Ooze + Stridehangar Automaton + Pitiless Plunderer + Arcbound Ravager
-- [C069](#c069): The Ooze + Stridehangar Automaton + Pitiless Plunderer + Ashnod's Altar
 - [C070](#c070): Tortured Existence + Pitiless Plunderer + Imotekh the Stormlord + Blasting Station
-- [C071](#c071): The Ooze + Stridehangar Automaton + Pitiless Plunderer + Blasting Station
 - [C072](#c072): Tortured Existence + Pitiless Plunderer + Imotekh the Stormlord + Carrion Feeder
 - [C073](#c073): Out of the Tombs + Skullclamp + Pitiless Plunderer + Carrion Feeder
-- [C074](#c074): The Ooze + Stridehangar Automaton + Pitiless Plunderer + Carrion Feeder
-- [C088](#c088): The Ooze + Stridehangar Automaton + Pitiless Plunderer + Grinding Station
-- [C095](#c095): The Ooze + Stridehangar Automaton + Pitiless Plunderer + Krark-Clan Ironworks
 - [C098](#c098): Ultron the Annihilator + Nim Deathmantle + Phyrexian Altar + Pitiless Plunderer
 - [C099](#c099): Out of the Tombs + Skullclamp + Pitiless Plunderer + Umbral Collar Zealot
-- [C102](#c102): The Ooze + Stridehangar Automaton + Pitiless Plunderer + Phyrexian Altar
-- [C103](#c103): The Ooze + Stridehangar Automaton + Pitiless Plunderer + Umbral Collar Zealot
 - [C104](#c104): Out of the Tombs + Skullclamp + Pitiless Plunderer + Blasting Station + Stitcher's Supplier
 - [C106](#c106): Animation Module + Pitiless Plunderer + Carrion Feeder
 - [C109](#c109): Animation Module + Pitiless Plunderer + Arcbound Ravager
@@ -4944,6 +4670,16 @@ Each card below lists the renumbered active configurations in which it appears.
 - [C117](#c117): Super Shredder + Animation Module + Pitiless Plunderer + Grinding Station
 - [C118](#c118): Super Shredder + Animation Module + Pitiless Plunderer + Umbral Collar Zealot
 - [C119](#c119): The Ooze + Animation Module + Pitiless Plunderer + Phyrexian Altar
+- [C120](#c120): Marionette Apprentice + Nim Deathmantle + Phyrexian Altar + Pitiless Plunderer
+- [T004](#t004): Tarrian's Soulcleaver + Animation Module + Pitiless Plunderer + Altar of Dementia
+- [T005](#t005): Tarrian's Soulcleaver + Animation Module + Pitiless Plunderer + Blasting Station
+- [T006](#t006): Tarrian's Soulcleaver + Animation Module + Pitiless Plunderer + Grinding Station
+- [T007](#t007): Tarrian's Soulcleaver + Animation Module + Pitiless Plunderer + Umbral Collar Zealot
+- [T010](#t010): Tarrian's Soulcleaver + Walking Ballista + Gravecrawler + Pitiless Plunderer + Warren Soultrader
+- [T012](#t012): Tarrian's Soulcleaver + Walking Ballista + Pitiless Plunderer + Stridehangar Automaton
+- [T013](#t013): Tarrian's Soulcleaver + Walking Ballista + Animation Module + Pitiless Plunderer
+- [T014](#t014): Tarrian's Soulcleaver + Walking Ballista + Tortured Existence + Imotekh the Stormlord + Pitiless Plunderer
+
 ===endpanel
 ===endaccordion
 
@@ -4954,6 +4690,7 @@ Each card below lists the renumbered active configurations in which it appears.
 - [C025](#c025): Retrofitter Foundry + Clock of Omens + Stridehangar Automaton
 - [C028](#c028): Dross Scorpion + Retrofitter Foundry + Krark-Clan Ironworks
 - [C029](#c029): Retrofitter Foundry + Dross Scorpion + Stridehangar Automaton
+
 ===endpanel
 ===endaccordion
 
@@ -4963,7 +4700,6 @@ Each card below lists the renumbered active configurations in which it appears.
 - [C057](#c057): Scrap Trawler + Myr Retriever + Ashnod's Altar + Cloud Key
 - [C058](#c058): Scrap Trawler + Myr Retriever + Ashnod's Altar + Foundry Inspector
 - [C061](#c061): Glaring Fleshraker + Ashnod's Altar + Myr Retriever + Scrap Trawler
-- [C063](#c063): Glaring Fleshraker + Ashnod's Altar + Scrap Trawler + Workshop Assistant
 - [C066](#c066): Imotekh the Stormlord + Scrap Trawler + Myr Retriever + Ashnod's Altar
 - [C068](#c068): Scrap Trawler + Myr Retriever + Ashnod's Altar + Semblance Anvil
 - [C077](#c077): Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Cloud Key
@@ -4973,16 +4709,7 @@ Each card below lists the renumbered active configurations in which it appears.
 - [C094](#c094): Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Semblance Anvil
 - [C097](#c097): Scrap Trawler + Myr Retriever + Phyrexian Altar + Semblance Anvil
 - [C105](#c105): Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Sol Ring + Junk Diver
-===endpanel
-===endaccordion
 
-===accordion
-===panel: Sculpting Steel
-
-- [C078](#c078): Spine of Ish Sah + Sculpting Steel + Krark-Clan Ironworks + Cloud Key
-- [C081](#c081): Spine of Ish Sah + Sculpting Steel + Krark-Clan Ironworks + Foundry Inspector
-- [C087](#c087): Spine of Ish Sah + Sculpting Steel + Krark-Clan Ironworks + Glaring Fleshraker
-- [C096](#c096): Spine of Ish Sah + Sculpting Steel + Krark-Clan Ironworks + Semblance Anvil
 ===endpanel
 ===endaccordion
 
@@ -4991,10 +4718,9 @@ Each card below lists the renumbered active configurations in which it appears.
 
 - [C043](#c043): Sensei's Divining Top + Mystic Forge + Semblance Anvil
 - [C068](#c068): Scrap Trawler + Myr Retriever + Ashnod's Altar + Semblance Anvil
-- [C093](#c093): Spine of Ish Sah + Imotekh the Stormlord + Krark-Clan Ironworks + Semblance Anvil
 - [C094](#c094): Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Semblance Anvil
-- [C096](#c096): Spine of Ish Sah + Sculpting Steel + Krark-Clan Ironworks + Semblance Anvil
 - [C097](#c097): Scrap Trawler + Myr Retriever + Phyrexian Altar + Semblance Anvil
+
 ===endpanel
 ===endaccordion
 
@@ -5006,16 +4732,18 @@ Each card below lists the renumbered active configurations in which it appears.
 - [C030](#c030): Sensei's Divining Top + Foundry Inspector + Mystic Forge
 - [C031](#c031): Sensei's Divining Top + Glaring Fleshraker + Mystic Forge
 - [C043](#c043): Sensei's Divining Top + Mystic Forge + Semblance Anvil
+
 ===endpanel
 ===endaccordion
 
 ===accordion
-===panel: Sephiroth, Fabled SOLDIER // Sephiroth, One-Winged Angel
+===panel: Sephiroth, Fabled SOLDIER
 
 - [C033](#c033): Warren Soultrader + Gravecrawler + Sephiroth, Fabled SOLDIER
 - [C048](#c048): Warren Soultrader + Stridehangar Automaton + Sephiroth, Fabled SOLDIER
 - [C100](#c100): Out of the Tombs + Skullclamp + Warren Soultrader + Sephiroth, Fabled SOLDIER
-- [C112](#c112): Yawgmoth, Thran Physician + Out of the Tombs + Sephiroth, Fabled SOLDIER
+- [T009](#t009): Tarrian's Soulcleaver + Animation Module + Warren Soultrader + Sephiroth, Fabled SOLDIER
+
 ===endpanel
 ===endaccordion
 
@@ -5032,6 +4760,7 @@ Each card below lists the renumbered active configurations in which it appears.
 - [C100](#c100): Out of the Tombs + Skullclamp + Warren Soultrader + Sephiroth, Fabled SOLDIER
 - [C101](#c101): Out of the Tombs + Skullclamp + Warren Soultrader + Zulaport Cutthroat
 - [C104](#c104): Out of the Tombs + Skullclamp + Pitiless Plunderer + Blasting Station + Stitcher's Supplier
+
 ===endpanel
 ===endaccordion
 
@@ -5039,20 +4768,7 @@ Each card below lists the renumbered active configurations in which it appears.
 ===panel: Sol Ring
 
 - [C105](#c105): Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Sol Ring + Junk Diver
-===endpanel
-===endaccordion
 
-===accordion
-===panel: Spine of Ish Sah
-
-- [C076](#c076): Spine of Ish Sah + Imotekh the Stormlord + Krark-Clan Ironworks + Cloud Key
-- [C078](#c078): Spine of Ish Sah + Sculpting Steel + Krark-Clan Ironworks + Cloud Key
-- [C079](#c079): Spine of Ish Sah + Imotekh the Stormlord + Krark-Clan Ironworks + Foundry Inspector
-- [C081](#c081): Spine of Ish Sah + Sculpting Steel + Krark-Clan Ironworks + Foundry Inspector
-- [C082](#c082): Spine of Ish Sah + Imotekh the Stormlord + Krark-Clan Ironworks + Glaring Fleshraker
-- [C087](#c087): Spine of Ish Sah + Sculpting Steel + Krark-Clan Ironworks + Glaring Fleshraker
-- [C093](#c093): Spine of Ish Sah + Imotekh the Stormlord + Krark-Clan Ironworks + Semblance Anvil
-- [C096](#c096): Spine of Ish Sah + Sculpting Steel + Krark-Clan Ironworks + Semblance Anvil
 ===endpanel
 ===endaccordion
 
@@ -5060,6 +4776,7 @@ Each card below lists the renumbered active configurations in which it appears.
 ===panel: Stitcher's Supplier
 
 - [C104](#c104): Out of the Tombs + Skullclamp + Pitiless Plunderer + Blasting Station + Stitcher's Supplier
+
 ===endpanel
 ===endaccordion
 
@@ -5084,16 +4801,10 @@ Each card below lists the renumbered active configurations in which it appears.
 - [C048](#c048): Warren Soultrader + Stridehangar Automaton + Sephiroth, Fabled SOLDIER
 - [C049](#c049): Warren Soultrader + Zulaport Cutthroat + Stridehangar Automaton
 - [C051](#c051): Metalwork Colossus + Warren Soultrader + Aetherflux Reservoir + Stridehangar Automaton
-- [C054](#c054): The Ooze + Stridehangar Automaton + Pitiless Plunderer + Altar of Dementia
-- [C056](#c056): The Ooze + Stridehangar Automaton + Pitiless Plunderer + Arcbound Ravager
-- [C069](#c069): The Ooze + Stridehangar Automaton + Pitiless Plunderer + Ashnod's Altar
-- [C071](#c071): The Ooze + Stridehangar Automaton + Pitiless Plunderer + Blasting Station
-- [C074](#c074): The Ooze + Stridehangar Automaton + Pitiless Plunderer + Carrion Feeder
 - [C075](#c075): The Ooze + Clock of Omens + Stridehangar Automaton + Grinding Station
-- [C088](#c088): The Ooze + Stridehangar Automaton + Pitiless Plunderer + Grinding Station
-- [C095](#c095): The Ooze + Stridehangar Automaton + Pitiless Plunderer + Krark-Clan Ironworks
-- [C102](#c102): The Ooze + Stridehangar Automaton + Pitiless Plunderer + Phyrexian Altar
-- [C103](#c103): The Ooze + Stridehangar Automaton + Pitiless Plunderer + Umbral Collar Zealot
+- [C122](#c122): Marionette Apprentice + Warren Soultrader + Stridehangar Automaton
+- [T012](#t012): Tarrian's Soulcleaver + Walking Ballista + Pitiless Plunderer + Stridehangar Automaton
+
 ===endpanel
 ===endaccordion
 
@@ -5107,6 +4818,28 @@ Each card below lists the renumbered active configurations in which it appears.
 - [C116](#c116): Super Shredder + Animation Module + Pitiless Plunderer + Blasting Station
 - [C117](#c117): Super Shredder + Animation Module + Pitiless Plunderer + Grinding Station
 - [C118](#c118): Super Shredder + Animation Module + Pitiless Plunderer + Umbral Collar Zealot
+
+===endpanel
+===endaccordion
+
+===accordion
+===panel: Tarrian's Soulcleaver
+
+- [T001](#t001): Tarrian's Soulcleaver + Animation Module + Ashnod's Altar
+- [T002](#t002): Tarrian's Soulcleaver + Animation Module + Krark-Clan Ironworks
+- [T003](#t003): Tarrian's Soulcleaver + Animation Module + Phyrexian Altar
+- [T004](#t004): Tarrian's Soulcleaver + Animation Module + Pitiless Plunderer + Altar of Dementia
+- [T005](#t005): Tarrian's Soulcleaver + Animation Module + Pitiless Plunderer + Blasting Station
+- [T006](#t006): Tarrian's Soulcleaver + Animation Module + Pitiless Plunderer + Grinding Station
+- [T007](#t007): Tarrian's Soulcleaver + Animation Module + Pitiless Plunderer + Umbral Collar Zealot
+- [T008](#t008): Tarrian's Soulcleaver + Animation Module + Warren Soultrader + Zulaport Cutthroat
+- [T009](#t009): Tarrian's Soulcleaver + Animation Module + Warren Soultrader + Sephiroth, Fabled SOLDIER
+- [T010](#t010): Tarrian's Soulcleaver + Walking Ballista + Gravecrawler + Pitiless Plunderer + Warren Soultrader
+- [T011](#t011): Tarrian's Soulcleaver + Walking Ballista + Gravecrawler + The Ghoul, Gunslinger
+- [T012](#t012): Tarrian's Soulcleaver + Walking Ballista + Pitiless Plunderer + Stridehangar Automaton
+- [T013](#t013): Tarrian's Soulcleaver + Walking Ballista + Animation Module + Pitiless Plunderer
+- [T014](#t014): Tarrian's Soulcleaver + Walking Ballista + Tortured Existence + Imotekh the Stormlord + Pitiless Plunderer
+
 ===endpanel
 ===endaccordion
 
@@ -5118,6 +4851,8 @@ Each card below lists the renumbered active configurations in which it appears.
 - [C019](#c019): The Ghoul, Gunslinger + Gravecrawler + Blasting Station
 - [C022](#c022): The Ghoul, Gunslinger + Gravecrawler + Carrion Feeder
 - [C034](#c034): The Ghoul, Gunslinger + Gravecrawler + Umbral Collar Zealot
+- [T011](#t011): Tarrian's Soulcleaver + Walking Ballista + Gravecrawler + The Ghoul, Gunslinger
+
 ===endpanel
 ===endaccordion
 
@@ -5128,19 +4863,11 @@ Each card below lists the renumbered active configurations in which it appears.
 - [C026](#c026): The Ooze + Clock of Omens + Stridehangar Automaton
 - [C042](#c042): The Ooze + Stridehangar Automaton + Krark-Clan Ironworks
 - [C046](#c046): The Ooze + Stridehangar Automaton + Phyrexian Altar
-- [C054](#c054): The Ooze + Stridehangar Automaton + Pitiless Plunderer + Altar of Dementia
-- [C056](#c056): The Ooze + Stridehangar Automaton + Pitiless Plunderer + Arcbound Ravager
-- [C069](#c069): The Ooze + Stridehangar Automaton + Pitiless Plunderer + Ashnod's Altar
-- [C071](#c071): The Ooze + Stridehangar Automaton + Pitiless Plunderer + Blasting Station
-- [C074](#c074): The Ooze + Stridehangar Automaton + Pitiless Plunderer + Carrion Feeder
 - [C075](#c075): The Ooze + Clock of Omens + Stridehangar Automaton + Grinding Station
-- [C088](#c088): The Ooze + Stridehangar Automaton + Pitiless Plunderer + Grinding Station
-- [C095](#c095): The Ooze + Stridehangar Automaton + Pitiless Plunderer + Krark-Clan Ironworks
-- [C102](#c102): The Ooze + Stridehangar Automaton + Pitiless Plunderer + Phyrexian Altar
-- [C103](#c103): The Ooze + Stridehangar Automaton + Pitiless Plunderer + Umbral Collar Zealot
 - [C113](#c113): The Ooze + Animation Module + Ashnod's Altar
 - [C114](#c114): The Ooze + Animation Module + Krark-Clan Ironworks
 - [C119](#c119): The Ooze + Animation Module + Pitiless Plunderer + Phyrexian Altar
+
 ===endpanel
 ===endaccordion
 
@@ -5152,6 +4879,8 @@ Each card below lists the renumbered active configurations in which it appears.
 - [C052](#c052): Tortured Existence + Pitiless Plunderer + Imotekh the Stormlord + Altar of Dementia
 - [C070](#c070): Tortured Existence + Pitiless Plunderer + Imotekh the Stormlord + Blasting Station
 - [C072](#c072): Tortured Existence + Pitiless Plunderer + Imotekh the Stormlord + Carrion Feeder
+- [T014](#t014): Tarrian's Soulcleaver + Walking Ballista + Tortured Existence + Imotekh the Stormlord + Pitiless Plunderer
+
 ===endpanel
 ===endaccordion
 
@@ -5161,6 +4890,7 @@ Each card below lists the renumbered active configurations in which it appears.
 - [C014](#c014): Ultron the Annihilator + Nim Deathmantle + Ashnod's Altar
 - [C039](#c039): Ultron the Annihilator + Nim Deathmantle + Krark-Clan Ironworks
 - [C098](#c098): Ultron the Annihilator + Nim Deathmantle + Phyrexian Altar + Pitiless Plunderer
+
 ===endpanel
 ===endaccordion
 
@@ -5171,8 +4901,21 @@ Each card below lists the renumbered active configurations in which it appears.
 - [C034](#c034): The Ghoul, Gunslinger + Gravecrawler + Umbral Collar Zealot
 - [C047](#c047): Pitiless Plunderer + Umbral Collar Zealot + Stridehangar Automaton
 - [C099](#c099): Out of the Tombs + Skullclamp + Pitiless Plunderer + Umbral Collar Zealot
-- [C103](#c103): The Ooze + Stridehangar Automaton + Pitiless Plunderer + Umbral Collar Zealot
 - [C118](#c118): Super Shredder + Animation Module + Pitiless Plunderer + Umbral Collar Zealot
+- [T007](#t007): Tarrian's Soulcleaver + Animation Module + Pitiless Plunderer + Umbral Collar Zealot
+
+===endpanel
+===endaccordion
+
+===accordion
+===panel: Walking Ballista
+
+- [T010](#t010): Tarrian's Soulcleaver + Walking Ballista + Gravecrawler + Pitiless Plunderer + Warren Soultrader
+- [T011](#t011): Tarrian's Soulcleaver + Walking Ballista + Gravecrawler + The Ghoul, Gunslinger
+- [T012](#t012): Tarrian's Soulcleaver + Walking Ballista + Pitiless Plunderer + Stridehangar Automaton
+- [T013](#t013): Tarrian's Soulcleaver + Walking Ballista + Animation Module + Pitiless Plunderer
+- [T014](#t014): Tarrian's Soulcleaver + Walking Ballista + Tortured Existence + Imotekh the Stormlord + Pitiless Plunderer
+
 ===endpanel
 ===endaccordion
 
@@ -5188,6 +4931,12 @@ Each card below lists the renumbered active configurations in which it appears.
 - [C051](#c051): Metalwork Colossus + Warren Soultrader + Aetherflux Reservoir + Stridehangar Automaton
 - [C100](#c100): Out of the Tombs + Skullclamp + Warren Soultrader + Sephiroth, Fabled SOLDIER
 - [C101](#c101): Out of the Tombs + Skullclamp + Warren Soultrader + Zulaport Cutthroat
+- [C121](#c121): Marionette Apprentice + Warren Soultrader + Gravecrawler
+- [C122](#c122): Marionette Apprentice + Warren Soultrader + Stridehangar Automaton
+- [T008](#t008): Tarrian's Soulcleaver + Animation Module + Warren Soultrader + Zulaport Cutthroat
+- [T009](#t009): Tarrian's Soulcleaver + Animation Module + Warren Soultrader + Sephiroth, Fabled SOLDIER
+- [T010](#t010): Tarrian's Soulcleaver + Walking Ballista + Gravecrawler + Pitiless Plunderer + Warren Soultrader
+
 ===endpanel
 ===endaccordion
 
@@ -5196,21 +4945,13 @@ Each card below lists the renumbered active configurations in which it appears.
 
 - [C060](#c060): Glaring Fleshraker + Ashnod's Altar + Junk Diver + Workshop Assistant
 - [C062](#c062): Glaring Fleshraker + Ashnod's Altar + Myr Retriever + Workshop Assistant
-- [C063](#c063): Glaring Fleshraker + Ashnod's Altar + Scrap Trawler + Workshop Assistant
 - [C065](#c065): Imotekh the Stormlord + Junk Diver + Workshop Assistant + Ashnod's Altar
 - [C067](#c067): Imotekh the Stormlord + Myr Retriever + Workshop Assistant + Ashnod's Altar
 - [C084](#c084): Glaring Fleshraker + Junk Diver + Workshop Assistant + Krark-Clan Ironworks
 - [C086](#c086): Glaring Fleshraker + Myr Retriever + Workshop Assistant + Krark-Clan Ironworks
 - [C090](#c090): Imotekh the Stormlord + Junk Diver + Workshop Assistant + Krark-Clan Ironworks
 - [C092](#c092): Imotekh the Stormlord + Myr Retriever + Workshop Assistant + Krark-Clan Ironworks
-===endpanel
-===endaccordion
 
-===accordion
-===panel: Yawgmoth, Thran Physician
-
-- [C111](#c111): Yawgmoth, Thran Physician + Out of the Tombs + Zulaport Cutthroat
-- [C112](#c112): Yawgmoth, Thran Physician + Out of the Tombs + Sephiroth, Fabled SOLDIER
 ===endpanel
 ===endaccordion
 
@@ -5220,94 +4961,406 @@ Each card below lists the renumbered active configurations in which it appears.
 - [C035](#c035): Warren Soultrader + Gravecrawler + Zulaport Cutthroat
 - [C049](#c049): Warren Soultrader + Zulaport Cutthroat + Stridehangar Automaton
 - [C101](#c101): Out of the Tombs + Skullclamp + Warren Soultrader + Zulaport Cutthroat
-- [C111](#c111): Yawgmoth, Thran Physician + Out of the Tombs + Zulaport Cutthroat
-===endpanel
-===endaccordion
+- [T008](#t008): Tarrian's Soulcleaver + Animation Module + Warren Soultrader + Zulaport Cutthroat
 
 ===endpanel
 ===endaccordion
-===accordion
-===panel: Card Change History
-
-Deck changes are listed in chronological order based on the builds discussed. This records the working decklist decisions, not purchase dates.
-
-### Original 108-core build
-
-- The earlier catalog included [[Doctor Doom, Unrivaled]] + [[Tainted Pact]] as a standalone alternate win condition.
-- The earlier decklist also contained [[Bloodline Recollector]] and [[Liliana the Repentant]] before the draw/self-mill experiment.
-
-### Graveyard and card-access package
-
-- **Out:** [[Bloodline Recollector]], [[Liliana the Repentant]]
-- **In:** [[Mesmeric Orb]], [[Yawgmoth, Thran Physician]]
-- **Reason:** Strengthen self-mill, artifact-to-graveyard triggers with Ultron, sacrifice utility, and repeatable card draw.
-- **Combo impact:** Two conditional [[Yawgmoth, Thran Physician]] + [[Out of the Tombs]] configurations were subsequently documented, using [[Zulaport Cutthroat]] or [[Sephiroth, Fabled SOLDIER // Sephiroth, One-Winged Angel]] to offset life payments.
-
-### Artifact-counter combo package (current list)
-
-- **Out:** [[Doctor Doom, Unrivaled]], [[Tainted Pact]]
-- **In:** [[Super Shredder]], [[Animation Module]]
-- **Reason:** Favor synergistic artifact-creature sacrifice loops and +1/+1 counter production over the Doom/Pact library-empty win condition.
-- **Combo impact:** The original Doom/Pact core was retired; five Animation Module combinations appeared in the newer Commander Spellbook export.
-
-### Catalog rebuild and review
-
-- The original 108-core baseline was reconciled with the current decklist.
-- The incomplete two-card Nim Deathmantle + Ashnod's Altar entry was retired; separate, complete Deathmantle loops remain.
-- Seven further conditional Module/Ooze/Shredder outlet configurations were identified during the later rules review.
-- All retained configurations were **renumbered C001–C119**, and the card index was regenerated. The total counts configurations, not necessarily independent minimal win conditions.
-
-### Not part of the confirmed changes
-
-[[Bitter Ordeal]], [[Agatha's Soul Cauldron]], and a potential [[Darksteel Citadel]] substitution were discussed as options, but **none is included in the current submitted decklist**. [[Jet Medallion]] remains in the list.
 
 ===endpanel
 ===endaccordion
 
 ===accordion
-===panel: Audit Notes and Limitations
+===panel: Archive — Missing Cards
 
-**Count:** 119 active cataloged configurations. This is not a count of 119 independently verified minimal combo engines or guaranteed wins.
+These historical configurations require at least one card absent from the supplied decklist. IDs and original instructions are preserved.
 
-Entries with finite resources, required starter creatures, empty libraries, or sorcery-speed activation restrictions retain those explicit prerequisites.
+**Archived C076 — missing: spine of ish sah**
 
-### Core validity and count methodology
+<a id="c076"></a>
+===accordion
+===panel: C076: Spine of Ish Sah + Imotekh the Stormlord + Krark-Clan Ironworks + Cloud Key
 
-- **Former C001 was retired.** Nim Deathmantle and Ashnod's Altar alone cannot execute the listed persist/undying loop. Other valid Deathmantle combinations remain.
-- **Former C002 was retired** because Doctor Doom and Tainted Pact have been removed from the submitted build.
-- **C105's previously illegal move from hand to graveyard is fixed.** Its corrected KCI/Sol Ring/Scrap Trawler sequence earns a net {C}{C}{C}{C}{C} per cycle, accounting for the two Sol Ring casts, one Junk Diver cast, and one Myr Retriever cast.
-- **C024, C038, C052, C070, C072:** Tortured Existence must repeatedly return an **artifact creature card** from the graveyard so Imotekh triggers every cycle. Two such cards, one initially in hand and one in the graveyard, supply the alternating fuel.
-- **The Ooze is a noncreature artifact.** Its tap-symbol ability may be activated the turn it enters, provided it is untapped and its other activation conditions are met.
-- **Mutagen tokens:** Their activated abilities have a **sorcery-only restriction**. Execute any sequence requiring these activations during your own main phase with an empty stack. The tap-symbol activation is usable the turn a noncreature artifact token enters.
-- **C026 and C075** are graveyard- or library-bounded lines rather than truly unbounded engines, unless paired with a resource-refresh mechanism. They are preserved under the legacy convention of recording finite but repeatable deterministic lines.
-- **C027, C030, C031, C043** (Sensei's Top / Forge draw engines): don't call the number of card draws literally infinite if the library is finite; they permit repeated casting/drawing until the deck is exhausted or a win is achieved.
-- **C012** requires Marionette Apprentice to choose the Servo mode of fabricate to support the mana-neutral death loop.
-- **Out of the Tombs entries (C015, C040, C044, C053, C055, C073, C099–C101, C104, C111–C112)** require an empty library and the appropriate nontoken creature card(s) in the graveyard when each draw is replaced. Otherwise the replacement may cause a loss. Yawgmoth's life cost is covered by Zulaport or by Sephiroth/emblem, respectively.
-- **C106–C110** appear in the supplied 77-entry Spellbook export; **C111–C119** are separately reasoned conditional engines not present in that export. Spellbook not listing a combination does not invalidate it.
+[[symbol:b]]
 
-### Additional configurations audited from exact card text
+Cards Required:
+- [[Spine of Ish Sah]]
+- [[Imotekh the Stormlord]]
+- [[Krark-Clan Ironworks]]
+- [[Cloud Key]]
 
-- **C113–C114 (The Ooze / Animation Module / Ashnod's Altar or KCI):** A starter creature, a graveyard card, and two mana generate the initial Mutagen, +1/+1 counter, and Servo. Every later cycle spends {2} (Mutagen {1}, Module {1}) and generates {2} (Altar or KCI) when a countered Servo is sacrificed. **Mana-neutral**, not positive mana. KCI additionally needs an artifact creature starter.
-- **C115 (Altar of Dementia):** A sacrifice triggers Shredder and Pitiless, generating a counter and a Treasure; Module spends the Treasure for a Servo replacement. Repeated mill is bounded by libraries.
-- **C116 (Blasting Station):** Identical resource engine but the Servo ETB untaps Blasting Station, yielding repeatable direct damage.
-- **C117 (Grinding Station):** Sacrifice the Servo as an artifact, then its replacement entering untaps Grinding Station. Repeatable mill, with an artifact creature required to start.
-- **C118 (Umbral Collar Zealot):** Free sacrifice outlet with surveil payoff, using Treasure to pay Module. Surveil is library-bounded even if the loop continues.
-- **C119** (The Ooze / Animation Module / Pitiless Plunderer / Phyrexian Altar) is mana-neutral: Phyrexian Altar and Plunderer Treasure together generate {2} to pay for the Mutagen and Module. It adds a fourth required card, unlike C113/C114.
-- **No double-counting of existing minimal subcores:** Adding Super Shredder to C106 (Module/Plunderer/Carrion Feeder) or C109 (Module/Plunderer/Arcbound Ravager) is an **extension**, not a new core, because those three-card configurations already function without Shredder.
+Prerequisites:
+- All permanents are on the battlefield.
+- Cloud Key has "Artifact" chosen.
+- Enough resources are available to begin the loop.
 
-### Limitations, clearly stated
+Steps:
+1. Sacrifice Spine to KCI for [[symbol:2]]; resolve its return-to-hand trigger.
+2. Imotekh creates two Necrons because Spine left the graveyard. Sacrifice both to KCI for [[symbol:4]], making [[symbol:6]] total.
+3. Cast Spine for [[symbol:6]] with Key/Inspector, [[symbol:5]] with Anvil, or [[symbol:7]] with Fleshraker. The Fleshraker version needs a prior [[symbol:1]] buffer; its Spawn then restores that buffer after the cast.
+4. Resolve Spine's destruction and repeat. To keep looping after opposing targets run out, target your own Spine with its ETB trigger and sacrifice it to KCI in response.
 
-The original 108 entries contain a mix of minimal combos, alternate-outlet variants, payoff-specific branches, finite graveyard interactions and empty-library replacement effects. This update checks card presence, corrects the errors above, tests resource loops by explicit stepwise mana accounting, and reconciles the exported configurations. It **does not** constitute formal machine verification of all possible stack interactions, opponent interaction, or each old prerequisite. Use the per-entry prerequisites before representing any result as deterministic. The 119 number is *catalogued configurations* rather than a deduplicated number of genuinely independent mechanisms.
+Results:
+- Arbitrarily many creature deaths, sacrifice events and creature entries, under the stated prerequisites.
+- Artifact entries/deaths or graveyard events as specified; Ultron adds lethal drain when the repeating artifact-to-graveyard events occur while it is present.
+- Mana, life and token surplus: see the accounting note below; repeated production does not always accumulate those resources.
 
-### Rules references
+Classification: Unbounded resource loop.
 
-- The Ooze and Mutagen: https://mtg.wtf/card/tmt/177/The-Ooze
-- Stridehangar Automaton: https://mtg.wtf/card/drc/19/Stridehangar-Automaton
-- Super Shredder: https://mtg.wtf/card/tmt/83/Super-Shredder
-- Animation Module: https://mtg.wtf/card/kld/194/Animation-Module
-- Out of the Tombs: https://mtg.wtf/card/40k/46/Out-of-the-Tombs
-- Yawgmoth: https://mtg.wtf/card/mh1/116/Yawgmoth-Thran-Physician
-- Sephiroth: https://www.spellbinder.gg/cards/fin/451/sephiroth-fabled-soldier-sephiroth-one-winged-angel
+Audit Notes:
+- Spine/Imotekh/KCI/reducer on battlefield; Key names Artifact. Generate six, recast Spine for six: neutral. Use self-target/sacrifice ordering to continue after opposing targets run out.
+
+===endpanel
+===endaccordion
+
+**Archived C078 — missing: spine of ish sah**
+
+<a id="c078"></a>
+===accordion
+===panel: C078: Spine of Ish Sah + Sculpting Steel + Krark-Clan Ironworks + Cloud Key
+
+[[symbol:c]]
+
+Cards Required:
+- [[Spine of Ish Sah]]
+- [[Sculpting Steel]]
+- [[Krark-Clan Ironworks]]
+- [[Cloud Key]]
+
+Prerequisites:
+- Spine of Ish Sah, Krark-Clan Ironworks, and the reducer are on the battlefield.
+- Sculpting Steel is in hand.
+- Cloud Key has "Artifact" chosen.
+
+Steps:
+1. Cast Sculpting Steel and have it enter copying the real Spine; its ETB destruction ability triggers.
+2. Sacrifice Steel-as-Spine to KCI for [[symbol:2]]. Its copied self-return trigger returns the Steel card from graveyard to hand.
+3. Recast Steel for [[symbol:2]] with Key/Inspector or [[symbol:1]] with Anvil. With Fleshraker, pay [[symbol:3]] and recover the extra [[symbol:1]] from the cast-generated Spawn's own ability.
+4. Repeat. Target Steel-as-Spine with its own destruction trigger and sacrifice it in response when needed to preserve the engine.
+
+Results:
+- Arbitrarily many creature deaths, sacrifice events and creature entries, under the stated prerequisites.
+- Arbitrarily high spell count from repeated casts.
+- Artifact entries/deaths or graveyard events as specified; Ultron adds lethal drain when the repeating artifact-to-graveyard events occur while it is present.
+- Mana, life and token surplus: see the accounting note below; repeated production does not always accumulate those resources.
+
+Classification: Unbounded resource loop.
+
+Audit Notes:
+- Real Spine/KCI/reducer on battlefield, Steel in hand; [[symbol:2]] seed. Steel costs two, KCI returns two, neutral. Key names Artifact.
+
+===endpanel
+===endaccordion
+
+**Archived C079 — missing: spine of ish sah**
+
+<a id="c079"></a>
+===accordion
+===panel: C079: Spine of Ish Sah + Imotekh the Stormlord + Krark-Clan Ironworks + Foundry Inspector
+
+[[symbol:b]]
+
+Cards Required:
+- [[Spine of Ish Sah]]
+- [[Imotekh the Stormlord]]
+- [[Krark-Clan Ironworks]]
+- [[Foundry Inspector]]
+
+Prerequisites:
+- All permanents are on the battlefield.
+- No additional prerequisites.
+- Enough resources are available to begin the loop.
+
+Steps:
+1. Sacrifice Spine to KCI for [[symbol:2]]; resolve its return-to-hand trigger.
+2. Imotekh creates two Necrons because Spine left the graveyard. Sacrifice both to KCI for [[symbol:4]], making [[symbol:6]] total.
+3. Cast Spine for [[symbol:6]] with Key/Inspector, [[symbol:5]] with Anvil, or [[symbol:7]] with Fleshraker. The Fleshraker version needs a prior [[symbol:1]] buffer; its Spawn then restores that buffer after the cast.
+4. Resolve Spine's destruction and repeat. To keep looping after opposing targets run out, target your own Spine with its ETB trigger and sacrifice it to KCI in response.
+
+Results:
+- Arbitrarily many creature deaths, sacrifice events and creature entries, under the stated prerequisites.
+- Artifact entries/deaths or graveyard events as specified; Ultron adds lethal drain when the repeating artifact-to-graveyard events occur while it is present.
+- Mana, life and token surplus: see the accounting note below; repeated production does not always accumulate those resources.
+
+Classification: Unbounded resource loop.
+
+Audit Notes:
+- Spine/Imotekh/KCI/reducer on battlefield; Key names Artifact. Generate six, recast Spine for six: neutral. Use self-target/sacrifice ordering to continue after opposing targets run out.
+
+===endpanel
+===endaccordion
+
+**Archived C081 — missing: spine of ish sah**
+
+<a id="c081"></a>
+===accordion
+===panel: C081: Spine of Ish Sah + Sculpting Steel + Krark-Clan Ironworks + Foundry Inspector
+
+[[symbol:c]]
+
+Cards Required:
+- [[Spine of Ish Sah]]
+- [[Sculpting Steel]]
+- [[Krark-Clan Ironworks]]
+- [[Foundry Inspector]]
+
+Prerequisites:
+- Spine of Ish Sah, Krark-Clan Ironworks, and the reducer are on the battlefield.
+- Sculpting Steel is in hand.
+- No additional prerequisites.
+
+Steps:
+1. Cast Sculpting Steel and have it enter copying the real Spine; its ETB destruction ability triggers.
+2. Sacrifice Steel-as-Spine to KCI for [[symbol:2]]. Its copied self-return trigger returns the Steel card from graveyard to hand.
+3. Recast Steel for [[symbol:2]] with Key/Inspector or [[symbol:1]] with Anvil. With Fleshraker, pay [[symbol:3]] and recover the extra [[symbol:1]] from the cast-generated Spawn's own ability.
+4. Repeat. Target Steel-as-Spine with its own destruction trigger and sacrifice it in response when needed to preserve the engine.
+
+Results:
+- Arbitrarily many creature deaths, sacrifice events and creature entries, under the stated prerequisites.
+- Arbitrarily high spell count from repeated casts.
+- Artifact entries/deaths or graveyard events as specified; Ultron adds lethal drain when the repeating artifact-to-graveyard events occur while it is present.
+- Mana, life and token surplus: see the accounting note below; repeated production does not always accumulate those resources.
+
+Classification: Unbounded resource loop.
+
+Audit Notes:
+- Real Spine/KCI/reducer on battlefield, Steel in hand; [[symbol:2]] seed. Steel costs two, KCI returns two, neutral. Key names Artifact.
+
+===endpanel
+===endaccordion
+
+**Archived C082 — missing: spine of ish sah**
+
+<a id="c082"></a>
+===accordion
+===panel: C082: Spine of Ish Sah + Imotekh the Stormlord + Krark-Clan Ironworks + Glaring Fleshraker
+
+[[symbol:b]]
+
+Cards Required:
+- [[Spine of Ish Sah]]
+- [[Imotekh the Stormlord]]
+- [[Krark-Clan Ironworks]]
+- [[Glaring Fleshraker]]
+
+Prerequisites:
+- All permanents are on the battlefield.
+- Enough resources are available to begin the loop.
+- One mana is floating before the seven-mana Spine cast; its cast-generated Spawn restores that buffer afterward.
+
+Steps:
+1. Sacrifice Spine to KCI for [[symbol:2]]; resolve its return-to-hand trigger.
+2. Imotekh creates two Necrons because Spine left the graveyard. Sacrifice both to KCI for [[symbol:4]], making [[symbol:6]] total.
+3. Cast Spine for [[symbol:6]] with Key/Inspector, [[symbol:5]] with Anvil, or [[symbol:7]] with Fleshraker. The Fleshraker version needs a prior [[symbol:1]] buffer; its Spawn then restores that buffer after the cast.
+4. Resolve Spine's destruction and repeat. To keep looping after opposing targets run out, target your own Spine with its ETB trigger and sacrifice it to KCI in response.
+
+Results:
+- Arbitrarily many creature deaths, sacrifice events and creature entries, under the stated prerequisites.
+- Direct lethal damage or life loss through the named payoff.
+- Artifact entries/deaths or graveyard events as specified; Ultron adds lethal drain when the repeating artifact-to-graveyard events occur while it is present.
+- Mana, life and token surplus: see the accounting note below; repeated production does not always accumulate those resources.
+
+Classification: Unbounded resource loop.
+
+Audit Notes:
+- All named cards on battlefield and one floating seed mana. Six from sacrifices cannot pay seven by itself; the prior one permits casting Spine, and Spawn restores the seed afterward. Direct Fleshraker lethal damage.
+
+===endpanel
+===endaccordion
+
+**Archived C087 — missing: spine of ish sah**
+
+<a id="c087"></a>
+===accordion
+===panel: C087: Spine of Ish Sah + Sculpting Steel + Krark-Clan Ironworks + Glaring Fleshraker
+
+[[symbol:c]]
+
+Cards Required:
+- [[Spine of Ish Sah]]
+- [[Sculpting Steel]]
+- [[Krark-Clan Ironworks]]
+- [[Glaring Fleshraker]]
+
+Prerequisites:
+- Spine of Ish Sah, Krark-Clan Ironworks, and Glaring Fleshraker are on the battlefield.
+- Sculpting Steel is in hand.
+- Enough resources are available to begin the loop.
+
+Steps:
+1. Cast Sculpting Steel and have it enter copying the real Spine; its ETB destruction ability triggers.
+2. Sacrifice Steel-as-Spine to KCI for [[symbol:2]]. Its copied self-return trigger returns the Steel card from graveyard to hand.
+3. Recast Steel for [[symbol:2]] with Key/Inspector or [[symbol:1]] with Anvil. With Fleshraker, pay [[symbol:3]] and recover the extra [[symbol:1]] from the cast-generated Spawn's own ability.
+4. Repeat. Target Steel-as-Spine with its own destruction trigger and sacrifice it in response when needed to preserve the engine.
+
+Results:
+- Arbitrarily many creature deaths, sacrifice events and creature entries, under the stated prerequisites.
+- Arbitrarily high spell count from repeated casts.
+- Direct lethal damage or life loss through the named payoff.
+- Artifact entries/deaths or graveyard events as specified; Ultron adds lethal drain when the repeating artifact-to-graveyard events occur while it is present.
+- Mana, life and token surplus: see the accounting note below; repeated production does not always accumulate those resources.
+
+Classification: Unbounded resource loop.
+
+Audit Notes:
+- Real Spine/KCI/Fleshraker on battlefield, Steel in hand; [[symbol:3]] seed. KCI two plus intrinsic Spawn one pay next three. Direct lethal Fleshraker damage.
+
+===endpanel
+===endaccordion
+
+**Archived C093 — missing: spine of ish sah**
+
+<a id="c093"></a>
+===accordion
+===panel: C093: Spine of Ish Sah + Imotekh the Stormlord + Krark-Clan Ironworks + Semblance Anvil
+
+[[symbol:b]]
+
+Cards Required:
+- [[Spine of Ish Sah]]
+- [[Imotekh the Stormlord]]
+- [[Krark-Clan Ironworks]]
+- [[Semblance Anvil]]
+
+Prerequisites:
+- All permanents are on the battlefield.
+- Semblance Anvil has an artifact card exiled with it.
+- Enough resources are available to begin the loop.
+
+Steps:
+1. Sacrifice Spine to KCI for [[symbol:2]]; resolve its return-to-hand trigger.
+2. Imotekh creates two Necrons because Spine left the graveyard. Sacrifice both to KCI for [[symbol:4]], making [[symbol:6]] total.
+3. Cast Spine for [[symbol:6]] with Key/Inspector, [[symbol:5]] with Anvil, or [[symbol:7]] with Fleshraker. The Fleshraker version needs a prior [[symbol:1]] buffer; its Spawn then restores that buffer after the cast.
+4. Resolve Spine's destruction and repeat. To keep looping after opposing targets run out, target your own Spine with its ETB trigger and sacrifice it to KCI in response.
+
+Results:
+- Arbitrarily many creature deaths, sacrifice events and creature entries, under the stated prerequisites.
+- Artifact entries/deaths or graveyard events as specified; Ultron adds lethal drain when the repeating artifact-to-graveyard events occur while it is present.
+- Mana, life and token surplus: see the accounting note below; repeated production does not always accumulate those resources.
+
+Classification: Unbounded resource loop.
+
+Audit Notes:
+- Anvil imprints artifact. Six generated minus five Spine cost = net one colorless; destruction alone has finite targets, but loop can continue as described in F17.
+
+===endpanel
+===endaccordion
+
+**Archived C096 — missing: spine of ish sah**
+
+<a id="c096"></a>
+===accordion
+===panel: C096: Spine of Ish Sah + Sculpting Steel + Krark-Clan Ironworks + Semblance Anvil
+
+[[symbol:c]]
+
+Cards Required:
+- [[Spine of Ish Sah]]
+- [[Sculpting Steel]]
+- [[Krark-Clan Ironworks]]
+- [[Semblance Anvil]]
+
+Prerequisites:
+- Spine of Ish Sah, Krark-Clan Ironworks, and the reducer are on the battlefield.
+- Sculpting Steel is in hand.
+- Semblance Anvil has an artifact card exiled with it.
+
+Steps:
+1. Cast Sculpting Steel and have it enter copying the real Spine; its ETB destruction ability triggers.
+2. Sacrifice Steel-as-Spine to KCI for [[symbol:2]]. Its copied self-return trigger returns the Steel card from graveyard to hand.
+3. Recast Steel for [[symbol:2]] with Key/Inspector or [[symbol:1]] with Anvil. With Fleshraker, pay [[symbol:3]] and recover the extra [[symbol:1]] from the cast-generated Spawn's own ability.
+4. Repeat. Target Steel-as-Spine with its own destruction trigger and sacrifice it in response when needed to preserve the engine.
+
+Results:
+- Arbitrarily many creature deaths, sacrifice events and creature entries, under the stated prerequisites.
+- Arbitrarily high spell count from repeated casts.
+- Artifact entries/deaths or graveyard events as specified; Ultron adds lethal drain when the repeating artifact-to-graveyard events occur while it is present.
+- Mana, life and token surplus: see the accounting note below; repeated production does not always accumulate those resources.
+
+Classification: Unbounded resource loop.
+
+Audit Notes:
+- Real Spine/KCI/Anvil on battlefield with artifact imprint, Steel in hand; [[symbol:1]] seed. Spend one and recover two, net one colorless.
+
+===endpanel
+===endaccordion
+
+**Archived C111 — missing: yawgmoth, thran physician**
+
+<a id="c111"></a>
+===accordion
+===panel: C111: Yawgmoth, Thran Physician + Out of the Tombs + Zulaport Cutthroat
+
+[[symbol:b]]
+
+Cards Required:
+- [[Yawgmoth, Thran Physician]]
+- [[Out of the Tombs]]
+- [[Zulaport Cutthroat]]
+
+Prerequisites:
+- All three named permanents on the battlefield.
+- Your library is empty.
+- You control **another nontoken creature** that can be sacrificed and returned from the graveyard.
+- Your life total is at least 2.
+- No effect prevents creature cards from entering your graveyard or returning to the battlefield.
+
+Steps:
+1. Pay 1 life and sacrifice the extra nontoken body to Yawgmoth, choosing no counter target.
+2. Resolve Zulaport or Sephiroth's death trigger first, gaining back the life and draining opponents.
+3. Resolve Yawgmoth. Out of the Tombs replaces the empty-library draw by returning the sacrificed body.
+4. Repeat. The real Sephiroth transforms on its fourth death-trigger resolution; its emblem continues the drain.
+
+Results:
+- Arbitrarily many creature deaths, sacrifice events and creature entries, under the stated prerequisites.
+- Direct lethal damage or life loss through the named payoff.
+- Mana, life and token surplus: see the accounting note below; repeated production does not always accumulate those resources.
+
+Classification: Unbounded resource loop.
+
+Audit Notes:
+- Empty library, extra nontoken body, life >= 2; Yawgmoth chooses no counter target. Resolve drain first, then replace draw with returning body. Direct lethal drain; no actual draws.
+
+===endpanel
+===endaccordion
+
+**Archived C112 — missing: yawgmoth, thran physician**
+
+<a id="c112"></a>
+===accordion
+===panel: C112: Yawgmoth, Thran Physician + Out of the Tombs + Sephiroth, Fabled SOLDIER
+
+[[symbol:b]]
+
+Cards Required:
+- [[Yawgmoth, Thran Physician]]
+- [[Out of the Tombs]]
+- [[Sephiroth, Fabled SOLDIER]]
+
+Prerequisites:
+- All three named permanents on the battlefield, with Sephiroth on its front face initially (or an existing Sephiroth emblem that provides the death trigger).
+- Your library is empty.
+- You control **another nontoken creature** that can be sacrificed and returned from the graveyard.
+- Your life total is at least 2.
+- No effect prevents creature cards from entering your graveyard or returning to the battlefield.
+
+Steps:
+1. Pay 1 life and sacrifice the extra nontoken body to Yawgmoth, choosing no counter target.
+2. Resolve Zulaport or Sephiroth's death trigger first, gaining back the life and draining opponents.
+3. Resolve Yawgmoth. Out of the Tombs replaces the empty-library draw by returning the sacrificed body.
+4. Repeat. The real Sephiroth transforms on its fourth death-trigger resolution; its emblem continues the drain.
+
+Results:
+- Arbitrarily many creature deaths, sacrifice events and creature entries, under the stated prerequisites.
+- Direct lethal damage or life loss through the named payoff.
+- Mana, life and token surplus: see the accounting note below; repeated production does not always accumulate those resources.
+
+Classification: Unbounded resource loop.
+
+Audit Notes:
+- Empty library, extra nontoken body, life >= 2; Yawgmoth chooses no counter target. Resolve drain first, then replace draw with returning body. Direct lethal drain; no actual draws.
+
+===endpanel
+===endaccordion
 
 ===endpanel
 ===endaccordion

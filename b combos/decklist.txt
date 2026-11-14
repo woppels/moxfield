@@ -17,12 +17,14 @@
 1 Cloud Key
 1 Command Tower
 1 Culling the Weak
+1 Dakmor Salvage
 1 Dark Ritual
 1 Deadly Rollick
 1 Demonic Tutor
 1 Diabolic Intent
 1 Dross Scorpion
 1 Entomb
+1 Flare of Malice
 1 Fomori Vault
 1 Foundry Inspector
 1 Glaring Fleshraker
@@ -34,7 +36,7 @@
 1 Jet Medallion
 1 Junk Diver
 1 Krark-Clan Ironworks
-1 Kuldotha Forgemaster
+1 Lich's Relic
 1 Liliana the Repentant
 1 Lively Dirge
 1 Lotus Petal
@@ -46,7 +48,6 @@
 1 Myr Retriever
 1 Mystic Forge
 1 Nim Deathmantle
-1 Orcish Bowmasters
 1 Out of the Tombs
 1 Phyrexian Altar
 1 Phyrexian Tower
@@ -66,9 +67,7 @@
 1 Skullclamp
 1 Snuff Out
 1 Sol Ring
-1 Spine of Ish Sah
 1 Spire of Industry
-1 Spymaster's Vault
 1 Stitcher's Supplier
 1 Stridehangar Automaton
 1 Super Shredder
@@ -76,13 +75,14 @@
 1 Swamp
 1 Swamp
 1 Takenuma, Abandoned Mire
-1 The Black Gate
+1 Tarrian's Soulcleaver
 1 The Ghoul, Gunslinger
 1 The Mycosynth Gardens
 1 The Ooze
-1 Tomb Fortress
+1 The Unicomplex
 1 Tortured Existence
 1 Toxic Deluge
+1 Ultron, Artificial Malevolence
 1 Umbral Collar Zealot
 1 Urborg
 1 Urborg, Tomb of Yawgmoth
@@ -90,12 +90,12 @@
 1 Vampiric Tutor
 1 Vault of Whispers
 1 Verdant Catacombs
+1 Victimize
 1 Volrath's Stronghold
+1 Voq, Torchbearer
 1 Walking Ballista
 1 Warren Soultrader
-1 Wishclaw Talisman
 1 Workshop Assistant
-1 Yawgmoth, Thran Physician
 1 Zulaport Cutthroat
 
 1 Ultron the Annihilator

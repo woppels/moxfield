@@ -1,1599 +1,12 @@
 ===accordion
 ===panel: Combo Extensions
 
-These extensions are tracked separately from the current 102 core combos. An extension is included only when adding the listed card preserves the established core loop or consumes a resource the core can generate arbitrarily.
-
-===accordion
-===panel: Validation Notes
-
-Validation standard:
-- Core loops are maintained separately in the current 102-core combo file.
-- Candidate extensions were derived from the current 99 rather than from the previous extension list.
-- Each family below was checked against the core output and recurring resource requirements.
-- Current Oracle text was independently verified for the payoff cards and the core engine cards used by these mappings.
-- A card already required by a core is not counted again as an extension to that core.
-- Extensions that merely look compatible by keyword but consume a resource required to sustain the loop were excluded.
-
-Important exclusions:
-- Skullclamp does not kill Stridehangar Automaton Thopters by itself; Stridehangar makes them 2/2, so Skullclamp makes them 3/1.
-- Mana-neutral Dross Scorpion + Retrofitter Foundry loops are not Skullclamp draw-library extensions because the recurring equip cost makes them mana-negative.
-- The Ooze + Stridehangar Automaton + Phyrexian Altar is not a Skullclamp draw-library extension because its mana is consumed maintaining the Mutagen loop.
-- Altar of Dementia is not treated as a generic extension for Glaring Fleshraker Spawn accumulation because Eldrazi Spawn have 0 power.
-
-===endpanel
-===endaccordion
-
-===accordion
-===panel: Altar of the Brood Extensions
-
-Validated extensions: 69
-
-===accordion
-===panel: Metalwork Colossus + Warren Soultrader + Aetherflux Reservoir + Stridehangar Automaton + Altar of the Brood
-
-Base Core Combo:
-- [[Metalwork Colossus]]
-- [[Warren Soultrader]]
-- [[Aetherflux Reservoir]]
-- [[Stridehangar Automaton]]
-
-Extension:
-- [[Altar of the Brood]]
-
-Classification:
-- Terminal payoff
-
-Extension Logic:
-- The base core creates permanents under your control an arbitrary number of times. Altar of the Brood triggers on each such permanent entering.
-
-Extension Results:
-- Mill each opponent’s library
-===endpanel
-===endaccordion
-
-===accordion
-===panel: Metalwork Colossus + Warren Soultrader + Pitiless Plunderer + Aetherflux Reservoir + Altar of the Brood
-
-Base Core Combo:
-- [[Metalwork Colossus]]
-- [[Warren Soultrader]]
-- [[Pitiless Plunderer]]
-- [[Aetherflux Reservoir]]
-
-Extension:
-- [[Altar of the Brood]]
-
-Classification:
-- Terminal payoff
-
-Extension Logic:
-- The base core creates permanents under your control an arbitrary number of times. Altar of the Brood triggers on each such permanent entering.
-
-Extension Results:
-- Mill each opponent’s library
-===endpanel
-===endaccordion
-
-===accordion
-===panel: Pitiless Plunderer + Altar of Dementia + Stridehangar Automaton + Altar of the Brood
-
-Base Core Combo:
-- [[Pitiless Plunderer]]
-- [[Altar of Dementia]]
-- [[Stridehangar Automaton]]
-
-Extension:
-- [[Altar of the Brood]]
-
-Classification:
-- Terminal payoff
-
-Extension Logic:
-- The base core creates permanents under your control an arbitrary number of times. Altar of the Brood triggers on each such permanent entering.
-
-Extension Results:
-- Mill each opponent’s library
-===endpanel
-===endaccordion
-
-===accordion
-===panel: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Altar of Dementia + Altar of the Brood
-
-Base Core Combo:
-- [[The Ooze]]
-- [[Stridehangar Automaton]]
-- [[Pitiless Plunderer]]
-- [[Altar of Dementia]]
-
-Extension:
-- [[Altar of the Brood]]
-
-Classification:
-- Terminal payoff
-
-Extension Logic:
-- The base core creates permanents under your control an arbitrary number of times. Altar of the Brood triggers on each such permanent entering.
-
-Extension Results:
-- Mill each opponent’s library
-===endpanel
-===endaccordion
-
-===accordion
-===panel: Tortured Existence + Pitiless Plunderer + Imotekh the Stormlord + Altar of Dementia + Altar of the Brood
-
-Base Core Combo:
-- [[Tortured Existence]]
-- [[Pitiless Plunderer]]
-- [[Imotekh the Stormlord]]
-- [[Altar of Dementia]]
-
-Extension:
-- [[Altar of the Brood]]
-
-Classification:
-- Terminal payoff
-
-Extension Logic:
-- The base core creates permanents under your control an arbitrary number of times. Altar of the Brood triggers on each such permanent entering.
-
-Extension Results:
-- Mill each opponent’s library
-===endpanel
-===endaccordion
-
-===accordion
-===panel: Tortured Existence + Pitiless Plunderer + Imotekh the Stormlord + Carrion Feeder + Altar of the Brood
-
-Base Core Combo:
-- [[Tortured Existence]]
-- [[Pitiless Plunderer]]
-- [[Imotekh the Stormlord]]
-- [[Carrion Feeder]]
-
-Extension:
-- [[Altar of the Brood]]
-
-Classification:
-- Terminal payoff
-
-Extension Logic:
-- The base core creates permanents under your control an arbitrary number of times. Altar of the Brood triggers on each such permanent entering.
-
-Extension Results:
-- Mill each opponent’s library
-===endpanel
-===endaccordion
-
-===accordion
-===panel: Pitiless Plunderer + Stridehangar Automaton + Arcbound Ravager + Altar of the Brood
-
-Base Core Combo:
-- [[Pitiless Plunderer]]
-- [[Stridehangar Automaton]]
-- [[Arcbound Ravager]]
-
-Extension:
-- [[Altar of the Brood]]
-
-Classification:
-- Terminal payoff
-
-Extension Logic:
-- The base core creates permanents under your control an arbitrary number of times. Altar of the Brood triggers on each such permanent entering.
-
-Extension Results:
-- Mill each opponent’s library
-===endpanel
-===endaccordion
-
-===accordion
-===panel: Pitiless Plunderer + Stridehangar Automaton + Carrion Feeder + Altar of the Brood
-
-Base Core Combo:
-- [[Pitiless Plunderer]]
-- [[Stridehangar Automaton]]
-- [[Carrion Feeder]]
-
-Extension:
-- [[Altar of the Brood]]
-
-Classification:
-- Terminal payoff
-
-Extension Logic:
-- The base core creates permanents under your control an arbitrary number of times. Altar of the Brood triggers on each such permanent entering.
-
-Extension Results:
-- Mill each opponent’s library
-===endpanel
-===endaccordion
-
-===accordion
-===panel: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Arcbound Ravager + Altar of the Brood
-
-Base Core Combo:
-- [[The Ooze]]
-- [[Stridehangar Automaton]]
-- [[Pitiless Plunderer]]
-- [[Arcbound Ravager]]
-
-Extension:
-- [[Altar of the Brood]]
-
-Classification:
-- Terminal payoff
-
-Extension Logic:
-- The base core creates permanents under your control an arbitrary number of times. Altar of the Brood triggers on each such permanent entering.
-
-Extension Results:
-- Mill each opponent’s library
-===endpanel
-===endaccordion
-
-===accordion
-===panel: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Carrion Feeder + Altar of the Brood
-
-Base Core Combo:
-- [[The Ooze]]
-- [[Stridehangar Automaton]]
-- [[Pitiless Plunderer]]
-- [[Carrion Feeder]]
-
-Extension:
-- [[Altar of the Brood]]
-
-Classification:
-- Terminal payoff
-
-Extension Logic:
-- The base core creates permanents under your control an arbitrary number of times. Altar of the Brood triggers on each such permanent entering.
-
-Extension Results:
-- Mill each opponent’s library
-===endpanel
-===endaccordion
-
-===accordion
-===panel: Dross Scorpion + Retrofitter Foundry + Ashnod's Altar + Altar of the Brood
-
-Base Core Combo:
-- [[Dross Scorpion]]
-- [[Retrofitter Foundry]]
-- [[Ashnod's Altar]]
-
-Extension:
-- [[Altar of the Brood]]
-
-Classification:
-- Terminal payoff
-
-Extension Logic:
-- The base core creates permanents under your control an arbitrary number of times. Altar of the Brood triggers on each such permanent entering.
-
-Extension Results:
-- Mill each opponent’s library
-===endpanel
-===endaccordion
-
-===accordion
-===panel: Glaring Fleshraker + Ashnod's Altar + Junk Diver + Workshop Assistant + Altar of the Brood
-
-Base Core Combo:
-- [[Glaring Fleshraker]]
-- [[Ashnod's Altar]]
-- [[Junk Diver]]
-- [[Workshop Assistant]]
-
-Extension:
-- [[Altar of the Brood]]
-
-Classification:
-- Terminal payoff
-
-Extension Logic:
-- The base core creates permanents under your control an arbitrary number of times. Altar of the Brood triggers on each such permanent entering.
-
-Extension Results:
-- Mill each opponent’s library
-===endpanel
-===endaccordion
-
-===accordion
-===panel: Glaring Fleshraker + Ashnod's Altar + Myr Retriever + Junk Diver + Altar of the Brood
-
-Base Core Combo:
-- [[Glaring Fleshraker]]
-- [[Ashnod's Altar]]
-- [[Myr Retriever]]
-- [[Junk Diver]]
-
-Extension:
-- [[Altar of the Brood]]
-
-Classification:
-- Terminal payoff
-
-Extension Logic:
-- The base core creates permanents under your control an arbitrary number of times. Altar of the Brood triggers on each such permanent entering.
-
-Extension Results:
-- Mill each opponent’s library
-===endpanel
-===endaccordion
-
-===accordion
-===panel: Glaring Fleshraker + Ashnod's Altar + Myr Retriever + Scrap Trawler + Altar of the Brood
-
-Base Core Combo:
-- [[Glaring Fleshraker]]
-- [[Ashnod's Altar]]
-- [[Myr Retriever]]
-- [[Scrap Trawler]]
-
-Extension:
-- [[Altar of the Brood]]
-
-Classification:
-- Terminal payoff
-
-Extension Logic:
-- The base core creates permanents under your control an arbitrary number of times. Altar of the Brood triggers on each such permanent entering.
-
-Extension Results:
-- Mill each opponent’s library
-===endpanel
-===endaccordion
-
-===accordion
-===panel: Glaring Fleshraker + Ashnod's Altar + Myr Retriever + Workshop Assistant + Altar of the Brood
-
-Base Core Combo:
-- [[Glaring Fleshraker]]
-- [[Ashnod's Altar]]
-- [[Myr Retriever]]
-- [[Workshop Assistant]]
-
-Extension:
-- [[Altar of the Brood]]
-
-Classification:
-- Terminal payoff
-
-Extension Logic:
-- The base core creates permanents under your control an arbitrary number of times. Altar of the Brood triggers on each such permanent entering.
-
-Extension Results:
-- Mill each opponent’s library
-===endpanel
-===endaccordion
-
-===accordion
-===panel: Glaring Fleshraker + Ashnod's Altar + Scrap Trawler + Workshop Assistant + Altar of the Brood
-
-Base Core Combo:
-- [[Glaring Fleshraker]]
-- [[Ashnod's Altar]]
-- [[Scrap Trawler]]
-- [[Workshop Assistant]]
-
-Extension:
-- [[Altar of the Brood]]
-
-Classification:
-- Terminal payoff
-
-Extension Logic:
-- The base core creates permanents under your control an arbitrary number of times. Altar of the Brood triggers on each such permanent entering.
-
-Extension Results:
-- Mill each opponent’s library
-===endpanel
-===endaccordion
-
-===accordion
-===panel: Imotekh the Stormlord + Junk Diver + Myr Retriever + Ashnod's Altar + Altar of the Brood
-
-Base Core Combo:
-- [[Imotekh the Stormlord]]
-- [[Junk Diver]]
-- [[Myr Retriever]]
-- [[Ashnod's Altar]]
-
-Extension:
-- [[Altar of the Brood]]
-
-Classification:
-- Terminal payoff
-
-Extension Logic:
-- The base core creates permanents under your control an arbitrary number of times. Altar of the Brood triggers on each such permanent entering.
-
-Extension Results:
-- Mill each opponent’s library
-===endpanel
-===endaccordion
-
-===accordion
-===panel: Imotekh the Stormlord + Junk Diver + Workshop Assistant + Ashnod's Altar + Altar of the Brood
-
-Base Core Combo:
-- [[Imotekh the Stormlord]]
-- [[Junk Diver]]
-- [[Workshop Assistant]]
-- [[Ashnod's Altar]]
-
-Extension:
-- [[Altar of the Brood]]
-
-Classification:
-- Terminal payoff
-
-Extension Logic:
-- The base core creates permanents under your control an arbitrary number of times. Altar of the Brood triggers on each such permanent entering.
-
-Extension Results:
-- Mill each opponent’s library
-===endpanel
-===endaccordion
-
-===accordion
-===panel: Imotekh the Stormlord + Myr Retriever + Workshop Assistant + Ashnod's Altar + Altar of the Brood
-
-Base Core Combo:
-- [[Imotekh the Stormlord]]
-- [[Myr Retriever]]
-- [[Workshop Assistant]]
-- [[Ashnod's Altar]]
-
-Extension:
-- [[Altar of the Brood]]
-
-Classification:
-- Terminal payoff
-
-Extension Logic:
-- The base core creates permanents under your control an arbitrary number of times. Altar of the Brood triggers on each such permanent entering.
-
-Extension Results:
-- Mill each opponent’s library
-===endpanel
-===endaccordion
-
-===accordion
-===panel: Imotekh the Stormlord + Nim Deathmantle + Ashnod's Altar + Altar of the Brood
-
-Base Core Combo:
-- [[Imotekh the Stormlord]]
-- [[Nim Deathmantle]]
-- [[Ashnod's Altar]]
-
-Extension:
-- [[Altar of the Brood]]
-
-Classification:
-- Terminal payoff
-
-Extension Logic:
-- The base core creates permanents under your control an arbitrary number of times. Altar of the Brood triggers on each such permanent entering.
-
-Extension Results:
-- Mill each opponent’s library
-===endpanel
-===endaccordion
-
-===accordion
-===panel: Imotekh the Stormlord + Scrap Trawler + Myr Retriever + Ashnod's Altar + Altar of the Brood
-
-Base Core Combo:
-- [[Imotekh the Stormlord]]
-- [[Scrap Trawler]]
-- [[Myr Retriever]]
-- [[Ashnod's Altar]]
-
-Extension:
-- [[Altar of the Brood]]
-
-Classification:
-- Terminal payoff
-
-Extension Logic:
-- The base core creates permanents under your control an arbitrary number of times. Altar of the Brood triggers on each such permanent entering.
-
-Extension Results:
-- Mill each opponent’s library
-===endpanel
-===endaccordion
-
-===accordion
-===panel: Myr Retriever + Ashnod's Altar + Ultron, Artificial Malevolence + Altar of the Brood
-
-Base Core Combo:
-- [[Myr Retriever]]
-- [[Ashnod's Altar]]
-- [[Ultron, Artificial Malevolence]]
-
-Extension:
-- [[Altar of the Brood]]
-
-Classification:
-- Terminal payoff
-
-Extension Logic:
-- The base core creates permanents under your control an arbitrary number of times. Altar of the Brood triggers on each such permanent entering.
-
-Extension Results:
-- Mill each opponent’s library
-===endpanel
-===endaccordion
-
-===accordion
-===panel: Nim Deathmantle + Ashnod's Altar + Altar of the Brood
-
-Base Core Combo:
-- [[Nim Deathmantle]]
-- [[Ashnod's Altar]]
-
-Extension:
-- [[Altar of the Brood]]
-
-Classification:
-- Terminal payoff
-
-Extension Logic:
-- The base core creates permanents under your control an arbitrary number of times. Altar of the Brood triggers on each such permanent entering.
-
-Extension Results:
-- Mill each opponent’s library
-===endpanel
-===endaccordion
-
-===accordion
-===panel: Nim Deathmantle + Ashnod's Altar + Marionette Apprentice + Altar of the Brood
-
-Base Core Combo:
-- [[Nim Deathmantle]]
-- [[Ashnod's Altar]]
-- [[Marionette Apprentice]]
-
-Extension:
-- [[Altar of the Brood]]
-
-Classification:
-- Terminal payoff
-
-Extension Logic:
-- The base core creates permanents under your control an arbitrary number of times. Altar of the Brood triggers on each such permanent entering.
-
-Extension Results:
-- Mill each opponent’s library
-===endpanel
-===endaccordion
-
-===accordion
-===panel: Nim Deathmantle + Ashnod's Altar + Orcish Bowmasters + Altar of the Brood
-
-Base Core Combo:
-- [[Nim Deathmantle]]
-- [[Ashnod's Altar]]
-- [[Orcish Bowmasters]]
-
-Extension:
-- [[Altar of the Brood]]
-
-Classification:
-- Terminal payoff
-
-Extension Logic:
-- The base core creates permanents under your control an arbitrary number of times. Altar of the Brood triggers on each such permanent entering.
-
-Extension Results:
-- Mill each opponent’s library
-===endpanel
-===endaccordion
-
-===accordion
-===panel: Pitiless Plunderer + Ashnod's Altar + Stridehangar Automaton + Altar of the Brood
-
-Base Core Combo:
-- [[Pitiless Plunderer]]
-- [[Ashnod's Altar]]
-- [[Stridehangar Automaton]]
-
-Extension:
-- [[Altar of the Brood]]
-
-Classification:
-- Terminal payoff
-
-Extension Logic:
-- The base core creates permanents under your control an arbitrary number of times. Altar of the Brood triggers on each such permanent entering.
-
-Extension Results:
-- Mill each opponent’s library
-===endpanel
-===endaccordion
-
-===accordion
-===panel: Scrap Trawler + Myr Retriever + Ashnod's Altar + Cloud Key + Altar of the Brood
-
-Base Core Combo:
-- [[Scrap Trawler]]
-- [[Myr Retriever]]
-- [[Ashnod's Altar]]
-- [[Cloud Key]]
-
-Extension:
-- [[Altar of the Brood]]
-
-Classification:
-- Terminal payoff
-
-Extension Logic:
-- The base core creates permanents under your control an arbitrary number of times. Altar of the Brood triggers on each such permanent entering.
-
-Extension Results:
-- Mill each opponent’s library
-===endpanel
-===endaccordion
-
-===accordion
-===panel: Scrap Trawler + Myr Retriever + Ashnod's Altar + Foundry Inspector + Altar of the Brood
-
-Base Core Combo:
-- [[Scrap Trawler]]
-- [[Myr Retriever]]
-- [[Ashnod's Altar]]
-- [[Foundry Inspector]]
-
-Extension:
-- [[Altar of the Brood]]
-
-Classification:
-- Terminal payoff
-
-Extension Logic:
-- The base core creates permanents under your control an arbitrary number of times. Altar of the Brood triggers on each such permanent entering.
-
-Extension Results:
-- Mill each opponent’s library
-===endpanel
-===endaccordion
-
-===accordion
-===panel: Scrap Trawler + Myr Retriever + Ashnod's Altar + Semblance Anvil + Altar of the Brood
-
-Base Core Combo:
-- [[Scrap Trawler]]
-- [[Myr Retriever]]
-- [[Ashnod's Altar]]
-- [[Semblance Anvil]]
-
-Extension:
-- [[Altar of the Brood]]
-
-Classification:
-- Terminal payoff
-
-Extension Logic:
-- The base core creates permanents under your control an arbitrary number of times. Altar of the Brood triggers on each such permanent entering.
-
-Extension Results:
-- Mill each opponent’s library
-===endpanel
-===endaccordion
-
-===accordion
-===panel: The Ooze + Stridehangar Automaton + Ashnod's Altar + Altar of the Brood
-
-Base Core Combo:
-- [[The Ooze]]
-- [[Stridehangar Automaton]]
-- [[Ashnod's Altar]]
-
-Extension:
-- [[Altar of the Brood]]
-
-Classification:
-- Terminal payoff
-
-Extension Logic:
-- The base core creates permanents under your control an arbitrary number of times. Altar of the Brood triggers on each such permanent entering.
-
-Extension Results:
-- Mill each opponent’s library
-===endpanel
-===endaccordion
-
-===accordion
-===panel: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Ashnod's Altar + Altar of the Brood
-
-Base Core Combo:
-- [[The Ooze]]
-- [[Stridehangar Automaton]]
-- [[Pitiless Plunderer]]
-- [[Ashnod's Altar]]
-
-Extension:
-- [[Altar of the Brood]]
-
-Classification:
-- Terminal payoff
-
-Extension Logic:
-- The base core creates permanents under your control an arbitrary number of times. Altar of the Brood triggers on each such permanent entering.
-
-Extension Results:
-- Mill each opponent’s library
-===endpanel
-===endaccordion
-
-===accordion
-===panel: Ultron the Annihilator + Nim Deathmantle + Ashnod's Altar + Altar of the Brood
-
-Base Core Combo:
-- [[Ultron the Annihilator]]
-- [[Nim Deathmantle]]
-- [[Ashnod's Altar]]
-
-Extension:
-- [[Altar of the Brood]]
-
-Classification:
-- Terminal payoff
-
-Extension Logic:
-- The base core creates permanents under your control an arbitrary number of times. Altar of the Brood triggers on each such permanent entering.
-
-Extension Results:
-- Mill each opponent’s library
-===endpanel
-===endaccordion
-
-===accordion
-===panel: Pitiless Plunderer + Blasting Station + Stridehangar Automaton + Altar of the Brood
-
-Base Core Combo:
-- [[Pitiless Plunderer]]
-- [[Blasting Station]]
-- [[Stridehangar Automaton]]
-
-Extension:
-- [[Altar of the Brood]]
-
-Classification:
-- Terminal payoff
-
-Extension Logic:
-- The base core creates permanents under your control an arbitrary number of times. Altar of the Brood triggers on each such permanent entering.
-
-Extension Results:
-- Mill each opponent’s library
-===endpanel
-===endaccordion
-
-===accordion
-===panel: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Blasting Station + Altar of the Brood
-
-Base Core Combo:
-- [[The Ooze]]
-- [[Stridehangar Automaton]]
-- [[Pitiless Plunderer]]
-- [[Blasting Station]]
-
-Extension:
-- [[Altar of the Brood]]
-
-Classification:
-- Terminal payoff
-
-Extension Logic:
-- The base core creates permanents under your control an arbitrary number of times. Altar of the Brood triggers on each such permanent entering.
-
-Extension Results:
-- Mill each opponent’s library
-===endpanel
-===endaccordion
-
-===accordion
-===panel: Tortured Existence + Pitiless Plunderer + Imotekh the Stormlord + Blasting Station + Altar of the Brood
-
-Base Core Combo:
-- [[Tortured Existence]]
-- [[Pitiless Plunderer]]
-- [[Imotekh the Stormlord]]
-- [[Blasting Station]]
-
-Extension:
-- [[Altar of the Brood]]
-
-Classification:
-- Terminal payoff
-
-Extension Logic:
-- The base core creates permanents under your control an arbitrary number of times. Altar of the Brood triggers on each such permanent entering.
-
-Extension Results:
-- Mill each opponent’s library
-===endpanel
-===endaccordion
-
-===accordion
-===panel: Imotekh the Stormlord + Clock of Omens + Tortured Existence + Altar of the Brood
-
-Base Core Combo:
-- [[Imotekh the Stormlord]]
-- [[Clock of Omens]]
-- [[Tortured Existence]]
-
-Extension:
-- [[Altar of the Brood]]
-
-Classification:
-- Terminal payoff
-
-Extension Logic:
-- The base core creates permanents under your control an arbitrary number of times. Altar of the Brood triggers on each such permanent entering.
-
-Extension Results:
-- Mill each opponent’s library
-===endpanel
-===endaccordion
-
-===accordion
-===panel: Retrofitter Foundry + Clock of Omens + Stridehangar Automaton + Altar of the Brood
-
-Base Core Combo:
-- [[Retrofitter Foundry]]
-- [[Clock of Omens]]
-- [[Stridehangar Automaton]]
-
-Extension:
-- [[Altar of the Brood]]
-
-Classification:
-- Terminal payoff
-
-Extension Logic:
-- The base core creates permanents under your control an arbitrary number of times. Altar of the Brood triggers on each such permanent entering.
-
-Extension Results:
-- Mill each opponent’s library
-===endpanel
-===endaccordion
-
-===accordion
-===panel: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Cloud Key + Altar of the Brood
-
-Base Core Combo:
-- [[Scrap Trawler]]
-- [[Myr Retriever]]
-- [[Krark-Clan Ironworks]]
-- [[Cloud Key]]
-
-Extension:
-- [[Altar of the Brood]]
-
-Classification:
-- Terminal payoff
-
-Extension Logic:
-- The base core creates permanents under your control an arbitrary number of times. Altar of the Brood triggers on each such permanent entering.
-
-Extension Results:
-- Mill each opponent’s library
-===endpanel
-===endaccordion
-
-===accordion
-===panel: Dross Scorpion + Retrofitter Foundry + Krark-Clan Ironworks + Altar of the Brood
-
-Base Core Combo:
-- [[Dross Scorpion]]
-- [[Retrofitter Foundry]]
-- [[Krark-Clan Ironworks]]
-
-Extension:
-- [[Altar of the Brood]]
-
-Classification:
-- Terminal payoff
-
-Extension Logic:
-- The base core creates permanents under your control an arbitrary number of times. Altar of the Brood triggers on each such permanent entering.
-
-Extension Results:
-- Mill each opponent’s library
-===endpanel
-===endaccordion
-
-===accordion
-===panel: Retrofitter Foundry + Dross Scorpion + Stridehangar Automaton + Altar of the Brood
-
-Base Core Combo:
-- [[Retrofitter Foundry]]
-- [[Dross Scorpion]]
-- [[Stridehangar Automaton]]
-
-Extension:
-- [[Altar of the Brood]]
-
-Classification:
-- Terminal payoff
-
-Extension Logic:
-- The base core creates permanents under your control an arbitrary number of times. Altar of the Brood triggers on each such permanent entering.
-
-Extension Results:
-- Mill each opponent’s library
-===endpanel
-===endaccordion
-
-===accordion
-===panel: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Foundry Inspector + Altar of the Brood
-
-Base Core Combo:
-- [[Scrap Trawler]]
-- [[Myr Retriever]]
-- [[Krark-Clan Ironworks]]
-- [[Foundry Inspector]]
-
-Extension:
-- [[Altar of the Brood]]
-
-Classification:
-- Terminal payoff
-
-Extension Logic:
-- The base core creates permanents under your control an arbitrary number of times. Altar of the Brood triggers on each such permanent entering.
-
-Extension Results:
-- Mill each opponent’s library
-===endpanel
-===endaccordion
-
-===accordion
-===panel: Glaring Fleshraker + Junk Diver + Workshop Assistant + Krark-Clan Ironworks + Altar of the Brood
-
-Base Core Combo:
-- [[Glaring Fleshraker]]
-- [[Junk Diver]]
-- [[Workshop Assistant]]
-- [[Krark-Clan Ironworks]]
-
-Extension:
-- [[Altar of the Brood]]
-
-Classification:
-- Terminal payoff
-
-Extension Logic:
-- The base core creates permanents under your control an arbitrary number of times. Altar of the Brood triggers on each such permanent entering.
-
-Extension Results:
-- Mill each opponent’s library
-===endpanel
-===endaccordion
-
-===accordion
-===panel: Glaring Fleshraker + Myr Retriever + Junk Diver + Krark-Clan Ironworks + Altar of the Brood
-
-Base Core Combo:
-- [[Glaring Fleshraker]]
-- [[Myr Retriever]]
-- [[Junk Diver]]
-- [[Krark-Clan Ironworks]]
-
-Extension:
-- [[Altar of the Brood]]
-
-Classification:
-- Terminal payoff
-
-Extension Logic:
-- The base core creates permanents under your control an arbitrary number of times. Altar of the Brood triggers on each such permanent entering.
-
-Extension Results:
-- Mill each opponent’s library
-===endpanel
-===endaccordion
-
-===accordion
-===panel: Glaring Fleshraker + Myr Retriever + Scrap Trawler + Krark-Clan Ironworks + Altar of the Brood
-
-Base Core Combo:
-- [[Glaring Fleshraker]]
-- [[Myr Retriever]]
-- [[Scrap Trawler]]
-- [[Krark-Clan Ironworks]]
-
-Extension:
-- [[Altar of the Brood]]
-
-Classification:
-- Terminal payoff
-
-Extension Logic:
-- The base core creates permanents under your control an arbitrary number of times. Altar of the Brood triggers on each such permanent entering.
-
-Extension Results:
-- Mill each opponent’s library
-===endpanel
-===endaccordion
-
-===accordion
-===panel: Glaring Fleshraker + Myr Retriever + Workshop Assistant + Krark-Clan Ironworks + Altar of the Brood
-
-Base Core Combo:
-- [[Glaring Fleshraker]]
-- [[Myr Retriever]]
-- [[Workshop Assistant]]
-- [[Krark-Clan Ironworks]]
-
-Extension:
-- [[Altar of the Brood]]
-
-Classification:
-- Terminal payoff
-
-Extension Logic:
-- The base core creates permanents under your control an arbitrary number of times. Altar of the Brood triggers on each such permanent entering.
-
-Extension Results:
-- Mill each opponent’s library
-===endpanel
-===endaccordion
-
-===accordion
-===panel: Pitiless Plunderer + Stridehangar Automaton + Grinding Station + Altar of the Brood
-
-Base Core Combo:
-- [[Pitiless Plunderer]]
-- [[Stridehangar Automaton]]
-- [[Grinding Station]]
-
-Extension:
-- [[Altar of the Brood]]
-
-Classification:
-- Terminal payoff
-
-Extension Logic:
-- The base core creates permanents under your control an arbitrary number of times. Altar of the Brood triggers on each such permanent entering.
-
-Extension Results:
-- Mill each opponent’s library
-===endpanel
-===endaccordion
-
-===accordion
-===panel: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Grinding Station + Altar of the Brood
-
-Base Core Combo:
-- [[The Ooze]]
-- [[Stridehangar Automaton]]
-- [[Pitiless Plunderer]]
-- [[Grinding Station]]
-
-Extension:
-- [[Altar of the Brood]]
-
-Classification:
-- Terminal payoff
-
-Extension Logic:
-- The base core creates permanents under your control an arbitrary number of times. Altar of the Brood triggers on each such permanent entering.
-
-Extension Results:
-- Mill each opponent’s library
-===endpanel
-===endaccordion
-
-===accordion
-===panel: Imotekh the Stormlord + Junk Diver + Myr Retriever + Krark-Clan Ironworks + Altar of the Brood
-
-Base Core Combo:
-- [[Imotekh the Stormlord]]
-- [[Junk Diver]]
-- [[Myr Retriever]]
-- [[Krark-Clan Ironworks]]
-
-Extension:
-- [[Altar of the Brood]]
-
-Classification:
-- Terminal payoff
-
-Extension Logic:
-- The base core creates permanents under your control an arbitrary number of times. Altar of the Brood triggers on each such permanent entering.
-
-Extension Results:
-- Mill each opponent’s library
-===endpanel
-===endaccordion
-
-===accordion
-===panel: Imotekh the Stormlord + Junk Diver + Workshop Assistant + Krark-Clan Ironworks + Altar of the Brood
-
-Base Core Combo:
-- [[Imotekh the Stormlord]]
-- [[Junk Diver]]
-- [[Workshop Assistant]]
-- [[Krark-Clan Ironworks]]
-
-Extension:
-- [[Altar of the Brood]]
-
-Classification:
-- Terminal payoff
-
-Extension Logic:
-- The base core creates permanents under your control an arbitrary number of times. Altar of the Brood triggers on each such permanent entering.
-
-Extension Results:
-- Mill each opponent’s library
-===endpanel
-===endaccordion
-
-
-===accordion
-===panel: Imotekh the Stormlord + Myr Retriever + Workshop Assistant + Krark-Clan Ironworks + Altar of the Brood
-
-Base Core Combo:
-- [[Imotekh the Stormlord]]
-- [[Myr Retriever]]
-- [[Workshop Assistant]]
-- [[Krark-Clan Ironworks]]
-
-Extension:
-- [[Altar of the Brood]]
-
-Classification:
-- Terminal payoff
-
-Extension Logic:
-- The base core creates permanents under your control an arbitrary number of times. Altar of the Brood triggers on each such permanent entering.
-
-Extension Results:
-- Mill each opponent’s library
-===endpanel
-===endaccordion
-
-===accordion
-===panel: Imotekh the Stormlord + Nim Deathmantle + Krark-Clan Ironworks + Altar of the Brood
-
-Base Core Combo:
-- [[Imotekh the Stormlord]]
-- [[Nim Deathmantle]]
-- [[Krark-Clan Ironworks]]
-
-Extension:
-- [[Altar of the Brood]]
-
-Classification:
-- Terminal payoff
-
-Extension Logic:
-- The base core creates permanents under your control an arbitrary number of times. Altar of the Brood triggers on each such permanent entering.
-
-Extension Results:
-- Mill each opponent’s library
-===endpanel
-===endaccordion
-
-===accordion
-===panel: Imotekh the Stormlord + Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Altar of the Brood
-
-Base Core Combo:
-- [[Imotekh the Stormlord]]
-- [[Scrap Trawler]]
-- [[Myr Retriever]]
-- [[Krark-Clan Ironworks]]
-
-Extension:
-- [[Altar of the Brood]]
-
-Classification:
-- Terminal payoff
-
-Extension Logic:
-- The base core creates permanents under your control an arbitrary number of times. Altar of the Brood triggers on each such permanent entering.
-
-Extension Results:
-- Mill each opponent’s library
-===endpanel
-===endaccordion
-
-===accordion
-===panel: Tortured Existence + Phyrexian Altar + Imotekh the Stormlord + Altar of the Brood
-
-Base Core Combo:
-- [[Tortured Existence]]
-- [[Phyrexian Altar]]
-- [[Imotekh the Stormlord]]
-
-Extension:
-- [[Altar of the Brood]]
-
-Classification:
-- Terminal payoff
-
-Extension Logic:
-- The base core creates permanents under your control an arbitrary number of times. Altar of the Brood triggers on each such permanent entering.
-
-Extension Results:
-- Mill each opponent’s library
-===endpanel
-===endaccordion
-
-===accordion
-===panel: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Sol Ring + Junk Diver + Altar of the Brood
-
-Base Core Combo:
-- [[Scrap Trawler]]
-- [[Myr Retriever]]
-- [[Krark-Clan Ironworks]]
-- [[Sol Ring]]
-- [[Junk Diver]]
-
-Extension:
-- [[Altar of the Brood]]
-
-Classification:
-- Terminal payoff
-
-Extension Logic:
-- The base core creates permanents under your control an arbitrary number of times. Altar of the Brood triggers on each such permanent entering.
-
-Extension Results:
-- Mill each opponent’s library
-===endpanel
-===endaccordion
-
-===accordion
-===panel: The Ooze + Stridehangar Automaton + Krark-Clan Ironworks + Altar of the Brood
-
-Base Core Combo:
-- [[The Ooze]]
-- [[Stridehangar Automaton]]
-- [[Krark-Clan Ironworks]]
-
-Extension:
-- [[Altar of the Brood]]
-
-Classification:
-- Terminal payoff
-
-Extension Logic:
-- The base core creates permanents under your control an arbitrary number of times. Altar of the Brood triggers on each such permanent entering.
-
-Extension Results:
-- Mill each opponent’s library
-===endpanel
-===endaccordion
-
-===accordion
-===panel: Myr Retriever + Krark-Clan Ironworks + Ultron, Artificial Malevolence + Altar of the Brood
-
-Base Core Combo:
-- [[Myr Retriever]]
-- [[Krark-Clan Ironworks]]
-- [[Ultron, Artificial Malevolence]]
-
-Extension:
-- [[Altar of the Brood]]
-
-Classification:
-- Terminal payoff
-
-Extension Logic:
-- The base core creates permanents under your control an arbitrary number of times. Altar of the Brood triggers on each such permanent entering.
-
-Extension Results:
-- Mill each opponent’s library
-===endpanel
-===endaccordion
-
-===accordion
-===panel: Pitiless Plunderer + Stridehangar Automaton + Krark-Clan Ironworks + Altar of the Brood
-
-Base Core Combo:
-- [[Pitiless Plunderer]]
-- [[Stridehangar Automaton]]
-- [[Krark-Clan Ironworks]]
-
-Extension:
-- [[Altar of the Brood]]
-
-Classification:
-- Terminal payoff
-
-Extension Logic:
-- The base core creates permanents under your control an arbitrary number of times. Altar of the Brood triggers on each such permanent entering.
-
-Extension Results:
-- Mill each opponent’s library
-===endpanel
-===endaccordion
-
-===accordion
-===panel: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Semblance Anvil + Altar of the Brood
-
-Base Core Combo:
-- [[Scrap Trawler]]
-- [[Myr Retriever]]
-- [[Krark-Clan Ironworks]]
-- [[Semblance Anvil]]
-
-Extension:
-- [[Altar of the Brood]]
-
-Classification:
-- Terminal payoff
-
-Extension Logic:
-- The base core creates permanents under your control an arbitrary number of times. Altar of the Brood triggers on each such permanent entering.
-
-Extension Results:
-- Mill each opponent’s library
-===endpanel
-===endaccordion
-
-===accordion
-===panel: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Krark-Clan Ironworks + Altar of the Brood
-
-Base Core Combo:
-- [[The Ooze]]
-- [[Stridehangar Automaton]]
-- [[Pitiless Plunderer]]
-- [[Krark-Clan Ironworks]]
-
-Extension:
-- [[Altar of the Brood]]
-
-Classification:
-- Terminal payoff
-
-Extension Logic:
-- The base core creates permanents under your control an arbitrary number of times. Altar of the Brood triggers on each such permanent entering.
-
-Extension Results:
-- Mill each opponent’s library
-===endpanel
-===endaccordion
-
-===accordion
-===panel: Ultron the Annihilator + Nim Deathmantle + Krark-Clan Ironworks + Altar of the Brood
-
-Base Core Combo:
-- [[Ultron the Annihilator]]
-- [[Nim Deathmantle]]
-- [[Krark-Clan Ironworks]]
-
-Extension:
-- [[Altar of the Brood]]
-
-Classification:
-- Terminal payoff
-
-Extension Logic:
-- The base core creates permanents under your control an arbitrary number of times. Altar of the Brood triggers on each such permanent entering.
-
-Extension Results:
-- Mill each opponent’s library
-===endpanel
-===endaccordion
-
-===accordion
-===panel: Scrap Trawler + Myr Retriever + Phyrexian Altar + Semblance Anvil + Altar of the Brood
-
-Base Core Combo:
-- [[Scrap Trawler]]
-- [[Myr Retriever]]
-- [[Phyrexian Altar]]
-- [[Semblance Anvil]]
-
-Extension:
-- [[Altar of the Brood]]
-
-Classification:
-- Terminal payoff
-
-Extension Logic:
-- The base core creates permanents under your control an arbitrary number of times. Altar of the Brood triggers on each such permanent entering.
-
-Extension Results:
-- Mill each opponent’s library
-===endpanel
-===endaccordion
-
-===accordion
-===panel: Ultron the Annihilator + Nim Deathmantle + Phyrexian Altar + Pitiless Plunderer + Altar of the Brood
-
-Base Core Combo:
-- [[Ultron the Annihilator]]
-- [[Nim Deathmantle]]
-- [[Phyrexian Altar]]
-- [[Pitiless Plunderer]]
-
-Extension:
-- [[Altar of the Brood]]
-
-Classification:
-- Terminal payoff
-
-Extension Logic:
-- The base core creates permanents under your control an arbitrary number of times. Altar of the Brood triggers on each such permanent entering.
-
-Extension Results:
-- Mill each opponent’s library
-===endpanel
-===endaccordion
-
-===accordion
-===panel: Pitiless Plunderer + Phyrexian Altar + Stridehangar Automaton + Altar of the Brood
-
-Base Core Combo:
-- [[Pitiless Plunderer]]
-- [[Phyrexian Altar]]
-- [[Stridehangar Automaton]]
-
-Extension:
-- [[Altar of the Brood]]
-
-Classification:
-- Terminal payoff
-
-Extension Logic:
-- The base core creates permanents under your control an arbitrary number of times. Altar of the Brood triggers on each such permanent entering.
-
-Extension Results:
-- Mill each opponent’s library
-===endpanel
-===endaccordion
-
-===accordion
-===panel: The Ooze + Stridehangar Automaton + Phyrexian Altar + Altar of the Brood
-
-Base Core Combo:
-- [[The Ooze]]
-- [[Stridehangar Automaton]]
-- [[Phyrexian Altar]]
-
-Extension:
-- [[Altar of the Brood]]
-
-Classification:
-- Terminal payoff
-
-Extension Logic:
-- The base core creates permanents under your control an arbitrary number of times. Altar of the Brood triggers on each such permanent entering.
-
-Extension Results:
-- Mill each opponent’s library
-===endpanel
-===endaccordion
-
-===accordion
-===panel: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Phyrexian Altar + Altar of the Brood
-
-Base Core Combo:
-- [[The Ooze]]
-- [[Stridehangar Automaton]]
-- [[Pitiless Plunderer]]
-- [[Phyrexian Altar]]
-
-Extension:
-- [[Altar of the Brood]]
-
-Classification:
-- Terminal payoff
-
-Extension Logic:
-- The base core creates permanents under your control an arbitrary number of times. Altar of the Brood triggers on each such permanent entering.
-
-Extension Results:
-- Mill each opponent’s library
-===endpanel
-===endaccordion
-
-===accordion
-===panel: Pitiless Plunderer + Umbral Collar Zealot + Stridehangar Automaton + Altar of the Brood
-
-Base Core Combo:
-- [[Pitiless Plunderer]]
-- [[Umbral Collar Zealot]]
-- [[Stridehangar Automaton]]
-
-Extension:
-- [[Altar of the Brood]]
-
-Classification:
-- Terminal payoff
-
-Extension Logic:
-- The base core creates permanents under your control an arbitrary number of times. Altar of the Brood triggers on each such permanent entering.
-
-Extension Results:
-- Mill each opponent’s library
-===endpanel
-===endaccordion
-
-===accordion
-===panel: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Umbral Collar Zealot + Altar of the Brood
-
-Base Core Combo:
-- [[The Ooze]]
-- [[Stridehangar Automaton]]
-- [[Pitiless Plunderer]]
-- [[Umbral Collar Zealot]]
-
-Extension:
-- [[Altar of the Brood]]
-
-Classification:
-- Terminal payoff
-
-Extension Logic:
-- The base core creates permanents under your control an arbitrary number of times. Altar of the Brood triggers on each such permanent entering.
-
-Extension Results:
-- Mill each opponent’s library
-===endpanel
-===endaccordion
-
-===accordion
-===panel: Warren Soultrader + Stridehangar Automaton + Sephiroth, Fabled SOLDIER // Sephiroth, One-Winged Angel + Altar of the Brood
-
-Base Core Combo:
-- [[Warren Soultrader]]
-- [[Stridehangar Automaton]]
-- [[Sephiroth, Fabled SOLDIER // Sephiroth, One-Winged Angel]]
-
-Extension:
-- [[Altar of the Brood]]
-
-Classification:
-- Terminal payoff
-
-Extension Logic:
-- The base core creates permanents under your control an arbitrary number of times. Altar of the Brood triggers on each such permanent entering.
-
-Extension Results:
-- Mill each opponent’s library
-===endpanel
-===endaccordion
-
-===accordion
-===panel: Warren Soultrader + Zulaport Cutthroat + Stridehangar Automaton + Altar of the Brood
-
-Base Core Combo:
-- [[Warren Soultrader]]
-- [[Zulaport Cutthroat]]
-- [[Stridehangar Automaton]]
-
-Extension:
-- [[Altar of the Brood]]
-
-Classification:
-- Terminal payoff
-
-Extension Logic:
-- The base core creates permanents under your control an arbitrary number of times. Altar of the Brood triggers on each such permanent entering.
-
-Extension Results:
-- Mill each opponent’s library
-===endpanel
-===endaccordion
-
-===endpanel
-===endaccordion
+Derived from the uploaded extensions.md; only entries whose listed base and extension cards are in decklist(5).txt are active. Existing text is preserved, not independently re-certified.
 
 ===accordion
 ===panel: Marionette Apprentice Extensions
 
-Validated extensions: 67
+Active extensions: 66
 
 ===accordion
 ===panel: Metalwork Colossus + Warren Soultrader + Aetherflux Reservoir + Stridehangar Automaton + Marionette Apprentice
@@ -2101,28 +514,6 @@ Extension Results:
 Base Core Combo:
 - [[Nim Deathmantle]]
 - [[Ashnod's Altar]]
-
-Extension:
-- [[Marionette Apprentice]]
-
-Classification:
-- Terminal payoff
-
-Extension Logic:
-- The base core puts another creature into your graveyard from the battlefield an arbitrary number of times. Each such death satisfies Marionette Apprentice’s trigger.
-
-Extension Results:
-- Infinite opponent life loss
-===endpanel
-===endaccordion
-
-===accordion
-===panel: Nim Deathmantle + Ashnod's Altar + Orcish Bowmasters + Marionette Apprentice
-
-Base Core Combo:
-- [[Nim Deathmantle]]
-- [[Ashnod's Altar]]
-- [[Orcish Bowmasters]]
 
 Extension:
 - [[Marionette Apprentice]]
@@ -2659,7 +1050,6 @@ Extension Results:
 ===endpanel
 ===endaccordion
 
-
 ===accordion
 ===panel: Imotekh the Stormlord + Myr Retriever + Workshop Assistant + Krark-Clan Ironworks + Marionette Apprentice
 
@@ -3116,7 +1506,7 @@ Extension Results:
 ===accordion
 ===panel: Zulaport Cutthroat Extensions
 
-Validated extensions: 67
+Active extensions: 66
 
 ===accordion
 ===panel: Metalwork Colossus + Warren Soultrader + Aetherflux Reservoir + Stridehangar Automaton + Zulaport Cutthroat
@@ -3662,28 +2052,6 @@ Extension Results:
 ===endaccordion
 
 ===accordion
-===panel: Nim Deathmantle + Ashnod's Altar + Orcish Bowmasters + Zulaport Cutthroat
-
-Base Core Combo:
-- [[Nim Deathmantle]]
-- [[Ashnod's Altar]]
-- [[Orcish Bowmasters]]
-
-Extension:
-- [[Zulaport Cutthroat]]
-
-Classification:
-- Terminal payoff
-
-Extension Logic:
-- The base core causes another creature you control to die an arbitrary number of times. Zulaport Cutthroat triggers for each death.
-
-Extension Results:
-- Infinite opponent life loss and lifegain
-===endpanel
-===endaccordion
-
-===accordion
 ===panel: Pitiless Plunderer + Ashnod's Altar + Stridehangar Automaton + Zulaport Cutthroat
 
 Base Core Combo:
@@ -4204,7 +2572,6 @@ Extension Results:
 ===endpanel
 ===endaccordion
 
-
 ===accordion
 ===panel: Imotekh the Stormlord + Myr Retriever + Workshop Assistant + Krark-Clan Ironworks + Zulaport Cutthroat
 
@@ -4637,9 +3004,9 @@ Extension Results:
 ===endaccordion
 
 ===accordion
-===panel: Sephiroth Extensions
+===panel: Sephiroth, Fabled SOLDIER Extensions
 
-Validated extensions: 67
+Active extensions: 66
 
 ===accordion
 ===panel: Metalwork Colossus + Warren Soultrader + Aetherflux Reservoir + Stridehangar Automaton + Sephiroth, Fabled SOLDIER // Sephiroth, One-Winged Angel
@@ -5185,28 +3552,6 @@ Extension Results:
 ===endaccordion
 
 ===accordion
-===panel: Nim Deathmantle + Ashnod's Altar + Orcish Bowmasters + Sephiroth, Fabled SOLDIER // Sephiroth, One-Winged Angel
-
-Base Core Combo:
-- [[Nim Deathmantle]]
-- [[Ashnod's Altar]]
-- [[Orcish Bowmasters]]
-
-Extension:
-- [[Sephiroth, Fabled SOLDIER // Sephiroth, One-Winged Angel]]
-
-Classification:
-- Terminal payoff
-
-Extension Logic:
-- The base core causes another creature to die an arbitrary number of times. Sephiroth drains on each death; after the fourth resolution it transforms and its emblem continues the death-payoff pattern.
-
-Extension Results:
-- Infinite targeted opponent life loss and lifegain
-===endpanel
-===endaccordion
-
-===accordion
 ===panel: Pitiless Plunderer + Ashnod's Altar + Stridehangar Automaton + Sephiroth, Fabled SOLDIER // Sephiroth, One-Winged Angel
 
 Base Core Combo:
@@ -5727,7 +4072,6 @@ Extension Results:
 ===endpanel
 ===endaccordion
 
-
 ===accordion
 ===panel: Imotekh the Stormlord + Myr Retriever + Workshop Assistant + Krark-Clan Ironworks + Sephiroth, Fabled SOLDIER // Sephiroth, One-Winged Angel
 
@@ -6162,7 +4506,7 @@ Extension Results:
 ===accordion
 ===panel: Ultron the Annihilator Extensions
 
-Validated extensions: 36
+Active extensions: 36
 
 ===accordion
 ===panel: Pitiless Plunderer + Altar of Dementia + Stridehangar Automaton + Ultron the Annihilator
@@ -6981,7 +5325,7 @@ Extension Results:
 ===accordion
 ===panel: Aetherflux Reservoir Extensions
 
-Validated extensions: 27
+Active extensions: 27
 
 ===accordion
 ===panel: Glaring Fleshraker + Ashnod's Altar + Junk Diver + Workshop Assistant + Aetherflux Reservoir
@@ -7609,7 +5953,7 @@ Extension Results:
 ===accordion
 ===panel: Walking Ballista Extensions
 
-Validated extensions: 47
+Active extensions: 47
 
 ===accordion
 ===panel: Pitiless Plunderer + Altar of Dementia + Stridehangar Automaton + Walking Ballista
@@ -8339,7 +6683,6 @@ Extension Results:
 ===endpanel
 ===endaccordion
 
-
 ===accordion
 ===panel: Imotekh the Stormlord + Myr Retriever + Workshop Assistant + Krark-Clan Ironworks + Walking Ballista
 
@@ -8684,7 +7027,7 @@ Extension Results:
 ===accordion
 ===panel: Glaring Fleshraker Extensions
 
-Validated extensions: 20
+Active extensions: 20
 
 ===accordion
 ===panel: Metalwork Colossus + Warren Soultrader + Aetherflux Reservoir + Stridehangar Automaton + Glaring Fleshraker
@@ -9151,7 +7494,7 @@ Extension Results:
 ===accordion
 ===panel: Skullclamp Extensions
 
-Validated extensions: 47
+Active extensions: 47
 
 ===accordion
 ===panel: Pitiless Plunderer + Altar of Dementia + Stridehangar Automaton + Skullclamp
@@ -9881,7 +8224,6 @@ Extension Results:
 ===endpanel
 ===endaccordion
 
-
 ===accordion
 ===panel: Imotekh the Stormlord + Myr Retriever + Workshop Assistant + Krark-Clan Ironworks + Skullclamp
 
@@ -10226,7 +8568,7 @@ Extension Results:
 ===accordion
 ===panel: Altar of Dementia Extensions
 
-Validated extensions: 18
+Active extensions: 18
 
 ===accordion
 ===panel: Imotekh the Stormlord + Junk Diver + Myr Retriever + Ashnod's Altar + Altar of Dementia
@@ -10640,7 +8982,7 @@ Extension Results:
 ===accordion
 ===panel: Blasting Station Extensions
 
-Validated extensions: 28
+Active extensions: 28
 
 ===accordion
 ===panel: Tortured Existence + Pitiless Plunderer + Imotekh the Stormlord + Altar of Dementia + Blasting Station
@@ -11284,7 +9626,7 @@ Extension Results:
 ===accordion
 ===panel: Grinding Station Extensions
 
-Validated extensions: 38
+Active extensions: 38
 
 ===accordion
 ===panel: Pitiless Plunderer + Altar of Dementia + Stridehangar Automaton + Grinding Station
@@ -12148,7 +10490,7 @@ Extension Results:
 ===accordion
 ===panel: Pitiless Plunderer Extensions
 
-Validated extensions: 45
+Active extensions: 44
 
 ===accordion
 ===panel: Metalwork Colossus + Warren Soultrader + Aetherflux Reservoir + Stridehangar Automaton + Pitiless Plunderer
@@ -12474,28 +10816,6 @@ Base Core Combo:
 - [[Nim Deathmantle]]
 - [[Ashnod's Altar]]
 - [[Marionette Apprentice]]
-
-Extension:
-- [[Pitiless Plunderer]]
-
-Classification:
-- Resource extension
-
-Extension Logic:
-- The base core causes another creature you control to die an arbitrary number of times. Pitiless Plunderer adds a Treasure for each such death without consuming the loop’s existing resources.
-
-Extension Results:
-- Infinite Treasure tokens / colored mana
-===endpanel
-===endaccordion
-
-===accordion
-===panel: Nim Deathmantle + Ashnod's Altar + Orcish Bowmasters + Pitiless Plunderer
-
-Base Core Combo:
-- [[Nim Deathmantle]]
-- [[Ashnod's Altar]]
-- [[Orcish Bowmasters]]
 
 Extension:
 - [[Pitiless Plunderer]]
@@ -12874,7 +11194,6 @@ Extension Results:
 ===endpanel
 ===endaccordion
 
-
 ===accordion
 ===panel: Imotekh the Stormlord + Myr Retriever + Workshop Assistant + Krark-Clan Ironworks + Pitiless Plunderer
 
@@ -13173,7 +11492,7 @@ Extension Results:
 ===accordion
 ===panel: Stridehangar Automaton Extensions
 
-Validated extensions: 18
+Active extensions: 18
 
 ===accordion
 ===panel: Tortured Existence + Pitiless Plunderer + Imotekh the Stormlord + Altar of Dementia + Stridehangar Automaton
@@ -13589,7 +11908,7 @@ Extension Results:
 ===accordion
 ===panel: Umbral Collar Zealot Extensions
 
-Validated extensions: 47
+Active extensions: 47
 
 ===accordion
 ===panel: Pitiless Plunderer + Altar of Dementia + Stridehangar Automaton + Umbral Collar Zealot
@@ -14660,9 +12979,7 @@ Extension Results:
 ===accordion
 ===panel: Out of the Tombs Extensions
 
-Validated extensions: 5
-
-These are payoff extensions rather than additional cores. When one of the established Sensei's Divining Top draw loops reaches an empty library, [[Out of the Tombs]] can replace subsequent draws by returning creature cards from the graveyard. The loop may be stopped before a draw for which no creature card can be returned.
+Active extensions: 5
 
 ===accordion
 ===panel: Sensei's Divining Top + Aetherflux Reservoir + Bolas's Citadel + Out of the Tombs
@@ -14756,10 +13073,1805 @@ Extension Results:
 ===endpanel
 ===endaccordion
 
-===accordion
-===panel: Doctor Doom Extensions
+===endpanel
+===endaccordion
 
-Validated extensions: 5
+===accordion
+===panel: Archive — Missing Cards
+
+**Missing: altar of the brood**
+
+===accordion
+===panel: Metalwork Colossus + Warren Soultrader + Aetherflux Reservoir + Stridehangar Automaton + Altar of the Brood
+
+Base Core Combo:
+- [[Metalwork Colossus]]
+- [[Warren Soultrader]]
+- [[Aetherflux Reservoir]]
+- [[Stridehangar Automaton]]
+
+Extension:
+- [[Altar of the Brood]]
+
+Classification:
+- Terminal payoff
+
+Extension Logic:
+- The base core creates permanents under your control an arbitrary number of times. Altar of the Brood triggers on each such permanent entering.
+
+Extension Results:
+- Mill each opponent’s library
+===endpanel
+===endaccordion
+
+**Missing: altar of the brood**
+
+===accordion
+===panel: Metalwork Colossus + Warren Soultrader + Pitiless Plunderer + Aetherflux Reservoir + Altar of the Brood
+
+Base Core Combo:
+- [[Metalwork Colossus]]
+- [[Warren Soultrader]]
+- [[Pitiless Plunderer]]
+- [[Aetherflux Reservoir]]
+
+Extension:
+- [[Altar of the Brood]]
+
+Classification:
+- Terminal payoff
+
+Extension Logic:
+- The base core creates permanents under your control an arbitrary number of times. Altar of the Brood triggers on each such permanent entering.
+
+Extension Results:
+- Mill each opponent’s library
+===endpanel
+===endaccordion
+
+**Missing: altar of the brood**
+
+===accordion
+===panel: Pitiless Plunderer + Altar of Dementia + Stridehangar Automaton + Altar of the Brood
+
+Base Core Combo:
+- [[Pitiless Plunderer]]
+- [[Altar of Dementia]]
+- [[Stridehangar Automaton]]
+
+Extension:
+- [[Altar of the Brood]]
+
+Classification:
+- Terminal payoff
+
+Extension Logic:
+- The base core creates permanents under your control an arbitrary number of times. Altar of the Brood triggers on each such permanent entering.
+
+Extension Results:
+- Mill each opponent’s library
+===endpanel
+===endaccordion
+
+**Missing: altar of the brood**
+
+===accordion
+===panel: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Altar of Dementia + Altar of the Brood
+
+Base Core Combo:
+- [[The Ooze]]
+- [[Stridehangar Automaton]]
+- [[Pitiless Plunderer]]
+- [[Altar of Dementia]]
+
+Extension:
+- [[Altar of the Brood]]
+
+Classification:
+- Terminal payoff
+
+Extension Logic:
+- The base core creates permanents under your control an arbitrary number of times. Altar of the Brood triggers on each such permanent entering.
+
+Extension Results:
+- Mill each opponent’s library
+===endpanel
+===endaccordion
+
+**Missing: altar of the brood**
+
+===accordion
+===panel: Tortured Existence + Pitiless Plunderer + Imotekh the Stormlord + Altar of Dementia + Altar of the Brood
+
+Base Core Combo:
+- [[Tortured Existence]]
+- [[Pitiless Plunderer]]
+- [[Imotekh the Stormlord]]
+- [[Altar of Dementia]]
+
+Extension:
+- [[Altar of the Brood]]
+
+Classification:
+- Terminal payoff
+
+Extension Logic:
+- The base core creates permanents under your control an arbitrary number of times. Altar of the Brood triggers on each such permanent entering.
+
+Extension Results:
+- Mill each opponent’s library
+===endpanel
+===endaccordion
+
+**Missing: altar of the brood**
+
+===accordion
+===panel: Tortured Existence + Pitiless Plunderer + Imotekh the Stormlord + Carrion Feeder + Altar of the Brood
+
+Base Core Combo:
+- [[Tortured Existence]]
+- [[Pitiless Plunderer]]
+- [[Imotekh the Stormlord]]
+- [[Carrion Feeder]]
+
+Extension:
+- [[Altar of the Brood]]
+
+Classification:
+- Terminal payoff
+
+Extension Logic:
+- The base core creates permanents under your control an arbitrary number of times. Altar of the Brood triggers on each such permanent entering.
+
+Extension Results:
+- Mill each opponent’s library
+===endpanel
+===endaccordion
+
+**Missing: altar of the brood**
+
+===accordion
+===panel: Pitiless Plunderer + Stridehangar Automaton + Arcbound Ravager + Altar of the Brood
+
+Base Core Combo:
+- [[Pitiless Plunderer]]
+- [[Stridehangar Automaton]]
+- [[Arcbound Ravager]]
+
+Extension:
+- [[Altar of the Brood]]
+
+Classification:
+- Terminal payoff
+
+Extension Logic:
+- The base core creates permanents under your control an arbitrary number of times. Altar of the Brood triggers on each such permanent entering.
+
+Extension Results:
+- Mill each opponent’s library
+===endpanel
+===endaccordion
+
+**Missing: altar of the brood**
+
+===accordion
+===panel: Pitiless Plunderer + Stridehangar Automaton + Carrion Feeder + Altar of the Brood
+
+Base Core Combo:
+- [[Pitiless Plunderer]]
+- [[Stridehangar Automaton]]
+- [[Carrion Feeder]]
+
+Extension:
+- [[Altar of the Brood]]
+
+Classification:
+- Terminal payoff
+
+Extension Logic:
+- The base core creates permanents under your control an arbitrary number of times. Altar of the Brood triggers on each such permanent entering.
+
+Extension Results:
+- Mill each opponent’s library
+===endpanel
+===endaccordion
+
+**Missing: altar of the brood**
+
+===accordion
+===panel: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Arcbound Ravager + Altar of the Brood
+
+Base Core Combo:
+- [[The Ooze]]
+- [[Stridehangar Automaton]]
+- [[Pitiless Plunderer]]
+- [[Arcbound Ravager]]
+
+Extension:
+- [[Altar of the Brood]]
+
+Classification:
+- Terminal payoff
+
+Extension Logic:
+- The base core creates permanents under your control an arbitrary number of times. Altar of the Brood triggers on each such permanent entering.
+
+Extension Results:
+- Mill each opponent’s library
+===endpanel
+===endaccordion
+
+**Missing: altar of the brood**
+
+===accordion
+===panel: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Carrion Feeder + Altar of the Brood
+
+Base Core Combo:
+- [[The Ooze]]
+- [[Stridehangar Automaton]]
+- [[Pitiless Plunderer]]
+- [[Carrion Feeder]]
+
+Extension:
+- [[Altar of the Brood]]
+
+Classification:
+- Terminal payoff
+
+Extension Logic:
+- The base core creates permanents under your control an arbitrary number of times. Altar of the Brood triggers on each such permanent entering.
+
+Extension Results:
+- Mill each opponent’s library
+===endpanel
+===endaccordion
+
+**Missing: altar of the brood**
+
+===accordion
+===panel: Dross Scorpion + Retrofitter Foundry + Ashnod's Altar + Altar of the Brood
+
+Base Core Combo:
+- [[Dross Scorpion]]
+- [[Retrofitter Foundry]]
+- [[Ashnod's Altar]]
+
+Extension:
+- [[Altar of the Brood]]
+
+Classification:
+- Terminal payoff
+
+Extension Logic:
+- The base core creates permanents under your control an arbitrary number of times. Altar of the Brood triggers on each such permanent entering.
+
+Extension Results:
+- Mill each opponent’s library
+===endpanel
+===endaccordion
+
+**Missing: altar of the brood**
+
+===accordion
+===panel: Glaring Fleshraker + Ashnod's Altar + Junk Diver + Workshop Assistant + Altar of the Brood
+
+Base Core Combo:
+- [[Glaring Fleshraker]]
+- [[Ashnod's Altar]]
+- [[Junk Diver]]
+- [[Workshop Assistant]]
+
+Extension:
+- [[Altar of the Brood]]
+
+Classification:
+- Terminal payoff
+
+Extension Logic:
+- The base core creates permanents under your control an arbitrary number of times. Altar of the Brood triggers on each such permanent entering.
+
+Extension Results:
+- Mill each opponent’s library
+===endpanel
+===endaccordion
+
+**Missing: altar of the brood**
+
+===accordion
+===panel: Glaring Fleshraker + Ashnod's Altar + Myr Retriever + Junk Diver + Altar of the Brood
+
+Base Core Combo:
+- [[Glaring Fleshraker]]
+- [[Ashnod's Altar]]
+- [[Myr Retriever]]
+- [[Junk Diver]]
+
+Extension:
+- [[Altar of the Brood]]
+
+Classification:
+- Terminal payoff
+
+Extension Logic:
+- The base core creates permanents under your control an arbitrary number of times. Altar of the Brood triggers on each such permanent entering.
+
+Extension Results:
+- Mill each opponent’s library
+===endpanel
+===endaccordion
+
+**Missing: altar of the brood**
+
+===accordion
+===panel: Glaring Fleshraker + Ashnod's Altar + Myr Retriever + Scrap Trawler + Altar of the Brood
+
+Base Core Combo:
+- [[Glaring Fleshraker]]
+- [[Ashnod's Altar]]
+- [[Myr Retriever]]
+- [[Scrap Trawler]]
+
+Extension:
+- [[Altar of the Brood]]
+
+Classification:
+- Terminal payoff
+
+Extension Logic:
+- The base core creates permanents under your control an arbitrary number of times. Altar of the Brood triggers on each such permanent entering.
+
+Extension Results:
+- Mill each opponent’s library
+===endpanel
+===endaccordion
+
+**Missing: altar of the brood**
+
+===accordion
+===panel: Glaring Fleshraker + Ashnod's Altar + Myr Retriever + Workshop Assistant + Altar of the Brood
+
+Base Core Combo:
+- [[Glaring Fleshraker]]
+- [[Ashnod's Altar]]
+- [[Myr Retriever]]
+- [[Workshop Assistant]]
+
+Extension:
+- [[Altar of the Brood]]
+
+Classification:
+- Terminal payoff
+
+Extension Logic:
+- The base core creates permanents under your control an arbitrary number of times. Altar of the Brood triggers on each such permanent entering.
+
+Extension Results:
+- Mill each opponent’s library
+===endpanel
+===endaccordion
+
+**Missing: altar of the brood**
+
+===accordion
+===panel: Glaring Fleshraker + Ashnod's Altar + Scrap Trawler + Workshop Assistant + Altar of the Brood
+
+Base Core Combo:
+- [[Glaring Fleshraker]]
+- [[Ashnod's Altar]]
+- [[Scrap Trawler]]
+- [[Workshop Assistant]]
+
+Extension:
+- [[Altar of the Brood]]
+
+Classification:
+- Terminal payoff
+
+Extension Logic:
+- The base core creates permanents under your control an arbitrary number of times. Altar of the Brood triggers on each such permanent entering.
+
+Extension Results:
+- Mill each opponent’s library
+===endpanel
+===endaccordion
+
+**Missing: altar of the brood**
+
+===accordion
+===panel: Imotekh the Stormlord + Junk Diver + Myr Retriever + Ashnod's Altar + Altar of the Brood
+
+Base Core Combo:
+- [[Imotekh the Stormlord]]
+- [[Junk Diver]]
+- [[Myr Retriever]]
+- [[Ashnod's Altar]]
+
+Extension:
+- [[Altar of the Brood]]
+
+Classification:
+- Terminal payoff
+
+Extension Logic:
+- The base core creates permanents under your control an arbitrary number of times. Altar of the Brood triggers on each such permanent entering.
+
+Extension Results:
+- Mill each opponent’s library
+===endpanel
+===endaccordion
+
+**Missing: altar of the brood**
+
+===accordion
+===panel: Imotekh the Stormlord + Junk Diver + Workshop Assistant + Ashnod's Altar + Altar of the Brood
+
+Base Core Combo:
+- [[Imotekh the Stormlord]]
+- [[Junk Diver]]
+- [[Workshop Assistant]]
+- [[Ashnod's Altar]]
+
+Extension:
+- [[Altar of the Brood]]
+
+Classification:
+- Terminal payoff
+
+Extension Logic:
+- The base core creates permanents under your control an arbitrary number of times. Altar of the Brood triggers on each such permanent entering.
+
+Extension Results:
+- Mill each opponent’s library
+===endpanel
+===endaccordion
+
+**Missing: altar of the brood**
+
+===accordion
+===panel: Imotekh the Stormlord + Myr Retriever + Workshop Assistant + Ashnod's Altar + Altar of the Brood
+
+Base Core Combo:
+- [[Imotekh the Stormlord]]
+- [[Myr Retriever]]
+- [[Workshop Assistant]]
+- [[Ashnod's Altar]]
+
+Extension:
+- [[Altar of the Brood]]
+
+Classification:
+- Terminal payoff
+
+Extension Logic:
+- The base core creates permanents under your control an arbitrary number of times. Altar of the Brood triggers on each such permanent entering.
+
+Extension Results:
+- Mill each opponent’s library
+===endpanel
+===endaccordion
+
+**Missing: altar of the brood**
+
+===accordion
+===panel: Imotekh the Stormlord + Nim Deathmantle + Ashnod's Altar + Altar of the Brood
+
+Base Core Combo:
+- [[Imotekh the Stormlord]]
+- [[Nim Deathmantle]]
+- [[Ashnod's Altar]]
+
+Extension:
+- [[Altar of the Brood]]
+
+Classification:
+- Terminal payoff
+
+Extension Logic:
+- The base core creates permanents under your control an arbitrary number of times. Altar of the Brood triggers on each such permanent entering.
+
+Extension Results:
+- Mill each opponent’s library
+===endpanel
+===endaccordion
+
+**Missing: altar of the brood**
+
+===accordion
+===panel: Imotekh the Stormlord + Scrap Trawler + Myr Retriever + Ashnod's Altar + Altar of the Brood
+
+Base Core Combo:
+- [[Imotekh the Stormlord]]
+- [[Scrap Trawler]]
+- [[Myr Retriever]]
+- [[Ashnod's Altar]]
+
+Extension:
+- [[Altar of the Brood]]
+
+Classification:
+- Terminal payoff
+
+Extension Logic:
+- The base core creates permanents under your control an arbitrary number of times. Altar of the Brood triggers on each such permanent entering.
+
+Extension Results:
+- Mill each opponent’s library
+===endpanel
+===endaccordion
+
+**Missing: altar of the brood**
+
+===accordion
+===panel: Myr Retriever + Ashnod's Altar + Ultron, Artificial Malevolence + Altar of the Brood
+
+Base Core Combo:
+- [[Myr Retriever]]
+- [[Ashnod's Altar]]
+- [[Ultron, Artificial Malevolence]]
+
+Extension:
+- [[Altar of the Brood]]
+
+Classification:
+- Terminal payoff
+
+Extension Logic:
+- The base core creates permanents under your control an arbitrary number of times. Altar of the Brood triggers on each such permanent entering.
+
+Extension Results:
+- Mill each opponent’s library
+===endpanel
+===endaccordion
+
+**Missing: altar of the brood**
+
+===accordion
+===panel: Nim Deathmantle + Ashnod's Altar + Altar of the Brood
+
+Base Core Combo:
+- [[Nim Deathmantle]]
+- [[Ashnod's Altar]]
+
+Extension:
+- [[Altar of the Brood]]
+
+Classification:
+- Terminal payoff
+
+Extension Logic:
+- The base core creates permanents under your control an arbitrary number of times. Altar of the Brood triggers on each such permanent entering.
+
+Extension Results:
+- Mill each opponent’s library
+===endpanel
+===endaccordion
+
+**Missing: altar of the brood**
+
+===accordion
+===panel: Nim Deathmantle + Ashnod's Altar + Marionette Apprentice + Altar of the Brood
+
+Base Core Combo:
+- [[Nim Deathmantle]]
+- [[Ashnod's Altar]]
+- [[Marionette Apprentice]]
+
+Extension:
+- [[Altar of the Brood]]
+
+Classification:
+- Terminal payoff
+
+Extension Logic:
+- The base core creates permanents under your control an arbitrary number of times. Altar of the Brood triggers on each such permanent entering.
+
+Extension Results:
+- Mill each opponent’s library
+===endpanel
+===endaccordion
+
+**Missing: altar of the brood, orcish bowmasters**
+
+===accordion
+===panel: Nim Deathmantle + Ashnod's Altar + Orcish Bowmasters + Altar of the Brood
+
+Base Core Combo:
+- [[Nim Deathmantle]]
+- [[Ashnod's Altar]]
+- [[Orcish Bowmasters]]
+
+Extension:
+- [[Altar of the Brood]]
+
+Classification:
+- Terminal payoff
+
+Extension Logic:
+- The base core creates permanents under your control an arbitrary number of times. Altar of the Brood triggers on each such permanent entering.
+
+Extension Results:
+- Mill each opponent’s library
+===endpanel
+===endaccordion
+
+**Missing: altar of the brood**
+
+===accordion
+===panel: Pitiless Plunderer + Ashnod's Altar + Stridehangar Automaton + Altar of the Brood
+
+Base Core Combo:
+- [[Pitiless Plunderer]]
+- [[Ashnod's Altar]]
+- [[Stridehangar Automaton]]
+
+Extension:
+- [[Altar of the Brood]]
+
+Classification:
+- Terminal payoff
+
+Extension Logic:
+- The base core creates permanents under your control an arbitrary number of times. Altar of the Brood triggers on each such permanent entering.
+
+Extension Results:
+- Mill each opponent’s library
+===endpanel
+===endaccordion
+
+**Missing: altar of the brood**
+
+===accordion
+===panel: Scrap Trawler + Myr Retriever + Ashnod's Altar + Cloud Key + Altar of the Brood
+
+Base Core Combo:
+- [[Scrap Trawler]]
+- [[Myr Retriever]]
+- [[Ashnod's Altar]]
+- [[Cloud Key]]
+
+Extension:
+- [[Altar of the Brood]]
+
+Classification:
+- Terminal payoff
+
+Extension Logic:
+- The base core creates permanents under your control an arbitrary number of times. Altar of the Brood triggers on each such permanent entering.
+
+Extension Results:
+- Mill each opponent’s library
+===endpanel
+===endaccordion
+
+**Missing: altar of the brood**
+
+===accordion
+===panel: Scrap Trawler + Myr Retriever + Ashnod's Altar + Foundry Inspector + Altar of the Brood
+
+Base Core Combo:
+- [[Scrap Trawler]]
+- [[Myr Retriever]]
+- [[Ashnod's Altar]]
+- [[Foundry Inspector]]
+
+Extension:
+- [[Altar of the Brood]]
+
+Classification:
+- Terminal payoff
+
+Extension Logic:
+- The base core creates permanents under your control an arbitrary number of times. Altar of the Brood triggers on each such permanent entering.
+
+Extension Results:
+- Mill each opponent’s library
+===endpanel
+===endaccordion
+
+**Missing: altar of the brood**
+
+===accordion
+===panel: Scrap Trawler + Myr Retriever + Ashnod's Altar + Semblance Anvil + Altar of the Brood
+
+Base Core Combo:
+- [[Scrap Trawler]]
+- [[Myr Retriever]]
+- [[Ashnod's Altar]]
+- [[Semblance Anvil]]
+
+Extension:
+- [[Altar of the Brood]]
+
+Classification:
+- Terminal payoff
+
+Extension Logic:
+- The base core creates permanents under your control an arbitrary number of times. Altar of the Brood triggers on each such permanent entering.
+
+Extension Results:
+- Mill each opponent’s library
+===endpanel
+===endaccordion
+
+**Missing: altar of the brood**
+
+===accordion
+===panel: The Ooze + Stridehangar Automaton + Ashnod's Altar + Altar of the Brood
+
+Base Core Combo:
+- [[The Ooze]]
+- [[Stridehangar Automaton]]
+- [[Ashnod's Altar]]
+
+Extension:
+- [[Altar of the Brood]]
+
+Classification:
+- Terminal payoff
+
+Extension Logic:
+- The base core creates permanents under your control an arbitrary number of times. Altar of the Brood triggers on each such permanent entering.
+
+Extension Results:
+- Mill each opponent’s library
+===endpanel
+===endaccordion
+
+**Missing: altar of the brood**
+
+===accordion
+===panel: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Ashnod's Altar + Altar of the Brood
+
+Base Core Combo:
+- [[The Ooze]]
+- [[Stridehangar Automaton]]
+- [[Pitiless Plunderer]]
+- [[Ashnod's Altar]]
+
+Extension:
+- [[Altar of the Brood]]
+
+Classification:
+- Terminal payoff
+
+Extension Logic:
+- The base core creates permanents under your control an arbitrary number of times. Altar of the Brood triggers on each such permanent entering.
+
+Extension Results:
+- Mill each opponent’s library
+===endpanel
+===endaccordion
+
+**Missing: altar of the brood**
+
+===accordion
+===panel: Ultron the Annihilator + Nim Deathmantle + Ashnod's Altar + Altar of the Brood
+
+Base Core Combo:
+- [[Ultron the Annihilator]]
+- [[Nim Deathmantle]]
+- [[Ashnod's Altar]]
+
+Extension:
+- [[Altar of the Brood]]
+
+Classification:
+- Terminal payoff
+
+Extension Logic:
+- The base core creates permanents under your control an arbitrary number of times. Altar of the Brood triggers on each such permanent entering.
+
+Extension Results:
+- Mill each opponent’s library
+===endpanel
+===endaccordion
+
+**Missing: altar of the brood**
+
+===accordion
+===panel: Pitiless Plunderer + Blasting Station + Stridehangar Automaton + Altar of the Brood
+
+Base Core Combo:
+- [[Pitiless Plunderer]]
+- [[Blasting Station]]
+- [[Stridehangar Automaton]]
+
+Extension:
+- [[Altar of the Brood]]
+
+Classification:
+- Terminal payoff
+
+Extension Logic:
+- The base core creates permanents under your control an arbitrary number of times. Altar of the Brood triggers on each such permanent entering.
+
+Extension Results:
+- Mill each opponent’s library
+===endpanel
+===endaccordion
+
+**Missing: altar of the brood**
+
+===accordion
+===panel: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Blasting Station + Altar of the Brood
+
+Base Core Combo:
+- [[The Ooze]]
+- [[Stridehangar Automaton]]
+- [[Pitiless Plunderer]]
+- [[Blasting Station]]
+
+Extension:
+- [[Altar of the Brood]]
+
+Classification:
+- Terminal payoff
+
+Extension Logic:
+- The base core creates permanents under your control an arbitrary number of times. Altar of the Brood triggers on each such permanent entering.
+
+Extension Results:
+- Mill each opponent’s library
+===endpanel
+===endaccordion
+
+**Missing: altar of the brood**
+
+===accordion
+===panel: Tortured Existence + Pitiless Plunderer + Imotekh the Stormlord + Blasting Station + Altar of the Brood
+
+Base Core Combo:
+- [[Tortured Existence]]
+- [[Pitiless Plunderer]]
+- [[Imotekh the Stormlord]]
+- [[Blasting Station]]
+
+Extension:
+- [[Altar of the Brood]]
+
+Classification:
+- Terminal payoff
+
+Extension Logic:
+- The base core creates permanents under your control an arbitrary number of times. Altar of the Brood triggers on each such permanent entering.
+
+Extension Results:
+- Mill each opponent’s library
+===endpanel
+===endaccordion
+
+**Missing: altar of the brood**
+
+===accordion
+===panel: Imotekh the Stormlord + Clock of Omens + Tortured Existence + Altar of the Brood
+
+Base Core Combo:
+- [[Imotekh the Stormlord]]
+- [[Clock of Omens]]
+- [[Tortured Existence]]
+
+Extension:
+- [[Altar of the Brood]]
+
+Classification:
+- Terminal payoff
+
+Extension Logic:
+- The base core creates permanents under your control an arbitrary number of times. Altar of the Brood triggers on each such permanent entering.
+
+Extension Results:
+- Mill each opponent’s library
+===endpanel
+===endaccordion
+
+**Missing: altar of the brood**
+
+===accordion
+===panel: Retrofitter Foundry + Clock of Omens + Stridehangar Automaton + Altar of the Brood
+
+Base Core Combo:
+- [[Retrofitter Foundry]]
+- [[Clock of Omens]]
+- [[Stridehangar Automaton]]
+
+Extension:
+- [[Altar of the Brood]]
+
+Classification:
+- Terminal payoff
+
+Extension Logic:
+- The base core creates permanents under your control an arbitrary number of times. Altar of the Brood triggers on each such permanent entering.
+
+Extension Results:
+- Mill each opponent’s library
+===endpanel
+===endaccordion
+
+**Missing: altar of the brood**
+
+===accordion
+===panel: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Cloud Key + Altar of the Brood
+
+Base Core Combo:
+- [[Scrap Trawler]]
+- [[Myr Retriever]]
+- [[Krark-Clan Ironworks]]
+- [[Cloud Key]]
+
+Extension:
+- [[Altar of the Brood]]
+
+Classification:
+- Terminal payoff
+
+Extension Logic:
+- The base core creates permanents under your control an arbitrary number of times. Altar of the Brood triggers on each such permanent entering.
+
+Extension Results:
+- Mill each opponent’s library
+===endpanel
+===endaccordion
+
+**Missing: altar of the brood**
+
+===accordion
+===panel: Dross Scorpion + Retrofitter Foundry + Krark-Clan Ironworks + Altar of the Brood
+
+Base Core Combo:
+- [[Dross Scorpion]]
+- [[Retrofitter Foundry]]
+- [[Krark-Clan Ironworks]]
+
+Extension:
+- [[Altar of the Brood]]
+
+Classification:
+- Terminal payoff
+
+Extension Logic:
+- The base core creates permanents under your control an arbitrary number of times. Altar of the Brood triggers on each such permanent entering.
+
+Extension Results:
+- Mill each opponent’s library
+===endpanel
+===endaccordion
+
+**Missing: altar of the brood**
+
+===accordion
+===panel: Retrofitter Foundry + Dross Scorpion + Stridehangar Automaton + Altar of the Brood
+
+Base Core Combo:
+- [[Retrofitter Foundry]]
+- [[Dross Scorpion]]
+- [[Stridehangar Automaton]]
+
+Extension:
+- [[Altar of the Brood]]
+
+Classification:
+- Terminal payoff
+
+Extension Logic:
+- The base core creates permanents under your control an arbitrary number of times. Altar of the Brood triggers on each such permanent entering.
+
+Extension Results:
+- Mill each opponent’s library
+===endpanel
+===endaccordion
+
+**Missing: altar of the brood**
+
+===accordion
+===panel: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Foundry Inspector + Altar of the Brood
+
+Base Core Combo:
+- [[Scrap Trawler]]
+- [[Myr Retriever]]
+- [[Krark-Clan Ironworks]]
+- [[Foundry Inspector]]
+
+Extension:
+- [[Altar of the Brood]]
+
+Classification:
+- Terminal payoff
+
+Extension Logic:
+- The base core creates permanents under your control an arbitrary number of times. Altar of the Brood triggers on each such permanent entering.
+
+Extension Results:
+- Mill each opponent’s library
+===endpanel
+===endaccordion
+
+**Missing: altar of the brood**
+
+===accordion
+===panel: Glaring Fleshraker + Junk Diver + Workshop Assistant + Krark-Clan Ironworks + Altar of the Brood
+
+Base Core Combo:
+- [[Glaring Fleshraker]]
+- [[Junk Diver]]
+- [[Workshop Assistant]]
+- [[Krark-Clan Ironworks]]
+
+Extension:
+- [[Altar of the Brood]]
+
+Classification:
+- Terminal payoff
+
+Extension Logic:
+- The base core creates permanents under your control an arbitrary number of times. Altar of the Brood triggers on each such permanent entering.
+
+Extension Results:
+- Mill each opponent’s library
+===endpanel
+===endaccordion
+
+**Missing: altar of the brood**
+
+===accordion
+===panel: Glaring Fleshraker + Myr Retriever + Junk Diver + Krark-Clan Ironworks + Altar of the Brood
+
+Base Core Combo:
+- [[Glaring Fleshraker]]
+- [[Myr Retriever]]
+- [[Junk Diver]]
+- [[Krark-Clan Ironworks]]
+
+Extension:
+- [[Altar of the Brood]]
+
+Classification:
+- Terminal payoff
+
+Extension Logic:
+- The base core creates permanents under your control an arbitrary number of times. Altar of the Brood triggers on each such permanent entering.
+
+Extension Results:
+- Mill each opponent’s library
+===endpanel
+===endaccordion
+
+**Missing: altar of the brood**
+
+===accordion
+===panel: Glaring Fleshraker + Myr Retriever + Scrap Trawler + Krark-Clan Ironworks + Altar of the Brood
+
+Base Core Combo:
+- [[Glaring Fleshraker]]
+- [[Myr Retriever]]
+- [[Scrap Trawler]]
+- [[Krark-Clan Ironworks]]
+
+Extension:
+- [[Altar of the Brood]]
+
+Classification:
+- Terminal payoff
+
+Extension Logic:
+- The base core creates permanents under your control an arbitrary number of times. Altar of the Brood triggers on each such permanent entering.
+
+Extension Results:
+- Mill each opponent’s library
+===endpanel
+===endaccordion
+
+**Missing: altar of the brood**
+
+===accordion
+===panel: Glaring Fleshraker + Myr Retriever + Workshop Assistant + Krark-Clan Ironworks + Altar of the Brood
+
+Base Core Combo:
+- [[Glaring Fleshraker]]
+- [[Myr Retriever]]
+- [[Workshop Assistant]]
+- [[Krark-Clan Ironworks]]
+
+Extension:
+- [[Altar of the Brood]]
+
+Classification:
+- Terminal payoff
+
+Extension Logic:
+- The base core creates permanents under your control an arbitrary number of times. Altar of the Brood triggers on each such permanent entering.
+
+Extension Results:
+- Mill each opponent’s library
+===endpanel
+===endaccordion
+
+**Missing: altar of the brood**
+
+===accordion
+===panel: Pitiless Plunderer + Stridehangar Automaton + Grinding Station + Altar of the Brood
+
+Base Core Combo:
+- [[Pitiless Plunderer]]
+- [[Stridehangar Automaton]]
+- [[Grinding Station]]
+
+Extension:
+- [[Altar of the Brood]]
+
+Classification:
+- Terminal payoff
+
+Extension Logic:
+- The base core creates permanents under your control an arbitrary number of times. Altar of the Brood triggers on each such permanent entering.
+
+Extension Results:
+- Mill each opponent’s library
+===endpanel
+===endaccordion
+
+**Missing: altar of the brood**
+
+===accordion
+===panel: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Grinding Station + Altar of the Brood
+
+Base Core Combo:
+- [[The Ooze]]
+- [[Stridehangar Automaton]]
+- [[Pitiless Plunderer]]
+- [[Grinding Station]]
+
+Extension:
+- [[Altar of the Brood]]
+
+Classification:
+- Terminal payoff
+
+Extension Logic:
+- The base core creates permanents under your control an arbitrary number of times. Altar of the Brood triggers on each such permanent entering.
+
+Extension Results:
+- Mill each opponent’s library
+===endpanel
+===endaccordion
+
+**Missing: altar of the brood**
+
+===accordion
+===panel: Imotekh the Stormlord + Junk Diver + Myr Retriever + Krark-Clan Ironworks + Altar of the Brood
+
+Base Core Combo:
+- [[Imotekh the Stormlord]]
+- [[Junk Diver]]
+- [[Myr Retriever]]
+- [[Krark-Clan Ironworks]]
+
+Extension:
+- [[Altar of the Brood]]
+
+Classification:
+- Terminal payoff
+
+Extension Logic:
+- The base core creates permanents under your control an arbitrary number of times. Altar of the Brood triggers on each such permanent entering.
+
+Extension Results:
+- Mill each opponent’s library
+===endpanel
+===endaccordion
+
+**Missing: altar of the brood**
+
+===accordion
+===panel: Imotekh the Stormlord + Junk Diver + Workshop Assistant + Krark-Clan Ironworks + Altar of the Brood
+
+Base Core Combo:
+- [[Imotekh the Stormlord]]
+- [[Junk Diver]]
+- [[Workshop Assistant]]
+- [[Krark-Clan Ironworks]]
+
+Extension:
+- [[Altar of the Brood]]
+
+Classification:
+- Terminal payoff
+
+Extension Logic:
+- The base core creates permanents under your control an arbitrary number of times. Altar of the Brood triggers on each such permanent entering.
+
+Extension Results:
+- Mill each opponent’s library
+===endpanel
+===endaccordion
+
+**Missing: altar of the brood**
+
+===accordion
+===panel: Imotekh the Stormlord + Myr Retriever + Workshop Assistant + Krark-Clan Ironworks + Altar of the Brood
+
+Base Core Combo:
+- [[Imotekh the Stormlord]]
+- [[Myr Retriever]]
+- [[Workshop Assistant]]
+- [[Krark-Clan Ironworks]]
+
+Extension:
+- [[Altar of the Brood]]
+
+Classification:
+- Terminal payoff
+
+Extension Logic:
+- The base core creates permanents under your control an arbitrary number of times. Altar of the Brood triggers on each such permanent entering.
+
+Extension Results:
+- Mill each opponent’s library
+===endpanel
+===endaccordion
+
+**Missing: altar of the brood**
+
+===accordion
+===panel: Imotekh the Stormlord + Nim Deathmantle + Krark-Clan Ironworks + Altar of the Brood
+
+Base Core Combo:
+- [[Imotekh the Stormlord]]
+- [[Nim Deathmantle]]
+- [[Krark-Clan Ironworks]]
+
+Extension:
+- [[Altar of the Brood]]
+
+Classification:
+- Terminal payoff
+
+Extension Logic:
+- The base core creates permanents under your control an arbitrary number of times. Altar of the Brood triggers on each such permanent entering.
+
+Extension Results:
+- Mill each opponent’s library
+===endpanel
+===endaccordion
+
+**Missing: altar of the brood**
+
+===accordion
+===panel: Imotekh the Stormlord + Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Altar of the Brood
+
+Base Core Combo:
+- [[Imotekh the Stormlord]]
+- [[Scrap Trawler]]
+- [[Myr Retriever]]
+- [[Krark-Clan Ironworks]]
+
+Extension:
+- [[Altar of the Brood]]
+
+Classification:
+- Terminal payoff
+
+Extension Logic:
+- The base core creates permanents under your control an arbitrary number of times. Altar of the Brood triggers on each such permanent entering.
+
+Extension Results:
+- Mill each opponent’s library
+===endpanel
+===endaccordion
+
+**Missing: altar of the brood**
+
+===accordion
+===panel: Tortured Existence + Phyrexian Altar + Imotekh the Stormlord + Altar of the Brood
+
+Base Core Combo:
+- [[Tortured Existence]]
+- [[Phyrexian Altar]]
+- [[Imotekh the Stormlord]]
+
+Extension:
+- [[Altar of the Brood]]
+
+Classification:
+- Terminal payoff
+
+Extension Logic:
+- The base core creates permanents under your control an arbitrary number of times. Altar of the Brood triggers on each such permanent entering.
+
+Extension Results:
+- Mill each opponent’s library
+===endpanel
+===endaccordion
+
+**Missing: altar of the brood**
+
+===accordion
+===panel: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Sol Ring + Junk Diver + Altar of the Brood
+
+Base Core Combo:
+- [[Scrap Trawler]]
+- [[Myr Retriever]]
+- [[Krark-Clan Ironworks]]
+- [[Sol Ring]]
+- [[Junk Diver]]
+
+Extension:
+- [[Altar of the Brood]]
+
+Classification:
+- Terminal payoff
+
+Extension Logic:
+- The base core creates permanents under your control an arbitrary number of times. Altar of the Brood triggers on each such permanent entering.
+
+Extension Results:
+- Mill each opponent’s library
+===endpanel
+===endaccordion
+
+**Missing: altar of the brood**
+
+===accordion
+===panel: The Ooze + Stridehangar Automaton + Krark-Clan Ironworks + Altar of the Brood
+
+Base Core Combo:
+- [[The Ooze]]
+- [[Stridehangar Automaton]]
+- [[Krark-Clan Ironworks]]
+
+Extension:
+- [[Altar of the Brood]]
+
+Classification:
+- Terminal payoff
+
+Extension Logic:
+- The base core creates permanents under your control an arbitrary number of times. Altar of the Brood triggers on each such permanent entering.
+
+Extension Results:
+- Mill each opponent’s library
+===endpanel
+===endaccordion
+
+**Missing: altar of the brood**
+
+===accordion
+===panel: Myr Retriever + Krark-Clan Ironworks + Ultron, Artificial Malevolence + Altar of the Brood
+
+Base Core Combo:
+- [[Myr Retriever]]
+- [[Krark-Clan Ironworks]]
+- [[Ultron, Artificial Malevolence]]
+
+Extension:
+- [[Altar of the Brood]]
+
+Classification:
+- Terminal payoff
+
+Extension Logic:
+- The base core creates permanents under your control an arbitrary number of times. Altar of the Brood triggers on each such permanent entering.
+
+Extension Results:
+- Mill each opponent’s library
+===endpanel
+===endaccordion
+
+**Missing: altar of the brood**
+
+===accordion
+===panel: Pitiless Plunderer + Stridehangar Automaton + Krark-Clan Ironworks + Altar of the Brood
+
+Base Core Combo:
+- [[Pitiless Plunderer]]
+- [[Stridehangar Automaton]]
+- [[Krark-Clan Ironworks]]
+
+Extension:
+- [[Altar of the Brood]]
+
+Classification:
+- Terminal payoff
+
+Extension Logic:
+- The base core creates permanents under your control an arbitrary number of times. Altar of the Brood triggers on each such permanent entering.
+
+Extension Results:
+- Mill each opponent’s library
+===endpanel
+===endaccordion
+
+**Missing: altar of the brood**
+
+===accordion
+===panel: Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Semblance Anvil + Altar of the Brood
+
+Base Core Combo:
+- [[Scrap Trawler]]
+- [[Myr Retriever]]
+- [[Krark-Clan Ironworks]]
+- [[Semblance Anvil]]
+
+Extension:
+- [[Altar of the Brood]]
+
+Classification:
+- Terminal payoff
+
+Extension Logic:
+- The base core creates permanents under your control an arbitrary number of times. Altar of the Brood triggers on each such permanent entering.
+
+Extension Results:
+- Mill each opponent’s library
+===endpanel
+===endaccordion
+
+**Missing: altar of the brood**
+
+===accordion
+===panel: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Krark-Clan Ironworks + Altar of the Brood
+
+Base Core Combo:
+- [[The Ooze]]
+- [[Stridehangar Automaton]]
+- [[Pitiless Plunderer]]
+- [[Krark-Clan Ironworks]]
+
+Extension:
+- [[Altar of the Brood]]
+
+Classification:
+- Terminal payoff
+
+Extension Logic:
+- The base core creates permanents under your control an arbitrary number of times. Altar of the Brood triggers on each such permanent entering.
+
+Extension Results:
+- Mill each opponent’s library
+===endpanel
+===endaccordion
+
+**Missing: altar of the brood**
+
+===accordion
+===panel: Ultron the Annihilator + Nim Deathmantle + Krark-Clan Ironworks + Altar of the Brood
+
+Base Core Combo:
+- [[Ultron the Annihilator]]
+- [[Nim Deathmantle]]
+- [[Krark-Clan Ironworks]]
+
+Extension:
+- [[Altar of the Brood]]
+
+Classification:
+- Terminal payoff
+
+Extension Logic:
+- The base core creates permanents under your control an arbitrary number of times. Altar of the Brood triggers on each such permanent entering.
+
+Extension Results:
+- Mill each opponent’s library
+===endpanel
+===endaccordion
+
+**Missing: altar of the brood**
+
+===accordion
+===panel: Scrap Trawler + Myr Retriever + Phyrexian Altar + Semblance Anvil + Altar of the Brood
+
+Base Core Combo:
+- [[Scrap Trawler]]
+- [[Myr Retriever]]
+- [[Phyrexian Altar]]
+- [[Semblance Anvil]]
+
+Extension:
+- [[Altar of the Brood]]
+
+Classification:
+- Terminal payoff
+
+Extension Logic:
+- The base core creates permanents under your control an arbitrary number of times. Altar of the Brood triggers on each such permanent entering.
+
+Extension Results:
+- Mill each opponent’s library
+===endpanel
+===endaccordion
+
+**Missing: altar of the brood**
+
+===accordion
+===panel: Ultron the Annihilator + Nim Deathmantle + Phyrexian Altar + Pitiless Plunderer + Altar of the Brood
+
+Base Core Combo:
+- [[Ultron the Annihilator]]
+- [[Nim Deathmantle]]
+- [[Phyrexian Altar]]
+- [[Pitiless Plunderer]]
+
+Extension:
+- [[Altar of the Brood]]
+
+Classification:
+- Terminal payoff
+
+Extension Logic:
+- The base core creates permanents under your control an arbitrary number of times. Altar of the Brood triggers on each such permanent entering.
+
+Extension Results:
+- Mill each opponent’s library
+===endpanel
+===endaccordion
+
+**Missing: altar of the brood**
+
+===accordion
+===panel: Pitiless Plunderer + Phyrexian Altar + Stridehangar Automaton + Altar of the Brood
+
+Base Core Combo:
+- [[Pitiless Plunderer]]
+- [[Phyrexian Altar]]
+- [[Stridehangar Automaton]]
+
+Extension:
+- [[Altar of the Brood]]
+
+Classification:
+- Terminal payoff
+
+Extension Logic:
+- The base core creates permanents under your control an arbitrary number of times. Altar of the Brood triggers on each such permanent entering.
+
+Extension Results:
+- Mill each opponent’s library
+===endpanel
+===endaccordion
+
+**Missing: altar of the brood**
+
+===accordion
+===panel: The Ooze + Stridehangar Automaton + Phyrexian Altar + Altar of the Brood
+
+Base Core Combo:
+- [[The Ooze]]
+- [[Stridehangar Automaton]]
+- [[Phyrexian Altar]]
+
+Extension:
+- [[Altar of the Brood]]
+
+Classification:
+- Terminal payoff
+
+Extension Logic:
+- The base core creates permanents under your control an arbitrary number of times. Altar of the Brood triggers on each such permanent entering.
+
+Extension Results:
+- Mill each opponent’s library
+===endpanel
+===endaccordion
+
+**Missing: altar of the brood**
+
+===accordion
+===panel: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Phyrexian Altar + Altar of the Brood
+
+Base Core Combo:
+- [[The Ooze]]
+- [[Stridehangar Automaton]]
+- [[Pitiless Plunderer]]
+- [[Phyrexian Altar]]
+
+Extension:
+- [[Altar of the Brood]]
+
+Classification:
+- Terminal payoff
+
+Extension Logic:
+- The base core creates permanents under your control an arbitrary number of times. Altar of the Brood triggers on each such permanent entering.
+
+Extension Results:
+- Mill each opponent’s library
+===endpanel
+===endaccordion
+
+**Missing: altar of the brood**
+
+===accordion
+===panel: Pitiless Plunderer + Umbral Collar Zealot + Stridehangar Automaton + Altar of the Brood
+
+Base Core Combo:
+- [[Pitiless Plunderer]]
+- [[Umbral Collar Zealot]]
+- [[Stridehangar Automaton]]
+
+Extension:
+- [[Altar of the Brood]]
+
+Classification:
+- Terminal payoff
+
+Extension Logic:
+- The base core creates permanents under your control an arbitrary number of times. Altar of the Brood triggers on each such permanent entering.
+
+Extension Results:
+- Mill each opponent’s library
+===endpanel
+===endaccordion
+
+**Missing: altar of the brood**
+
+===accordion
+===panel: The Ooze + Stridehangar Automaton + Pitiless Plunderer + Umbral Collar Zealot + Altar of the Brood
+
+Base Core Combo:
+- [[The Ooze]]
+- [[Stridehangar Automaton]]
+- [[Pitiless Plunderer]]
+- [[Umbral Collar Zealot]]
+
+Extension:
+- [[Altar of the Brood]]
+
+Classification:
+- Terminal payoff
+
+Extension Logic:
+- The base core creates permanents under your control an arbitrary number of times. Altar of the Brood triggers on each such permanent entering.
+
+Extension Results:
+- Mill each opponent’s library
+===endpanel
+===endaccordion
+
+**Missing: altar of the brood**
+
+===accordion
+===panel: Warren Soultrader + Stridehangar Automaton + Sephiroth, Fabled SOLDIER // Sephiroth, One-Winged Angel + Altar of the Brood
+
+Base Core Combo:
+- [[Warren Soultrader]]
+- [[Stridehangar Automaton]]
+- [[Sephiroth, Fabled SOLDIER // Sephiroth, One-Winged Angel]]
+
+Extension:
+- [[Altar of the Brood]]
+
+Classification:
+- Terminal payoff
+
+Extension Logic:
+- The base core creates permanents under your control an arbitrary number of times. Altar of the Brood triggers on each such permanent entering.
+
+Extension Results:
+- Mill each opponent’s library
+===endpanel
+===endaccordion
+
+**Missing: altar of the brood**
+
+===accordion
+===panel: Warren Soultrader + Zulaport Cutthroat + Stridehangar Automaton + Altar of the Brood
+
+Base Core Combo:
+- [[Warren Soultrader]]
+- [[Zulaport Cutthroat]]
+- [[Stridehangar Automaton]]
+
+Extension:
+- [[Altar of the Brood]]
+
+Classification:
+- Terminal payoff
+
+Extension Logic:
+- The base core creates permanents under your control an arbitrary number of times. Altar of the Brood triggers on each such permanent entering.
+
+Extension Results:
+- Mill each opponent’s library
+===endpanel
+===endaccordion
+
+**Missing: orcish bowmasters**
+
+===accordion
+===panel: Nim Deathmantle + Ashnod's Altar + Orcish Bowmasters + Marionette Apprentice
+
+Base Core Combo:
+- [[Nim Deathmantle]]
+- [[Ashnod's Altar]]
+- [[Orcish Bowmasters]]
+
+Extension:
+- [[Marionette Apprentice]]
+
+Classification:
+- Terminal payoff
+
+Extension Logic:
+- The base core puts another creature into your graveyard from the battlefield an arbitrary number of times. Each such death satisfies Marionette Apprentice’s trigger.
+
+Extension Results:
+- Infinite opponent life loss
+===endpanel
+===endaccordion
+
+**Missing: orcish bowmasters**
+
+===accordion
+===panel: Nim Deathmantle + Ashnod's Altar + Orcish Bowmasters + Zulaport Cutthroat
+
+Base Core Combo:
+- [[Nim Deathmantle]]
+- [[Ashnod's Altar]]
+- [[Orcish Bowmasters]]
+
+Extension:
+- [[Zulaport Cutthroat]]
+
+Classification:
+- Terminal payoff
+
+Extension Logic:
+- The base core causes another creature you control to die an arbitrary number of times. Zulaport Cutthroat triggers for each death.
+
+Extension Results:
+- Infinite opponent life loss and lifegain
+===endpanel
+===endaccordion
+
+**Missing: orcish bowmasters**
+
+===accordion
+===panel: Nim Deathmantle + Ashnod's Altar + Orcish Bowmasters + Sephiroth, Fabled SOLDIER // Sephiroth, One-Winged Angel
+
+Base Core Combo:
+- [[Nim Deathmantle]]
+- [[Ashnod's Altar]]
+- [[Orcish Bowmasters]]
+
+Extension:
+- [[Sephiroth, Fabled SOLDIER // Sephiroth, One-Winged Angel]]
+
+Classification:
+- Terminal payoff
+
+Extension Logic:
+- The base core causes another creature to die an arbitrary number of times. Sephiroth drains on each death; after the fourth resolution it transforms and its emblem continues the death-payoff pattern.
+
+Extension Results:
+- Infinite targeted opponent life loss and lifegain
+===endpanel
+===endaccordion
+
+**Missing: orcish bowmasters**
+
+===accordion
+===panel: Nim Deathmantle + Ashnod's Altar + Orcish Bowmasters + Pitiless Plunderer
+
+Base Core Combo:
+- [[Nim Deathmantle]]
+- [[Ashnod's Altar]]
+- [[Orcish Bowmasters]]
+
+Extension:
+- [[Pitiless Plunderer]]
+
+Classification:
+- Resource extension
+
+Extension Logic:
+- The base core causes another creature you control to die an arbitrary number of times. Pitiless Plunderer adds a Treasure for each such death without consuming the loop’s existing resources.
+
+Extension Results:
+- Infinite Treasure tokens / colored mana
+===endpanel
+===endaccordion
+
+**Missing: doctor doom, unrivaled**
 
 ===accordion
 ===panel: Sensei's Divining Top + Aetherflux Reservoir + Bolas's Citadel + Doctor Doom, Unrivaled
@@ -14783,6 +14895,8 @@ Extension Results:
 ===endpanel
 ===endaccordion
 
+**Missing: doctor doom, unrivaled**
+
 ===accordion
 ===panel: Sensei's Divining Top + Mystic Forge + Cloud Key + Doctor Doom, Unrivaled
 
@@ -14804,6 +14918,8 @@ Extension Results:
 - Win the game with an empty library
 ===endpanel
 ===endaccordion
+
+**Missing: doctor doom, unrivaled**
 
 ===accordion
 ===panel: Sensei's Divining Top + Foundry Inspector + Mystic Forge + Doctor Doom, Unrivaled
@@ -14827,6 +14943,8 @@ Extension Results:
 ===endpanel
 ===endaccordion
 
+**Missing: doctor doom, unrivaled**
+
 ===accordion
 ===panel: Sensei's Divining Top + Glaring Fleshraker + Mystic Forge + Doctor Doom, Unrivaled
 
@@ -14849,6 +14967,8 @@ Extension Results:
 ===endpanel
 ===endaccordion
 
+**Missing: doctor doom, unrivaled**
+
 ===accordion
 ===panel: Sensei's Divining Top + Mystic Forge + Semblance Anvil + Doctor Doom, Unrivaled
 
@@ -14868,9 +14988,6 @@ Extension Logic:
 
 Extension Results:
 - Win the game with an empty library
-===endpanel
-===endaccordion
-
 ===endpanel
 ===endaccordion
 
